@@ -1,0 +1,92 @@
+[
+  {
+    "locale": "en",
+    "placement": "banner",
+    "url": "https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=banner&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=banner"
+  },
+  {
+    "locale": "en",
+    "placement": "top",
+    "url": "https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=top_cta&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=top"
+  },
+  {
+    "locale": "en",
+    "placement": "model",
+    "url": "https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quick_start&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model"
+  },
+  {
+    "locale": "en",
+    "placement": "keys",
+    "url": "https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=api_key&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=keys"
+  },
+  {
+    "locale": "en",
+    "placement": "docs",
+    "url": "https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api?utm_source=github&utm_medium=docs&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=docs"
+  },
+  {
+    "locale": "en",
+    "placement": "footer",
+    "url": "https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=footer&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=footer"
+  },
+  {
+    "locale": "zh-CN",
+    "placement": "banner",
+    "url": "https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=banner&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=banner"
+  },
+  {
+    "locale": "zh-CN",
+    "placement": "top",
+    "url": "https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=top_cta&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=top"
+  },
+  {
+    "locale": "zh-CN",
+    "placement": "model",
+    "url": "https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quick_start&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model"
+  },
+  {
+    "locale": "zh-CN",
+    "placement": "keys",
+    "url": "https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=api_key&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=keys"
+  },
+  {
+    "locale": "zh-CN",
+    "placement": "docs",
+    "url": "https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api?utm_source=github&utm_medium=docs&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=docs"
+  },
+  {
+    "locale": "zh-CN",
+    "placement": "footer",
+    "url": "https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=footer&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=footer"
+  },
+  {
+    "locale": "ja",
+    "placement": "banner",
+    "url": "https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=banner&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=banner"
+  },
+  {
+    "locale": "ja",
+    "placement": "top",
+    "url": "https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=top_cta&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=top"
+  },
+  {
+    "locale": "ja",
+    "placement": "model",
+    "url": "https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quick_start&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model"
+  },
+  {
+    "locale": "ja",
+    "placement": "keys",
+    "url": "https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=api_key&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=keys"
+  },
+  {
+    "locale": "ja",
+    "placement": "docs",
+    "url": "https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api?utm_source=github&utm_medium=docs&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=docs"
+  },
+  {
+    "locale": "ja",
+    "placement": "footer",
+    "url": "https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=footer&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=footer"
+  }
+]

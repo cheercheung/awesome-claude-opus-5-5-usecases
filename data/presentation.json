@@ -1,0 +1,9 @@
+{
+  "menu_layout": "centralized-single-table",
+  "acknowledge_layout": "inline-comma",
+  "quick_start_position": "before-first-case",
+  "media_policy": "all-source-media",
+  "video_playback_policy": "local-preview-source-playback",
+  "localization_fallback": "block",
+  "scope": "local-only owner request; no publication waiver implied"
+}

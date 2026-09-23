@@ -1,0 +1,1549 @@
+[
+  {
+    "intake_case_number": 1,
+    "source_id": "2102471046356177001",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 2,
+    "source_id": "2102451997395866021",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 3,
+    "source_id": "2102470200415166699",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 4,
+    "source_id": "2102463453176979794",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 5,
+    "source_id": "2102487879809126834",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 6,
+    "source_id": "2102487953302061481",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 7,
+    "source_id": "2102480420923420790",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 8,
+    "source_id": "2102469365903872306",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 9,
+    "source_id": "2102476490344730950",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 10,
+    "source_id": "2102453021590401220",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 11,
+    "source_id": "2102496940047094124",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 12,
+    "source_id": "2102527003845075348",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 13,
+    "source_id": "2102451096799330740",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 14,
+    "source_id": "2102461886247948571",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 15,
+    "source_id": "2102513817855094922",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 16,
+    "source_id": "2102490803503264062",
+    "decision": "unsure",
+    "reason": "Secondhand game clip with no identified original creator or concrete task in the supplied post",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 17,
+    "source_id": "2102449525944099320",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 18,
+    "source_id": "2102451991263990244",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 19,
+    "source_id": "2102468855562178791",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 20,
+    "source_id": "2102528632598274244",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 21,
+    "source_id": "2102537174742655341",
+    "decision": "merged",
+    "reason": "Same work or evaluation follow-up; retained as a supporting source for intake case 1",
+    "merged_into_intake": 1
+  },
+  {
+    "intake_case_number": 22,
+    "source_id": "2102453761390383383",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 23,
+    "source_id": "2102480675597115689",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 24,
+    "source_id": "2102486361068425247",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 25,
+    "source_id": "2102488568564490521",
+    "decision": "merged",
+    "reason": "Same work or evaluation follow-up; retained as a supporting source for intake case 1",
+    "merged_into_intake": 1
+  },
+  {
+    "intake_case_number": 26,
+    "source_id": "2102501821931507772",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 27,
+    "source_id": "2102459329626652814",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 28,
+    "source_id": "2102533401110802552",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 29,
+    "source_id": "2102457691956482160",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 30,
+    "source_id": "2102532400353829356",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 31,
+    "source_id": "2102534514228822197",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 32,
+    "source_id": "2102455768977170856",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 33,
+    "source_id": "2102494989683188029",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 34,
+    "source_id": "2102488215445983290",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 35,
+    "source_id": "2102480866404360215",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 36,
+    "source_id": "2102500841097756743",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 37,
+    "source_id": "2102479887495758076",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 38,
+    "source_id": "2102517718754943254",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 39,
+    "source_id": "2102474335172640989",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 40,
+    "source_id": "2102464008112755026",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 41,
+    "source_id": "2102509044581691862",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 42,
+    "source_id": "2102483257267003523",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 43,
+    "source_id": "2102477553453998113",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 44,
+    "source_id": "2102536138884092185",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 45,
+    "source_id": "2102477459803508800",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 46,
+    "source_id": "2102471841046786153",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 47,
+    "source_id": "2102483668468195539",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 48,
+    "source_id": "2102450119975277027",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 49,
+    "source_id": "2102476831031017581",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 50,
+    "source_id": "2102460145951519077",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 51,
+    "source_id": "2102466523164274839",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 52,
+    "source_id": "2102492834485895265",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 53,
+    "source_id": "2102487989381156991",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 54,
+    "source_id": "2102453658889953717",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 55,
+    "source_id": "2102458049856479474",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 56,
+    "source_id": "2102450239923720440",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 57,
+    "source_id": "2102449278283313303",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 58,
+    "source_id": "2102483043252424986",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 59,
+    "source_id": "2102465200666370514",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 60,
+    "source_id": "2102470079254556793",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 61,
+    "source_id": "2102507018372436264",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 62,
+    "source_id": "2102456991109230759",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 63,
+    "source_id": "2102478608274989225",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 64,
+    "source_id": "2102499166635352354",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 65,
+    "source_id": "2102457201378075081",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 66,
+    "source_id": "2102502889512194348",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 67,
+    "source_id": "2102503719762018434",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 68,
+    "source_id": "2102515672710533417",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 69,
+    "source_id": "2102514727956156600",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 70,
+    "source_id": "2102510590468239373",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 71,
+    "source_id": "2102519226099761608",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 72,
+    "source_id": "2102475904752754923",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 73,
+    "source_id": "2102506267755639143",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 74,
+    "source_id": "2102499296512025026",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 75,
+    "source_id": "2102526940859232433",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 76,
+    "source_id": "2102457160881905906",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 77,
+    "source_id": "2102518420285927598",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 78,
+    "source_id": "2102511304456212763",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 79,
+    "source_id": "2102453689252184365",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 80,
+    "source_id": "2102474264809197974",
+    "decision": "unsure",
+    "reason": "Secondhand voxel clip with unspecified subject and no identified original creator",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 81,
+    "source_id": "2102478485646373033",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 82,
+    "source_id": "2102498299190079933",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 83,
+    "source_id": "2102493141668643084",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 84,
+    "source_id": "2102450336472387899",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 85,
+    "source_id": "2102472481151816101",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 86,
+    "source_id": "2102527541051633903",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 87,
+    "source_id": "2102531379443679518",
+    "decision": "merged",
+    "reason": "Same work or evaluation follow-up; retained as a supporting source for intake case 46",
+    "merged_into_intake": 46
+  },
+  {
+    "intake_case_number": 88,
+    "source_id": "2102504509637587339",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 89,
+    "source_id": "2102451262260412453",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 90,
+    "source_id": "2102529143128916052",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 91,
+    "source_id": "2102476249671082365",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 92,
+    "source_id": "2102472218269900876",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 93,
+    "source_id": "2102514581684052169",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 94,
+    "source_id": "2102476258948927543",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 95,
+    "source_id": "2102457111787745405",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 96,
+    "source_id": "2102451375724499350",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 97,
+    "source_id": "2102478640428773861",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 98,
+    "source_id": "2102449680793903561",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 99,
+    "source_id": "2102484711389966509",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 100,
+    "source_id": "2102488657194254806",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 101,
+    "source_id": "2102493303388475855",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 102,
+    "source_id": "2102482039522107417",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 103,
+    "source_id": "2102501773705670994",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 104,
+    "source_id": "2102464238493012270",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 105,
+    "source_id": "2102453079836622940",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 106,
+    "source_id": "2102454774289539499",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 107,
+    "source_id": "2102453013776363887",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 108,
+    "source_id": "2102472597170528449",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 109,
+    "source_id": "2102498682931441977",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 110,
+    "source_id": "2102467374138212826",
+    "decision": "merged",
+    "reason": "Same work or evaluation follow-up; retained as a supporting source for intake case 108",
+    "merged_into_intake": 108
+  },
+  {
+    "intake_case_number": 111,
+    "source_id": "2102493361743839432",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 112,
+    "source_id": "2102515055116063144",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 113,
+    "source_id": "2102474525262643208",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 114,
+    "source_id": "2102508394976530445",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 115,
+    "source_id": "2102509807802716649",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 116,
+    "source_id": "2102463433731903630",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 117,
+    "source_id": "2102469004271173877",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 118,
+    "source_id": "2102474745845260663",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 119,
+    "source_id": "2102486204419817954",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 120,
+    "source_id": "2102451293419970767",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 121,
+    "source_id": "2102522318559858721",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 122,
+    "source_id": "2102468957492092988",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 123,
+    "source_id": "2102450486767124896",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 124,
+    "source_id": "2102450683069014053",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 125,
+    "source_id": "2102518921240965578",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 126,
+    "source_id": "2102477340920152162",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 127,
+    "source_id": "2102474993783468529",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 128,
+    "source_id": "2102465969155080623",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 129,
+    "source_id": "2102479290420048093",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 130,
+    "source_id": "2102492236852195332",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 131,
+    "source_id": "2102452974689878152",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 132,
+    "source_id": "2102492745889886514",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 133,
+    "source_id": "2102451052931166573",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 134,
+    "source_id": "2102478901058363596",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 135,
+    "source_id": "2102482498404204734",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 136,
+    "source_id": "2102484736254030019",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 137,
+    "source_id": "2102466291651285048",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 138,
+    "source_id": "2102484130403676670",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 139,
+    "source_id": "2102454160688111697",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 140,
+    "source_id": "2102461657742184599",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 141,
+    "source_id": "2102462024131174785",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 142,
+    "source_id": "2102520968615018674",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 143,
+    "source_id": "2102495448825262388",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 144,
+    "source_id": "2102469192851083619",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 145,
+    "source_id": "2102508882459586748",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 146,
+    "source_id": "2102464761141346483",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 147,
+    "source_id": "2102511641812455651",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 148,
+    "source_id": "2102518758611058807",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 149,
+    "source_id": "2102478702856823131",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 150,
+    "source_id": "2102484586613649554",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 151,
+    "source_id": "2102513786016186672",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 152,
+    "source_id": "2102486504627175458",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 153,
+    "source_id": "2102456113388212432",
+    "decision": "unsure",
+    "reason": "Supplied review explicitly flags recording authenticity as unverified; not a trustworthy vision evaluation",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 154,
+    "source_id": "2102510221797339567",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 155,
+    "source_id": "2102471866635919731",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 156,
+    "source_id": "2102463091959288264",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 157,
+    "source_id": "2102458348511879448",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 158,
+    "source_id": "2102502794003677373",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 159,
+    "source_id": "2102479924032577686",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 160,
+    "source_id": "2102463796149440888",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 161,
+    "source_id": "2102454246113202532",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 162,
+    "source_id": "2102462889160286423",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 163,
+    "source_id": "2102462973872869803",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 164,
+    "source_id": "2102457403119985005",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 165,
+    "source_id": "2102451599633494357",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 166,
+    "source_id": "2102484620109644273",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 167,
+    "source_id": "2102495495717527711",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 168,
+    "source_id": "2102459650125754812",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 169,
+    "source_id": "2102488620326420707",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 170,
+    "source_id": "2102500362750247199",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 171,
+    "source_id": "2102451608445743173",
+    "decision": "merged",
+    "reason": "Same work or evaluation follow-up; retained as a supporting source for intake case 165",
+    "merged_into_intake": 165
+  },
+  {
+    "intake_case_number": 172,
+    "source_id": "2102475205193138467",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 173,
+    "source_id": "2102502158310756397",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 174,
+    "source_id": "2102460794013462940",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 175,
+    "source_id": "2102508503797739974",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 176,
+    "source_id": "2102464274585305375",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 177,
+    "source_id": "2102506310281359403",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 178,
+    "source_id": "2102479269335101504",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 179,
+    "source_id": "2102460555642446155",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 180,
+    "source_id": "2102473233195028772",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 181,
+    "source_id": "2102454423041818786",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 182,
+    "source_id": "2102471715607724264",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 183,
+    "source_id": "2102470503328010349",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 184,
+    "source_id": "2102465517403636216",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 185,
+    "source_id": "2102457079965323296",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 186,
+    "source_id": "2102453015596916931",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 187,
+    "source_id": "2102449124805169256",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 188,
+    "source_id": "2102448393893376096",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 189,
+    "source_id": "hn-49806778",
+    "decision": "merged",
+    "reason": "Same work or evaluation follow-up; retained as a supporting source for intake case 183",
+    "merged_into_intake": 183
+  },
+  {
+    "intake_case_number": 190,
+    "source_id": "hn-49804862",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 191,
+    "source_id": "hn-49805275",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 192,
+    "source_id": "hn-49805100",
+    "decision": "merged",
+    "reason": "Same work or evaluation follow-up; retained as a supporting source for intake case 190",
+    "merged_into_intake": 190
+  },
+  {
+    "intake_case_number": 193,
+    "source_id": "hn-49808591",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 194,
+    "source_id": "hn-49806887",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 195,
+    "source_id": "hn-49807724",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 196,
+    "source_id": "hn-49804947",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 197,
+    "source_id": "hn-49808623",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 198,
+    "source_id": "hn-49806261",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 199,
+    "source_id": "hn-49807536",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 200,
+    "source_id": "2102491840612380934",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 201,
+    "source_id": "2102490829306634560",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 202,
+    "source_id": "2102490528122286511",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 203,
+    "source_id": "2102493342718451812",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 204,
+    "source_id": "2102519097770885231",
+    "decision": "merged",
+    "reason": "Same work or evaluation follow-up; retained as a supporting source for intake case 209",
+    "merged_into_intake": 209
+  },
+  {
+    "intake_case_number": 205,
+    "source_id": "2102512140405866568",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 206,
+    "source_id": "2102523960294621655",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 207,
+    "source_id": "2102513987699212344",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 208,
+    "source_id": "2102473936457850901",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 209,
+    "source_id": "2102516295715741912",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 210,
+    "source_id": "2102513518603804956",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 211,
+    "source_id": "2102523754186256535",
+    "decision": "merged",
+    "reason": "Same work or evaluation follow-up; retained as a supporting source for intake case 68",
+    "merged_into_intake": 68
+  },
+  {
+    "intake_case_number": 212,
+    "source_id": "2102486820810285201",
+    "decision": "unsure",
+    "reason": "Secondhand reaction covering two works; no independent workflow or result",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 213,
+    "source_id": "2102475388211679520",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 214,
+    "source_id": "2102470976264983016",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 215,
+    "source_id": "2102465804906467769",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 216,
+    "source_id": "2102481940742115352",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 217,
+    "source_id": "2102481432136528139",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 218,
+    "source_id": "2102454667167047973",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 219,
+    "source_id": "2102452778216169632",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 220,
+    "source_id": "2102452290468602328",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  },
+  {
+    "intake_case_number": 221,
+    "source_id": "2102451744030490912",
+    "decision": "selected",
+    "reason": "Concrete task, demo, evaluation, tutorial, integration or documented limitation in supplied reviewed corpus; original attribution and caveats retained",
+    "merged_into_intake": null
+  }
+]

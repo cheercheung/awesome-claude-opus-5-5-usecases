@@ -1,0 +1,10 @@
+{
+  "namespace": {
+    "numbering_order": "document",
+    "menu_policy": "per-case"
+  },
+  "structured_data": {
+    "path": "data/use-cases.json",
+    "items_key": "items"
+  }
+}

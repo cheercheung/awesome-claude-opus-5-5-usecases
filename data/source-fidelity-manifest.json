@@ -1,0 +1,13 @@
+{
+  "source_manifest_sha256": "7a2ae3f60da56c644b64676ccaa56161160c4c854810c8eff1c42ae8b85950b5",
+  "sources_sha256": "ef9df958fe4370e142b6421aba564f07cc388cc887e97a834e43705d58bc98a3",
+  "intake_case_count": 221,
+  "source_record_count": 520,
+  "selected_case_count": 208,
+  "merged_case_count": 9,
+  "unsure_case_count": 4,
+  "cases_with_source_media": 192,
+  "expected_public_visual_count": 215,
+  "media_policy": "all-source-media",
+  "scope": "all root-post attachment slots for selected cases; quoted-post attachments are separate referenced context, not silently substituted as outputs"
+}

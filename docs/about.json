@@ -1,0 +1,17 @@
+{
+  "name": "awesome-claude-opus-5-5-usecases",
+  "description": "Claude Opus 5.5 use cases: source-backed coding, games, 3D, creative workflows, evaluations and limitations with original attribution.",
+  "homepage": "https://evolink.ai/claude-opus-5-5",
+  "topics": [
+    "claude",
+    "claude-opus",
+    "opus-5-5",
+    "use-cases",
+    "ai-agents",
+    "coding",
+    "3d",
+    "benchmarks",
+    "evolink"
+  ],
+  "status": "local proposal; not applied remotely"
+}
