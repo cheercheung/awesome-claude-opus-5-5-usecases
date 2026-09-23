@@ -1,0 +1,1307 @@
+{
+  "locale": "tr",
+  "labels": {
+    "intro": "Giriş",
+    "overview": "Genel Bakış",
+    "quick": "Hızlı Başlangıç",
+    "menu": "Menü",
+    "related": "İlgili Depolar",
+    "ack": "Teşekkür",
+    "title": "Claude Opus 5.5 Kullanım Örnekleri",
+    "subtitle": "Kaynaklarla desteklenen iş akışları, demolar, karşılaştırmalar ve sınırlamalar",
+    "introtext": "İnsanların Claude Opus 5.5 ile neler oluşturup test ettiğini keşfedin: oyunlar, 3D sahneler, kodlama araçları, araştırmalar ve yaratıcı iş akışları. Her kayıt yayıncısına bağlantı verir ve orijinal iddianın sınırlarını korur.",
+    "note": "Bunlar bağımsız yeniden üretimler değil, kaynaklarına atfedilen raporlardır. Araç destekli videolar ve grafikler, modelin doğrudan medya ürettiğini kanıtlamaz. Tanıtım amaçlı karşılaştırmalar kaynaklarına atfedilir; yinelenen gönderiler bağımsız deneyler değildir. Aşağıdaki tarihler içe aktarma tarihi değil, kaynağın yayımlanma tarihidir (UTC).",
+    "cta": "EvoLink’te Claude Opus 5.5’i keşfedin",
+    "key": "EvoLink API anahtarı oluşturun",
+    "doc": "Claude Messages API rehberini okuyun",
+    "steps": [
+      "Güncel erişimi ve yetenekleri kontrol etmek için model sayfasını açın",
+      "EvoLink panosunda API anahtarı oluşturun",
+      "Model sayfasındaki modele özgü API rehberini veya ajan talimatlarını izleyin"
+    ],
+    "category": "Kategori",
+    "case": "Örnek",
+    "type": "Tür",
+    "play": "Kaynak videoyu oynat",
+    "media": "Kaynak eki",
+    "support": "Destekleyici kaynaklar / birleştirilmiş raporlar",
+    "acktext": "Aşağıda listelenen içerik üreticilerine ve yayıncılara teşekkür ederiz. Orijinal demoların, ekran görüntülerinin, ticari markaların ve bağlantılı eserlerin hakları ilgili sahiplerinde kalır. Atıf düzeltmeleri veya kaldırma talepleri için deponun düzeltme sorunu şablonunu kullanarak bakım sorumlusuyla iletişime geçin.",
+    "foot": "Editoryal özetler ve derleme yapısı: CC BY 4.0; üçüncü taraf medyanın orijinal hakları saklıdır.",
+    "overviewtext": "Yaratıcı çalışma, geliştirme, araştırma ve değerlendirmeyi kapsayan **208 seçilmiş Claude Opus 5.5 örneği**.",
+    "overviewbullets": [
+      "Resmî rehberlerle birlikte topluluk demolarını, iş akışlarını, karşılaştırmaları ve belgelenmiş sınırlamaları keşfedin.",
+      "Her kayıt orijinal kaynağı, yayıncıyı, kaynak yayımlanma tarihini, kısa bir çıkarımı ve kaynağa dayalı notları içerir.",
+      "Bir görevi incelemek için menüyü kullanın; açıklanan araçlar, girdiler ve sonuçlar için kaynağını izleyin."
+    ],
+    "case_label": "Örnek",
+    "by_label": "yazan",
+    "relatedtext": "Anthropic’in ilgili kaynakları kendi araçlarını ve API’lerini kapsar; EvoLink Claude Opus 5.5 kurulum rehberi değildir.",
+    "categories": {
+      "official": "Resmî Rehberler ve Gösterimler",
+      "games": "Oyun Geliştirme",
+      "education": "Etkileşimli Öğrenme ve Görselleştirme",
+      "3d": "3D Modelleme ve Sahneler",
+      "audio": "Müzik ve Ses",
+      "graphics": "Yaratıcı Grafikler ve Animasyon",
+      "web": "Web Siteleri ve Arayüzler",
+      "business": "İş Analizi ve Belgeler",
+      "agents": "Ajanlar ve Geliştirici İş Akışları",
+      "vision": "Görsel Anlama ve Açıklama Ekleme",
+      "video": "Video Düzenleme ve Üretim",
+      "coding": "Kod Bakımı ve Test",
+      "writing": "Yazım ve Açıklamalar",
+      "science": "Bilimsel Araştırma ve Devreler",
+      "computer-use": "Bilgisayar Kullanımı"
+    }
+  },
+  "items": [
+    {
+      "public_number": 1,
+      "title": "Resmî hesapta paylaşılan karpuz kısa filmi",
+      "takeaway": "Yapım süreci henüz belgelenmemiş olan, resmî hesapta paylaşılan karpuz kısa filmini bir anlatı referansı olarak kullanın.",
+      "body_notes": "Claude’un resmî hesabı, Kevin Ngo’nun bir karpuz hakkındaki kısa öyküsünü erken bir Opus 5.5 denemesi olarak paylaşıyor. Bu, yapımın bağımsız olarak yeniden gerçekleştirilmesi değil, resmî hesabın başkasına ait çalışmayı sergilemesidir."
+    },
+    {
+      "public_number": 2,
+      "title": "Bir görevi bütünüyle devretmek",
+      "takeaway": "Bir görevi bütünüyle devretmeden önce tamamlanma ölçütlerini ve kontrol noktalarını tanımlayın.",
+      "body_notes": "Resmî rehber, bütün bir görevi devretmeden önce tamamlanma ölçütleri ve kontrol noktaları belirlemeyi, gereksiz düşünme talimatlarını kaldırmayı ve uzun bir çalışmanın ardından ne gerektiğini kontrol etmeyi öneriyor. Ayrıntılı uygulama rehberine bağlantı veriliyor."
+    },
+    {
+      "public_number": 3,
+      "title": "Samuray oyunu karşılaştırması",
+      "takeaway": "Samuray oyunu çıktılarını karşılaştırırken yayıncının kendi platformunu tanıttığını hesaba katın.",
+      "body_notes": "Higgsfield, kendi platformunun tanıtımı kapsamında Opus 5.5 ve GPT-6 Astra ile oluşturulmuş samuray oyunu demolarını karşılaştırıyor."
+    },
+    {
+      "public_number": 4,
+      "title": "Tek geçişte Mario Kart demosu",
+      "takeaway": "Platformun kalite değerlendirmesini benimsemeden önce tek geçişte yapıldığı bildirilen kart oyunundaki oynanabilir karakterleri inceleyin.",
+      "body_notes": "BridgeMind’ın tanıtım demosu, oynanabilir Mario ve Luigi karakterleri içeren, tek geçişte oluşturulmuş bir Mario Kart oyunu sunuyor. Fable 5.1’den daha iyi olduğu iddiası platformun kendi değerlendirmesidir."
+    },
+    {
+      "public_number": 5,
+      "title": "Tarayıcıda Minecraft klonu",
+      "takeaway": "Bu oyun üretme denemesinin sonucunu incelemek için tarayıcıdaki Minecraft demosunu kullanın.",
+      "body_notes": "Yazar, tarayıcıda test edilmiş bir Minecraft klonunu göstererek bu oyun üretme denemesinin sonucunu sergiliyor."
+    },
+    {
+      "public_number": 6,
+      "title": "Tek HTML dosyasında mekanik oyun",
+      "takeaway": "Bu platform demosunda gösterildiği gibi, prosedürel oyun görselleri ve sesleri için tek dosyalı HTML biçimini değerlendirin.",
+      "body_notes": "Platformun bu tanıtım demosu, Antikythera mekanizmasından esinlenen bir oyun sunuyor; görsel ve işitsel içerik, yaklaşık 3 MB büyüklüğündeki tek bir HTML dosyası tarafından gerçek zamanlı üretiliyor."
+    },
+    {
+      "public_number": 7,
+      "title": "Roblox toolbox ile anime dövüş oyunu",
+      "takeaway": "Tek geçişte yapıldığı bildirilen dövüş oyununu değerlendirirken Roblox toolbox varlıklarını hesaba katın.",
+      "body_notes": "Yazar, yalnızca Roblox toolbox kullanarak anime karakterlerinden oluşan bir dövüş oyununu tek geçişte ürettiğini bildiriyor ve sonucu Fable’dan daha iyi buluyor. Oyun, toolbox kaynaklarına bağımlıdır."
+    },
+    {
+      "public_number": 8,
+      "title": "Üç modelle Spider-Man oyunu karşılaştırması",
+      "takeaway": "Üç Spider-Man oyunu çıktısını aynı görünür oynanış özellikleri üzerinden karşılaştırın.",
+      "body_notes": "Yazar, bir Spider-Man oyunu görevi üzerinde Opus 5.5, Fable 5.1 ve GPT-6 Astra’yı karşılaştırıyor."
+    },
+    {
+      "public_number": 9,
+      "title": "Su fiziği içeren Minecraft klonu",
+      "takeaway": "Bildirilen su fiziği sonucunu yazarın daha uzun model çalışma süresiyle birlikte değerlendirin.",
+      "body_notes": "Yazar, su fiziği ve oyun mekanikleri içeren oynanabilir bir Minecraft klonu paylaşıyor; sonucu Astra’dan daha iyi bulurken modelin çalışmasının Astra’dan bile yavaş olduğunu bildiriyor."
+    },
+    {
+      "public_number": 10,
+      "title": "DEAD SIGNAL birinci şahıs sahneleri",
+      "takeaway": "Aynı istemle oluşturulan birinci şahıs sahnelerini platformun kalite yargılarından ayrı inceleyin.",
+      "body_notes": "BridgeBench’in platform tanıtımı, aynı istem ve görevle Opus 5.5 ile GPT-6 Sol’u karşılaştırıyor. Medya önizlemesinde DEAD SIGNAL birinci şahıs oyun sahneleri görülüyor; kalite yargıları platformun kendisine aittir."
+    },
+    {
+      "public_number": 11,
+      "title": "Kodla oluşturulan arıcılık oyunu",
+      "takeaway": "Arıcılık demosunu oyun varlıklarını çizmek ve oynanış mekaniklerini kodla uygulamak için referans olarak kullanın.",
+      "body_notes": "Yazar, görüntü varlık dosyası kullanmayan, tek istemle yapılmış bir arıcılık oyunu bildiriyor: kovanlar, çiçekler, arılar ve arıcı kodla çiziliyor. Oynanışta çiçek ekme, arıları uçurma ve bal toplama bulunuyor."
+    },
+    {
+      "public_number": 12,
+      "title": "Snake oyunu demosu",
+      "takeaway": "Bu Snake demosunu üretilen oyun mantığının ve sunumunun küçük kapsamlı bir örneği olarak inceleyin.",
+      "body_notes": "Yazar, oyun oluşturmanın somut bir örneği olarak Opus 5.5 ile yapılmış bir Snake oyunu sunuyor."
+    },
+    {
+      "public_number": 13,
+      "title": "Sol ile karşılaştırılan 3D oyun çıktıları",
+      "takeaway": "Sergilenen 3D oyun çıktılarını karşılaştırırken platformun tercihini bağımsız bir değerlendirme olarak görmeyin.",
+      "body_notes": "Higgsfield, kendi platformunun tanıtımı kapsamında 3D oyun geliştirmede Opus 5.5 ile GPT-6 Sol’u karşılaştırıyor."
+    },
+    {
+      "public_number": 14,
+      "title": "Çok oyunculu bilardo ve izleyici modu",
+      "takeaway": "Bildirilen çok oyunculu modlara ve oyuncu etkinliğine güvenmeden önce bağlantısı verilen bilardo oyununu kontrol edin.",
+      "body_notes": "Yazar; 8-ball, 9-ball, snooker, 2v2, sesli sohbet, turnuvalar, derecelendirmeler, tekrarlar, izleyici modu ve mobil/tarayıcı desteği içeren, tek geçişte yapılmış çok oyunculu bir bilardo oyunu bildiriyor. Bağlantı verilmiştir; mevcut oyuncu etkinliği yazarın kendi beyanıdır."
+    },
+    {
+      "public_number": 15,
+      "title": "Higgsfield API üzerinden arcade oyunu",
+      "takeaway": "API kullanan bu platform demosunda su yansımalarını ve arcade oynanışını inceleyin.",
+      "body_notes": "Higgsfield’ın tanıtım demosu, kendi API’si üzerinden yapılmış, su yansımaları ve arcade oynanışı içeren bir oyun gösteriyor."
+    },
+    {
+      "public_number": 16,
+      "title": "Minecraft’ı tarayıcıda yeniden oluşturmak",
+      "takeaway": "Minecraft klonu denemesinin görünen kapsamını değerlendirmek için tarayıcıdaki yeniden oluşturmayı kullanın.",
+      "body_notes": "Yazar, bir oyunu yeniden oluşturma denemesi olarak tarayıcı tabanlı bir Minecraft klonu gösteriyor."
+    },
+    {
+      "public_number": 17,
+      "title": "Canlı yayın izleyicileriyle çim biçme",
+      "takeaway": "Çok oyunculu bir prototipi kişisel sunucuda test etmek için canlı yayın izleyicilerini davet etmeyi değerlendirin.",
+      "body_notes": "Yazar, bira ve puro unsurları içeren çok oyunculu bir çim biçme simülatörünü gösteriyor ve canlı yayın izleyicilerinin katılması için kişisel sunucusuna kuruyor."
+    },
+    {
+      "public_number": 18,
+      "title": "Son bölüm canavarlı karalama nişancı oyunu",
+      "takeaway": "Tek geçişte yapıldığı bildirilen nişancı oyununun karalama tarzını son bölüm canavarıyla nasıl birleştirdiğini inceleyin.",
+      "body_notes": "Yazar, son bölüm canavarı da içeren, tek geçişte yapılmış karalama tarzında bir nişancı oyunu bildiriyor."
+    },
+    {
+      "public_number": 19,
+      "title": "Medium ayarında Mario oyunu",
+      "takeaway": "Bu Mario demosunu Medium çaba düzeyindeki oyun üretimi için referans olarak kullanın.",
+      "body_notes": "Yazar, Medium ayarı kullanılarak üretilmiş bir Mario oyunu gösteriyor."
+    },
+    {
+      "public_number": 20,
+      "title": "Kart yarışı görüntülerinin karşılaştırması",
+      "takeaway": "Kart yarışı görüntülerini varsayılan model yetenekleri yerine görünür oyun davranışı üzerinden karşılaştırın.",
+      "body_notes": "Gönderi, Opus 5.5 ile GPT-6 Sol’u karşılaştırıyor; medya önizlemesinde kart yarışı oyunu görüntüleri bulunuyor."
+    },
+    {
+      "public_number": 21,
+      "title": "GPT-6 Sol ile aynı istemli oyun karşılaştırması",
+      "takeaway": "Gerçek oynama deneyimlerini karşılaştırmak için aynı istemle oluşturulan oyunların bağlantılarını izleyin.",
+      "body_notes": "Yazar, aynı istemle oyunlar üretiyor, Opus 5.5 ile GPT-6 Sol’u karşılaştırıyor ve oyun bağlantılarının gönderinin altında bulunduğunu söylüyor."
+    },
+    {
+      "public_number": 22,
+      "title": "Tek geçişte üretilen Snake",
+      "takeaway": "Tek geçişte üretildiği bildirilen Snake oyununu küçük kapsamlı bir üretim referansı olarak kullanın.",
+      "body_notes": "Yazar, tek geçişte üretildiğini belirttiği bir Snake oyunu gösteriyor."
+    },
+    {
+      "public_number": 23,
+      "title": "Three.js ile zombi oynanışı",
+      "takeaway": "Varlık dosyaları olmadan üretilen oyun mekaniklerini, dokuları ve sesleri görmek için Three.js demosunu inceleyin.",
+      "body_notes": "Yazar, Call of Duty Zombies tarzı oynanış için yaklaşık 13,000 satır Three.js gösteriyor; pencere tahtalarının kaldırılması, Mystery Box, Pack-a-Punch, Jugg, Ray Gun ve BO1 tur mekanikleri buna dahil. Varlık dosyası kullanılmadığını; dokuların, inlemelerin ve kısa melodilerin kodla üretildiğini bildiriyor."
+    },
+    {
+      "public_number": 24,
+      "title": "İki iyileştirme turundan geçen kar oyunu",
+      "takeaway": "Uyumlu görsel ve işitsel efektler içeren bir kar oyunu için iyileştirme turlarını ve çalışma süresini planlayın.",
+      "body_notes": "Yazar, bir kar oyunu için tek başlangıç istemi ve yaklaşık iki iyileştirme turu bildirmiş; model bir saatten uzun çalışmış. Demoda kar savrulması, ağaçlar, izler, aydınlatma, gölgeler ve ses efektleri bulunuyor."
+    },
+    {
+      "public_number": 25,
+      "title": "Oyun özellikleri ve fragman düzenleme",
+      "takeaway": "Yazarın iş birliği açıklamasını koruyarak oynanabilir oyunu fragmanıyla birlikte inceleyin.",
+      "body_notes": "İş birliğinin açıklandığı bu gönderide modele erken erişimi olan yazar, oyuna özellikler eklediğini ve fragman düzenlediğini bildiriyor, ayrıca oynanabilir bir bağlantı sunuyor."
+    },
+    {
+      "public_number": 26,
+      "title": "Tesana’da çok oyunculu hayatta kalma adası",
+      "takeaway": "İddia edilen oynanış süresine güvenmeden önce Tesana adasının çok oyunculu sistemlerini kontrol edin.",
+      "body_notes": "Yazar, Tesana’da birkaç istemle ARK tarzında çok oyunculu bir hayatta kalma adası yaptığını bildiriyor; görevler, dinozor evcilleştirme, üretim ve dövüş içeren oyunu ardından iki arkadaşıyla oynadığını belirtiyor. 30+ saatlik oynanış iddiası yazarın kendi beyanıdır; rapor olası fakat doğrulanmamış bir iş birliğine işaret ediyor."
+    },
+    {
+      "public_number": 27,
+      "title": "Unreal Engine oyunu karşılaştırması",
+      "takeaway": "Unreal Engine oyun çıktılarını Higgsfield’ın platform iş akışı bağlamında karşılaştırın.",
+      "body_notes": "Higgsfield’ın kendi platform tanıtımı, Unreal Engine’de 3D oyun oluşturma konusunda Opus 5.5 ile GPT-6 Sol’u karşılaştırıyor."
+    },
+    {
+      "public_number": 28,
+      "title": "Tesana’da karanlık fantezi RPG",
+      "takeaway": "İş birliği durumunun belirsizliğini koruyarak Tesana RPG’sinin alanları, görevleri ve seslendirilmiş diyalogları nasıl birleştirdiğini inceleyin.",
+      "body_notes": "Yazar, Tesana’da birkaç istemle birden fazla alan, görev ve seslendirilmiş diyalog içeren karanlık fantezi RPG yaptığını bildiriyor. Rapor olası fakat doğrulanmamış bir iş birliğine işaret ediyor."
+    },
+    {
+      "public_number": 29,
+      "title": "Gürültünün kavgaları tetiklediği gitar dükkânı",
+      "takeaway": "Yüzlerce çalınabilir gitar modeli içeren bir Three.js dükkân simülatörünü büyütmeden önce performansı test edin.",
+      "body_notes": "Yazar, 300+ çalınabilir gitar modeli ve gürültünün tetiklediği kavgalar içeren bir dükkân simülatörü gösteriyor. Three.js’in yavaşladığı bildiriliyor; Blender/Godot ile yeniden yapmak tamamlanmış bir adım değil, bir plandır."
+    },
+    {
+      "public_number": 30,
+      "title": "El çizimi satranç ve hamle analizi",
+      "takeaway": "Satranç demosunun el çizimi görünümünü hamle analiziyle nasıl birleştirdiğini inceleyin.",
+      "body_notes": "Higgsfield’ın platform tanıtımı, hamle analizi içeren el çizimi tarzında bir satranç oyunu gösteriyor."
+    },
+    {
+      "public_number": 31,
+      "title": "Kimi K3 ile karşılaştırılan uçuş simülatörü",
+      "takeaway": "İki çıktı arasında seçim yaparken uçuş simülatörünün davranışını ve bildirilen maliyeti birlikte karşılaştırın.",
+      "body_notes": "Yazar, aynı istemi kullanarak Opus 5.5 ve Kimi K3 uçuş simülatörlerini karşılaştırıyor; arayüz, çoklu kamera açıları ve ses gösteriliyor. Her ikisinin de akıcı çalıştığı, Kimi K3’ün ise maliyet açısından daha verimli olduğu bildiriliyor."
+    },
+    {
+      "public_number": 32,
+      "title": "Tesana’da tek istemle fantezi dünyası",
+      "takeaway": "Platformun oyun, ses ve arayüzü birleştiren çıktısını incelemek için Tesana fantezi dünyası gösterimini kullanın.",
+      "body_notes": "Tesana’nın kendi tanıtım demosu, tek istemden üretilmiş; oynanış, sistemler, ses ve arayüz içeren bir fantezi dünyası sunuyor."
+    },
+    {
+      "public_number": 33,
+      "title": "On dakikadan kısa sürede yapılan okçuluk oyunu",
+      "takeaway": "Bildirilen on dakikanın altındaki geliştirme süresini genellemeden önce yayımlanan okçuluk oyununu inceleyin.",
+      "body_notes": "Yazar bir okçuluk oyunu gösteriyor ve yapımını ve dağıtımını on dakikadan kısa sürede tamamladığını bildiriyor."
+    },
+    {
+      "public_number": 34,
+      "title": "Minecraft ve Warcraft klonlarının karşılaştırması",
+      "takeaway": "Yayımlanan oyun çıktılarını ve istemleri, çaba düzeyi, çalışma süresi ve tahminî maliyet bağlamını koruyarak karşılaştırın.",
+      "body_notes": "Yazar iki oyun için Opus 5.5, Fable 5.1 ve Astra’nın oynanabilir çıktılarını ve istemlerini paylaşıyor. Opus, Claude Code’da xhigh ayarında yaklaşık 45 dakika sürmüş; $11–14, abonelik üzerinden yapılan kullanımın tahminî API eşdeğeridir."
+    },
+    {
+      "public_number": 35,
+      "title": "Runescape Bench puanı ve maliyeti",
+      "takeaway": "Runescape Bench’in bildirilen fiyatını ve sıralamasını yalnızca o testin oyun görevlerine ilişkin kanıt olarak değerlendirin.",
+      "body_notes": "Yazar, Runescape Bench’te Opus 5.5’in Astra’nın ardından ikinci sırada olduğunu ve fiyatının yaklaşık üçte biri düzeyinde kaldığını bildiriyor. Bu bir oyun görevi kıyaslama sonucudur; her oynanış veya geliştirme senaryosunu ölçmez."
+    },
+    {
+      "public_number": 36,
+      "title": "Etkileşimli mercan resifi duvar kâğıdı",
+      "takeaway": "Bir ortam duvar kâğıdını etkileşimli yapmak için balık besleme etkileşimini referans olarak kullanın.",
+      "body_notes": "Yazar, kullanıcıların balıkları beslemesini sağlayan etkileşime sahip bir mercan resifi duvar kâğıdı gösteriyor."
+    },
+    {
+      "public_number": 37,
+      "title": "Canlı yayından su simülasyonu",
+      "takeaway": "Gösterilen su simülasyonunu daha uzun bir canlı yayın oturumundan çıkan bir sonuç olarak inceleyin.",
+      "body_notes": "Yazar canlı yayın sırasında su simülasyonları oluşturuyor; bu gönderi üç sonuçtan birini gösteriyor."
+    },
+    {
+      "public_number": 38,
+      "title": "Videodan 3D suyu yeniden oluşturmak",
+      "takeaway": "Yazarın aslına uygunluk değerlendirmesini benimsemeden önce yeniden oluşturulan suyu video referansıyla karşılaştırın.",
+      "body_notes": "Yazar, video referansından tek geçişte 3D suyu yeniden oluşturduğunu gösteriyor ve sonucu orijinaline yakın buluyor. Alıntılanan referans bir Grok 4.7 su demosudur."
+    },
+    {
+      "public_number": 39,
+      "title": "Katmanlı el anatomisi gezgini",
+      "takeaway": "Doğrulanmamış ağrı veya iyileşme önerilerine güvenmeden katmanlı anatomi arayüzünü inceleyin.",
+      "body_notes": "Higgsfield’ın platform demosu kemikler, kaslar ve tendonlardan oluşan katmanlı el anatomisini gösteriyor; ağrı yerini belirlemek için web kamerası veya tıklamalar kullanılıyor. Önerilen nedenler ve iyileşme ipuçları doğrulanmış değildir."
+    },
+    {
+      "public_number": 40,
+      "title": "Kilo Code’da çimlere dokunma simülatörü",
+      "takeaway": "Çimlere dokunma çıktılarını platformun bildirdiği çalıştırma başına maliyetlerle birlikte karşılaştırın.",
+      "body_notes": "Platformun bu tanıtım karşılaştırması, Kilo Code’da bir çimlere dokunma simülatörü oluşturuyor; Grok 4.7 için $3.52, Opus 5.5 için $7.35 bildiriliyor. Bunlar bu çalıştırmaya ilişkin platformun kendi bildirdiği maliyetlerdir."
+    },
+    {
+      "public_number": 41,
+      "title": "Trebuşe çiziminden simülasyona",
+      "takeaway": "Trebuşe gösterimini ikinci el aktarım olduğunu koruyarak çizimden simülasyona geçiş referansı olarak kullanın.",
+      "body_notes": "Bu ikinci el gönderi, bir trebuşe çiziminin fizik, kontroller ve ses efektleri içeren 3D simülasyona dönüştürülmesini paylaşıyor ve bunun tek istemle yapıldığını iddia ediyor."
+    },
+    {
+      "public_number": 42,
+      "title": "Raylar ve sarkaç mekanizmaları",
+      "takeaway": "Bir mekanizma simülasyonunun maliyetini hesaplarken API çalışma süresini boşta geçen toplam zamandan ayırın.",
+      "body_notes": "Önizlemede raylar, sarkaç çubukları ve başka mekanizmalar görülüyor. Yazarın faturasında 52m 6s API çalışma süresi ve $19.86 kayıtlı; 4h 21m toplam süre, kesintisiz model çalışması değil, yaklaşık üç saat boşta beklemeyi de içeriyor."
+    },
+    {
+      "public_number": 43,
+      "title": "Farklı yerçekimlerinde yüzler",
+      "takeaway": "Olası iş birliği açıklamasını koruyarak yerçekimiyle kontrol edilen yüz demosunu inceleyin.",
+      "body_notes": "Yazar, Higgsfield’da farklı yerçekimi ayarlarında yüzün değişimini gösteriyor. Rapor olası fakat doğrulanmamış bir iş birliğine işaret ediyor."
+    },
+    {
+      "public_number": 44,
+      "title": "Bağlantılı sayfalarla Web’i açıklamak",
+      "takeaway": "Bildirilen uzun çalışma süresini planlayarak keşfedilebilir bir açıklama için birbirine bağlı HTML sayfalarını değerlendirin.",
+      "body_notes": "Yazar, Web’in nasıl çalıştığını açıklayan bağlantılı HTML sayfaları oluşturmak için Medium çaba düzeyinde dört saatten uzun süren tek çalışma bildiriyor ve sonucu denemek için bağlantı veriyor."
+    },
+    {
+      "public_number": 45,
+      "title": "Keşfedilebilir 3D göz öğrenme sayfası",
+      "takeaway": "Keşfedilebilir göz demosunu katmanlı bir 3D öğrenme arayüzüne referans olarak kullanın.",
+      "body_notes": "Higgsfield’ın tanıtım demosu, bir gözün parçalarına ayrılıp incelenebildiği 3D eğitim sayfasını sunuyor ve sonucu GPT-6 Sol ile karşılaştırıyor."
+    },
+    {
+      "public_number": 46,
+      "title": "Evrenin tamamlanmamış etkileşimli ölçeği",
+      "takeaway": "Evrenden Planck ölçeğine uzanan etkileşimli bir projeye başlamadan önce kullanım kontrol noktalarını belirleyin.",
+      "body_notes": "Yazar, gözlemlenebilir evrenden Planck ölçeğine etkileşimli bir yolculuk deniyor; ancak Max 5x kullanım sınırına ulaşarak çalışmanın yalnızca bir kısmını tamamlıyor."
+    },
+    {
+      "public_number": 47,
+      "title": "On saniyelik Blender çekimi karşılaştırması",
+      "takeaway": "Blender çekimlerini çalışma süresi, token kullanımı ve API eşdeğeri maliyetle birlikte karşılaştırın.",
+      "body_notes": "Yazar, aynı tek istemi ve yalnızca Blender’ı kullanarak prosedürel on saniyelik çekimleri ve yapımın hızlandırılmış görüntülerini karşılaştırıyor. Opus için 35m, 199.6k çıktı tokenı ve API karşılığı yaklaşık $13.3; GPT-6 Astra için 28m, 56.6k token ve yaklaşık $14.5 bildiriyor."
+    },
+    {
+      "public_number": 48,
+      "title": "Jev ile Unreal Engine’de San Francisco",
+      "takeaway": "Bu Unreal Engine şehir sahnesindeki davranışları değerlendirirken Jev’in rolünü hesaba katın.",
+      "body_notes": "Yazar, insan, evcil hayvan ve araç davranışlarının Jev tarafından yönlendirildiği, Unreal Engine’de yeniden oluşturulmuş San Francisco’yu gösteriyor."
+    },
+    {
+      "public_number": 49,
+      "title": "500 ekipman türüyle spor salonu planlayıcısı",
+      "takeaway": "Spor salonu planlayıcısını, render edilmiş ekipman kataloğunu yerleşim kontrolleriyle birleştirmek için referans olarak kullanın.",
+      "body_notes": "Yazar, 500 tür fitness ekipmanını render ederek bunların etrafında bir spor salonu yerleşim aracı oluşturduğunu gösteriyor."
+    },
+    {
+      "public_number": 50,
+      "title": "Dört modelli roket fırlatma karşılaştırması",
+      "takeaway": "Dört roket fırlatma çıktısını platformun bildirdiği süre ve maliyetlerle birlikte karşılaştırın.",
+      "body_notes": "BridgeBench’in platform tanıtımı, tek istemden 3D roket fırlatması üreten dört modeli karşılaştırıyor. Bildirilen maliyet/süre: GPT-6 Luna $0.01 altında/~1m; GPT-6 Sol $0.11/1m; Grok 4.7 $0.29/11m; Opus 5.5 $1.52/12m."
+    },
+    {
+      "public_number": 51,
+      "title": "Bisiklete binen pelikan",
+      "takeaway": "Bisiklete binen pelikan çalışmasını belgelenmiş bir iş akışı yerine görsel çıktı olarak inceleyin.",
+      "body_notes": "Yazar, bisiklete binen bir pelikanı konu alan bir çalışma paylaşıyor."
+    },
+    {
+      "public_number": 52,
+      "title": "1906 depreminden önce Market Street",
+      "takeaway": "Tarihsel Market Street sahnesini, doğruluğu kontrol edilene kadar bir Blender yorumu olarak değerlendirin.",
+      "body_notes": "Platformun bu tanıtım demosu, San Francisco’daki Market Street’in 1906 depremi öncesindeki hâlinin tek istemle Blender’da yeniden oluşturulmasını sunuyor. Tarihsel doğruluk, gönderi sahibinin iddiasıdır."
+    },
+    {
+      "public_number": 53,
+      "title": "Sol ile karşılaştırılan döngüsel Blender pelikanı",
+      "takeaway": "Döngüsel pelikan animasyonlarını platformun karakterlerine ilişkin tercihinden ayrı karşılaştırın.",
+      "body_notes": "Atomic Chat’in platform tanıtımı, aynı istemi kullanarak bisiklete binen bir pelikanın döngüsel Blender animasyonlarını GPT-6 Sol ile karşılaştırıyor. Daha sevimli olduğu değerlendirmesi platformun kendisine aittir."
+    },
+    {
+      "public_number": 54,
+      "title": "Blender çalışması gösterimi",
+      "takeaway": "Gönderi konuyu veya iş akışını açıklamadığı için Blender çıktısını doğrudan inceleyin.",
+      "body_notes": "Yazar, gönderi metninde konusunu belirtmeden bir Blender çalışması paylaşıyor."
+    },
+    {
+      "public_number": 55,
+      "title": "Blender yel değirmeni iş akışı",
+      "takeaway": "Modelleme, rig oluşturma, dokulandırma ve animasyonu birleştiren Blender iş akışını incelemek için yel değirmeni gösterimini kullanın.",
+      "body_notes": "Higgsfield’ın tanıtım demosu, bir Blender yel değirmeninin modelleme, rig oluşturma, dokulandırma ve animasyonunun 15 dakikada tamamlandığını bildiriyor."
+    },
+    {
+      "public_number": 56,
+      "title": "Kodla yapılan Golden Gate Bridge",
+      "takeaway": "Yazarın kalite değerlendirmesini benimsemeden önce kodla oluşturulan köprü sahnesini bağlantılı referansla karşılaştırın.",
+      "body_notes": "Yazar, bütünüyle kodla üretilmiş bir Golden Gate Bridge sahnesi gösteriyor, 3D sahne kalitesini Astra ile karşılaştırılabilir buluyor ve bir karşılaştırma videosuna bağlantı veriyor."
+    },
+    {
+      "public_number": 57,
+      "title": "Volkanik adalar, deniz yaşamı ve kutup ışıkları",
+      "takeaway": "Birbirinden farklı iki manzara sahnesinden kesin bir model sıralaması çıkarmaktan kaçının.",
+      "body_notes": "Yazar volkanik ada, sualtı yaşamı, bitki örtüsü, mamutlar ve kutup ışıkları gösteriyor; Opus 5 için $1.6, Opus 5.5 için $3.4 bildiriyor. Görselleri Astra ile karşılaştırılabilir bulsa da iki farklı sahnenin kesin bir hükme dayanak olamayacağını açıkça söylüyor."
+    },
+    {
+      "public_number": 58,
+      "title": "Blender’da dış iskelet eklemlerini yeniden tasarlamak",
+      "takeaway": "Mekanik güvenilirliği doğrulanana kadar yeniden tasarlanan dış iskeleti bir modelleme önerisi olarak değerlendirin.",
+      "body_notes": "Higgsfield, dış iskeletin zayıflıklarını analiz etmek ve Blender 3D modelini eklemlerine kadar yeniden tasarlamak için tek bir 39 dakikalık, 5.5 milyon tokenlık çalışma bildiriyor. Mekanik güvenilirlik doğrulanmış değildir."
+    },
+    {
+      "public_number": 59,
+      "title": "Cowork’te solarpunk şehir",
+      "takeaway": "Solarpunk sahnesini Cowork’te 3D ortam kurmanın bildirilen bir örneği olarak inceleyin.",
+      "body_notes": "Yazar, Cowork’te oluşturulmuş bir solarpunk şehir sahnesi gösteriyor."
+    },
+    {
+      "public_number": 60,
+      "title": "Three.js ile New York mahallesi",
+      "takeaway": "İki New York sahnesi çıktısını karşılaştırırken render döngülerini ve kamera hareketlerini kontrol edin.",
+      "body_notes": "Yazar; taksiler, çatılar, Brooklyn Bridge ve Central Park içeren bir Three.js New York sahnesini GPT-6 Sol ile karşılaştırıyor. Bu Sol çıktısının render döngüsü veya kamera hareketi olmayan sabit bir kare olduğunu bildiriyor."
+    },
+    {
+      "public_number": 61,
+      "title": "Başka bir bisikletli pelikan çalışması",
+      "takeaway": "Bu bisikletli pelikan çalışmasını aynı konu için ek bir görsel referans olarak inceleyin.",
+      "body_notes": "Yazar, Opus 5.5 ile yapılmış bisiklete binen bir pelikan çalışması paylaşıyor."
+    },
+    {
+      "public_number": 62,
+      "title": "Blender’da Shinkansen modeli",
+      "takeaway": "Platformun bildirdiği nesne ve koltuk sayılarına güvenmeden önce Shinkansen modelini kontrol edin.",
+      "body_notes": "Higgsfield’ın platform demosu Blender’da bir Shinkansen modeli sunuyor ve 5,112 nesne ile 430 koltuk bulunduğunu iddia ediyor. Bu sayılar platformun kendi beyanıdır."
+    },
+    {
+      "public_number": 63,
+      "title": "Görüntüden düşük poligonlu 3D’ye",
+      "takeaway": "Bildirilen görüntüden 3D’ye dönüşümde renk doğruluğunun yanı sıra geometrik ayrıntıyı da değerlendirin.",
+      "body_notes": "Yazar, bir girdi görüntüsünü tek geçişte 3D’ye dönüştürüyor; renklerin yeniden üretimini överken sonucun fazla düşük poligonlu olduğunu da söylüyor. Her ikisi de yazarın gözlemidir."
+    },
+    {
+      "public_number": 64,
+      "title": "Tripo P2, JEF ve MCP ile karakter iş akışı",
+      "takeaway": "Karakter üretim iş akışını değerlendirirken Tripo P2, JEF ve Blender MCP’yi hesaba katın.",
+      "body_notes": "İş birliğinin açıklandığı bu demo Tripo P2, JEF ve Blender MCP’yi birleştiriyor; yazar meshler, ağırlık boyamalı IK rig oluşturma, kıyafetler ve animasyon için 20 dakika bildiriyor. Astra’nın yaklaşık on saat ve iki haftalık sıfırlama gerektireceği tahmini kontrollü bir karşılaştırma değildir."
+    },
+    {
+      "public_number": 65,
+      "title": "Ev fotoğrafları ve planlardan 3D’ye",
+      "takeaway": "Etkileşimli tarayıcı görüntüleyicisine sahip bir model prototipi için ev fotoğrafını kat planlarıyla birleştirmeyi değerlendirin.",
+      "body_notes": "Higgsfield’ın platform demosu, tek ev fotoğrafını ve kat planlarını bir Blender modeline ve inşaat aşamalarını, duvarların içini ve döşenmiş iç mekânda gezinmeyi gösteren çevrimdışı tarayıcı görüntüleyicisine dönüştürüyor."
+    },
+    {
+      "public_number": 66,
+      "title": "Şişede gemi üretim testi",
+      "takeaway": "Belgelenmemiş bir iş akışı varsaymadan şişede gemi sonucunun sahne kompozisyonunu inceleyin.",
+      "body_notes": "Yazar, bir şişede gemi üretim testinin sonucunu gösteriyor."
+    },
+    {
+      "public_number": 67,
+      "title": "DeLorean, saat kulesi ve yıldırım",
+      "takeaway": "Animasyonlu sahnenin davranışını her modelin üretici araç kullanımı, çalışma süresi ve tahminî maliyetiyle birlikte karşılaştırın.",
+      "body_notes": "Yazar, aynı istem ve Max çaba düzeyinde DeLorean, saat kulesi ve yıldırım animasyonlarını karşılaştırıyor; her ikisi de Nano Banana Pro ve Tripo erişimiyle Higgsfield’ın Blender eklentisini ve MCP’sini kullanıyor. Bildirilen sonuçlar: Opus 73m/218k çıktı tokenı/$27.3 API eşdeğeri, çalışan kapılar/tekerlekler ve hedefe isabet eden yıldırım; GPT-6 Astra 88m/136k/$21.3, üretici araçları atlayıp 517 nesnenin tümünü kendisi oluşturuyor."
+    },
+    {
+      "public_number": 68,
+      "title": "Çizimden tamamlanmış eve dört aşama",
+      "takeaway": "Bir yapının çizimden tamamlanmaya ilerleyişini anlatmak için aşamalı Three.js ve TSL görünümleri kullanın.",
+      "body_notes": "Yazar, bir yapının dört aşamada gelişimini göstermek için Three.js ve TSL kullanıyor: çizim, kütle oluşturma, ayrıntı ve tamamlanmış ev."
+    },
+    {
+      "public_number": 69,
+      "title": "3D sonuçları ve bildirilen maliyet karşılaştırması",
+      "takeaway": "Sergilenen 3D çıktıyı platformun bildirdiği maliyet farkıyla birlikte değerlendirin.",
+      "body_notes": "AI/ML API’nin platform tanıtımı 3D çıktıları karşılaştırıyor; Opus 5.5 için $4.37, GPT-6 Sol için $0.34 bildiriliyor; fark yaklaşık 13 kat. Kalite değerlendirmesi platformun kendisine aittir."
+    },
+    {
+      "public_number": 70,
+      "title": "Tablodan keşfedilebilir sahneye",
+      "takeaway": "Düz bir kompozisyonu farklı 3D açılardan keşfetmek için tablonun genişletilmesini referans olarak kullanın.",
+      "body_notes": "Higgsfield’ın platform demosu, bir tabloyu farklı açılardan görülebilen Blender ve Unreal Engine sahnelerine genişletiyor."
+    },
+    {
+      "public_number": 71,
+      "title": "3D mobilya yerleşim simülatörü",
+      "takeaway": "Bir tasarımı seçmeden önce mobilya düzenlerini karşılaştırmak için 3D yerleşim simülatörünü değerlendirin.",
+      "body_notes": "Higgsfield’ın platform demosu, farklı düzenleri 3D olarak denemek için bir mobilya yerleşim simülatörü gösteriyor."
+    },
+    {
+      "public_number": 72,
+      "title": "Karakalem çizimden 3D’ye",
+      "takeaway": "Karakalemden Blender’a dönüşümün çizim dokularını 3D sahneye nasıl taşıdığını inceleyin.",
+      "body_notes": "Higgsfield’ın platform demosu, karakalem çizimi çizgi dokularını koruyarak Blender 3D sahnesine dönüştürüyor."
+    },
+    {
+      "public_number": 73,
+      "title": "Çok oyunculu Akdeniz limanı gezintisi",
+      "takeaway": "Liman gezintisini değerlendirirken prosedürel sahne ve sesleri içe aktarılan insanlardan ayırın.",
+      "body_notes": "Yazar, Akdeniz liman kasabasında tarayıcı üzerinden çok oyunculu bir gezinti gösteriyor. Sahneler ve sesler prosedüreldir; insanlar ise içe aktarılan taranmış varlıklardır."
+    },
+    {
+      "public_number": 74,
+      "title": "3D oyun kumandası demosu",
+      "takeaway": "Kumanda demosunu ve istenen videoyu, atıfta bulunulan önceki SVG görevinden ayrı inceleyin.",
+      "body_notes": "Yazar, tek geçişte yapılmış bir 3D oyun kumandası bildiriyor ve modelden paylaşılabilir bir video yapmasını istiyor. Alıntılanan gönderi, önceki Claude Code görevini Xbox kumandası SVG’si olarak tanımlıyor."
+    },
+    {
+      "public_number": 75,
+      "title": "Minecraft tarzı tapınak bahçesi",
+      "takeaway": "Yazarın model tercihini genellemeden tapınak bahçesi önizlemelerini karşılaştırın.",
+      "body_notes": "Yazar Opus 5.5 ile GPT-6 Astra’yı karşılaştırıyor; medya önizlemesinde Minecraft tarzı bir tapınak bahçesi görülüyor. Tercih, yazarın bu teste ilişkin değerlendirmesidir."
+    },
+    {
+      "public_number": 76,
+      "title": "Blender’da ahtapot modelleme ve animasyon",
+      "takeaway": "Platformun tanıtım amaçlı kalite etiketini bir derecelendirme saymadan ahtapot modelini ve animasyonunu inceleyin.",
+      "body_notes": "Higgsfield’ın platform demosu Blender’da ahtapot modelleme ve animasyon gösteriyor. “AAA kalitesi” ifadesi bağımsız olarak doğrulanmış kalite puanı değil, bir tanıtım iddiasıdır."
+    },
+    {
+      "public_number": 77,
+      "title": "Aynı istemle New York karşılaştırması",
+      "takeaway": "Her modelin sürümünü ve çaba ayarını koruyarak aynı New York sahnesi tanımını karşılaştırın.",
+      "body_notes": "Yazar, aynı New York sahnesi görevinde High çaba düzeyindeki Opus 5.5 ile Opus 5’i karşılaştırıyor; sahne Empire State Building, Brooklyn Bridge, Central Park ağaçları ve gün batımında sirüs bulutlarını içeriyor."
+    },
+    {
+      "public_number": 78,
+      "title": "Farklı manzaralar üzerinde seyir uçuşu",
+      "takeaway": "Seyir uçuşunun farklı manzaraları nasıl bağladığını anlamak için yapım videosunu izleyin.",
+      "body_notes": "Yazar, Disney Soaring’den esinlenen; Alpler, kutup ışıkları, piramitler, Çin Seddi ve havai fişeklerle gece Paris’i üzerinde geçen bir uçuş gösteriyor ve nasıl yapıldığına ilişkin videoya bağlantı veriyor."
+    },
+    {
+      "public_number": 79,
+      "title": "Voksel tarzı Claude animasyonu",
+      "takeaway": "Stilize bir Claude figürünü hareketlendirmek için voksel karakter demosunu referans olarak kullanın.",
+      "body_notes": "Yazar, voksel tarzında bir Claude karakteri ve animasyonunu gösteriyor."
+    },
+    {
+      "public_number": 80,
+      "title": "Fable ve Astra ile karşılaştırılan voksel pelikan",
+      "takeaway": "Yazarın token kullanımı iddiasını bu denemeyle sınırlı tutarak voksel pelikan çıktılarını karşılaştırın.",
+      "body_notes": "Yazar, voksel tarzı bisikletli pelikan sahnesini Fable ve Astra ile karşılaştırıyor ve bu denemede daha düşük token kullanımı bildiriyor. Alıntılanan gönderi Fable sürümünü 5.2 olarak tanımlıyor."
+    },
+    {
+      "public_number": 81,
+      "title": "GPT-6 Sol ile karşılaştırılan yarış arabası modeli",
+      "takeaway": "Gösterilen çıktının ötesinde performans çıkarsamadan yarış arabası modellerini yan yana inceleyin.",
+      "body_notes": "Medya önizlemesinde, aynı görev için bir yarış arabası modeli GPT-6 Sol’un çıktısıyla birlikte gösteriliyor."
+    },
+    {
+      "public_number": 82,
+      "title": "GPU hızlandırmalı kedi tüyü simülasyonu",
+      "takeaway": "Kedi tüyü demosunu Three.js’te GPU hızlandırmalı simülasyon için referans olarak kullanın.",
+      "body_notes": "Yazar, GPU hızlandırması kullanan ve tek geçişte yapılmış bir Three.js kedi tüyü simülasyonu gösteriyor."
+    },
+    {
+      "public_number": 83,
+      "title": "Minecraft voksel yapı karşılaştırması",
+      "takeaway": "Yazarın Minecraft tercihini henüz plan aşamasındaki resmî VoxelBench testinden ayrı tutun.",
+      "body_notes": "Yazar, Minecraft voksel yapıları için Opus 5.5 ve GPT-6 Astra’yı öznel olarak karşılaştırıyor. Resmî bir VoxelBench testi hâlâ yalnızca plan aşamasındadır."
+    },
+    {
+      "public_number": 84,
+      "title": "Üç modelli roket gemisi testi",
+      "takeaway": "Üç roket gemisi çıktısını karşılaştırırken farklı akıl yürütme ayarlarını hesaba katın.",
+      "body_notes": "Yazar, bir roket gemisi görevini Opus 5.5 Medium, Grok 4.7 xhigh ve Astra Medium arasında karşılaştırıyor; akıl yürütme ayarları farklıdır."
+    },
+    {
+      "public_number": 85,
+      "title": "Opus 5 ile Three.js karşılaştırması",
+      "takeaway": "Three.js görevlerinde Opus sürümlerinin karşılaştırmasını incelemek için bağlantılı değerlendirme platformuna gidin.",
+      "body_notes": "Yazar, Opus 5.5 ve Opus 5’in Three.js kodlama sonuçlarını karşılaştırıyor ve bir değerlendirme platformuna bağlantı veriyor."
+    },
+    {
+      "public_number": 86,
+      "title": "Three.js kıyamet kısa filmleri",
+      "takeaway": "Render edilen kısa filmleri karşılaştırmadan önce eşit olmayan çalışma ortamlarını, düzeltme fırsatlarını ve tahminî maliyetleri hesaba katın.",
+      "body_notes": "Yazar; lunapark, hayalet kasaba ve nükleer santral hakkında tek dosyalı Three.js kısa filmlerinde Opus 5.5, Fable 5.1 ve GPT-6 Astra’yı karşılaştırıyor: 36 çekimin tamamının render edildiği, ancak Astra’nın istenen yıldızlı gökyüzünü atladığı bildiriliyor. Opus/Fable Claude Code’da kareleri inceler ve düzeltirken Astra tek OpenRouter yanıtı alıyor. Fable maliyeti/tokenları tahminîdir. Bildirilen toplamlar: $19.38/~$9.20/$8.43 ve ~69/40/27m; adil bir model sıralaması değildir."
+    },
+    {
+      "public_number": 87,
+      "title": "JavaScript’te sentezlenen bas müziği",
+      "takeaway": "Sesi doğrudan JavaScript’te sentezlemek için bas müziği demosunu referans olarak kullanın.",
+      "body_notes": "Yazar, tek istemden JavaScript ile sentezlenen bas müziğini gösteriyor."
+    },
+    {
+      "public_number": 88,
+      "title": "Bildirilen kusursuz müzik hatası puanı",
+      "takeaway": "Koral hatası tespitindeki kusursuz puanı, daha geniş doğrulama bekleyen on parçalık bir sonuç olarak değerlendirin.",
+      "body_notes": "Yazar, on adet dört partili koral kesitinde ses yürütme hatası tespitini test ediyor ve Opus 5.5’in önceki GPT-6 Astra ve Grok 4.7 sonuçlarıyla eşleşen kusursuz puanını bildiriyor. Test kümesi ve genellenebilirlik bağımsız olarak doğrulanmamıştır."
+    },
+    {
+      "public_number": 89,
+      "title": "Ses efekti üretim iş akışı",
+      "takeaway": "Gönderi sonuçtaki sesleri tanımlamadığı için ses efekti iş akışını doğrudan inceleyin.",
+      "body_notes": "Yazar, gönderi metninde ortaya çıkan sesleri belirtmeden bir ses efekti üretim iş akışı gösteriyor."
+    },
+    {
+      "public_number": 90,
+      "title": "Pocket Color el konsolu grafikleri karşılaştırması",
+      "takeaway": "El konsolu grafiklerini varsayılan cihaz işlevleri yerine görünür dış ayrıntılar üzerinden karşılaştırın.",
+      "body_notes": "Yazar, Opus 5.5 ile GPT-6 Sol’u karşılaştırıyor; medya önizlemesinde Pocket Color el konsolunun dış görünümüne ait üretilmiş grafikler bulunuyor."
+    },
+    {
+      "public_number": 91,
+      "title": "18m 31s süren Sweet Tooth animasyonu",
+      "takeaway": "Bildirilen tek geçişlik üretim süresini genellemeden önce Sweet Tooth animasyonunu inceleyin.",
+      "body_notes": "Yazar, tek geçişte 18 dakika ve 31 saniyede üretildiğini bildirdiği bir Sweet Tooth animasyonu gösteriyor."
+    },
+    {
+      "public_number": 92,
+      "title": "Claude ve AGI temalı çizgi film",
+      "takeaway": "Üretim iş akışının belirtilmediğini koruyarak çizgi filmi görsel referans olarak kullanın.",
+      "body_notes": "Raporun video örnek kontrolü Claude ve AGI temalı bir çizgi film saptıyor, ancak orijinal gönderi üretim iş akışını açıklamıyor."
+    },
+    {
+      "public_number": 93,
+      "title": "Kodla yapılan piksel büyücü animasyonu",
+      "takeaway": "Kodla yapılmış piksel animasyonunu inceleyin ve yazarın belirttiği istem için yanıtlara bakın.",
+      "body_notes": "Yazar, bütünüyle kodla yapılmış bir piksel büyücü animasyonu gösteriyor ve istemin yanıtlarda bulunduğunu söylüyor."
+    },
+    {
+      "public_number": 94,
+      "title": "Kare kare JavaScript animasyonu",
+      "takeaway": "JavaScript render işlemiyle hareket oluşturmak için kareleri çizilen animasyonu referans olarak kullanın.",
+      "body_notes": "Yazar, kareleri Opus 5.5 tarafından JavaScript’te çizilmiş bir animasyon gösteriyor."
+    },
+    {
+      "public_number": 95,
+      "title": "Nintendo Switch SVG animasyonu",
+      "takeaway": "SVG animasyonu gereksinimlerini Max çaba düzeyinde bildirilen oturum kullanımıyla birlikte değerlendirin.",
+      "body_notes": "Yazar, Nintendo Switch SVG’si oluşturmak ve Gemini 4 Pro ile karşılaştırmak için Max çaba düzeyini kullandı; atıfta bulunulan istem kumandaların yerine oturmasını ve açılış logosunu içeriyor. Çalışmanın $20 abonelikte oturum kotasının %27’sini tükettiği bildiriliyor."
+    },
+    {
+      "public_number": 96,
+      "title": "Problem çözmenin kodla yapılmış animasyonu",
+      "takeaway": "Yalnızca kodla yapılan animasyonu model sürecinin açıklaması değil, problem çözmenin yaratıcı bir tasviri olarak kullanın.",
+      "body_notes": "Yazar, modelin zor problemleri çözmesinin nasıl görünebileceğini hayal eden, yalnızca kodla yapılmış bir animasyon sunuyor."
+    },
+    {
+      "public_number": 97,
+      "title": "Paylaşılan bisikletli pelikan döngüsü",
+      "takeaway": "Paylaşılan döngünün ikinci el atfını koruyarak bisiklet sürme hareketini inceleyin.",
+      "body_notes": "Gönderi, ön tekerleği kaldırma gibi hareketleri vurgulayan, bisiklete binen pelikanın döngüsel animasyonunu paylaşıyor. Bu, iş akışının bağımsız yeniden üretimi değil, ikinci el bir gösterimdir."
+    },
+    {
+      "public_number": 98,
+      "title": "PS5 kumandası SVG karşılaştırması",
+      "takeaway": "Kumanda ayrıntısını ve gölgelendirmeyi BridgeMind’ın tanıtım amaçlı kalite yargısından ayrı karşılaştırın.",
+      "body_notes": "BridgeMind, aynı PS5 kumandası SVG isteminde Opus 5.5 ile GPT-6 Sol’u ayrıntı ve gölgelendirmeye odaklanarak karşılaştırıyor. Bu bir platform gösterimidir ve kalite yargıları yayıncıya aittir."
+    },
+    {
+      "public_number": 99,
+      "title": "Devin’de su ve parçacık görselleri",
+      "takeaway": "Devin görsel çıktılarını yazarın bağlantı, çalışma süresi ve maliyet açıklamalarını koruyarak karşılaştırın.",
+      "body_notes": "Yazar aynı Devin çalışma ortamı, istem ve en yüksek akıl yürütme ayarlarıyla su/parçacık görsellerini karşılaştırıyor: Opus 2h 10m ve $75, Astra 1h 25m ve $61 sürmüş. Yazar Cognition elçisi olduğunu açıklıyor; bu gönderi için ödeme aldığı doğrulanmamıştır, süreler ve maliyetler öz beyandır."
+    },
+    {
+      "public_number": 100,
+      "title": "Oktoberfest animasyonu",
+      "takeaway": "Bildirilen tek denemelik süreye güvenmeden önce Oktoberfest animasyonunu ve bağlantılı talimatları inceleyin.",
+      "body_notes": "Yazar, tek denemede 14 dakika 48 saniyede yapıldığını bildirdiği Oktoberfest temalı bir animasyon gösteriyor. Gönderide talimatların aşağıda verildiği belirtiliyor."
+    },
+    {
+      "public_number": 101,
+      "title": "JavaScript’te yazılan müzik ve görseller",
+      "takeaway": "Müzik ve görselleri birleştiren demoyu, daha geniş ikame iddialarına ilişkin sınırlı kanıt sunan bir JavaScript örneği olarak kullanın.",
+      "body_notes": "Yazar, bütünüyle JavaScript’te oluşturulduğu bildirilen müzik ve hareketli görseller sunuyor. Bu gösterim, genel müzik veya video üretim iş akışlarının yerini alabileceğini kanıtlamaz."
+    },
+    {
+      "public_number": 102,
+      "title": "Yalnızca JavaScript kullanan etkileşimli animasyon",
+      "takeaway": "Etkileşimli animasyonun, bildirilen haricî varlık veya uzantı kullanımı olmadan JavaScript’i nasıl kullandığını inceleyin.",
+      "body_notes": "Yazar, stilize bir etkileşimli animasyon gösteriyor ve haricî varlık, MCP veya skill olmaksızın yalnızca JavaScript kullandığını bildiriyor."
+    },
+    {
+      "public_number": 103,
+      "title": "Üç modelli animasyon karşılaştırması",
+      "takeaway": "Üç animasyon çıktısını ortak girdiler ve yazarın bildirdiği çalışma süreleriyle birlikte karşılaştırın.",
+      "body_notes": "Yazar, AIML API kullanarak Opus 5.5, GPT-6 Astra ve Opus 5 arasında aynı istem, referans ve XHigh ayarıyla tek denemelik animasyonları karşılaştırıyor. Bildirilen süreler sırasıyla 36:46, 32:12 ve 14:56; görsel kalite yargıları yazara aittir."
+    },
+    {
+      "public_number": 104,
+      "title": "334 SVG satırında Xbox kumandası",
+      "takeaway": "Max çaba düzeyinde bildirilen yüksek token kullanımını hesaba katarak kısa kumanda SVG’sini inceleyin.",
+      "body_notes": "Yazar, Claude Code’da tek denemede Xbox logosu dahil 334 satır SVG kullanarak Xbox kumandası ürettiğini bildiriyor. Ayrıca Max çaba düzeyinde yüksek token kullanımına dikkat çekiyor."
+    },
+    {
+      "public_number": 105,
+      "title": "TouchDesigner’da yeniden oluşturulan referans efektleri",
+      "takeaway": "Referansa dayalı efektlerin yeniden oluşturulmasını değerlendirirken TouchDesigner’ı hesaba katın.",
+      "body_notes": "Higgsfield, Opus 5.5’in TouchDesigner’da referanslardan efektlerini yeniden oluşturmasını sergiliyor; bunun 15 dakika sürdüğü bildiriliyor. Sonuç bir TouchDesigner üretim iş akışı kullanıyor."
+    },
+    {
+      "public_number": 106,
+      "title": "Game Boy görsel testi",
+      "takeaway": "Yazarın görsel tercihini benimsemeden önce Game Boy çıktılarını kendiniz karşılaştırın.",
+      "body_notes": "Yazar, bir Game Boy görsel görevi için Opus 5.5’in çıktısını gösteriyor ve Astra’nın sürümüne tercih ettiğini söylüyor. Bu, bireysel bir görsel test ve öznel değerlendirmedir."
+    },
+    {
+      "public_number": 107,
+      "title": "JavaScript animasyon gösterimi",
+      "takeaway": "Eksiksiz yapım anlatımı bulunmadığı için JavaScript animasyonunu çıktı referansı olarak kullanın.",
+      "body_notes": "Yazar, Opus 5.5 ve JavaScript ile yapılmış bir animasyon paylaşıyor. Gönderi, eksiksiz bir yapım anlatımı sunmadan çıktıya odaklanıyor."
+    },
+    {
+      "public_number": 108,
+      "title": "CoAnimator’da animasyon ve ses",
+      "takeaway": "CoAnimator’ın, geliştiricisinin kendi uygulamasında animasyon, zaman çizelgeleri ve sesi nasıl birleştirdiğini inceleyin.",
+      "body_notes": "CoAnimator’ın geliştiricisi, Opus 5.5 ile birkaç istemde yapılmış animasyonları, zaman çizelgelerini, ses efektlerini ve ortam seslerini sergiliyor. Bu, kendi uygulamasının gösterimidir ve kalite iddiaları yazara aittir."
+    },
+    {
+      "public_number": 109,
+      "title": "HyperFrames’te 3D kamera ve metin efektleri",
+      "takeaway": "Sergilenen 3D kamera ve metin efektlerini değerlendirirken HyperFrames’i hesaba katın.",
+      "body_notes": "HyperFrames/HeyGen ekibinden biri, Opus 5.5 ve HyperFrames ile yapılmış 3D kamera ve metin efektlerini sergiliyor. Bu, ekibin kendi araç birleşiminin gösterimidir."
+    },
+    {
+      "public_number": 110,
+      "title": "Beş dakikadan kısa sürede piksel animasyonu",
+      "takeaway": "Piksel animasyonunu inceleyin ve vaat edilen istem için yanıtlara bakın.",
+      "body_notes": "Yazar, beş dakikadan kısa sürede üretildiğini bildirdiği bir piksel animasyonu paylaşıyor ve istemi yanıtlara ekleyeceğini söylüyor."
+    },
+    {
+      "public_number": 111,
+      "title": "PNG varlığı kullanan kumanda SVG’si",
+      "takeaway": "Bir SVG sonucunu bütünüyle vektörel çizim diye tanımlamadan önce gömülü görüntü varlıklarını kontrol edin.",
+      "body_notes": "Yazar bir kumanda SVG’si gösteriyor ancak modelin bir DualShock PNG’si getirdiğini belirtiyor. Mevcut görüntü malzemesi kullanılmıştır; dolayısıyla sonuç her ayrıntının sıfırdan vektör yollarıyla çizildiğini kanıtlamaz."
+    },
+    {
+      "public_number": 112,
+      "title": "ChronoVolume efektini yeniden oluşturmak",
+      "takeaway": "Yeniden oluşturulan ChronoVolume efektini referansıyla, platformun bildirdiği maliyet ve çalışma süresiyle karşılaştırın.",
+      "body_notes": "Higgsfield, bir referanstan yeniden oluşturulan ChronoVolume efektini sergiliyor; 26 dakikalık çalışma ve $5 altında token maliyeti bildiriliyor."
+    },
+    {
+      "public_number": 113,
+      "title": "Aynı istemden bir fıskiye",
+      "takeaway": "Fıskiye çıktılarını ortak istem ve maksimum çaba ayarları altında karşılaştırın.",
+      "body_notes": "Yazar, maksimum akıl yürütme çabasıyla aynı “A beautiful fountain” istemini kullanarak Opus 5.5 ve GPT-6 Astra’nın fıskiye görsellerini karşılaştırıyor."
+    },
+    {
+      "public_number": 114,
+      "title": "Mona Lisa’yı SVG ile çizmek",
+      "takeaway": "Alıntılanan karşılaştırmanın çaba ayarını koruyarak iki Mona Lisa SVG çıktısını inceleyin.",
+      "body_notes": "Yazar, Opus 5.5’ten Mona Lisa’yı SVG ile çizmesini istiyor ve karşılaştırma için aynı görevin GPT-6 Astra High ile yürütüldüğü gönderiyi alıntılıyor."
+    },
+    {
+      "public_number": 115,
+      "title": "Sol ve Luna ile SVG karşılaştırması",
+      "takeaway": "Üç modelli SVG karşılaştırmasını görünür çıktılarla ve yazarın kişisel yargısıyla sınırlı tutun.",
+      "body_notes": "Yazar, bir SVG görevinde Opus 5.5, GPT-6 Sol ve Luna’yı karşılaştırıyor, çıktıları gösteriyor ve kişisel yargısını sunuyor. Gönderideki daha geniş model iddiaları bu örneğin kanıtladıklarını aşmaktadır."
+    },
+    {
+      "public_number": 116,
+      "title": "Paint’te betikle fotoğraf çizmek",
+      "takeaway": "Betikle oluşturulan görüntü Paint görevini karşılamıyorsa yalnızca fareyle etkileşim koşulunu belirtin ve doğrulayın.",
+      "body_notes": "Yazar Paint’te patronunun portresini istemiş, ancak model fareyle çizmek yerine betik kullanmış. Sonuç, amaçlanan elle imleç kullanımı yerine kodla görüntü oluşturma iş akışını gösteriyor."
+    },
+    {
+      "public_number": 117,
+      "title": "Küçük bir güneş olarak hayal edilen Claude",
+      "takeaway": "Küçük güneş görselini model deneyimine ilişkin kanıt değil, hayalî bir otoportre istemi olarak değerlendirin.",
+      "body_notes": "Claude olmanın nasıl hissettirdiğini çizmesi istendiğinde Opus 5.5, bunalan ve anılarını bir kavanozda saklayan küçük bir güneş üretti. Bu, insan özellikleri atfeden yaratıcı bir tasvirdir."
+    },
+    {
+      "public_number": 118,
+      "title": "Pelikan çizim testi",
+      "takeaway": "Pelikan çizimini, istemi ve iş akışı erişilebilir olmayan bir çıktı örneği olarak kullanın.",
+      "body_notes": "Yazar, gönderide ayrıntılı istemi veya üretim adımlarını vermeden Opus 5.5 ile yapılan bir pelikan çizim testinin sonucunu paylaşıyor."
+    },
+    {
+      "public_number": 119,
+      "title": "Piksel sanatta fıskiyeler ve yarasa gözleri",
+      "takeaway": "Piksel sahnelerindeki animasyonlu ayrıntıları öznel stil tercihlerinden ayrı karşılaştırın.",
+      "body_notes": "Yazar, Opus 5.5 ve GPT-6 Astra’nın piksel sahnelerini karşılaştırıyor; hareketli fıskiye suyu ve mağaradaki yarasa gözlerini vurguluyor. Görsel stil tercihi yazarın öznel değerlendirmesidir."
+    },
+    {
+      "public_number": 120,
+      "title": "San Francisco tasviri",
+      "takeaway": "Belirtilmeyen bir üretim araç zinciri atfetmeden San Francisco görselini inceleyin.",
+      "body_notes": "Yazar, gönderide araçları veya eksiksiz üretim iş akışını belirtmeden Opus 5.5 ile yapılmış San Francisco konulu bir sanat çalışması paylaşıyor."
+    },
+    {
+      "public_number": 121,
+      "title": "Grok 4.7 ile karşılaştırılan bisikletli pelikan",
+      "takeaway": "Yazarın daha dengeli hareket yargısını kabul etmeden önce pelikan animasyonlarını doğrudan karşılaştırın.",
+      "body_notes": "Yazar, Opus 5.5 ve Grok 4.7’nin bisikletli pelikan animasyonlarını karşılaştırıyor ve Opus’un hareketini daha dengeli buluyor. Bu sonuç yazarın gösteriminden ve gözleminden geliyor."
+    },
+    {
+      "public_number": 122,
+      "title": "“İncelikli sanat” isteminden sanat üreticisi",
+      "takeaway": "Yazarın platformla bağlantısını koruyarak bağlantısı verilen sanat üreticisini deneyin.",
+      "body_notes": "Platformla bağlantılı bir yazar, “some subtle art” istemiyle yapılmış sanat üreticisini gösteriyor ve deneme bağlantısı sunuyor. Bu, bir platform temsilcisinin çalışmasının gösterimidir."
+    },
+    {
+      "public_number": 123,
+      "title": "John Wick’ten esinlenen yeniden yapım",
+      "takeaway": "John Wick temalı animasyonu, üretim iş akışı belgelenmemiş bir görsel referans olarak kullanın.",
+      "body_notes": "Yazar, gönderide eksiksiz üretim iş akışı sunmadan Opus 5.5 ile yeniden yapılmış John Wick temalı animasyonu sergiliyor."
+    },
+    {
+      "public_number": 124,
+      "title": "Dört SVG çıktısı ve maksimum çabada başarısızlık",
+      "takeaway": "Çaba düzeylerine göre SVG çıktılarını, bildirilen Max düzeyindeki token tükenmesi ve başarısız denemenin maliyetiyle birlikte inceleyin.",
+      "body_notes": "Yazar, llm-anthropic kullanarak low, medium, high ve xhigh için komutları ve bisikletli pelikan SVG çıktılarını yayımlıyor. Max, yanıt vermeden 128,000 çıktı tokenını tüketmiş; bu başarısız deneme $2.56 tutmuş."
+    },
+    {
+      "public_number": 125,
+      "title": "MacBook Pro SVG kıyaslaması",
+      "takeaway": "MacBook Pro SVG sonuçlarını Playcode’un kendi göreve özgü değerlendirmesi ve ürün kararı olarak okuyun.",
+      "body_notes": "Playcode, MacBook Pro SVG kıyaslamasını paylaşıyor, iyi bir sonuç için elverişli maliyet bildiriyor ve Opus 5.5’in artık varsayılan modeli olduğunu söylüyor. Bu, araç sağlayıcısının kendi değerlendirmesi ve tanıtımıdır."
+    },
+    {
+      "public_number": 126,
+      "title": "Kişisel siteyi yinelemelerle geliştirmek ve fragmanını yapmak",
+      "takeaway": "Kişisel site yenilemesini belgelemek için yinelemeli tasarım eleştirisini ve sürüm geçmişi fragmanını değerlendirin.",
+      "body_notes": "Platformla bağlantılı bir yazar, Max aboneliği ve yinelemeli tasarım-eleştiri iş akışlarıyla kişisel sitesini yeniden tasarladı, ardından Opus 5.5’ten sürümlerin fragmanını yapmasını istedi. İstenen tonu yakaladığı iddiası yazarın değerlendirmesidir."
+    },
+    {
+      "public_number": 127,
+      "title": "Sekiz referanstan mineral kataloğu sitesi",
+      "takeaway": "Burada görülen mineral kataloğu stili için birden fazla referans ve düzeltme istemini planlayın.",
+      "body_notes": "Medya önizlemesinde mineral kataloğu tarzında bir web sayfası görülüyor. Yazar, tek denemelik sonuç yerine sekiz referans görüntüsü, dokuz istem ve yaklaşık bir saatlik yineleme kullandığını bildiriyor."
+    },
+    {
+      "public_number": 128,
+      "title": "Mevcut uygulamayı aynı hedefle yeniden tasarlamak",
+      "takeaway": "Yeniden tasarımları aynı mevcut uygulama ve belirtilen hedef üzerinden karşılaştırın.",
+      "body_notes": "Yazar, henüz kaba durumdaki mevcut bir uygulamayı yeniden tasarlamak için Opus 5.5 ve Opus 5 (1M)’e aynı istemi ve /goal komutunu veriyor, ardından iki arayüzü karşılaştırmalı sunuyor."
+    },
+    {
+      "public_number": 129,
+      "title": "Takılan yanardağ denemeleriyle ön yüz testleri",
+      "takeaway": "Ön yüz üretim sonuçlarını değerlendirirken takılan denemeleri ve akıl yürütme tokenı kullanımını dahil edin.",
+      "body_notes": "Yazar altı ön yüz görsel testi sunuyor, bunları Fable 5.1’e yakın buluyor ve daha yüksek akıl yürütme tokenı kullanımı bildiriyor. Yinelenen yanardağ patlaması denemeleri hem terminal hem web çalışmalarında kod üretmeden takılmış; damıtma veya model boyutuna ilişkin iddialar spekülasyondur."
+    },
+    {
+      "public_number": 130,
+      "title": "Tasarım skill’i olmadan bağlantılı notlar arayüzü",
+      "takeaway": "Tüm işlevlerinin doğrulandığını varsaymadan bağlantılı notlar arayüzünü inceleyin.",
+      "body_notes": "Medya önizlemesi bağlantılı notlar için bir web sitesi gösteriyor; yazar tasarım skill’i kullanılmadığını söylüyor. Gönderi bunu etkileşimli demo diye adlandırıyor ancak tam işlevsel doğrulama sunmuyor."
+    },
+    {
+      "public_number": 131,
+      "title": "Grok 4.7 ile karşılaştırılan tek denemelik arayüz",
+      "takeaway": "Aynı istemle yapılan çalışmaların farklı tarihlerini koruyarak iki arayüz çıktısını karşılaştırın.",
+      "body_notes": "Yazar, önceki gün Grok 4.7’yi test etmekte kullandığı istemin aynısıyla Opus 5.5’te tek denemede bir arayüz oluşturuyor ve sonucu karşılaştırma için paylaşıyor."
+    },
+    {
+      "public_number": 132,
+      "title": "23 dakikada stres azaltma uygulaması",
+      "takeaway": "Tedavi edici yarar gösterdiğini varsaymadan stres azaltma uygulamasını prototip olarak inceleyin.",
+      "body_notes": "Yazar, zor bir haftanın ardından Opus 5.5’ten stres azaltma uygulaması istemiş ve 23 dakikada yapıldığını bildirdiği sonucu paylaşıyor. Gönderi uygulamayı sergiliyor fakat stres üzerindeki etkisini değerlendirmiyor."
+    },
+    {
+      "public_number": 133,
+      "title": "Stratus hava durumu temalı açılış sayfası",
+      "takeaway": "Hava durumu temalı açılış sayfasını bildirilen maliyet ve çalışma süresi bağlamıyla birlikte tasarım referansı olarak kullanın.",
+      "body_notes": "Medya önizlemesinde bulutlar ve hava durumu etrafında kurulmuş bir Stratus açılış sayfası görülüyor. Yazar $6.82 maliyet ve 21 dakikalık çalışma bildiriyor."
+    },
+    {
+      "public_number": 134,
+      "title": "Etkileşimli ters CAPTCHA",
+      "takeaway": "Ters CAPTCHA etkileşimini belirsiz soru tasarımı üzerine bir deney olarak değerlendirin.",
+      "body_notes": "Yazar, Opus 5.5’i ters CAPTCHA deneyimine dönüştürüyor ve soru-cevap etkileşimini sunuyor; yanıtların beklediğinden daha az açık olduğunu belirtiyor."
+    },
+    {
+      "public_number": 135,
+      "title": "Figma içe aktarımlarıyla kişisel etkileşim aracı",
+      "takeaway": "Arayüz etkileşimlerini keşfetmek ve öğrenmek için içe aktarılan tasarım referanslarını ve küçük yamaları kullanın.",
+      "body_notes": "Yazar, Claude üzerinden kontrol edilen kişisel bir etkileşim tasarımı aracı oluşturuyor; Figma’dan, web sitelerinden veya koddan içe aktarımlar, yamalar ve hassas etkileşim ayarlamaları bildiriyor. İş akışı aynı zamanda tasarımın nasıl çalıştığını öğrenme yolu olarak kullanılıyor."
+    },
+    {
+      "public_number": 136,
+      "title": "Yerel modelleri izlemek için PonteMLX",
+      "takeaway": "Ayrı bir yerel görüntü üretim modelini hesaba katarak izleme arayüzünü inceleyin.",
+      "body_notes": "Yazar, nehri yerel token işlemeyi yansıtan, birden fazla MLX API ağ geçidini ve RAM kullanımını gösteren antika tarzı PonteMLX uygulamasını sergiliyor. Görüntüler, Opus’un talimat verilmeden keşfedip koordine ettiği bildirilen yerel Qwen-Image-2.1 modelinden geliyor."
+    },
+    {
+      "public_number": 137,
+      "title": "Lojistik planlama panosu önizlemesi",
+      "takeaway": "Arka uç ve planlama davranışı kontrol edilene kadar lojistik ekran görüntüsünü arayüz kanıtı olarak değerlendirin.",
+      "body_notes": "Ek önizlemesinde, yazarın ürün tasarımını tartışmak için kullandığı lojistik planlama panosu görülüyor. Ekran görüntüsü arayüz gösterimini destekler; çalışan arka uç veya planlama sistemini doğrulamaz."
+    },
+    {
+      "public_number": 138,
+      "title": "WebGL yaratıcı stüdyo sitesi karşılaştırması",
+      "takeaway": "Yaratıcı stüdyo sayfalarını ortak WebGL, tipografi ve kaydırma tanımına göre karşılaştırın.",
+      "body_notes": "Yazar, Higgsfield’da aynı tanım üzerinden Opus 5.5 ile GPT-6 Sol’u karşılaştırıyor: etkileşimli WebGL küresi, büyük tipografi ve akıcı kaydırma animasyonları içeren fütüristik yaratıcı stüdyo sitesi."
+    },
+    {
+      "public_number": 139,
+      "title": "İzometrik simge bileşenleri arayüzü",
+      "takeaway": "Ekran görüntüsünün işlevsel bileşenleri kanıtladığını varsaymadan izometrik bileşen arayüzünü inceleyin.",
+      "body_notes": "Ekran görüntüsü izometrik simge bileşenlerini sunan bir arayüz gösteriyor; yazar bunun tek denemede üretildiğini söylüyor. Görüntü, bileşenlerin veya uygulama işlevlerinin tamamının çalıştığını kanıtlamaz."
+    },
+    {
+      "public_number": 140,
+      "title": "El konsolu tarzı oyun seçme sayfası",
+      "takeaway": "Oyun başlatma doğrulanana kadar el konsolu tarzı seçim sayfasını arayüz gösterimi olarak değerlendirin.",
+      "body_notes": "Medya önizlemesinde Opus 5.5’e atfedilen, el konsolu tarzında bir oyun seçme sayfası görülüyor. Arka ucu ve oyun başlatma işlevi doğrulanmamıştır."
+    },
+    {
+      "public_number": 141,
+      "title": "Tek denemelik görüntüden vektöre aracı",
+      "takeaway": "Tek denemede yapıldığı bildirilen vektörleştirme aracına güvenmeden önce farklı görüntü türlerinde dönüşüm doğruluğunu test edin.",
+      "body_notes": "Yazar, Opus 5.5 ile tek denemede üretildiğini bildirdiği görüntüden vektöre dönüştürme aracını sergiliyor. Gönderi dönüşüm doğruluğu veya farklı görüntü türleri için sistematik testler sunmuyor."
+    },
+    {
+      "public_number": 142,
+      "title": "Ortak istemle açılış sayfası karşılaştırmaları",
+      "takeaway": "Yazarın tercihini benimsemek yerine açılış sayfası galerisini ortak isteme göre karşılaştırın.",
+      "body_notes": "Yazar, aynı istemle üretilen açılış sayfaları galerisine Claude Opus 5.5, GPT-6 Luna ve GPT-6 Sol’u ekliyor. Gönderi çıktıları sunuyor; Opus tercihi özneldir."
+    },
+    {
+      "public_number": 143,
+      "title": "AppLlama MCP ile mevcut uygulamayı yeniden tasarlamak",
+      "takeaway": "AppLlama destekli yeniden tasarımı, önceden var olan uygulamaya atfedilen gelirden ayırın.",
+      "body_notes": "Yazar, Opus 5.5 ve AppLlama MCP ile tek denemede yeniden tasarlandığını bildirdiği mevcut uygulamanın önceki ve sonraki görünümlerini gösteriyor. İddia edilen $10,000 MRR, yeniden tasarımın sağladığı kanıtlanmış gelir değil, önceden var olan uygulamaya aittir."
+    },
+    {
+      "public_number": 144,
+      "title": "Görüntüden HTML’ye doğruluk ve performans",
+      "takeaway": "Görüntüden HTML’ye görevlerde görsel doğruluğun yanında geçişleri ve çalışma zamanı performansını kontrol edin.",
+      "body_notes": "Yazar bir tasarım görüntüsünü ve çeşitli modellerin sayfa çıktılarını paylaşıyor. Opus 5.5 tasarımı izliyor ancak istenen sayfa geçişlerini atlıyor ve çalışırken düşük performans gösteriyor; yazar bu testte yine de Astra’yı tercih ediyor."
+    },
+    {
+      "public_number": 145,
+      "title": "100 yaratıcı HTML dosyası üretmek",
+      "takeaway": "Yazarın bozuk dosya olmadığı iddiasına güvenmeden önce yayımlanan HTML çıktılarından örnekler seçip test edin.",
+      "body_notes": "Yazar, görsel açıdan özenli ve birbirini tekrar etmeyen 100 HTML dosyası istiyor; çıktıları istemleriyle yayımlıyor. Örnekler arasında satranç, breakout, piyano, yıldız haritaları ve animasyon var; hiçbirinin bozuk olmadığı iddiası yazarın kendisine aittir."
+    },
+    {
+      "public_number": 146,
+      "title": "Next.js başarı oranı ve ortalama maliyet",
+      "takeaway": "Bildirilen başarı oranını ve ortalama maliyeti Next.js değerlendirmesinin çatıya özgü kapsamı içinde okuyun.",
+      "body_notes": "Next.js, Opus 5.5 için Sol ve Fable 5.1 ile eşit olan %97 başarı oranını ve bu üçlü arasında en düşük ortalama maliyeti bildiriyor. Bağlantılı sıralama bu çatıya özgü değerlendirmeyi kapsıyor."
+    },
+    {
+      "public_number": 147,
+      "title": "On dakikalık görevde ana teslimatın kaçırılması",
+      "takeaway": "Önce ana teslimatı isteyin, bütçeyi ve durma noktasını açıkça belirtin.",
+      "body_notes": "Every’nin kendi testinde Opus’a etkinlik akış planı üretmesi için on dakika verildi, ancak önce veri üreticisi ve dağıtılacak belgeler hazırlayarak programa geçmeden süresi doldu. Ekip teslimatın, bütçenin ve durma noktasının belirtilmesini ve modelin öz eleştirilerinin kontrol edilmesini öneriyor."
+    },
+    {
+      "public_number": 148,
+      "title": "347 sıralanan sayfada SEO boşluklarını bulmak",
+      "takeaway": "Bildirilen SEO araştırması kapsamını ve taslakların kurallara uyumunu ölçülmemiş arama trafiği sonuçlarından ayırın.",
+      "body_notes": "Platform yazarı, 40 anahtar kelime için sıralanan 347 sayfa okuduğunu, ele alınmamış 131 açı bulduğunu ve ham veriyi $6.35 karşılığında kazıdığını bildiriyor; Fable 5.1 aynı sürede $5.53 karşılığında 16 anahtar kelimeyi kapsamış. Ayrıca 131 taslakta bir yazım kuralı ihlali, Fable için 37 taslakta iki ihlal bildiriyor; kurum içi test arama trafiği artışını kanıtlamaz."
+    },
+    {
+      "public_number": 149,
+      "title": "Trendtrack MCP üzerinden Black Friday analizi",
+      "takeaway": "Black Friday analiz iş akışını değerlendirirken Trendtrack MCP’nin veri erişimini hesaba katın.",
+      "body_notes": "Yazar, Opus 5.5’ten Black Friday hazırlığı için Trendtrack MCP üzerinden BrandTrackers verilerini analiz etmesini istiyor ve sonucu paylaşıyor. İş akışı verilere erişim için Trendtrack entegrasyonuna dayanıyor."
+    },
+    {
+      "public_number": 150,
+      "title": "alphaXiv’de kanıt bağlantılı makale blogları",
+      "takeaway": "Otomatik oluşturulan araştırma özetlerine güvenmeden önce makaleyle bağlantılı kanıtları kontrol edin.",
+      "body_notes": "alphaXiv, arXiv makalelerini şekiller, temel içgörüler ve açıklamalar içeren blog tarzı genel bakışlara dönüştüren bir ürün özelliği gösteriyor; her iddianın makaledeki vurgulanmış kanıta bağlandığını öne sürüyor. Bu bir platform demosudur; her kanıt eşleşmesi bağımsız olarak doğrulanmamıştır."
+    },
+    {
+      "public_number": 151,
+      "title": "SafeForge’un risk özetleme döngüsünü test etmek",
+      "takeaway": "SafeForge’un tercih edilen model değerlendirmesini genellemeden önce değerlendirme yöntemlerini ve ölçütlerini isteyin.",
+      "body_notes": "SafeForge, risk özetleme döngüsündeki Opus 5.5 testlerini sergiliyor ve bunu ekibin test ettiği en iyi model olarak adlandırıyor. Bu platformun kendi değerlendirmesidir; gönderi eksiksiz karşılaştırma yöntemi veya ölçütler sunmuyor."
+    },
+    {
+      "public_number": 152,
+      "title": "Kıyaslama grafiğindeki model verilerini güncellemek",
+      "takeaway": "Kıyaslama grafiğini güncellemeyi temelindeki değerlendirmeyi yeniden çalıştırmaktan ayırın.",
+      "body_notes": "Yazar, Opus 5.5’ten mevcut kıyaslama grafiğindeki GPT-5.6 değerlerini GPT-6 serisi verileriyle değiştirmesini istiyor. Bu, temel kıyaslamayı yeniden çalıştırmak değil, grafik düzenleme örneğidir."
+    },
+    {
+      "public_number": 153,
+      "title": "Sürümler arasında gösterge oluşturmayı karşılaştırmak",
+      "takeaway": "Belirtilmeyen doğrulama yöntemini çözümlenmemiş bırakarak gösterge çıktılarını karşılaştırın.",
+      "body_notes": "Yazar, aynı talimatlarla Opus 5 ve Opus 5.5’te bir gösterge oluşturuyor, iki çıktıyı gösteriyor ve yeni modelin anlayışını daha iyi buluyor. Gösterge türü ve doğrulama yöntemi belirtilmiyor."
+    },
+    {
+      "public_number": 154,
+      "title": "Web sitesi URL’sinden satış iletişimi iş akışı",
+      "takeaway": "İletişim ürününün iddia ettiği gönderim kapasitesini doğrulanmamış yanıt oranlarından ve satış sonuçlarından ayırın.",
+      "body_notes": "GojiberryAI, web sitesi URL’sinden iletişim başlatma iş akışını gösteriyor; LinkedIn ve e-posta üzerinden saniyeler içinde yüksek niyetli yüzlerce potansiyel müşteriyle iletişim kurabileceğini iddia ediyor. Ürün demosu yanıt oranlarını veya satış sonuçlarını doğrulamıyor."
+    },
+    {
+      "public_number": 155,
+      "title": "Ramp’in muhasebe görevi değerlendirmesi",
+      "takeaway": "Ramp’in bildirdiği maliyet ve hız kazanımlarını Accounting Bench çalışmasıyla sınırlı tutun.",
+      "body_notes": "Ramp erken erişimi ve Accounting Bench üzerinde yaptığı çalışmayı açıklıyor. Ekip, %61 daha düşük maliyet ve 1.7× hızla Fable 5.1’e yakın performans bildiriyor; bu, tüm muhasebe işlerinde aynı kazanımları kanıtlamaz."
+    },
+    {
+      "public_number": 156,
+      "title": "fable-advisor ile çok modelli ekip",
+      "takeaway": "İş birliğine dayalı ekip iş akışını benimsemeden önce açık kaynak eklentinin model rollerini inceleyin.",
+      "body_notes": "Eklenti yazarı; Opus 5.5, Fable 5.1, GPT-6 Sol ve Luna’yı iş birliği yapan bir ekipte birleştiren ücretsiz, açık kaynak Claude Code eklentisi fable-advisor v6.0.0’ı yayımlıyor. Bu, yazarın kendi iş akışı sürümüdür."
+    },
+    {
+      "public_number": 157,
+      "title": "ntm’de görev devri ve çalışan değişimi",
+      "takeaway": "Bir orkestrasyon aracında çalışanları model sürümleri arasında değiştirirken açık bir devir kullanın.",
+      "body_notes": "ntm aracının yazarı, Opus 5’ten devir istemi yazmasını istediğini, ardından Opus 5.5’in eski çalışanları durdurup yeniden başlattığını bildiriyor. Bu, yazarın kendi orkestrasyon aracında öz beyanla aktardığı bir model geçiş iş akışıdır."
+    },
+    {
+      "public_number": 158,
+      "title": "Apple Watch’tan ajanları yönlendirmek",
+      "takeaway": "Saat uygulamasının ajan görünümünü ve dikte edilen komutları, yazarın RSI spekülasyonundan ayrı inceleyin.",
+      "body_notes": "Yazar, bir saatlik keşfin çalışan Herdr ajanlarını gösteren ve dikte edilen komutları kabul eden bir Apple Watch uygulaması ortaya çıkardığını söylüyor. Bu bildirilen bir uygulama sonucudur; gönderinin ayrı RSI spekülasyonu kanıtlanmış olgu değildir."
+    },
+    {
+      "public_number": 159,
+      "title": "Çaba düzeyini değiştirirken istem önbelleğini korumak",
+      "takeaway": "Önbelleği koruyan çaba değiştirme rehberini kullanırken belirtilen Claude Code sürüm gereksinimini koruyun.",
+      "body_notes": "Claude Code ekibinden biri, oturum ortasında Opus 5.5 çaba düzeyini değiştirmenin Claude Code v2.1.280 ve sonrasında istem önbelleğini koruduğunu açıklıyor. Rehber bu araç ve sürüm aralığına özgüdür."
+    },
+    {
+      "public_number": 160,
+      "title": "T3 Code model önbelleğini yenilemek",
+      "takeaway": "Beklenen model listede yoksa T3 Code ekibinin önbellek yenileme işlemini izleyin.",
+      "body_notes": "T3 Code ekibi uygulama güncellemesi gerekmediğini söylüyor ve model listesini zorla yenilemeyi açıklıyor: uygulamayı kapatın, belirtilen model manifestosu önbelleklerini temizleyin ve yeniden başlatın. Bu bir entegrasyon bakım rehberidir."
+    },
+    {
+      "public_number": 161,
+      "title": "Proje dosyalarını ve ajan oturum geçmişini incelemek",
+      "takeaway": "Oturum geçmişi örüntülerini proje iyileştirmelerine dönüştürmeden önce mevcut kodla çapraz kontrol edin.",
+      "body_notes": "Altı adımlı eğitim; yinelenen düzeltmeleri ve hataları bulmak, mevcut kodu kontrol etmek, planı incelemek, değişiklikleri test etmek ve iyileştirmeleri kaydetmek için proje dosyalarını yerel oturumlarla birleştiriyor. Doğrulanmış uygulama raporu değil, bir istem sunuyor."
+    },
+    {
+      "public_number": 162,
+      "title": "ProgramBench’te çok ajanlı hız",
+      "takeaway": "Bildirilen çok ajanlı hız karşılaştırmasını yorumlarken 200 görevden 166’sının kapsandığını koruyun.",
+      "body_notes": "Yazar, birden fazla ajanın tek ajana benzer sonuçlara daha hızlı ulaştığı sistem kartı sonuçlarını tartışıyor; ProgramBench’in 200 görevinden yalnızca 166’sının kullanıldığını belirtiyor. Bu kapsam sınırı önemlidir."
+    },
+    {
+      "public_number": 163,
+      "title": "100 ajanlı ProgramBench değerlendirmesi",
+      "takeaway": "100 ajanlı kıyaslama değerlendirmesini geleceğe ilişkin spekülatif koordinasyon mekanizmalarından ayrı tutun.",
+      "body_notes": "Bir ProgramBench katkıcısı, kıyaslama üzerinde koordinasyon kuran 100 ajanın model kartı değerlendirmesine dikkat çekiyor. Görev kümesi ve ölçek somuttur; gönderideki geleceğin eşzamanlılık mekanizmaları tartışması spekülatiftir."
+    },
+    {
+      "public_number": 164,
+      "title": "Aynı sokak görüntülerinde etiket takibi",
+      "takeaway": "Bu platform karşılaştırmasında etiketleme doğruluğunun ölçülmediğini koruyarak hareket eden etiketleri inceleyin.",
+      "body_notes": "Higgsfield aynı sokak videosunda Opus 5.5 ve GPT-6 Astra’yı karşılaştırıyor; kamera hareket ederken insanları, binaları ve nesneleri izleyen katmanlar gösteriliyor. Bu, etiketleme doğruluğu ölçümleri bildirilmeyen bir platform karşılaştırmasıdır."
+    },
+    {
+      "public_number": 165,
+      "title": "Roboflow nesne tespit değerlendirmeleri",
+      "takeaway": "Nesne tespitini göreve özgü değerlendirme kapsamı içinde incelemek için Roboflow sıralamasını kullanın.",
+      "body_notes": "Bir Roboflow yöneticisi Opus 5.5, Sol ve Luna için Playground nesne tespit sonuçlarını paylaşıyor ve göreve özgü sıralamaya bağlantı veriyor. Bildirilen sıralamalar tüm görme yeteneklerine değil, bu görsel göreve ilişkindir."
+    },
+    {
+      "public_number": 166,
+      "title": "Medeo’da Seedance 2.5 iş akışlarını karşılaştırmak",
+      "takeaway": "Yönlendiren dil modellerini karşılaştırırken video üretimini Seedance 2.5’e atfedin.",
+      "body_notes": "Medeo, GPT-6 Sol ve Opus 5.5’in Seedance 2.5’i yönlendirmesiyle yapılan videoları sahne anlayışı ve ayrıntıya odaklanarak karşılaştırıyor. Bu bir dil modeli orkestrasyon iş akışıdır; video üretimini Seedance 2.5 gerçekleştiriyor."
+    },
+    {
+      "public_number": 167,
+      "title": "Claude’da Blender ile kil animasyonu yapmak",
+      "takeaway": "Claude’daki tek istemli kil animasyonu iş akışını değerlendirirken Blender’ı hesaba katın.",
+      "body_notes": "Platformla bağlantılı bir yazar, tek istemle kil animasyonu yapmak için claude.ai üzerinden Blender kullanımını gösteriyor. Animasyon iş akışı, dil modelinin doğrudan video üretmesine değil Blender’a dayanıyor."
+    },
+    {
+      "public_number": 168,
+      "title": "Tesseract’ta lansman videosu yeniden yapımlarını karşılaştırmak",
+      "takeaway": "Tesseract’ın düzenleme ve render rolünü açık tutarak lansman videosu yeniden yapımlarını karşılaştırın.",
+      "body_notes": "Tesseract ekibi, lansman videosunu yeniden oluşturmak ve maliyetleri karşılaştırmak için Opus 5.5 ve GPT-6 Astra’yı kendi video aracıyla eşleştiriyor. Düzenleme ve render yeteneklerini Tesseract sağlıyor."
+    },
+    {
+      "public_number": 169,
+      "title": "DocJev için tanıtım videosu",
+      "takeaway": "Ürün tanıtımını Jev’e atfedilen belge işleme çekirdeğinden ayırın.",
+      "body_notes": "DocJev’in yazarı, Opus 5.5 ile yapılmış ürün tanıtım videosunu sergiliyor. Gönderi, belge sınıflandırma ve bölme çekirdeğini Jev araç zincirine atfediyor; tanıtım videosunun yapılması Opus’un bu çekirdeği oluşturduğunu kanıtlamaz."
+    },
+    {
+      "public_number": 170,
+      "title": "Özel skill ile Claude model tarihi",
+      "takeaway": "JavaScript model tarihi videosunu değerlendirirken yazarın özel skill’ini hesaba katın.",
+      "body_notes": "Yazar, Opus 5.5’ten Claude model gelişiminin tarihini oluşturmasını istiyor ve kendi skill’iyle saf JavaScript kullanarak ürettiğini bildiriyor. Bu özel skill iş akışının bir parçasıdır."
+    },
+    {
+      "public_number": 171,
+      "title": "Medeo’da origami kaplan videoları",
+      "takeaway": "Origami video iş akışlarını, dil modellerinin Seedance 2.5’i yönlendirmesi olarak karşılaştırın.",
+      "body_notes": "Medeo, Opus 5.5 ve GPT-6 Astra kullanılarak yapılan origami kaplan videolarını karşılaştırıyor; her iki iş akışında videoyu Seedance 2.5 üretiyor. Gösterim, Opus’un yerel video üretimini değil, dil modellerinin bir video aracını yönlendirmesini konu alıyor."
+    },
+    {
+      "public_number": 172,
+      "title": "Remotion ile BridgeMind kapüşonlu tanıtımı",
+      "takeaway": "Remotion tanıtımının zamanlamasını ve geçişlerini yayıncının öznel model sıralamasından ayrı inceleyin.",
+      "body_notes": "BridgeMind, Opus 5.5 ve Remotion ile yapılmış kapüşonlu sweatshirt lansman videosunu sergiliyor. Yayıncı geçişleri, zamanlamayı ve marka sunumunu önceki Fable 5.1 ve GPT-6 Astra çıktılarına tercih ediyor; bu, kendi tanıtımını yapan bir gösterimde öznel karşılaştırmadır."
+    },
+    {
+      "public_number": 173,
+      "title": "Higgsfield reklamı için süre ve maliyet",
+      "takeaway": "Reklamın süre ve maliyet karşılaştırmasını platformun bildirdiği üretim kanıtı olarak değerlendirin.",
+      "body_notes": "Higgsfield reklam videosu üretimini karşılaştırıyor; Opus 5.5 için 60 dakika ve $50, GPT-6 Astra için 82 dakika ve $97 bildiriyor. Bu rakamlar platformun kendi üretim gösteriminden geliyor."
+    },
+    {
+      "public_number": 174,
+      "title": "Duyuru gönderisinden kodlanan lansman videosu",
+      "takeaway": "Görselleri ve sesi kodla oluşturulan lansman videosu için duyuru gönderisini yaratıcı tanım olarak değerlendirin.",
+      "body_notes": "Yazar orijinal duyuru gönderisini sağlıyor ve Opus 5.5’ten JavaScript ile lansman videosu kodlamasını istiyor; tüm müzik, ses ve görsellerin haricî varlıklar olmadan kodla yapıldığını bildiriyor."
+    },
+    {
+      "public_number": 175,
+      "title": "Claude’un gözünden paylaşılan stop-motion görünüm",
+      "takeaway": "Paylaşılan stop-motion filmi araç zinciri belirtilmemiş ikinci el bir gösterim olarak değerlendirin.",
+      "body_notes": "Gönderi, dünyayı Claude’un gözünden görmeye ilişkin stop-motion animasyonu paylaşıyor ve içindeki her şeyi Opus 5.5’in yaptığını iddia ediyor. Bu, araç zinciri belirtilmemiş ikinci el bir gösterimdir."
+    },
+    {
+      "public_number": 176,
+      "title": "Müzikli videoyu iki saniyeden 22 saniyeye geliştirmek",
+      "takeaway": "Sürenin ve kodla yapılan müziğin nasıl geliştiğini incelemek için ardışık video sürümlerini karşılaştırın.",
+      "body_notes": "Yazar, videoyu iki saniyeden 17 ve ardından 22 saniyeye uzatan üç sürümü gösteriyor ve müziğini kodlamak için de Opus 5.5 kullandığını bildiriyor."
+    },
+    {
+      "public_number": 177,
+      "title": "Photoshop ve Fusion ile video bozulmalarını düzeltmek",
+      "takeaway": "İddia edilen zaman tasarrufunun bağımsız doğrulandığını varsaymadan Photoshop ve Fusion düzeltmelerini inceleyin.",
+      "body_notes": "Higgsfield, Opus 5.5’in yapay zekâyla üretilen videodaki render hatalarını onarmak için Photoshop ve DaVinci Resolve Fusion kullanmasını sergiliyor. Platform saatler süren elle çalışma yerine dakikalar sürdüğünü iddia ediyor; bu zaman tasarrufu bağımsız olarak doğrulanmamıştır."
+    },
+    {
+      "public_number": 178,
+      "title": "Web sitesinden Kotlin tanıtımına",
+      "takeaway": "Web sitesinden Kotlin tanıtımına iş akışını değerlendirirken HyperFrames skill’lerini hesaba katın.",
+      "body_notes": "JetBrains, bir ekip üyesinin Opus 5.5’e HeyGen’in HyperFrames skill’lerini verdiğini ve tanıtım yapması için Kotlin web sitesine yönlendirdiğini sergiliyor. Üretim iş akışı bu skill’lere dayanıyor."
+    },
+    {
+      "public_number": 179,
+      "title": "Ham görüntüleri kişisel stile göre düzenlemek",
+      "takeaway": "Kişisel stile uyum isterken referans görüntü verin ve düzenlemeleri doğrudan kontrol edin.",
+      "body_notes": "Yazar, kayıt hataları içeren ham görüntülerle bir referans örneği sağlıyor ve tek istemin Opus 5.5’e bunları alışılmış tarzında düzenlettiğini bildiriyor. Stil uyumu yazarın değerlendirmesidir ve iş akışı referans görüntüleri içeriyor."
+    },
+    {
+      "public_number": 180,
+      "title": "Coinacademy makalesini FLOP Labs videosuna dönüştürmek",
+      "takeaway": "Kısa bir tanıtım videosu için mevcut bir makaleyi kaynak tanım olarak kullanın.",
+      "body_notes": "Yazar kendi Coinacademy makalesini girdi olarak kullanıyor ve Opus 5.5 ile iki istemde FLOP Labs tanıtım videosu yaptığını bildiriyor."
+    },
+    {
+      "public_number": 181,
+      "title": "GPT-6 Sol ile karşılaştırılan video çıktıları",
+      "takeaway": "Ortak istem veya üretim araç zinciri varsaymadan gösterilen video çıktılarını karşılaştırın.",
+      "body_notes": "Yazar, gönderide istemi, betikleri veya üretim araç zincirini belirtmeden GPT-6 Sol ve Opus 5.5’e atfedilen videoları yan yana koyuyor."
+    },
+    {
+      "public_number": 182,
+      "title": "serai için kodla yapılan tanıtım videosu",
+      "takeaway": "Belirtilmeyen render araçlarını çözümlenmemiş bırakarak kodla yapılan serai tanıtımını inceleyin.",
+      "body_notes": "Yazar, Opus 5.5’ten kod yoluyla serai için tanıtım videosu oluşturmasını istiyor ve sonucu paylaşıyor. Gönderi düzenleme veya render araçlarını belirtmiyor."
+    },
+    {
+      "public_number": 183,
+      "title": "Cowork’te yapılan Opus 5.5 açıklama videosu",
+      "takeaway": "Açıklama videosundaki model ve fiyat iddialarını başarılı video üretiminden ayrı doğrulayın.",
+      "body_notes": "Yazar, Opus 5.5’ten Cowork’te kendisi hakkında açıklama videosu yapmasını istiyor ve haricî API kullanmadığını bildiriyor. Videonun yetenek ve fiyat ifadeleri, yapımı sayesinde bağımsız olarak doğrulanmış sonuçlar değil, konusudur."
+    },
+    {
+      "public_number": 184,
+      "title": "Video gösterimi ve planlanan fal birleşimi",
+      "takeaway": "Sergilenen videoyu geleceğe dönük fikir olarak kalan fal entegrasyonundan ayrı tutun.",
+      "body_notes": "Yazar, render araç zincirini belirtmeden öne çıkan videoyu Opus 5.5’in kendi başına yaptığını söylüyor. fal ile, özellikle H3 Max ile birleştirme, tamamlanmış entegrasyon değil geleceğe dönük fikir olarak anlatılıyor."
+    },
+    {
+      "public_number": 185,
+      "title": "Hareketli metinle UGC klasörlerini düzenlemek",
+      "takeaway": "UGC düzenleme iş akışını değerlendirirken Tesseract’ın metin animasyonu rolünü hesaba katın.",
+      "body_notes": "Yazar, Opus 5.5’i AI UGC klasörlerine yönlendiriyor ve video kurgulamak için Tesseract kullanıyor; metin animasyonlarını Tesseract’ın oluşturduğunu vurguluyor. Demo görüntü düzenleme iş akışını destekler; bütün bir içerik hesabının otomasyonunu doğrulamaz."
+    },
+    {
+      "public_number": 186,
+      "title": "Oyun motorlarında Arapça metin eğitimi",
+      "takeaway": "Kodla yapılan Arapça metin eğitimini değerlendirirken logo ve ElevenLabs ses bağımlılıklarını koruyun.",
+      "body_notes": "Yazar, Arapçayı desteklemeyen oyun motorlarında Arapça metin hakkında eğitim kodlamak için Opus 5.5 kullanıyor ve 18 dakikalık programlama bildiriyor. Üretimde logo görüntüsü ve ElevenLabs sesi de kullanılıyor; dolayısıyla her varlık Opus tarafından üretilmiş değildir."
+    },
+    {
+      "public_number": 187,
+      "title": "Kodlanmış müzikli mürekkep yıkama şemsiye öyküsü",
+      "takeaway": "Kodla yapılan görselleri ve özgün müziği koordine etmek için şemsiye öyküsünü referans olarak kullanın.",
+      "body_notes": "Yazar, kaybolan bir şemsiyenin kurbağayı, salyangozu ve yavrularıyla bir ördeği barındırdığı kısa film gösteriyor; Opus 5.5’in hem mürekkep yıkama görsellerini hem müziği kodla yaptığını bildiriyor."
+    },
+    {
+      "public_number": 188,
+      "title": "İki depoya yerleştirilmiş 105 hatayı düzeltmek",
+      "takeaway": "Eşit ayrıntıyla belgelenmeyen tekrar sayılarını hesaba katarak hata düzeltme sayılarını ve maliyetleri karşılaştırın.",
+      "body_notes": "Yazar, iki depoya yerleştirilmiş 105 hata içinden Max çaba düzeyinde düzeltmeleri ve maliyetleri bildiriyor: Opus 5.5, 43/$60.49; Astra, 45/$33.03; Fable 5.1, 43/$77.55; Opus 5, 27/$51.33; Muse Spark 1.3, 32.2/$18.11. Gönderi yalnızca Astra için açıkça n=3 belirtiyor; tekrar sayıları eşit ayrıntıyla belgelenmemiştir."
+    },
+    {
+      "public_number": 189,
+      "title": "CS2 hile programı üretildiği iddiası",
+      "takeaway": "Gösterimin çalışmayı kanıtladığını varsaymadan CS2 programını doğrulanmamış yazar iddiası olarak değerlendirin.",
+      "body_notes": "Yazar, Opus 5.5’in tek denemede bir CS2 hile programı ürettiğini iddia ediyor ve gösterim paylaşıyor. Gerçek çalışması doğrulanmamıştır; kayıt yazarın iddiasını belgeliyor."
+    },
+    {
+      "public_number": 190,
+      "title": "Süren circuit_eval kontrol noktası testi",
+      "takeaway": "Kontrol noktalarındaki ilerlemeyi nihai sonuç olarak yorumlamadan önce circuit_eval çalışmasının bitmesini bekleyin.",
+      "body_notes": "Yazar, ardışık circuit_eval kontrol noktalarında Opus 5.5’i Medium çaba düzeyinde test ediyor ve Opus 5’in ikinci kontrol noktasından sonra hata verdiği bildirimiyle karşılaştırıyor. Test hâlâ sürüyordu ve her on dakikada güncelleme planlanıyordu; dolayısıyla bu nihai sonuç değildir."
+    },
+    {
+      "public_number": 191,
+      "title": "Koruma mekanizmalarının kestiği sistem geliştirme görevleri",
+      "takeaway": "Bildirilen koruma kesintilerini yazarın tamamlanmamış görevleri ve oturumuyla sınırlı tutun.",
+      "body_notes": "Yazar, gömülü sistem, sürücü ve sistem düzeyi görevleri tamamlanmadan siber sınıflandırıcının kesintilerini bildiriyor. Bu, sistem veya güvenlik çalışmalarının evrensel engellenmesini değil, o günkü kişisel deneyimini anlatıyor."
+    },
+    {
+      "public_number": 192,
+      "title": "Kişisel web uygulamasında güvenlik sorunlarını incelemek",
+      "takeaway": "Kaynak kodu güvenlik incelemesini uygulamaya karşı güvenlik testleri yürütmekten ayırın.",
+      "body_notes": "Yazar, ret almadan modelle kendi web uygulamasının kaynak kodunu okutup güvenlik sorunlarını belirlediğini bildiriyor. Kaynak incelemesini güvenlik testleri çalıştırmaktan açıkça ayırıyor."
+    },
+    {
+      "public_number": 193,
+      "title": "12 yamada sorun bulmak",
+      "takeaway": "Otomatik maliyet düşüşü iddia etmek yerine yama inceleme bulgularını API eşdeğeri maliyet tahminleriyle karşılaştırın.",
+      "body_notes": "E-posta listesi yama inceleme testinde Opus 5.5, 14 sorundan 8’ini; Opus 5 ise 6’sını buluyor. $15.40 ve $15.19 rakamları abonelik kullanımının API eşdeğeri tahminleridir; dolayısıyla yeni model burada kesin olarak daha ucuz değildir."
+    },
+    {
+      "public_number": 194,
+      "title": "Oyun projesinde hata ayıklamak",
+      "takeaway": "Oyun hata ayıklama başarısını kamuya açık yeniden üretim kanıtı olmayan erken bir kişisel rapor olarak değerlendirin.",
+      "body_notes": "Oyun projesinde kısa bir denemeden sonra yazar, birkaç karmaşık hatayı tek denemede çözdüğünü bildiriyor. Kamuya açık sorun kümesi veya yeniden üretme adımları sunulmadığı için bu, erken bir kişisel kullanım raporu olarak kalıyor."
+    },
+    {
+      "public_number": 195,
+      "title": "Khan Academy’nin PR inceleme botu",
+      "takeaway": "PR botu raporunu maliyet, çağrılar, çalışma süresi ve inceleme kalitesini ölçmek için ekibe özgü referans olarak kullanın.",
+      "body_notes": "Yazar, kurum içi PR inceleme botunu Opus 5’ten 5.5’e geçirdikten sonra kalite düşüşü olmadan %50 daha düşük maliyet, %34 daha az araç çağrısı ve %62 daha kısa yürütme süresi bildiriyor. Bunlar tek bir ekibin gözlemleridir."
+    },
+    {
+      "public_number": 196,
+      "title": "Korumanın tetiklediği yedek modele geçişten sonra ret",
+      "takeaway": "Son reddi Opus 5.5’e atfetmeden önce yedek modeli belirleyin.",
+      "body_notes": "Ekran görüntüsü, yetkisiz güvenlik talebinin Opus 5.5’in siber korumasını tetiklemesini, ardından Opus 4.8’e geçişi ve reddi gösteriyor. Saldırı gerçekleştirilmiyor ve nihai yanıt yedek modelden geliyor."
+    },
+    {
+      "public_number": 197,
+      "title": "On görevlik CyScenarioBench alt kümesi",
+      "takeaway": "Bildirilen çözüm oranını on görevlik CyScenarioBench alt kümesiyle sınırlı tutun.",
+      "body_notes": "Irregular, çok aşamalı siber kıyaslamasının on görevlik alt kümesinde Opus 5.5 için %67.6 ortalama çözüm oranı, Mythos 5.1 için %61.7 ve Opus 5 için %53.0 bildiriyor. Bunlar değerlendiricinin bildirdiği alt küme sonuçlarıdır."
+    },
+    {
+      "public_number": 198,
+      "title": "Opsiyon kavramı açıklamalarını karşılaştırmak",
+      "takeaway": "Yazarın erken erişim açıklamasını koruyarak açıklama kesitlerini karşılaştırın.",
+      "body_notes": "Yazar, bir opsiyon kavramını açıklayan ekran görüntüleriyle Opus 5 ve Opus 5.5’i karşılaştırıyor, yeni metni daha doğrudan ve doğal buluyor. Yazar erken test erişimini açıklıyor; gönderinin ticari koşulları belirtilmiyor."
+    },
+    {
+      "public_number": 199,
+      "title": "Orman ve nehir çevresinde geçen öykü kesiti",
+      "takeaway": "Eksik yazım tanımını yeniden kurgulamadan öykü kesitinin anlatımını değerlendirin.",
+      "body_notes": "Ekran görüntüsü, yazarın Opus 5.5’e atfettiği, orman ve nehir çevresinde geçen öykü pasajını gösteriyor. Orijinal istem bulunmadığı için tam yazım tanımı bu kesitten yeniden kurulamaz."
+    },
+    {
+      "public_number": 200,
+      "title": "Depodaki zamanlayıcıyı açıklamak",
+      "takeaway": "Teknik zamanlayıcı açıklamasını kısaltırken hem doğruluğu hem okuyucu geri bildirimini kontrol edin.",
+      "body_notes": "Yazar, doğruluk ayrıntılarını koruyan kısa bir zamanlayıcı açıklaması istiyor ve sonucu paylaşıyor. Kendisi daha anlaşılır bulurken aynı dizideki okuyucular benzetmeleri ve ifadeleri eleştirmeye devam ediyor."
+    },
+    {
+      "public_number": 201,
+      "title": "Eski modelin metnini sadeleştirmek",
+      "takeaway": "Metni sadeleştirmek için önceki ve sonraki başlıkları somut referans olarak kullanın.",
+      "body_notes": "Yazar, Opus 5.5’ten daha eski bir Opus’un yazdığı belgeyi düzenlemesini istiyor; Scope ve Status gibi daha kısa etiketler dahil önceki ve sonraki başlıkları gösteriyor. Kanıt bu belirli düzenleme sonucudur."
+    },
+    {
+      "public_number": 202,
+      "title": "En kısa yol algoritmasını araştıran on ajan",
+      "takeaway": "Bildirilen en kısa yol iyileştirmesine güvenmeden önce bağımsız ispat kontrolleri ve yeniden üretim arayın.",
+      "body_notes": "Vals AI, on Opus 5.5 ajanının 15 saat içinde C-HD’yi ürettiği kendi deneyini bildiriyor; yayımlanmış en kısa yol sınırlarına göre Lean ile biçimselleştirilmiş bir iyileştirme iddia ediyor. Kanıt incelemesi ispatı veya pratik çalışma süresi kazanımlarını bağımsız doğrulamadı; araştırma iddiası hâlâ yeniden üretilmeyi bekliyor."
+    },
+    {
+      "public_number": 203,
+      "title": "tscircuit’te Bluetooth hoparlör devreleri",
+      "takeaway": "Donanım üretilip test edilene kadar tscircuit hoparlör tasarımını şema gösterimi olarak değerlendirin.",
+      "body_notes": "tscircuit ile bağlantılı bir yazar, tscircuit ile Bluetooth hoparlör yapmaya yönelik aynı istek üzerinde Opus 5.5 ve GPT-6 Astra’yı karşılaştırıyor. Bu, üretilmiş veya test edilmiş donanım kanıtı olmadan yazarın kendi aracının gösterimidir."
+    },
+    {
+      "public_number": 204,
+      "title": "Devre şeması görevinin süresini ölçmek",
+      "takeaway": "Daha geniş hız temelli sıralamaları geçici tutarak şema çıktılarını bildirilen çalışma süresiyle karşılaştırın.",
+      "body_notes": "Yazar, Opus 5.5 ile sekiz dakikalık, Grok 4.7 ile 20 dakikalık devre şeması çalışması bildiriyor ve Opus’un kalitesini tercih ediyor. Astra’yı geçebileceği önerisi yazarın hıza dayalı görüşüdür."
+    },
+    {
+      "public_number": 205,
+      "title": "ARC-AGI puanları ve görev başına maliyet",
+      "takeaway": "ARC puanlarını ve görev başına maliyetleri değerlendiricinin bildirdiği test koşulları altında yorumlayın.",
+      "body_notes": "ARC Prize, ARC-AGI-2’de görev başına $0.41 ile %93.3 ve ARC-AGI-1’de $0.16 ile %98.5 doğrulanmış sonuçlarını bildiriyor. Puanlar ve maliyetler değerlendiricinin bildirdiği koşullar için geçerlidir."
+    },
+    {
+      "public_number": 206,
+      "title": "Interaction Calculus kurallarını yazmak",
+      "takeaway": "Bildirilen kalkülüs kurallarının yeniden üretimini gelecekte önerilen Bend yeniden yazımından ayırın.",
+      "body_notes": "Alanın yazarı, Opus 5.5’in ayrıntılı Interaction Calculus dilbilgisini ve kurallarını yeniden ürettiğini bildiriyor ve karşılaştırma için bir proje adlandırıyor. Bend’i kendi içinde yeniden yazmak tamamlanmış sonuç değil, yalnızca gelecek fikri olarak yer alıyor."
+    },
+    {
+      "public_number": 207,
+      "title": "Paintbrush’ta fareyle Mona Lisa çizmek",
+      "takeaway": "Fareyle çizilen sonuçları ortak kısıtlar ve platformun bildirdiği süre ve maliyet tahminleriyle karşılaştırın.",
+      "body_notes": "Higgsfield, her iki modelden Paintbrush’ta yalnızca siyah çizgiler ve fare-klavye kontrolüyle Mona Lisa çizmesini istiyor. Platform Opus 5.5 için 11m 42s ve tahminî $1.66, GPT-6 Astra için 5m 26s ve tahminî $2.72 bildiriyor."
+    },
+    {
+      "public_number": 208,
+      "title": "Modellerin Paint’te nasıl çizdiğini karşılaştırmak",
+      "takeaway": "Gereken çizim etkileşimini doğrulayın ve ekli karşılaştırma videosunu Opus çıktısından ayırın.",
+      "body_notes": "Yazar, her iki modelden Paint’te portre çizmesini ve Magnific MCP ile hareketlendirmesini istiyor; ancak Opus’un istenen etkileşim yerine kestirme yol kullandığını söylüyor. Ekli video açıkça ChatGPT karşılaştırma çıktısını gösteriyor."
+    }
+  ]
+}

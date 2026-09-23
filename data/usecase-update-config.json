@@ -1,7 +1,19 @@
 {
   "namespace": {
     "numbering_order": "document",
-    "menu_policy": "per-case"
+    "menu_policy": "per-case",
+    "localized_heading_prefixes": {
+      "README_es.md": "Caso",
+      "README_pt.md": "Caso",
+      "README_ja.md": "ケース",
+      "README_ko.md": "사례",
+      "README_de.md": "Fall",
+      "README_fr.md": "Cas",
+      "README_tr.md": "Örnek",
+      "README_zh-TW.md": "案例",
+      "README_zh-CN.md": "案例",
+      "README_ru.md": "Пример"
+    }
   },
   "structured_data": {
     "path": "data/use-cases.json",

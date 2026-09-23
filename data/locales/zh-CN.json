@@ -1,0 +1,1307 @@
+{
+  "locale": "zh-CN",
+  "labels": {
+    "intro": "简介",
+    "overview": "概览",
+    "quick": "快速开始",
+    "menu": "目录",
+    "related": "相关仓库",
+    "ack": "致谢",
+    "title": "Claude Opus 5.5 使用案例",
+    "subtitle": "有来源依据的工作流、演示、对比与局限",
+    "introtext": "探索大家使用 Claude Opus 5.5 制作和测试的游戏、3D 场景、编码工具、研究与创意工作流，每条案例均链接至发布方，并保留原始说法的适用边界",
+    "note": "这些是注明归属的来源报告，未经独立复现；借助工具制作的视频与图形不能证明模型具备原生媒体生成能力；推广性对比保留发布方归属，重复帖子不算独立实验；下方日期为来源发布日期（UTC），不是导入日期",
+    "cta": "在 EvoLink 上了解 Claude Opus 5.5",
+    "key": "创建 EvoLink API 密钥",
+    "doc": "阅读 Claude Messages API 指南",
+    "steps": [
+      "打开模型页面，查看当前可用性与能力",
+      "在 EvoLink 控制台创建 API 密钥",
+      "按照模型页面链接的专用 API 指南或 agent 使用说明操作"
+    ],
+    "category": "分类",
+    "case": "案例",
+    "type": "类型",
+    "play": "播放来源视频",
+    "media": "来源附件",
+    "support": "补充来源／合并报告",
+    "acktext": "感谢下列创作者和发布方，原始演示、截图、商标及链接作品的权利归各自所有者；如需更正署名或请求移除，请使用仓库的更正 issue 模板联系维护者",
+    "foot": "编辑摘要与收集结构采用 CC BY 4.0；第三方媒体保留原有权利",
+    "overviewtext": "**精选 208 条 Claude Opus 5.5 案例**，覆盖创作、开发、研究与评测",
+    "overviewbullets": [
+      "结合官方指南，查看社区演示、工作流、对比与有记录的局限",
+      "每条案例包含原始来源、发布方、来源发布日期、简短要点与有来源依据的说明",
+      "通过目录查看具体任务，再沿来源链接了解已披露的工具、输入和结果"
+    ],
+    "case_label": "案例",
+    "by_label": "作者",
+    "relatedtext": "Anthropic 的相关资源介绍其自身工具与 API，并非 EvoLink Claude Opus 5.5 安装指南",
+    "categories": {
+      "official": "官方指南与展示",
+      "games": "游戏开发",
+      "education": "交互学习与可视化",
+      "3d": "3D 建模与场景",
+      "audio": "音乐与声音",
+      "graphics": "创意图形与动画",
+      "web": "网站与界面",
+      "business": "业务分析与文档",
+      "agents": "Agent 与开发工作流",
+      "vision": "视觉理解与标注",
+      "video": "视频编辑与制作",
+      "coding": "代码维护与测试",
+      "writing": "写作与讲解",
+      "science": "科学研究与电路",
+      "computer-use": "电脑操作"
+    }
+  },
+  "items": [
+    {
+      "public_number": 1,
+      "title": "官方转发的西瓜故事短片",
+      "takeaway": "可将官方转发的西瓜短片作为叙事参考，但其制作过程仍未公开",
+      "body_notes": "Claude 官方账号将 Kevin Ngo 的西瓜故事短片列为 Opus 5.5 的早期探索；该帖是官方二手展示，没有提供独立制作复现"
+    },
+    {
+      "public_number": 2,
+      "title": "交接完整任务",
+      "takeaway": "交接完整任务前，先定义完成条件和汇报节点",
+      "body_notes": "官方指南建议先定义完成条件与汇报时机，再交接完整任务；不必重复要求“认真思考”，长任务后检查继续推进所需信息；帖子附完整 playbook"
+    },
+    {
+      "public_number": 3,
+      "title": "武士游戏对比",
+      "takeaway": "比较武士游戏产物时，保留发布方的平台推广背景",
+      "body_notes": "Higgsfield 展示 Opus 5.5 与 GPT-6 Astra 制作的武士游戏对照，属于平台自身的推广演示"
+    },
+    {
+      "public_number": 4,
+      "title": "一次生成 Mario Kart 游戏",
+      "takeaway": "接受平台的质量判断前，先检查这款自称一次生成的赛车游戏中可操作的角色",
+      "body_notes": "BridgeMind 平台展示一次生成的 Mario Kart 游戏，包含可操作的马里奥与路易吉角色；平台称其效果优于 Fable 5.1，这是其推广中的主观评价"
+    },
+    {
+      "public_number": 5,
+      "title": "浏览器中的 Minecraft 克隆",
+      "takeaway": "通过浏览器 Minecraft 演示查看这次游戏生成的实际产物",
+      "body_notes": "作者展示在浏览器中运行的 Minecraft 克隆测试，呈现这次游戏生成的结果"
+    },
+    {
+      "public_number": 6,
+      "title": "单个 HTML 的机械主题游戏",
+      "takeaway": "可参考该平台演示，用单个 HTML 文件实现程序化游戏画面与声音",
+      "body_notes": "这则平台推广展示受安提基特拉机械启发的游戏：单个约 3 MB 的 HTML 文件实时生成视听内容"
+    },
+    {
+      "public_number": 7,
+      "title": "Roblox 动漫角色大乱斗",
+      "takeaway": "评估这款自称一次生成的格斗游戏时，应计入 Roblox toolbox 素材的作用",
+      "body_notes": "作者表示仅借助 Roblox toolbox，一次生成动漫角色大乱斗游戏，并主观认为效果优于 Fable；游戏依赖该工具提供的资源"
+    },
+    {
+      "public_number": 8,
+      "title": "蜘蛛侠游戏的三模型对比",
+      "takeaway": "按相同的可见玩法特征比较三款蜘蛛侠游戏产物",
+      "body_notes": "作者以蜘蛛侠游戏为题，比较 Opus 5.5、Fable 5.1 和 GPT-6 Astra 的生成结果"
+    },
+    {
+      "public_number": 9,
+      "title": "带水物理的 Minecraft 克隆",
+      "takeaway": "衡量作者报告的水物理效果时，也要考虑更长的模型运行时间",
+      "body_notes": "作者展示包含水物理与游戏机制的 Minecraft 克隆，并提供试玩链接；作者认为结果优于 Astra，但这次模型运行比 Astra 更慢"
+    },
+    {
+      "public_number": 10,
+      "title": "DEAD SIGNAL 第一人称场景",
+      "takeaway": "独立查看同提示词的第一人称场景，避免直接沿用平台的质量判断",
+      "body_notes": "BridgeBench 平台以相同提示词和任务比较 Opus 5.5 与 GPT-6 Sol；媒体预览为 DEAD SIGNAL 第一人称游戏场景，效果评价来自平台自身推广"
+    },
+    {
+      "public_number": 11,
+      "title": "纯代码养蜂游戏",
+      "takeaway": "参考养蜂演示，了解如何用代码绘制游戏素材并实现玩法机制",
+      "body_notes": "作者表示用一条提示生成养蜂游戏，没有图像素材文件，蜂箱、花、蜜蜂和养蜂人均以代码绘制；玩法包含种花、蜜蜂飞行与采蜜"
+    },
+    {
+      "public_number": 12,
+      "title": "贪吃蛇游戏演示",
+      "takeaway": "将贪吃蛇演示作为生成游戏逻辑与画面的小型案例查看",
+      "body_notes": "作者展示用 Opus 5.5 制作的贪吃蛇游戏，作为具体游戏作品记录"
+    },
+    {
+      "public_number": 13,
+      "title": "3D 游戏效果对比 Sol",
+      "takeaway": "比较展示的 3D 游戏产物时，不把平台偏好当成独立评测",
+      "body_notes": "Higgsfield 平台展示 Opus 5.5 与 GPT-6 Sol 的 3D 游戏开发效果对比，属于平台自营推广"
+    },
+    {
+      "public_number": 14,
+      "title": "多人台球与观战系统",
+      "takeaway": "采信作者报告的多人模式和玩家活跃情况前，先检查链接中的台球游戏",
+      "body_notes": "作者称一次生成支持 8-ball、9-ball、斯诺克和 2v2 的多人台球游戏，包含语音、赛事、评分、回放、观战及移动端和浏览器支持；帖子提供链接，已有玩家试玩的说法来自作者自述"
+    },
+    {
+      "public_number": 15,
+      "title": "Higgsfield API 构建街机游戏",
+      "takeaway": "查看这款基于平台 API 的游戏演示中的水面反射与街机玩法",
+      "body_notes": "Higgsfield 平台展示通过其 API 构建的游戏，画面包括水面反射和街机玩法；这是平台自身的推广案例"
+    },
+    {
+      "public_number": 16,
+      "title": "Minecraft 浏览器游戏复现",
+      "takeaway": "通过浏览器中的复现作品评估这次 Minecraft 克隆尝试的可见范围",
+      "body_notes": "作者展示在浏览器中制作的 Minecraft 克隆，记录这一游戏复现尝试"
+    },
+    {
+      "public_number": 17,
+      "title": "让直播观众加入割草游戏",
+      "takeaway": "可邀请直播观众在个人服务器上测试多人原型",
+      "body_notes": "作者展示包含啤酒和雪茄元素的多人割草模拟器，并部署到自己的服务器，让直播观众加入游戏"
+    },
+    {
+      "public_number": 18,
+      "title": "带最终 Boss 的涂鸦射击",
+      "takeaway": "查看这款自称一次生成的射击游戏如何结合涂鸦风格与最终 Boss",
+      "body_notes": "作者表示一次生成涂鸦风射击游戏，作品还包含最终 Boss"
+    },
+    {
+      "public_number": 19,
+      "title": "Medium 档制作 Mario 游戏",
+      "takeaway": "将 Mario 演示作为 Medium 档游戏生成的参考",
+      "body_notes": "作者展示在 Medium 档设置下生成的 Mario 游戏，保留这一具体运行设置"
+    },
+    {
+      "public_number": 20,
+      "title": "卡丁车竞速画面对比",
+      "takeaway": "依据可见游戏行为比较赛车片段，不据此推断更广泛的模型能力",
+      "body_notes": "该帖比较 Opus 5.5 与 GPT-6 Sol，媒体预览呈现卡丁车竞速游戏画面"
+    },
+    {
+      "public_number": 21,
+      "title": "同提示词游戏对比 GPT-6 Sol",
+      "takeaway": "打开同提示词生成的游戏链接，比较实际游玩体验",
+      "body_notes": "作者用相同提示词生成游戏，展示 Opus 5.5 与 GPT-6 Sol 的结果对比，并表示在下方提供游戏链接"
+    },
+    {
+      "public_number": 22,
+      "title": "一次生成贪吃蛇",
+      "takeaway": "将自称一次生成的贪吃蛇作为小范围生成任务的参考",
+      "body_notes": "作者展示一次生成的贪吃蛇游戏，记录其单次生成尝试"
+    },
+    {
+      "public_number": 23,
+      "title": "Three.js 僵尸射击玩法",
+      "takeaway": "研究这段 Three.js 演示如何在没有素材文件的情况下生成玩法、纹理与声音",
+      "body_notes": "作者展示约 13,000 行 Three.js 制作的 Call of Duty Zombies 风格玩法，包含拆窗木板、Mystery Box、Pack-a-Punch、Jugg、Ray Gun 与 BO1 回合机制；作者称没有素材文件，纹理、嘶吼和提示音均由代码生成"
+    },
+    {
+      "public_number": 24,
+      "title": "两轮打磨的雪地游戏",
+      "takeaway": "为视听效果相互配合的雪地游戏预留打磨轮次与运行时间",
+      "body_notes": "作者用一次初始提示加约两轮打磨制作雪地游戏，模型工作超过一小时；演示包含雪雾、树木、运动轨迹、光影和音效"
+    },
+    {
+      "public_number": 25,
+      "title": "游戏扩展与预告片剪辑",
+      "takeaway": "查看可玩的游戏及其预告片时，保留作者的合作披露",
+      "body_notes": "这则明确合作分发的帖子由提前获用模型的作者发布，介绍给游戏增加新功能并剪辑预告片的结果，同时提供试玩链接"
+    },
+    {
+      "public_number": 26,
+      "title": "Tesana 多人生存岛",
+      "takeaway": "采信所称的游戏内容时长前，先检查 Tesana 岛屿的多人系统",
+      "body_notes": "作者称用少量提示在 Tesana 制作 ARK 风格多人生存岛，包含任务、恐龙驯服、制造和战斗，并与两名朋友在线游玩；30+ 小时内容的说法也是作者自报；报告将该帖标记为可能的合作分发，尚未确认"
+    },
+    {
+      "public_number": 27,
+      "title": "Unreal Engine 游戏制作对比",
+      "takeaway": "结合 Higgsfield 平台工作流比较 Unreal Engine 游戏产物",
+      "body_notes": "Higgsfield 平台展示 Opus 5.5 与 GPT-6 Sol 在 Unreal Engine 中制作 3D 游戏的对比结果，属于平台自营推广"
+    },
+    {
+      "public_number": 28,
+      "title": "Tesana 黑暗幻想 RPG",
+      "takeaway": "查看 Tesana RPG 如何组合区域、任务和配音对话，同时保留合作状态未确认的说明",
+      "body_notes": "作者称用少量提示在 Tesana 制作包含多个区域、任务和配音对话的黑暗幻想 RPG；报告标记为可能的合作分发，尚未确认"
+    },
+    {
+      "public_number": 29,
+      "title": "会触发格斗的吉他商店",
+      "takeaway": "扩展含数百个可演奏吉他模型的 Three.js 商店模拟器前，先测试性能",
+      "body_notes": "作者展示包含 300+ 个可演奏吉他模型的商店模拟器，噪声会触发格斗；作者称 Three.js 有卡顿，计划改用 Blender/Godot 重做，这一步尚未完成"
+    },
+    {
+      "public_number": 30,
+      "title": "手绘风国际象棋与分析",
+      "takeaway": "查看国际象棋演示如何结合手绘外观与走法分析",
+      "body_notes": "Higgsfield 平台展示手绘风国际象棋及走法分析，作为其自营推广中的应用演示"
+    },
+    {
+      "public_number": 31,
+      "title": "飞行模拟器对比 Kimi K3",
+      "takeaway": "选择两个飞行模拟器产物时，同时比较运行表现与自报成本",
+      "body_notes": "作者用相同提示词比较 Opus 5.5 与 Kimi K3 的飞行模拟器，展示 UI、多个摄像机视角和语音；作者报告两边都流畅，而 Kimi K3 成本更低"
+    },
+    {
+      "public_number": 32,
+      "title": "Tesana 单提示词幻想世界",
+      "takeaway": "通过 Tesana 幻想世界展示查看平台整合玩法、音频和 UI 的结果",
+      "body_notes": "Tesana 平台自营推广展示用一次提示生成的幻想世界，包含玩法、系统、音频和 UI"
+    },
+    {
+      "public_number": 33,
+      "title": "十分钟内构建弓箭游戏",
+      "takeaway": "将其不足十分钟的构建时间推广到其他任务前，先检查已部署的弓箭游戏",
+      "body_notes": "作者展示弓箭游戏，并表示构建和部署过程在十分钟内完成"
+    },
+    {
+      "public_number": 34,
+      "title": "Minecraft 与 Warcraft 克隆对比",
+      "takeaway": "比较公开的游戏产物和提示词时，保留推理档位、运行时间与估算费用背景",
+      "body_notes": "作者公开两种游戏的 Opus 5.5、Fable 5.1 和 Astra 产物与提示词；Opus 在 Claude Code 的 xhigh 档约用 45 分钟，$11–14 是订阅使用的 API 等价估算"
+    },
+    {
+      "public_number": 35,
+      "title": "Runescape Bench 的得分与费用",
+      "takeaway": "将 Runescape Bench 的自报费用与排名限定在其游戏任务范围内理解",
+      "body_notes": "作者报告 Opus 5.5 在 Runescape Bench 中得分第二，仅次于 Astra，费用约为其三分之一；这里是游戏任务基准结果，不等同于真实玩家体验或所有游戏开发能力"
+    },
+    {
+      "public_number": 36,
+      "title": "可喂鱼的珊瑚礁壁纸",
+      "takeaway": "参考喂鱼交互，让氛围壁纸具备互动性",
+      "body_notes": "作者展示珊瑚礁主题的交互壁纸，用户可以在场景中喂鱼"
+    },
+    {
+      "public_number": 37,
+      "title": "直播制作的水体模拟",
+      "takeaway": "将展示的水体模拟视为较长直播过程中的一个结果",
+      "body_notes": "作者在直播中制作水体模拟，这条帖子展示三个结果中的一个"
+    },
+    {
+      "public_number": 38,
+      "title": "根据视频复现 3D 水体",
+      "takeaway": "接受作者的相似度评价前，先将复现水体与参考视频对比",
+      "body_notes": "作者以视频为参考，展示一次生成的 3D 水体复现，并主观称接近原参考效果；引用的参考帖是 Grok 4.7 水体演示"
+    },
+    {
+      "public_number": 39,
+      "title": "逐层探索手部解剖",
+      "takeaway": "可查看分层解剖界面，但不要依赖其未经验证的疼痛或康复建议",
+      "body_notes": "Higgsfield 平台展示可逐层查看骨骼、肌肉与肌腱，通过摄像头或点击定位疼痛部位的交互式手部解剖；演示中的可能病因和恢复建议尚未验证"
+    },
+    {
+      "public_number": 40,
+      "title": "Kilo Code 摸草模拟器",
+      "takeaway": "将摸草模拟器产物与平台自报的单次运行费用一起比较",
+      "body_notes": "这则平台推广在 Kilo Code 中比较摸草模拟器，报告 Grok 4.7 花费 3.52 美元，Opus 5.5 花费 7.35 美元；这些是该次运行的自报成本"
+    },
+    {
+      "public_number": 41,
+      "title": "投石机草图转 3D 模拟",
+      "takeaway": "将投石机展示作为草图转模拟的参考，同时保留二手来源属性",
+      "body_notes": "该帖转发将投石机草图变为含物理、控制与音效的 3D 模拟作品，并称只用一条提示；这是转发者提供的二手展示"
+    },
+    {
+      "public_number": 42,
+      "title": "轨道与摆杆物理装置",
+      "takeaway": "估算机械装置模拟的成本时，将 API 运行时间与空闲经过时间分开",
+      "body_notes": "媒体预览展示轨道、摆杆等物理装置；作者账单记载 API 运行 52m 6s、成本 $19.86；总经过时间 4h 21m 包含约三小时闲置，不能全部计作模型工作时间"
+    },
+    {
+      "public_number": 43,
+      "title": "不同重力下的脸部变化",
+      "takeaway": "查看重力控制人脸演示时，保留其可能合作的披露",
+      "body_notes": "作者展示 Higgsfield 中不同重力对脸部的变化效果；报告标记为可能的合作分发，尚未确认"
+    },
+    {
+      "public_number": 44,
+      "title": "用互联网页解释 Web",
+      "takeaway": "可用相互链接的 HTML 页面制作可探索的讲解，同时为自报的长时间运行预留预算",
+      "body_notes": "作者用 Medium effort 一次生成相互链接的 HTML 网页来讲解 Web 工作原理，模型工作四小时以上，并提供体验链接"
+    },
+    {
+      "public_number": 45,
+      "title": "可拆解的人眼 3D 教学页",
+      "takeaway": "将可探索的人眼演示作为分层 3D 学习界面的参考",
+      "body_notes": "Higgsfield 平台展示可拆解检查的人眼 3D 教学网页，并与 GPT-6 Sol 的结果比较；这是平台自营推广中的展示"
+    },
+    {
+      "public_number": 46,
+      "title": "未完成的宇宙尺度交互展示",
+      "takeaway": "尝试跨越宇宙至普朗克尺度的交互项目之前，先设置额度检查节点",
+      "body_notes": "作者尝试制作从可观测宇宙到普朗克尺度的交互展示，但 Max 5x 的使用额度达到上限，作品只完成了部分内容"
+    },
+    {
+      "public_number": 47,
+      "title": "Blender 十秒镜头双模型测试",
+      "takeaway": "比较 Blender 镜头时，同时查看运行时间、token 用量和 API 等价费用",
+      "body_notes": "作者用相同单条提示，仅通过 Blender 比较程序生成的十秒镜头及制作延时；自报 Opus 用时 35m、输出 199.6k token、API 折算约 $13.3；GPT-6 Astra 为 28m、56.6k token、约 $14.5"
+    },
+    {
+      "public_number": 48,
+      "title": "用 Jev 在 Unreal Engine 中制作旧金山",
+      "takeaway": "评估 Unreal Engine 城市场景中的行为时，应计入 Jev 的作用",
+      "body_notes": "作者展示在 Unreal Engine 中重建的旧金山场景，其中人物、宠物与车辆的行为由 Jev 驱动"
+    },
+    {
+      "public_number": 49,
+      "title": "500 种器械的健身房布局",
+      "takeaway": "参考健身房规划工具，将渲染后的设备目录与布局控件结合",
+      "body_notes": "作者展示渲染 500 种健身设备并搭建健身房布局工具的工作"
+    },
+    {
+      "public_number": 50,
+      "title": "四模型火箭发射测试",
+      "takeaway": "比较四款火箭发射产物时，同时查看平台报告的时间与费用",
+      "body_notes": "BridgeBench 平台用同一提示比较四模型生成 3D 火箭发射的结果，属于平台自营推广；自报费用和时间：GPT-6 Luna 不足 $0.01／约 1m，GPT-6 Sol 为 $0.11／1m，Grok 4.7 为 $0.29／11m，Opus 5.5 为 $1.52／12m"
+    },
+    {
+      "public_number": 51,
+      "title": "骑自行车的鹈鹕作品",
+      "takeaway": "将骑自行车的鹈鹕作品作为视觉产物查看，不把它当成已记录完整流程的案例",
+      "body_notes": "作者展示以骑自行车的鹈鹕为主题的作品"
+    },
+    {
+      "public_number": 52,
+      "title": "重建 1906 年地震前的 Market Street",
+      "takeaway": "历史准确性核验前，将 Market Street 场景视为 Blender 创作性复现",
+      "body_notes": "这则平台推广展示用 Blender 一次提示重建 1906 年地震前旧金山 Market Street；“符合历史”的说法来自发帖方"
+    },
+    {
+      "public_number": 53,
+      "title": "Blender 鹈鹕循环动画对比",
+      "takeaway": "比较鹈鹕循环动画时，将平台对角色魅力的偏好单独看待",
+      "body_notes": "Atomic Chat 平台展示 Blender 中鹈鹕骑自行车的循环动画，用相同提示词与 GPT-6 Sol 比较；“更有魅力”的评价来自平台自营推广"
+    },
+    {
+      "public_number": 54,
+      "title": "Blender 作品展示",
+      "takeaway": "由于帖子未说明主题或流程，应直接查看 Blender 产物",
+      "body_notes": "作者分享 Blender 作品，正文没有说明具体制作对象"
+    },
+    {
+      "public_number": 55,
+      "title": "Blender 风车制作流程",
+      "takeaway": "参考风车展示，查看 Blender 建模、绑定、贴图与动画的组合流程",
+      "body_notes": "Higgsfield 平台称用 15 分钟完成 Blender 风车的建模、绑定、贴图和动画，属于平台自营推广中的流程展示"
+    },
+    {
+      "public_number": 56,
+      "title": "纯代码金门大桥场景",
+      "takeaway": "接受作者的质量评价前，将代码生成的大桥场景与链接中的对照内容比较",
+      "body_notes": "作者展示用纯代码生成的金门大桥场景，并主观认为其 3D 场景能力与 Astra 相当，附上对比演示视频"
+    },
+    {
+      "public_number": 57,
+      "title": "火山岛、水下生态与极光",
+      "takeaway": "不要从两个不同的风景场景得出确定的模型排名",
+      "body_notes": "作者展示火山岛、水下生态、植被、猛犸象与极光，对照自报成本 1.6 美元的 Opus 5 和 3.4 美元的 Opus 5.5；作者认为视觉效果接近 Astra，但也说明两个不同场景不足以得出定论"
+    },
+    {
+      "public_number": 58,
+      "title": "外骨骼关节的 Blender 重设计",
+      "takeaway": "机械可靠性验证前，将重新设计的外骨骼视为建模方案",
+      "body_notes": "Higgsfield 平台称一次运行 39 分钟、使用 5.5 million token，分析外骨骼弱点并在 Blender 重设计包括关节的 3D 模型；机械可靠性尚未验证"
+    },
+    {
+      "public_number": 59,
+      "title": "Cowork 中的 Solarpunk 城市",
+      "takeaway": "将太阳朋克场景作为在 Cowork 中构建 3D 环境的自报案例查看",
+      "body_notes": "作者展示在 Cowork 中构建的 solarpunk 城市场景"
+    },
+    {
+      "public_number": 60,
+      "title": "Three.js 纽约街区",
+      "takeaway": "比较两个纽约场景时，检查渲染循环与摄像机运动",
+      "body_notes": "作者展示含出租车、屋顶、布鲁克林大桥和中央公园的 Three.js 纽约场景，并与 GPT-6 Sol 对照；作者称本次 Sol 输出只有静止画面、没有渲染循环且无法移动摄像机"
+    },
+    {
+      "public_number": 61,
+      "title": "另一则鹈鹕骑车作品",
+      "takeaway": "将这一骑车鹈鹕作品作为相同主题的补充视觉参考",
+      "body_notes": "作者展示用 Opus 5.5 制作的鹈鹕骑自行车作品"
+    },
+    {
+      "public_number": 62,
+      "title": "Blender 新干线车厢模型",
+      "takeaway": "采信平台自报的物体和座位数量前，先检查新干线模型",
+      "body_notes": "Higgsfield 平台展示 Blender 新干线模型，并声称包含 5,112 个对象和 430 个座位；这些数量来自平台自述"
+    },
+    {
+      "public_number": 63,
+      "title": "图片转低多边形 3D",
+      "takeaway": "评估自报的图像转 3D 结果时，同时检查几何细节与色彩还原",
+      "body_notes": "作者将输入图片一次转为低多边形 3D，认为色彩还原较好，同时指出模型“过于低多边形”；两点均为作者观察"
+    },
+    {
+      "public_number": 64,
+      "title": "Tripo P2、JEF 与 MCP 角色制作流程",
+      "takeaway": "评估角色制作流程时，应计入 Tripo P2、JEF 和 Blender MCP 的作用",
+      "body_notes": "这则明确合作分发的演示组合 Tripo P2、JEF 与 Blender MCP，作者称 20 分钟完成角色网格、含权重绘制的 IK 绑定、衣服和动画；对 Astra 需约十小时及两次周额度重置的说法是作者估计，并非同条件实测"
+    },
+    {
+      "public_number": 65,
+      "title": "住宅照片与平面图转 3D",
+      "takeaway": "可结合房屋照片与平面图，制作带交互式浏览器查看器的模型原型",
+      "body_notes": "Higgsfield 平台展示把一张住宅照片和平面图转为 Blender 模型，并制作离线浏览器查看器，可查看施工阶段、透视墙体和漫游带家具的室内空间"
+    },
+    {
+      "public_number": 66,
+      "title": "瓶中船生成测试",
+      "takeaway": "查看瓶中船结果的场景构图，不推断未公开的制作流程",
+      "body_notes": "作者展示以瓶中船为题的生成测试结果"
+    },
+    {
+      "public_number": 67,
+      "title": "DeLorean 与钟楼闪电动画",
+      "takeaway": "比较动画场景的行为时，同时查看各模型的生成工具使用、运行时间与估算费用",
+      "body_notes": "作者以相同提示和 Max effort 比较 DeLorean、钟楼和闪电动画，两者均使用 Higgsfield 的 Blender 插件与 MCP，可访问 Nano Banana Pro 和 Tripo；自报 Opus 为 73m／218k 输出 token／$27.3 API 等价费用，含可动门轮和命中闪电；GPT-6 Astra 为 88m／136k／$21.3，未用生成器而自行建了全部 517 个对象"
+    },
+    {
+      "public_number": 68,
+      "title": "从草图到成屋的四阶段展示",
+      "takeaway": "通过分阶段的 Three.js 和 TSL 视图展示建筑从草图到完工的过程",
+      "body_notes": "作者用 Three.js 与 TSL 展示建筑从草图、体块、细节到成屋的四阶段变化"
+    },
+    {
+      "public_number": 69,
+      "title": "3D 效果与自报成本对比",
+      "takeaway": "权衡展示的 3D 产物与平台报告的费用差异",
+      "body_notes": "AI/ML API 平台比较 Opus 5.5 与 GPT-6 Sol 的 3D 生成效果，自报成本分别为 4.37 美元和 0.34 美元，前者约为后者 13 倍；质量评价来自平台自营推广"
+    },
+    {
+      "public_number": 70,
+      "title": "绘画扩展为可换视角的场景",
+      "takeaway": "参考画作扩展案例，了解如何从多个 3D 角度探索平面构图",
+      "body_notes": "Higgsfield 平台展示将绘画扩展成 Blender 与 Unreal Engine 场景，并从不同视角查看结果"
+    },
+    {
+      "public_number": 71,
+      "title": "3D 家具布局模拟",
+      "takeaway": "可用 3D 布局模拟器比较家具摆放后再确定方案",
+      "body_notes": "Higgsfield 平台展示家具布局模拟器，用来尝试不同的 3D 家具摆放方案"
+    },
+    {
+      "public_number": 72,
+      "title": "保留笔触的炭笔画 3D 化",
+      "takeaway": "查看炭笔画转 Blender 的过程如何将笔触纹理带入 3D 场景",
+      "body_notes": "Higgsfield 平台展示将炭笔画转为 Blender 3D 场景，并保留原画笔触纹理"
+    },
+    {
+      "public_number": 73,
+      "title": "多人漫游地中海港口",
+      "takeaway": "评估港口漫游时，区分程序化场景和声音与导入的人物素材",
+      "body_notes": "作者展示可在浏览器中多人漫游的地中海港口小镇，场景与声音由程序生成，人物则使用导入的扫描素材"
+    },
+    {
+      "public_number": 74,
+      "title": "3D 控制器演示",
+      "takeaway": "分别查看控制器演示、要求制作的视频及其引用的早期 SVG 任务",
+      "body_notes": "作者称一次生成控制器的 3D 版本，并让模型制作分享视频；引用帖说明先前在 Claude Code 中做的是 Xbox 控制器 SVG"
+    },
+    {
+      "public_number": 75,
+      "title": "Minecraft 风格寺院花园",
+      "takeaway": "比较寺庙花园预览时，不把作者的模型偏好推广为普遍结论",
+      "body_notes": "作者比较 Opus 5.5 与 GPT-6 Astra，媒体预览为 Minecraft 风格寺院花园；优劣判断来自作者这次测试的主观评价"
+    },
+    {
+      "public_number": 76,
+      "title": "Blender 章鱼模型与动画",
+      "takeaway": "查看章鱼模型与动画时，不把平台宣传的质量标签当成评级",
+      "body_notes": "Higgsfield 平台展示 Blender 章鱼建模与动画；“AAA 品质”是平台的宣传措辞，而非经独立验证的质量等级"
+    },
+    {
+      "public_number": 77,
+      "title": "纽约场景与旧版同题对比",
+      "takeaway": "比较相同的纽约场景任务时，保留各模型版本与推理档位",
+      "body_notes": "作者用相同纽约场景任务比较 Opus 5.5（High effort）与 Opus 5，画面包括帝国大厦、布鲁克林大桥、中央公园树木与日落卷云"
+    },
+    {
+      "public_number": 78,
+      "title": "跨场景飞行观光体验",
+      "takeaway": "通过制作讲解视频了解观光飞行如何衔接不同风景",
+      "body_notes": "作者展示仿迪士尼 Soaring 的飞行观光体验，穿行于阿尔卑斯、极光、金字塔、长城与有烟花的巴黎夜景，并附制作演示视频"
+    },
+    {
+      "public_number": 79,
+      "title": "体素风 Claude 动画",
+      "takeaway": "参考体素角色演示，为风格化的 Claude 形象制作动画",
+      "body_notes": "作者展示体素风格的 Claude 形象及其动画"
+    },
+    {
+      "public_number": 80,
+      "title": "体素鹈鹕对比 Fable 与 Astra",
+      "takeaway": "比较体素鹈鹕产物时，将作者的 token 用量说法限定在这次尝试",
+      "body_notes": "作者展示体素风鹈鹕骑自行车场景，比较 Fable 与 Astra，并称本次 token 消耗更低；引用帖将 Fable 版本写为 5.2"
+    },
+    {
+      "public_number": 81,
+      "title": "赛车模型对比 GPT-6 Sol",
+      "takeaway": "并排查看赛车模型，不推断展示产物之外的性能",
+      "body_notes": "媒体预览展示赛车模型，并对照 GPT-6 Sol 在同一题目下的结果"
+    },
+    {
+      "public_number": 82,
+      "title": "GPU 加速的猫毛发模拟",
+      "takeaway": "将猫毛演示作为 Three.js 中 GPU 加速模拟的参考",
+      "body_notes": "作者展示一次生成的 Three.js 猫毛发模拟，使用 GPU 加速毛发计算"
+    },
+    {
+      "public_number": 83,
+      "title": "Minecraft 体素建造对比",
+      "takeaway": "将作者对 Minecraft 产物的偏好与尚未开展的正式 VoxelBench 测试分开",
+      "body_notes": "作者主观比较 Opus 5.5 与 GPT-6 Astra 的 Minecraft 体素建造效果；VoxelBench 的正式测试仍处于计划阶段"
+    },
+    {
+      "public_number": 84,
+      "title": "三模型火箭飞船测试",
+      "takeaway": "比较三款火箭飞船产物时，应考虑不同的推理设置",
+      "body_notes": "作者以火箭飞船为题比较 Opus 5.5 Medium、Grok 4.7 xhigh 和 Astra Medium；三者推理设置并不相同"
+    },
+    {
+      "public_number": 85,
+      "title": "Three.js 对照 Opus 5",
+      "takeaway": "打开所链接的评测平台，查看不同 Opus 版本在 Three.js 任务上的对比",
+      "body_notes": "作者比较 Opus 5.5 与 Opus 5 的 Three.js 编码效果，并附上评测平台"
+    },
+    {
+      "public_number": 86,
+      "title": "Three.js 末日短片对比",
+      "takeaway": "比较渲染短片前，应考虑不同的运行环境、修复机会与估算费用",
+      "body_notes": "作者比较 Opus 5.5、Fable 5.1 与 GPT-6 Astra 的游乐场、鬼城、核电站 Three.js 单文件短片，报告全部 36 个镜头均可渲染，但 Astra 缺少要求的星空；Opus/Fable 在 Claude Code 中可查看画面并修复，Astra 在 OpenRouter 仅一次回复，Fable 费用和 token 为估算；总费用自报为 $19.38／约 $9.20／$8.43，用时约 69／40／27m，不能作公平模型排名"
+    },
+    {
+      "public_number": 87,
+      "title": "JavaScript 合成 Bass 音乐",
+      "takeaway": "将低音音乐演示作为直接用 JavaScript 合成声音的参考",
+      "body_notes": "作者展示通过单条提示词编写 JavaScript 来合成 bass 音乐的结果"
+    },
+    {
+      "public_number": 88,
+      "title": "音乐错误检测满分自报",
+      "takeaway": "将合唱错误检测满分视为十段素材上的自报结果，等待更广泛的验证",
+      "body_notes": "作者在十段四声部圣咏中测试声部进行错误检测，报告 Opus 5.5 满分，与先前 GPT-6 Astra 和 Grok 4.7 相同；题集与结果的泛化能力尚未独立验证"
+    },
+    {
+      "public_number": 89,
+      "title": "音效生成工作流",
+      "takeaway": "由于帖子未说明生成了哪些声音，应直接查看音效工作流",
+      "body_notes": "作者展示音效生成流程，但正文没有说明具体生成的音色"
+    },
+    {
+      "public_number": 90,
+      "title": "Pocket Color 掌机图形对比",
+      "takeaway": "按可见外观细节比较掌机图形，不推断设备功能",
+      "body_notes": "作者比较 Opus 5.5 与 GPT-6 Sol，媒体预览展示 Pocket Color 掌机外观的图形生成结果"
+    },
+    {
+      "public_number": 91,
+      "title": "18 分 31 秒的 Sweet Tooth 动画",
+      "takeaway": "将自报的单次生成时间推广到其他任务前，先查看 Sweet Tooth 动画",
+      "body_notes": "作者展示据称一次生成的 Sweet Tooth 动画，报告用时 18 分钟 31 秒"
+    },
+    {
+      "public_number": 92,
+      "title": "Claude 与 AGI 主题卡通",
+      "takeaway": "将卡通作品作为视觉参考，同时保留生成流程未说明的边界",
+      "body_notes": "报告抽查视频确认作品为 Claude 角色与 AGI 主题的卡通动画，但原帖正文未披露具体生成链路"
+    },
+    {
+      "public_number": 93,
+      "title": "纯代码像素巫师动画",
+      "takeaway": "查看代码像素动画，并到回复中查找作者所称的提示词",
+      "body_notes": "作者展示纯代码制作的像素巫师动画，并表示提示词放在回复中"
+    },
+    {
+      "public_number": 94,
+      "title": "逐帧编写 JavaScript 动画",
+      "takeaway": "将逐帧绘制的动画作为通过 JavaScript 渲染产生运动的参考",
+      "body_notes": "作者展示 Opus 5.5 用 JavaScript 绘制每一帧的动画"
+    },
+    {
+      "public_number": 95,
+      "title": "Nintendo Switch 的 SVG 动画",
+      "takeaway": "权衡 SVG 动画需求与 Max 档下自报的会话额度消耗",
+      "body_notes": "作者用 Max 档生成 Nintendo Switch SVG，并与 Gemini 4 Pro 的结果比较；引用提示包含手柄插入和开机标志动画；这次生成据称消耗了 20 美元订阅方案单次会话额度的 27%"
+    },
+    {
+      "public_number": 96,
+      "title": "用代码描绘思考难题的过程",
+      "takeaway": "将纯代码动画作为解题过程的创意想象，而非模型内部过程说明",
+      "body_notes": "作者展示一段纯代码动画，以想象中的模型思考难题过程为主题"
+    },
+    {
+      "public_number": 97,
+      "title": "鹈鹕骑车循环动画的转发",
+      "takeaway": "查看骑车动作时，保留该转发循环动画的二手署名",
+      "body_notes": "帖子转发鹈鹕骑自行车的循环动画，强调抬起前轮等动作；属于二手作品展示，没有独立复现制作过程"
+    },
+    {
+      "public_number": 98,
+      "title": "PS5 手柄 SVG 同题对比",
+      "takeaway": "比较控制器细节和阴影时，将 BridgeMind 的推广性质量判断单独看待",
+      "body_notes": "BridgeMind 平台用同一条「绘制 PS5 手柄 SVG」提示词，对比 Opus 5.5 与 GPT-6 Sol 的细节和阴影表现；这是平台自家展示，优劣判断来自发布方"
+    },
+    {
+      "public_number": 99,
+      "title": "Devin 中的水面与粒子视觉对照",
+      "takeaway": "比较 Devin 视觉产物时，保留作者的关系披露、运行时间和费用说明",
+      "body_notes": "作者在相同 Devin 执行环境、同提示和最高推理档下比较水面／粒子视觉：Opus 为 2h 10m、$75，Astra 为 1h 25m、$61；作者披露 Cognition ambassador 身份，该帖是否付费未确认，耗时和费用为作者自报"
+    },
+    {
+      "public_number": 100,
+      "title": "Oktoberfest 主题动画",
+      "takeaway": "采信自报的一次生成时间前，先查看啤酒节动画及所链接的说明",
+      "body_notes": "作者展示据称一次生成的 Oktoberfest 主题动画，自报用时 14 分钟 48 秒；帖子称下方附制作方法"
+    },
+    {
+      "public_number": 101,
+      "title": "用 JavaScript 同时编写音乐与画面",
+      "takeaway": "将音乐与视觉组合演示作为 JavaScript 案例，谨慎看待其替代更广泛流程的证据",
+      "body_notes": "作者展示由 JavaScript 编写的音乐和视觉动画，并称全部内容均来自代码；帖子本身未证明这能替代通用音乐或视频生成流程"
+    },
+    {
+      "public_number": 102,
+      "title": "不依赖素材的 JavaScript 交互动画",
+      "takeaway": "查看交互动画如何在作者所称的无外部素材或扩展条件下使用 JavaScript",
+      "body_notes": "作者展示可交互的风格化动画，称仅用 JavaScript 编写，没有使用外部素材、MCP 或 skill"
+    },
+    {
+      "public_number": 103,
+      "title": "同参考动画的三模型对比",
+      "takeaway": "比较三款动画产物时，同时保留共同输入和作者自报的运行时间",
+      "body_notes": "作者通过 AIML API，以相同提示和参考、XHigh 设置一次生成动画，对比 Opus 5.5、GPT-6 Astra 与 Opus 5；自报用时依次为 36:46、32:12、14:56，画面质量评价来自作者"
+    },
+    {
+      "public_number": 104,
+      "title": "334 行 SVG 绘制 Xbox 手柄",
+      "takeaway": "查看紧凑的控制器 SVG 时，也要计入 Max 档下自报的高 token 消耗",
+      "body_notes": "作者在 Claude Code 中一次生成 334 行 SVG 的 Xbox 手柄，并称 Xbox 标志也由代码绘制；同时指出 Max effort 的 token 消耗很高"
+    },
+    {
+      "public_number": 105,
+      "title": "TouchDesigner 复现参考特效",
+      "takeaway": "评估参考效果复现时，应计入 TouchDesigner 的作用",
+      "body_notes": "Higgsfield 平台展示 Opus 5.5 根据参考，在 TouchDesigner 中复现自家特效，称耗时 15 分钟；效果依赖 TouchDesigner 制作流程"
+    },
+    {
+      "public_number": 106,
+      "title": "Game Boy 掌机视觉测试",
+      "takeaway": "接受作者的视觉偏好前，自行比较 Game Boy 产物",
+      "body_notes": "作者展示 Opus 5.5 对 Game Boy 掌机视觉任务的结果，并表示比 Astra 的版本更合自己的偏好；属于个人视觉测试和主观评价"
+    },
+    {
+      "public_number": 107,
+      "title": "JavaScript 动画作品展示",
+      "takeaway": "将 JavaScript 动画作为产物参考，因为帖子缺少完整制作讲解",
+      "body_notes": "作者分享 Opus 5.5 配合 JavaScript 制作的动画，正文主要展示结果，没有提供完整制作步骤"
+    },
+    {
+      "public_number": 108,
+      "title": "CoAnimator 的动画与声音编排",
+      "takeaway": "查看 CoAnimator 如何在开发者自己的应用中结合动画、时间轴与声音",
+      "body_notes": "CoAnimator 开发者展示用 Opus 5.5 经少量提示制作的动画，包含时间线、音效和环境声；这是自家应用展示，相关质量评价由作者给出"
+    },
+    {
+      "public_number": 109,
+      "title": "HyperFrames 的 3D 镜头与文字特效",
+      "takeaway": "评估展示的 3D 镜头和文字效果时，应计入 HyperFrames 的作用",
+      "body_notes": "HyperFrames／HeyGen 相关人员展示 Opus 5.5 配合 HyperFrames 制作的 3D 镜头和文字特效，属于自家工具组合展示"
+    },
+    {
+      "public_number": 110,
+      "title": "五分钟内生成像素动画",
+      "takeaway": "查看像素动画，并到回复中查找作者承诺提供的提示词",
+      "body_notes": "作者分享一段像素动画，称生成用时不到五分钟，并表示会将提示词放在回复区"
+    },
+    {
+      "public_number": 111,
+      "title": "使用 PNG 素材的手柄 SVG",
+      "takeaway": "将 SVG 结果称为完全以矢量绘制之前，先检查嵌入的图片素材",
+      "body_notes": "作者展示手柄 SVG，同时指出模型下载了 DualShock PNG；该结果涉及现成图片素材，不能据此认定所有细节都由矢量路径从零绘制"
+    },
+    {
+      "public_number": 112,
+      "title": "从参考复现 ChronoVolume 特效",
+      "takeaway": "将复现的 ChronoVolume 效果与参考素材、平台自报费用和时间一起比较",
+      "body_notes": "Higgsfield 平台展示根据参考复现 ChronoVolume 特效的结果，自报耗时 26 分钟、token 费用低于 5 美元"
+    },
+    {
+      "public_number": 113,
+      "title": "同一句提示词生成喷泉",
+      "takeaway": "在相同提示词和最高推理档位的条件下比较喷泉产物",
+      "body_notes": "作者以「A beautiful fountain」为相同提示词，在最高推理档比较 Opus 5.5 与 GPT-6 Astra 的喷泉视觉结果"
+    },
+    {
+      "public_number": 114,
+      "title": "用 SVG 绘制蒙娜丽莎",
+      "takeaway": "查看两个蒙娜丽莎 SVG 产物时，保留引用对照的推理档位",
+      "body_notes": "作者要求 Opus 5.5 用 SVG 绘制蒙娜丽莎，并引用 GPT-6 Astra High 的同题输出作为对照"
+    },
+    {
+      "public_number": 115,
+      "title": "与 Sol、Luna 的 SVG 同题比较",
+      "takeaway": "将三模型 SVG 对比限定在可见产物与作者个人判断范围内",
+      "body_notes": "作者用同一 SVG 测试比较 Opus 5.5、GPT-6 Sol 与 Luna，展示结果并表达个人偏好；帖中的总体模型评价不等于该样例证明的能力结论"
+    },
+    {
+      "public_number": 116,
+      "title": "用脚本在 Paint 中画人物照片",
+      "takeaway": "如果脚本图像不符合 Paint 任务，应明确要求并验证仅使用鼠标操作",
+      "body_notes": "作者让模型在 Paint 中绘制老板的照片，但模型使用了脚本而非鼠标手绘；结果展示了代码生成图像的路径，没有按预期完成手工光标操作"
+    },
+    {
+      "public_number": 117,
+      "title": "把 Claude 自画像画成小太阳",
+      "takeaway": "将小太阳作品视为想象性自画像提示的结果，不作为模型体验的证据",
+      "body_notes": "作者让 Opus 5.5 描绘「成为 Claude 是什么感觉」，得到会感到不堪重负、把记忆存进罐子的小太阳形象；属于拟人化创作表达"
+    },
+    {
+      "public_number": 118,
+      "title": "鹈鹕图形测试",
+      "takeaway": "将鹈鹕画作作为提示词和工作流缺失的产物样本",
+      "body_notes": "作者分享 Opus 5.5 的鹈鹕图形测试结果，正文没有补充具体提示词或生成步骤"
+    },
+    {
+      "public_number": 119,
+      "title": "像素场景中的喷泉与蝙蝠眼睛",
+      "takeaway": "比较像素场景的动画细节时，将主观风格偏好单独看待",
+      "body_notes": "作者比较 Opus 5.5 与 GPT-6 Astra 的像素场景，特别展示喷泉水流和洞穴中蝙蝠眼睛的动画；风格优劣是作者的主观判断"
+    },
+    {
+      "public_number": 120,
+      "title": "绘制旧金山",
+      "takeaway": "查看旧金山画作时，不归因于未说明的制作工具链",
+      "body_notes": "作者分享 Opus 5.5 绘制的旧金山作品，正文没有说明具体工具或完整制作流程"
+    },
+    {
+      "public_number": 121,
+      "title": "鹈鹕骑车动画对比 Grok 4.7",
+      "takeaway": "接受作者关于运动更稳定的判断前，直接比较鹈鹕动画",
+      "body_notes": "作者对比 Opus 5.5 与 Grok 4.7 的鹈鹕骑车动画，认为前者动作更稳定；结论来自这位作者的展示与观察"
+    },
+    {
+      "public_number": 122,
+      "title": "一句 subtle art 提示的艺术生成器",
+      "takeaway": "尝试所链接的艺术生成器时，保留作者的平台关系披露",
+      "body_notes": "平台相关作者以「some subtle art」为提示制作艺术生成器，并提供体验链接；该帖子属于平台自家作品展示"
+    },
+    {
+      "public_number": 123,
+      "title": "John Wick 主题重制动画",
+      "takeaway": "将 John Wick 主题动画作为生成流程未公开的视觉参考",
+      "body_notes": "作者展示用 Opus 5.5 重制 John Wick 主题的动画，正文没有提供完整生成流程"
+    },
+    {
+      "public_number": 124,
+      "title": "四档 SVG 结果与 max 失败",
+      "takeaway": "查看各推理档位的 SVG 产物时，同时考虑 Max 档耗尽 token 及失败尝试的费用",
+      "body_notes": "作者用 llm-anthropic 在 low、medium、high、xhigh 生成骑车鹈鹕 SVG，并公开命令和结果；max 档耗尽 128,000 输出 token 仍未答复，失败尝试花费 2.56 美元"
+    },
+    {
+      "public_number": 125,
+      "title": "MacBook Pro 的 SVG 评测",
+      "takeaway": "将 MacBook Pro SVG 结果作为 Playcode 自身的专项评测与产品决策理解",
+      "body_notes": "Playcode 分享自家的 MacBook Pro SVG benchmark，称 Opus 5.5 在达到满意结果时成本表现较好，并已设为默认模型；这是工具方自报及产品推广"
+    },
+    {
+      "public_number": 126,
+      "title": "个人网站多版本迭代与预告片",
+      "takeaway": "可用迭代设计评审和版本演进预告片记录个人网站重设计",
+      "body_notes": "平台相关作者在 Max 订阅中用工作流反复设计、批评个人网站，随后让 Opus 5.5 把各版设计做成合集预告片；属于自家使用展示，最终风格符合预期是作者评价"
+    },
+    {
+      "public_number": 127,
+      "title": "八张参考图迭代矿石图鉴网页",
+      "takeaway": "要实现展示的矿物目录风格，应为多个参考素材与修改提示预留预算",
+      "body_notes": "媒体预览展示矿石图鉴风格网页；作者说明使用了八张参考图、九轮提示，并迭代约一小时；不是一次提示就得到的结果"
+    },
+    {
+      "public_number": 128,
+      "title": "同目标重设计已有应用",
+      "takeaway": "依据相同的现有应用和既定目标比较重设计结果",
+      "body_notes": "作者给 Opus 5.5 与 Opus 5（1M）相同提示词和 /goal，要求重设计一个粗糙的已有应用，并展示两版界面供比较"
+    },
+    {
+      "public_number": 129,
+      "title": "前端测试与卡住的火山任务",
+      "takeaway": "评估前端生成结果时，应计入停滞尝试与推理 token 用量",
+      "body_notes": "作者展示六轮前端视觉测试，并认为结果接近 Fable 5.1，但指出思考 token 消耗更大；火山喷发任务在终端和网页中多次卡住，未输出代码；关于模型蒸馏或规模的说法只是作者猜测"
+    },
+    {
+      "public_number": 130,
+      "title": "不用 design skill 的关联笔记界面",
+      "takeaway": "查看关联笔记界面时，不假设其全部功能已通过验证",
+      "body_notes": "媒体预览展示可关联笔记的网站，作者称生成时没有使用 design skill；帖子将它描述为可交互演示，但未提供完整功能验证"
+    },
+    {
+      "public_number": 131,
+      "title": "一次生成 UI 对照 Grok 4.7",
+      "takeaway": "比较两个 UI 产物时，保留相同提示词在不同日期运行的背景",
+      "body_notes": "作者用前一天测试 Grok 4.7 的同一提示词，让 Opus 5.5 一次生成 UI，并展示结果供对照"
+    },
+    {
+      "public_number": 132,
+      "title": "23 分钟制作减压应用",
+      "takeaway": "将减压应用作为原型查看，不假设它已证明治疗效果",
+      "body_notes": "作者因压力较大而要求 Opus 5.5 制作减压应用，并展示自报 23 分钟得到的结果；该帖子展示应用作品，没有评估实际减压效果"
+    },
+    {
+      "public_number": 133,
+      "title": "Stratus 云与天气主题落地页",
+      "takeaway": "将天气主题落地页作为附有自报费用和时间背景的设计参考",
+      "body_notes": "媒体预览展示 Stratus 云与天气主题落地页；作者自报制作花费 6.82 美元、用时 21 分钟"
+    },
+    {
+      "public_number": 134,
+      "title": "反向 CAPTCHA 交互应用",
+      "takeaway": "可将反向 CAPTCHA 交互作为模糊问题设计的实验",
+      "body_notes": "作者将 Opus 5.5 做成反向 CAPTCHA 交互应用，展示问题与作答体验，并表示答案并不像预想的那样明显"
+    },
+    {
+      "public_number": 135,
+      "title": "可导入 Figma 的个人交互设计工具",
+      "takeaway": "通过导入设计参考和小幅补丁探索、学习界面交互",
+      "body_notes": "作者制作可由 Claude 控制的个人交互设计工具，称可导入 Figma、网页或代码，添加 patch 并精调交互；帖子强调边调整设计边理解其工作方式"
+    },
+    {
+      "public_number": 136,
+      "title": "PonteMLX 本地模型监控界面",
+      "takeaway": "查看监控界面时，应计入独立的本地图像生成模型",
+      "body_notes": "作者展示 PonteMLX：用古典风格河流映射本地 token 处理，监控多个 MLX API 网关及 RAM；图像素材由本地 Qwen-Image-2.1 生成，作者称这是 Opus 主动发现并调用的工具"
+    },
+    {
+      "public_number": 137,
+      "title": "物流排程看板的界面预览",
+      "takeaway": "后端与调度行为检查完成前，将物流截图视为界面证据",
+      "body_notes": "附件预览呈现物流排程看板，作者以此评价 Opus 5.5 的产品设计；现有截图可支持界面展示，不能确认后台或实际排程功能可用"
+    },
+    {
+      "public_number": 138,
+      "title": "WebGL 创意工作室网站对比",
+      "takeaway": "依据共同的 WebGL、排版和滚动要求比较创意工作室页面",
+      "body_notes": "作者在 Higgsfield 中给 Opus 5.5 与 GPT-6 Sol 相同要求：制作含交互 WebGL 球体、大字号和滚动动画的未来风创意工作室网站，并展示两版结果"
+    },
+    {
+      "public_number": 139,
+      "title": "等距图标组件展示界面",
+      "takeaway": "查看等距图标组件界面时，不假设截图已证明组件可用",
+      "body_notes": "媒体截图展示等距图标组件的界面，作者称由 Opus 5.5 一次生成；截图没有证明完整组件或应用功能均可用"
+    },
+    {
+      "public_number": 140,
+      "title": "掌机式游戏选择网页",
+      "takeaway": "游戏启动功能验证前，将掌机风格选择页作为 UI 展示",
+      "body_notes": "媒体预览展示掌机式游戏选择页面，作者说明使用了 Opus 5.5；具体后台与游戏启动功能未核验"
+    },
+    {
+      "public_number": 141,
+      "title": "一次生成图片转矢量工具",
+      "takeaway": "依赖自称一次生成的矢量化工具前，先在不同图像类型上测试转换准确性",
+      "body_notes": "作者展示图片转矢量图工具，并称由 Opus 5.5 一次生成；帖子没有给出转换精度或不同图片类型的系统测试"
+    },
+    {
+      "public_number": 142,
+      "title": "同提示词落地页集合对比",
+      "takeaway": "根据共同提示词比较落地页画廊，不直接采用作者偏好",
+      "body_notes": "作者在同提示词生成的落地页集合网站中加入 Claude Opus 5.5、GPT-6 Luna 和 GPT-6 Sol；帖子提供输出对照，作者对 Opus 的偏好属于主观评价"
+    },
+    {
+      "public_number": 143,
+      "title": "AppLlama MCP 重设计已有应用",
+      "takeaway": "将 AppLlama 辅助重设计与现有应用此前的收入分开",
+      "body_notes": "作者展示 Opus 5.5 配合 AppLlama MCP 对已有应用据称一次完成的重设计及前后对照；$10,000 MRR 的说法属于原有应用，不是此次重设计带来收入的证明"
+    },
+    {
+      "public_number": 144,
+      "title": "图片转 HTML 的还原与性能测试",
+      "takeaway": "图像转 HTML 任务中，除视觉还原外还应检查转场与运行性能",
+      "body_notes": "作者提供设计图与多模型页面输出；Opus 5.5 较好还原视觉，但漏做请求中的页面转场，运行性能也较差；作者在这次测试中仍更看好 Astra"
+    },
+    {
+      "public_number": 145,
+      "title": "批量生成 100 个创意 HTML",
+      "takeaway": "依赖作者“没有损坏文件”的说法前，先抽样测试公开的 HTML 产物",
+      "body_notes": "作者以视觉精美、设计不重复和自由创意为约束，生成 100 个 HTML 文件并公开结果与提示词；作品包括国际象棋、打砖块、钢琴、星图和动画；“全部可用”是作者自述"
+    },
+    {
+      "public_number": 146,
+      "title": "Next.js 成功率与平均成本",
+      "takeaway": "在 Next.js 专项框架评测范围内理解自报成功率和平均费用",
+      "body_notes": "Next.js 官方报告 Opus 5.5 达到 97% 成功率，与 Sol、Fable 5.1 持平，并称它在这三者中平均成本最低；帖子链接完整榜单，这是框架特定的评测结果"
+    },
+    {
+      "public_number": 147,
+      "title": "十分钟流程表任务错过核心交付",
+      "takeaway": "明确要求优先完成核心交付物，并写清预算和停止条件",
+      "body_notes": "Every 团队的自家测试记录：要求十分钟内制作活动流程表，模型先做了数据生成器和讲义，最终没来得及交付排程；团队建议先明确交付物、预算和停止条件，也提醒自我批评结果仍需人工检查"
+    },
+    {
+      "public_number": 148,
+      "title": "347 个排名页面的 SEO 内容空白分析",
+      "takeaway": "将自报的 SEO 研究覆盖与草稿合规表现和未测量的搜索流量结果分开",
+      "body_notes": "平台作者自报：分析 40 个关键词的 347 个排名页面，找出 131 个未覆盖角度并抓取原始数据，花费 6.35 美元；同时间的 Fable 5.1 处理 16 个关键词，花费 5.53 美元；作者还报告 131 份草稿中一次违反写作规则，对照组为 37 份中的两次；这些是平台自家测试，不能推导实际搜索流量收益"
+    },
+    {
+      "public_number": 149,
+      "title": "通过 Trendtrack MCP 准备黑五分析",
+      "takeaway": "评估黑五分析流程时，应计入 Trendtrack MCP 提供的数据访问能力",
+      "body_notes": "作者让 Opus 5.5 通过 Trendtrack MCP 分析自己的 BrandTrackers，用于黑色星期五营销准备，并展示分析结果；数据访问依赖 Trendtrack 的集成"
+    },
+    {
+      "public_number": 150,
+      "title": "alphaXiv 把论文转成证据关联博客",
+      "takeaway": "依赖自动生成的研究摘要前，先检查论文链接对应的证据",
+      "body_notes": "alphaXiv 平台展示将 arXiv 论文转成博客式概览的产品功能，包含图解、重点与清晰解释，并称每项论断关联论文中的高亮证据；属于自家产品演示，未独立验证所有证据对应的准确性"
+    },
+    {
+      "public_number": 151,
+      "title": "SafeForge 风险总结循环测试",
+      "takeaway": "将 SafeForge 的模型偏好推广到其他场景前，应索取评测方法与指标",
+      "body_notes": "SafeForge 平台展示将 Opus 5.5 接入风险总结循环的测试，并称它是该团队迄今测试过的最佳模型；该评价来自平台自述，帖子未提供完整对照方法或指标"
+    },
+    {
+      "public_number": 152,
+      "title": "更新榜单图片中的模型数据",
+      "takeaway": "区分更新基准图表与重新执行底层评测",
+      "body_notes": "作者让 Opus 5.5 将旧榜单图片里的 GPT-5.6 数值替换成 GPT-6 系列数据；这个案例是图表改写展示，不是重新执行榜单测试"
+    },
+    {
+      "public_number": 153,
+      "title": "同指令制作指标的版本对比",
+      "takeaway": "比较指标产物时，保留验证方法未说明的边界",
+      "body_notes": "作者用完全相同的指令让 Opus 5 和 Opus 5.5 制作指标，并展示两版结果，认为新版理解更深入；具体指标品种和验证方法未说明"
+    },
+    {
+      "public_number": 154,
+      "title": "从网站 URL 生成销售触达流程",
+      "takeaway": "将外联产品所称的发送能力与未验证的回复率、销售结果分开",
+      "body_notes": "GojiberryAI 平台展示输入网站 URL 后生成销售触达流程，声称可在几秒内通过 LinkedIn 和邮件联系数百名高意向线索；帖子是产品演示，没有验证实际回复率或成交结果"
+    },
+    {
+      "public_number": 155,
+      "title": "Ramp 的会计任务评测",
+      "takeaway": "将 Ramp 自报的成本与速度收益限定在其 Accounting Bench 运行范围内",
+      "body_notes": "Ramp 团队披露提前访问，并在自家 Accounting Bench 上实测 Opus 5.5；其报告称表现接近 Fable 5.1，成本低 61%、速度快 1.7 倍；不能外推到所有会计工作"
+    },
+    {
+      "public_number": 156,
+      "title": "fable-advisor 的多模型协作插件",
+      "takeaway": "采用协作团队流程前，先查看开源插件中各模型的职责",
+      "body_notes": "插件作者发布免费开源的 Claude Code 插件 fable-advisor v6.0.0，将 Opus 5.5、Fable 5.1、GPT-6 Sol 与 Luna 组合成协作团队；属于作者自己的工作流发布"
+    },
+    {
+      "public_number": 157,
+      "title": "ntm 中的任务交接与 worker 替换",
+      "takeaway": "在编排工具内跨模型版本替换工作代理时，使用明确的任务交接",
+      "body_notes": "ntm 工具作者称先让 Opus 5 写交接提示，再由 Opus 5.5 停止并重启旧版 worker；案例展示作者自家编排工具中的模型迁移操作，效果来自自述"
+    },
+    {
+      "public_number": 158,
+      "title": "在 Apple Watch 上指挥 Agent",
+      "takeaway": "将手表应用的代理显示与语音指令能力同作者对 RSI 的推测分开查看",
+      "body_notes": "作者称向模型描述新手表后，一小时内做出 Apple Watch 应用，显示 Herdr Agent 的工作状态并支持语音下达指令；应用是使用自述，帖子开头的 RSI 猜测不作为事实"
+    },
+    {
+      "public_number": 159,
+      "title": "切换 effort 时保留提示缓存",
+      "takeaway": "使用保留缓存的推理档位切换指导时，保留其指定的 Claude Code 版本要求",
+      "body_notes": "Claude Code 员工说明，在 v2.1.280 及以上版本中，Opus 5.5 会话中途切换 effort 不会破坏 prompt cache；适用于该工具和版本条件"
+    },
+    {
+      "public_number": 160,
+      "title": "刷新 T3 Code 的模型缓存",
+      "takeaway": "预期模型未出现在列表时，按 T3 Code 团队的流程刷新缓存",
+      "body_notes": "T3 Code 团队说明无需更新应用即可使用新模型，并给出强制刷新模型目录的方法：关闭应用、清理指定模型清单缓存、重新启动；这是接入后的维护教程"
+    },
+    {
+      "public_number": 161,
+      "title": "复盘项目与 Agent 会话历史",
+      "takeaway": "将会话历史中的模式转化为项目改进前，先与当前代码交叉核对",
+      "body_notes": "六步教程将项目文件和本地会话作为输入，找出重复纠正与失败，再核对当前代码、审查计划、实施测试并保存改进；帖子提供提示词，未宣称这套改造已执行成功"
+    },
+    {
+      "public_number": 162,
+      "title": "ProgramBench 多 Agent 的速度",
+      "takeaway": "解读自报的多代理速度对比时，保留只覆盖 200 题中 166 题的限制",
+      "body_notes": "作者分析系统卡中的 ProgramBench 结果：多 Agent 更快到达单 Agent 相近的结果，同时指出只用了 200 道题中的 166 道；应保留样本覆盖限制"
+    },
+    {
+      "public_number": 163,
+      "title": "100 个 Agent 的 ProgramBench 评测",
+      "takeaway": "将 100 代理基准评测与对未来协调机制的推测分开",
+      "body_notes": "ProgramBench 相关作者分享模型卡中 100 个 Agent 协作完成基准任务的评测，任务集和规模是具体的，关于未来并发机制的讨论仍是设想"
+    },
+    {
+      "public_number": 164,
+      "title": "同段街景视频的对象跟踪标注",
+      "takeaway": "查看移动标签时，保留该平台对比没有测量标注准确率的边界",
+      "body_notes": "Higgsfield 平台在同一段街景视频上比较 Opus 5.5 与 GPT-6 Astra 的数据标注，展示叠加标签随镜头运动跟踪人、建筑和物体；属于平台效果对照，未给出标注准确率"
+    },
+    {
+      "public_number": 165,
+      "title": "Roboflow 目标检测评测",
+      "takeaway": "在专门任务评测范围内，使用 Roboflow 榜单评估目标检测",
+      "body_notes": "Roboflow 负责人公布 Opus 5.5、Sol、Luna 的 Playground 目标检测结果，并链接 object-detection 榜单；案例关注具体视觉任务，排名变化来自评测方报告"
+    },
+    {
+      "public_number": 166,
+      "title": "Medeo 中驱动 Seedance 2.5 的对比",
+      "takeaway": "比较指挥视频生成的语言模型时，将实际视频生成归于 Seedance 2.5",
+      "body_notes": "Medeo 平台比较 GPT-6 Sol 与 Opus 5.5 驱动 Seedance 2.5 制作的视频，侧重场景理解和细节；这是语言模型编排视频生成工具的流程，视频生成由 Seedance 2.5 完成"
+    },
+    {
+      "public_number": 167,
+      "title": "在 Claude 网页调用 Blender 做黏土动画",
+      "takeaway": "评估 Claude 中的一条提示黏土动画流程时，应计入 Blender 的作用",
+      "body_notes": "平台相关作者展示在 claude.ai 中通过一条提示调用 Blender 制作黏土动画；动画制作依赖 Blender，并非仅由语言模型直接输出视频"
+    },
+    {
+      "public_number": 168,
+      "title": "Tesseract 重制发布视频的成本对比",
+      "takeaway": "比较发布视频重制结果时，明确 Tesseract 的编辑与渲染作用",
+      "body_notes": "Tesseract 平台将 Opus 5.5 与 GPT-6 Astra 分别接入自家视频工具，重制自己的发布视频并展示成本对比；结果包含 Tesseract 的编辑和渲染贡献"
+    },
+    {
+      "public_number": 169,
+      "title": "为 DocJev 制作文档工具预告片",
+      "takeaway": "将产品预告片与归于 Jev 的文档处理核心分开",
+      "body_notes": "DocJev 作者展示用 Opus 5.5 制作的产品预告片；该帖将文档分类与拆分核心归于 Jev 工具链，不能把预告片制作归因为 Opus 实现了文档处理核心"
+    },
+    {
+      "public_number": 170,
+      "title": "用自有 skill 制作 Claude 模型发展史",
+      "takeaway": "评估 JavaScript 模型发展史视频时，应计入作者自定义 skill 的作用",
+      "body_notes": "作者让 Opus 5.5 制作 Claude 模型发展史，并称成片由纯 JavaScript 加上自己的 skill 完成；该结果依赖作者提供的 skill"
+    },
+    {
+      "public_number": 171,
+      "title": "Medeo 的折纸老虎视频对比",
+      "takeaway": "将折纸视频工作流作为语言模型指挥 Seedance 2.5 的案例比较",
+      "body_notes": "Medeo 平台比较 Opus 5.5 与 GPT-6 Astra 制作的折纸老虎视频，两条流程均使用 Seedance 2.5 生成画面；这里展示的是语言模型驱动视频工具，不能当成 Opus 的原生视频生成"
+    },
+    {
+      "public_number": 172,
+      "title": "Remotion 制作 BridgeMind 卫衣宣传片",
+      "takeaway": "查看 Remotion 宣传片的节奏与转场时，将发布方主观模型排名单独看待",
+      "body_notes": "BridgeMind 平台展示用 Opus 5.5 与 Remotion 制作的自家卫衣发售视频；发布方认为转场、节奏和品牌表现优于其以往的 Fable 5.1 与 GPT-6 Astra 输出，这是自家宣传中的主观比较"
+    },
+    {
+      "public_number": 173,
+      "title": "Higgsfield 商业视频的时间与费用",
+      "takeaway": "将商业视频的时间与成本对比视为平台自报的制作证据",
+      "body_notes": "Higgsfield 平台对比商业视频制作，报告 Opus 5.5 用时 60 分钟、50 美元，GPT-6 Astra 用时 82 分钟、97 美元；数值来自平台自己的制作展示"
+    },
+    {
+      "public_number": 174,
+      "title": "从发布帖编写纯代码宣传视频",
+      "takeaway": "可用发布帖作为简报，通过代码制作包含画面与声音的发布视频",
+      "body_notes": "作者把原始发布帖交给 Opus 5.5，让其用 JavaScript 制作发布视频，称没有使用外部音乐、音效或图片素材，全部由代码实现"
+    },
+    {
+      "public_number": 175,
+      "title": "转发 Claude 视角的定格动画",
+      "takeaway": "将转发的定格短片视为工具链未说明的二手展示",
+      "body_notes": "帖子转述「通过 Claude 的眼睛看世界」的定格动画创作，并称片中内容均由 Opus 5.5 制作；属于二手展示，具体工具链未交代"
+    },
+    {
+      "public_number": 176,
+      "title": "从两秒迭代到 22 秒的配乐视频",
+      "takeaway": "比较连续的视频版本，查看时长与代码配乐如何演进",
+      "body_notes": "作者展示三版视频，时长从 2 秒扩展到 17 秒，再到最终 22 秒，并称配乐也由 Opus 5.5 用代码完成"
+    },
+    {
+      "public_number": 177,
+      "title": "Photoshop 与 Fusion 修补视频错误",
+      "takeaway": "查看 Photoshop 与 Fusion 的修补结果时，不假设所称节省时间已被独立验证",
+      "body_notes": "Higgsfield 平台展示 Opus 5.5 调用 Photoshop 和 DaVinci Resolve Fusion，修补 AI 视频中的渲染错误；平台称几分钟完成了过去需数小时的手工工作，节省时间未经独立复核"
+    },
+    {
+      "public_number": 178,
+      "title": "从 Kotlin 网站制作宣传视频",
+      "takeaway": "评估网站转 Kotlin 宣传片的流程时，应计入 HyperFrames skills 的作用",
+      "body_notes": "JetBrains 平台展示团队成员向 Opus 5.5 提供 HeyGen 的 HyperFrames skills，并指向 Kotlin 网站制作宣传片；作品依赖这些 skills 提供的视频制作流程"
+    },
+    {
+      "public_number": 179,
+      "title": "按个人风格剪辑原始拍摄素材",
+      "takeaway": "要求匹配个人风格时，提供参考视频并直接检查剪辑结果",
+      "body_notes": "作者提供含录制错误的原始视频和一个参考示例，称只用一条提示就让 Opus 5.5 按自己的剪辑风格处理素材；效果匹配程度来自作者评价，输入包含参考样片"
+    },
+    {
+      "public_number": 180,
+      "title": "把 Coinacademy 文章改成 FLOP Labs 视频",
+      "takeaway": "可将已有文章作为短篇介绍视频的来源简报",
+      "body_notes": "作者以自家 Coinacademy 文章为输入，用两次提示让 Opus 5.5 制作 FLOP Labs 的介绍视频"
+    },
+    {
+      "public_number": 181,
+      "title": "与 GPT-6 Sol 的视频结果对照",
+      "takeaway": "比较展示的视频产物时，不推断它们使用相同提示词或工具链",
+      "body_notes": "作者并列展示 GPT-6 Sol 与 Opus 5.5 制作的视频，正文没有说明具体提示词、脚本或生成工具链"
+    },
+    {
+      "public_number": 182,
+      "title": "用代码制作 serai 宣传视频",
+      "takeaway": "查看代码制作的 serai 宣传片时，保留渲染工具未说明的边界",
+      "body_notes": "作者让 Opus 5.5 通过代码为 serai 制作宣传视频，并分享成片展示；正文没有交代具体编辑或渲染工具"
+    },
+    {
+      "public_number": 183,
+      "title": "Cowork 制作 Opus 5.5 解说视频",
+      "takeaway": "将解说片中的模型与价格陈述，和视频制作本身分别核实",
+      "body_notes": "作者在 Cowork 中让 Opus 5.5 制作介绍自身的解说视频，并称全程没有调用外部 API；视频中的模型能力与价格介绍属于其内容，不是该制作过程独立验证的结论"
+    },
+    {
+      "public_number": 184,
+      "title": "视频作品与尚未实施的 fal 组合设想",
+      "takeaway": "将展示视频与仍属未来构想的 fal 集成分开",
+      "body_notes": "作者称 Opus 5.5 独立完成了展示的视频，但没有说明渲染工具链；文中与 fal、尤其 H3 Max 的组合仍是后续想法，不能当作已完成集成"
+    },
+    {
+      "public_number": 185,
+      "title": "从 UGC 文件夹剪辑并制作文字动画",
+      "takeaway": "评估 UGC 编辑流程时，应计入 Tesseract 的文字动画作用",
+      "body_notes": "作者把 AI UGC 素材文件夹交给 Opus 5.5，通过 Tesseract 剪辑视频，并强调文字动画由 Tesseract 制作；演示支持素材剪辑工作流，未验证整套账号运营能够自动完成"
+    },
+    {
+      "public_number": 186,
+      "title": "游戏引擎阿拉伯文字教程视频",
+      "takeaway": "评估代码制作的阿拉伯文字教程时，保留 logo 和 ElevenLabs 音频依赖",
+      "body_notes": "作者用 Opus 5.5 编码制作教程，讲解不支持阿拉伯语的游戏引擎如何处理阿拉伯文字，自报编程用时 18 分钟；作品使用一张 logo 图片，声音来自 ElevenLabs，不能归为全部素材由 Opus 生成"
+    },
+    {
+      "public_number": 187,
+      "title": "水墨雨伞故事与代码配乐",
+      "takeaway": "将雨伞故事作为代码画面与原创配乐协同制作的参考",
+      "body_notes": "作者展示一把迷路雨伞帮助青蛙、蜗牛和鸭子一家避雨的短片，称水墨画面与配乐均由 Opus 5.5 用代码制作"
+    },
+    {
+      "public_number": 188,
+      "title": "105 个预埋 bug 的修复对比",
+      "takeaway": "比较 bug 修复数与费用时，应考虑各模型重复次数说明不一致",
+      "body_notes": "作者在两个仓库中植入 105 个 bug，报告 Max 档 Opus 5.5 修复 43 个、花费 60.49 美元；Astra 为 45 个／33.03 美元，Fable 5.1 为 43 个／77.55 美元，Opus 5 为 27 个／51.33 美元，Muse Spark 1.3 为 32.2 个／18.11 美元；原帖只对 Astra 明确标注 n=3，其他模型重复次数未同等说明"
+    },
+    {
+      "public_number": 189,
+      "title": "CS2 作弊程序生成的作者展示",
+      "takeaway": "将 CS2 程序视为未经验证的作者说法，不假设展示已证明实际运行",
+      "body_notes": "作者称 Opus 5.5 一次生成了 CS2 作弊程序，并展示相关结果；实际运行效果未核验，该帖只能作为作者自述记录"
+    },
+    {
+      "public_number": 190,
+      "title": "进行中的 circuit_eval 检查点评测",
+      "takeaway": "等待 circuit_eval 运行完成，再将检查点进展解释为最终结果",
+      "body_notes": "作者用 Medium 档测试 Opus 5.5 的 circuit_eval 连续检查点表现，并对照 Opus 5 在第二个检查点后出错的情况；帖子发布时评测仍在进行，作者计划每十分钟更新，不能视为最终成绩"
+    },
+    {
+      "public_number": 191,
+      "title": "系统开发任务被安全分类器中断",
+      "takeaway": "将所报告的安全防护中断限定在作者未完成的任务和会话范围内",
+      "body_notes": "作者自述嵌入式、驱动和系统级开发任务均在完成前触发 cyber 分类器；帖子记录其当日使用受阻，不足以证明所有系统开发或安全任务都会被拦截"
+    },
+    {
+      "public_number": 192,
+      "title": "审读自建 Web 应用的安全问题",
+      "takeaway": "区分源码安全评审与针对应用执行安全测试",
+      "body_notes": "作者让模型阅读自己开发的 Web 应用源码以查找安全问题，报告过程未被拒绝；这里仅做源码分析，作者明确没有让模型执行实际安全测试"
+    },
+    {
+      "public_number": 193,
+      "title": "查找 12 个补丁中的问题",
+      "takeaway": "比较补丁评审发现时，同时考虑 API 等价费用估算，不宣称成本必然下降",
+      "body_notes": "邮件列表补丁评审测试中，Opus 5.5 找到 14 个问题中的 8 个，Opus 5 找到 6 个；$15.40 和 $15.19 均为订阅使用的 API 等价费用估算，因此新版在这里并非更便宜"
+    },
+    {
+      "public_number": 194,
+      "title": "游戏项目的复杂 bug 调试",
+      "takeaway": "将游戏调试成功视为缺少公开复现证据的早期个人报告",
+      "body_notes": "作者短暂试用 Opus 5.5 调试游戏项目，自述多项复杂 bug 一次解决；帖子没有公开具体问题集或复现步骤，应保留为个人早期使用反馈"
+    },
+    {
+      "public_number": 195,
+      "title": "Khan Academy 的 PR 评审机器人",
+      "takeaway": "将 PR 机器人报告作为单团队衡量成本、调用次数、运行时间和评审质量的参考",
+      "body_notes": "团队把内部 PR review bot 从 Opus 5 换到 5.5，作者报告成本下降 50%、工具调用下降 34%、执行时间下降 62%，未见质量下降；数字来自单团队观察"
+    },
+    {
+      "public_number": 196,
+      "title": "高风险请求的拒绝与回退",
+      "takeaway": "将最终拒绝归于 Opus 5.5 前，先确认回退模型",
+      "body_notes": "截图展示越权安全请求触发 Opus 5.5 的 cyber 防护，随后由 Opus 4.8 接手并拒绝；没有发生实际攻击，也不能把回退模型的最终回答全部归给 Opus 5.5"
+    },
+    {
+      "public_number": 197,
+      "title": "CyScenarioBench 的十题子集",
+      "takeaway": "将自报解题率限定在 CyScenarioBench 的十题子集内",
+      "body_notes": "Irregular 报告其多阶段安全基准的 10 题子集被用于评测：Opus 5.5 平均解题率 67.6%，Mythos 5.1 为 61.7%，Opus 5 为 53.0%；这是评测方公布的特定子集结果"
+    },
+    {
+      "public_number": 198,
+      "title": "同题解释期权概念的表达对比",
+      "takeaway": "比较解释片段时，保留作者的提前访问披露",
+      "body_notes": "作者通过期权概念解释截图比较 Opus 5 与 Opus 5.5 的写作，认为新版更直接、自然；作者披露自己是提前测试者；这属于已披露的访问关系，未说明该帖商业条款"
+    },
+    {
+      "public_number": 199,
+      "title": "森林与河流背景的故事片段",
+      "takeaway": "评估故事片段的文字时，不重建其缺失的写作任务要求",
+      "body_notes": "媒体截图呈现以森林和河流为背景的故事片段，作者将其归于 Opus 5.5；原始提示词未提供，无法从片段还原完整写作任务"
+    },
+    {
+      "public_number": 200,
+      "title": "解释仓库调度器的正确性",
+      "takeaway": "精简调度器技术解释时，同时检查正确性与读者反馈",
+      "body_notes": "作者要求简短解释仓库调度器，同时保留关键正确性细节，并展示实际输出；作者认为更易读，但同一回复串中的读者仍批评其比喻与句式"
+    },
+    {
+      "public_number": 201,
+      "title": "精简旧版模型写的文档",
+      "takeaway": "将修改前后的标题作为精简文字的具体参考",
+      "body_notes": "作者让 Opus 5.5 清理旧版 Opus 写的文档，并展示标题前后对照，包括 Scope、Status 等更短的标签；证据限于这次具体编辑结果"
+    },
+    {
+      "public_number": 202,
+      "title": "十个 Agent 探索最短路径算法",
+      "takeaway": "依赖所报告的最短路径改进前，应寻求独立证明核验与复现",
+      "body_notes": "Vals AI 发布自家实验：十个 Opus 5.5 Agent 在 15 小时内提出 C-HD 最短路径算法改进，并称用 Lean 完成形式化证明、改善已发表界限；资料未独立复核证明或实际运行收益，属于待复现的研究结果"
+    },
+    {
+      "public_number": 203,
+      "title": "tscircuit 蓝牙音箱电路对比",
+      "takeaway": "硬件制作并测试前，将 tscircuit 音箱设计视为电路图展示",
+      "body_notes": "tscircuit 相关作者用同一条「制作蓝牙音箱」指令，对比 Opus 5.5 与 GPT-6 Astra 的电路设计；属于自家工具展示，结果没有证明实体硬件已制作或通过测试"
+    },
+    {
+      "public_number": 204,
+      "title": "电路原理图绘制的耗时对比",
+      "takeaway": "结合自报运行时间比较电路图产物，同时保留更广泛速度排名的暂定性质",
+      "body_notes": "作者比较电路原理图绘制，报告 Opus 5.5 用时 8 分钟，Grok 4.7 用时 20 分钟，并认为前者质量更高；关于超越 Astra 的判断只是作者根据速度提出的看法"
+    },
+    {
+      "public_number": 205,
+      "title": "ARC-AGI 推理与单题成本",
+      "takeaway": "在评测方报告的测试条件下理解 ARC 成绩与每题成本",
+      "body_notes": "ARC Prize 发布验证结果：ARC-AGI-2 为 93.3%、每题 0.41 美元；ARC-AGI-1 为 98.5%、每题 0.16 美元；成绩与成本只适用于该机构报告的评测条件"
+    },
+    {
+      "public_number": 206,
+      "title": "生成 Interaction Calculus 规则",
+      "takeaway": "将自报的演算规则复现与未来提出的 Bend 重写分开",
+      "body_notes": "领域作者自述 Opus 5.5 能写出 Interaction Calculus 的语法和规则细节，并给出可核对的项目名称；帖子中的 Bend 自举重写仍只是后续计划，不列为已完成成果"
+    },
+    {
+      "public_number": 207,
+      "title": "用鼠标键盘在 Paintbrush 画蒙娜丽莎",
+      "takeaway": "比较鼠标绘制结果时，保留共同限制与平台报告的时间、费用估算",
+      "body_notes": "Higgsfield 平台让两个模型仅用黑色笔画、鼠标和键盘在 Paintbrush 中绘制蒙娜丽莎；平台报告 Opus 5.5 为 11m 42s、估计 $1.66，GPT-6 Astra 为 5m 26s、估计 $2.72"
+    },
+    {
+      "public_number": 208,
+      "title": "Paint 绘图的交互方式对比",
+      "takeaway": "验证指定的绘图交互，并将附带的对照视频与 Opus 产物区分开",
+      "body_notes": "作者让两模型在 Paint 画老板肖像再用 Magnific MCP 动画，但称 Opus 采用了不符合要求的捷径；附带视频明确展示 ChatGPT 对照结果，不能当作 Opus 成功演示"
+    }
+  ]
+}

@@ -1,0 +1,1307 @@
+{
+  "locale": "de",
+  "labels": {
+    "intro": "Einführung",
+    "overview": "Überblick",
+    "quick": "Schnellstart",
+    "menu": "Inhaltsverzeichnis",
+    "related": "Verwandte Repositories",
+    "ack": "Danksagung",
+    "title": "Anwendungsfälle für Claude Opus 5.5",
+    "subtitle": "Quellenbelegte Arbeitsabläufe, Demos, Vergleiche und Grenzen",
+    "introtext": "Entdecken Sie, was Menschen mit Claude Opus 5.5 gebaut und getestet haben: Spiele, 3D-Szenen, Programmierwerkzeuge, Forschung und kreative Arbeitsabläufe. Jeder Eintrag verlinkt den Herausgeber und wahrt die Grenzen der ursprünglichen Aussage.",
+    "note": "Dies sind zugeordnete Quellenberichte, keine unabhängigen Reproduktionen. Mit Werkzeugen erstellte Videos und Grafiken belegen keine native Mediengenerierung. Werbliche Vergleiche bleiben als solche zugeordnet; wiederholte Beiträge sind keine unabhängigen Experimente. Die folgenden Datumsangaben sind Veröffentlichungsdaten der Quellen (UTC), keine Importdaten.",
+    "cta": "Claude Opus 5.5 auf EvoLink entdecken",
+    "key": "Einen EvoLink-API-Schlüssel erstellen",
+    "doc": "Den Leitfaden zur Claude Messages API lesen",
+    "steps": [
+      "Die Modellseite öffnen, um den aktuellen Zugang und die Fähigkeiten zu prüfen",
+      "Einen API-Schlüssel im EvoLink-Dashboard erstellen",
+      "Dem verlinkten modellspezifischen API-Leitfaden oder den Agent-Anweisungen auf der Modellseite folgen"
+    ],
+    "category": "Kategorie",
+    "case": "Fall",
+    "type": "Typ",
+    "play": "Quellvideo abspielen",
+    "media": "Anhang der Quelle",
+    "support": "Ergänzende Quellen / zusammengeführte Berichte",
+    "acktext": "Vielen Dank an die unten genannten Urheber und Herausgeber. Originaldemos, Screenshots, Marken und verlinkte Werke bleiben den Rechten ihrer jeweiligen Eigentümer unterworfen. Für Zuordnungskorrekturen oder Entfernungswünsche kontaktieren Sie die Repository-Pflege über die Issue-Vorlage für Korrekturen.",
+    "foot": "Redaktionelle Zusammenfassungen und Sammlungsstruktur: CC BY 4.0; für Medien Dritter gelten deren ursprüngliche Rechte.",
+    "overviewtext": "**208 ausgewählte Fälle zu Claude Opus 5.5** aus kreativer Arbeit, Entwicklung, Forschung und Evaluation.",
+    "overviewbullets": [
+      "Entdecken Sie offizielle Leitfäden sowie Community-Demos, Arbeitsabläufe, Vergleiche und dokumentierte Grenzen.",
+      "Jeder Eintrag enthält die Originalquelle, den Herausgeber, das Veröffentlichungsdatum der Quelle, eine knappe Kernaussage und quellenbasierte Anmerkungen.",
+      "Wählen Sie im Inhaltsverzeichnis eine Aufgabe und folgen Sie ihrer Quelle zu den offengelegten Werkzeugen, Eingaben und Ergebnissen."
+    ],
+    "case_label": "Fall",
+    "by_label": "von",
+    "relatedtext": "Verwandte Ressourcen von Anthropic behandeln deren eigene Werkzeuge und APIs; sie sind keine Installationsanleitung für Claude Opus 5.5 über EvoLink.",
+    "categories": {
+      "official": "Offizielle Leitfäden und Präsentationen",
+      "games": "Spieleentwicklung",
+      "education": "Interaktives Lernen und Visualisierung",
+      "3d": "3D-Modellierung und Szenen",
+      "audio": "Musik und Klang",
+      "graphics": "Kreative Grafik und Animation",
+      "web": "Websites und Oberflächen",
+      "business": "Geschäftsanalyse und Dokumente",
+      "agents": "Agenten und Entwicklungsabläufe",
+      "vision": "Visuelles Verständnis und Annotation",
+      "video": "Videoschnitt und Produktion",
+      "coding": "Codewartung und Tests",
+      "writing": "Schreiben und Erklären",
+      "science": "Wissenschaftliche Forschung und Schaltungen",
+      "computer-use": "Computerbedienung"
+    }
+  },
+  "items": [
+    {
+      "public_number": 1,
+      "title": "Ein offiziell geteilter Wassermelonen-Kurzfilm",
+      "takeaway": "Nutzen Sie den offiziell geteilten Wassermelonen-Kurzfilm als erzählerische Referenz, wobei sein Produktionsprozess weiterhin undokumentiert ist.",
+      "body_notes": "Claudes offizieller Account teilt Kevin Ngos Kurzgeschichte über eine Wassermelone als frühe Erkundung von Opus 5.5. Dies ist eine offizielle Präsentation aus zweiter Hand, keine unabhängige Rekonstruktion der Produktion."
+    },
+    {
+      "public_number": 2,
+      "title": "Eine vollständige Aufgabe übergeben",
+      "takeaway": "Definieren Sie Abschlusskriterien und Zwischenabstimmungen, bevor Sie eine ganze Aufgabe delegieren.",
+      "body_notes": "Der offizielle Leitfaden empfiehlt, vor der Übergabe einer ganzen Aufgabe Abschluss und Zwischenabstimmungen festzulegen, redundante Denkanweisungen wegzulassen und nach einem langen Lauf den weiteren Bedarf zu prüfen. Ein vollständiger Praxisleitfaden ist verlinkt."
+    },
+    {
+      "public_number": 3,
+      "title": "Vergleich von Samurai-Spielen",
+      "takeaway": "Berücksichtigen Sie beim Vergleich der Samurai-Spielergebnisse die Plattformwerbung des Herausgebers.",
+      "body_notes": "Higgsfield vergleicht Samurai-Spieldemos aus Opus 5.5 und GPT-6 Astra im Rahmen seiner eigenen Plattformwerbung."
+    },
+    {
+      "public_number": 4,
+      "title": "Mario-Kart-Demo in einem Durchlauf",
+      "takeaway": "Prüfen Sie die spielbaren Figuren dieses laut Bericht in einem Durchlauf erstellten Kartspiels, bevor Sie das Qualitätsurteil der Plattform übernehmen.",
+      "body_notes": "BridgeMinds Werbedemo präsentiert ein in einem Durchlauf erstelltes Mario-Kart-Spiel mit spielbaren Figuren Mario und Luigi. Die Behauptung, Fable 5.1 zu übertreffen, ist die eigene Einschätzung der Plattform."
+    },
+    {
+      "public_number": 5,
+      "title": "Minecraft-Klon im Browser",
+      "takeaway": "Prüfen Sie anhand der Browser-Minecraft-Demo, was dieser Versuch der Spieleerzeugung hervorgebracht hat.",
+      "body_notes": "Der Autor demonstriert einen im Browser getesteten Minecraft-Klon und zeigt damit das Ergebnis dieses Versuchs der Spieleerzeugung."
+    },
+    {
+      "public_number": 6,
+      "title": "Mechanisches Spiel in einer HTML-Datei",
+      "takeaway": "Erwägen Sie für prozedurale Spielgrafik und Klänge das von dieser Plattformdemo veranschaulichte HTML-Einzeldateiformat.",
+      "body_notes": "Diese Werbedemo einer Plattform präsentiert ein vom Mechanismus von Antikythera inspiriertes Spiel, dessen audiovisuelle Inhalte eine einzige, etwa 3 MB große HTML-Datei in Echtzeit erzeugt."
+    },
+    {
+      "public_number": 7,
+      "title": "Anime-Kampfspiel mit Roblox toolbox",
+      "takeaway": "Berücksichtigen Sie bei der Bewertung des angeblich in einem Durchlauf erstellten Kampfspiels die Assets von Roblox toolbox.",
+      "body_notes": "Der Autor berichtet, mit ausschließlich Roblox toolbox in einem Durchlauf ein Kampfspiel mit Anime-Figuren erzeugt zu haben, und hält es für besser als Fable. Das Spiel ist auf die Ressourcen der Toolbox angewiesen."
+    },
+    {
+      "public_number": 8,
+      "title": "Spider-Man-Spiel im Vergleich dreier Modelle",
+      "takeaway": "Vergleichen Sie die drei Spider-Man-Spielergebnisse anhand derselben sichtbaren Spielmerkmale.",
+      "body_notes": "Der Autor vergleicht Opus 5.5, Fable 5.1 und GPT-6 Astra bei einer Spider-Man-Spielaufgabe."
+    },
+    {
+      "public_number": 9,
+      "title": "Minecraft-Klon mit Wasserphysik",
+      "takeaway": "Wägen Sie das berichtete Ergebnis der Wasserphysik gegen die längere Modelllaufzeit des Autors ab.",
+      "body_notes": "Der Autor teilt einen spielbaren Minecraft-Klon mit Wasserphysik und Spielmechanik. Er hält das Ergebnis für besser als Astra, berichtet aber von einer noch längeren Modelllaufzeit als bei Astra."
+    },
+    {
+      "public_number": 10,
+      "title": "Egoperspektivische Szenen aus DEAD SIGNAL",
+      "takeaway": "Prüfen Sie die mit demselben Prompt erstellten Egoperspektiv-Szenen getrennt von den Qualitätsurteilen der Plattform.",
+      "body_notes": "BridgeBenchs Plattformwerbung vergleicht Opus 5.5 und GPT-6 Sol mit demselben Prompt und derselben Aufgabe. Die Medienvorschau zeigt Spielszenen aus DEAD SIGNAL in Egoperspektive; die Qualitätsurteile stammen von der Plattform selbst."
+    },
+    {
+      "public_number": 11,
+      "title": "Imkerspiel aus Code",
+      "takeaway": "Nutzen Sie die Imkerei-Demo als Referenz für das Zeichnen von Spielassets und die Umsetzung der Spielmechanik in Code.",
+      "body_notes": "Der Autor berichtet von einem Imkerspiel aus einem einzigen Prompt ohne Bilddateien: Bienenstöcke, Blumen, Bienen und Imker werden in Code gezeichnet. Zum Spiel gehören Blumenpflanzen, fliegende Bienen und Honigernte."
+    },
+    {
+      "public_number": 12,
+      "title": "Snake-Spieldemo",
+      "takeaway": "Prüfen Sie diese Snake-Demo als kompaktes Beispiel generierter Spiellogik und Darstellung.",
+      "body_notes": "Der Autor präsentiert ein mit Opus 5.5 erstelltes Snake-Spiel als konkretes Beispiel für Spieleerstellung."
+    },
+    {
+      "public_number": 13,
+      "title": "3D-Spielergebnisse im Vergleich mit Sol",
+      "takeaway": "Vergleichen Sie die gezeigten 3D-Spielergebnisse, ohne die Präferenz der Plattform als unabhängige Bewertung zu behandeln.",
+      "body_notes": "Higgsfield präsentiert einen Vergleich von Opus 5.5 und GPT-6 Sol bei der 3D-Spieleentwicklung im Rahmen seiner eigenen Plattformwerbung."
+    },
+    {
+      "public_number": 14,
+      "title": "Mehrspieler-Billard mit Zuschauermodus",
+      "takeaway": "Prüfen Sie das verlinkte Billardspiel, bevor Sie sich auf die angegebenen Mehrspielermodi und Spieleraktivitäten verlassen.",
+      "body_notes": "Der Autor berichtet von einem in einem Durchlauf erstellten Mehrspieler-Billardspiel mit 8-Ball, 9-Ball, Snooker, 2v2, Sprachchat, Turnieren, Wertungen, Wiederholungen, Zuschauermodus und Mobil-/Browser-Unterstützung. Ein Link ist vorhanden; die bestehende Spieleraktivität ist eine Eigenangabe."
+    },
+    {
+      "public_number": 15,
+      "title": "Arcade-Spiel über die Higgsfield API",
+      "takeaway": "Prüfen Sie die Wasserreflexionen und das Arcade-Gameplay in dieser API-basierten Plattformdemo.",
+      "body_notes": "Higgsfields Werbedemo zeigt ein über die eigene API erstelltes Spiel mit Wasserreflexionen und Arcade-Gameplay."
+    },
+    {
+      "public_number": 16,
+      "title": "Minecraft im Browser nachbauen",
+      "takeaway": "Bewerten Sie anhand des Browser-Nachbaus den sichtbaren Umfang eines Minecraft-Klon-Versuchs.",
+      "body_notes": "Der Autor demonstriert einen browserbasierten Minecraft-Klon als Versuch, ein Spiel nachzubauen."
+    },
+    {
+      "public_number": 17,
+      "title": "Rasenmähen mit Livestream-Zuschauern",
+      "takeaway": "Erwägen Sie, Livestream-Zuschauer zum Testen eines Mehrspielerprototyps auf einem eigenen Server einzuladen.",
+      "body_notes": "Der Autor demonstriert einen Mehrspieler-Rasenmähsimulator mit Bier- und Zigarrenelementen, den er auf einem eigenen Server bereitstellt, damit Livestream-Zuschauer mitspielen können."
+    },
+    {
+      "public_number": 18,
+      "title": "Kritzel-Shooter mit Endgegner",
+      "takeaway": "Prüfen Sie, wie der laut Bericht in einem Durchlauf erstellte Shooter Kritzelstil und Endgegner kombiniert.",
+      "body_notes": "Der Autor berichtet von einem in einem Durchlauf erstellten Schießspiel im Kritzelstil, das auch einen Endgegner enthält."
+    },
+    {
+      "public_number": 19,
+      "title": "Mario-Spiel mit Einstellung Medium",
+      "takeaway": "Nutzen Sie diese Mario-Demo als Referenz für einen Spieleerzeugungslauf mit Aufwandseinstellung Medium.",
+      "body_notes": "Der Autor demonstriert ein Mario-Spiel, das mit der Einstellung Medium erzeugt wurde."
+    },
+    {
+      "public_number": 20,
+      "title": "Vergleich von Kart-Rennaufnahmen",
+      "takeaway": "Vergleichen Sie die Kart-Rennaufnahmen anhand des sichtbaren Spielverhaltens statt daraus abgeleiteter Modellfähigkeiten.",
+      "body_notes": "Der Beitrag vergleicht Opus 5.5 mit GPT-6 Sol; in seiner Medienvorschau sind Aufnahmen eines Kart-Rennspiels zu sehen."
+    },
+    {
+      "public_number": 21,
+      "title": "Spielvergleich mit GPT-6 Sol bei gleichem Prompt",
+      "takeaway": "Folgen Sie den verlinkten Spielen mit gleichem Prompt, um ihr tatsächliches Spielerlebnis zu vergleichen.",
+      "body_notes": "Der Autor erzeugt Spiele mit demselben Prompt, vergleicht Opus 5.5 mit GPT-6 Sol und gibt an, dass die Spiellinks unter dem Beitrag stehen."
+    },
+    {
+      "public_number": 22,
+      "title": "Snake in einem Durchlauf erzeugt",
+      "takeaway": "Nutzen Sie das angeblich in einem Durchlauf erstellte Snake-Spiel als Referenz für eine Erzeugungsaufgabe mit kleinem Umfang.",
+      "body_notes": "Der Autor demonstriert ein Snake-Spiel, das nach seiner Beschreibung in einem einzigen Durchlauf erzeugt wurde."
+    },
+    {
+      "public_number": 23,
+      "title": "Zombie-Gameplay mit Three.js",
+      "takeaway": "Untersuchen Sie die Three.js-Demo auf Spielmechanik, Texturen und Klänge, die ohne Assetdateien erzeugt wurden.",
+      "body_notes": "Der Autor demonstriert rund 13,000 Zeilen Three.js für Gameplay im Stil von Call of Duty Zombies, einschließlich Entfernung von Brettern an verbarrikadierten Fenstern, Mystery Box, Pack-a-Punch, Jugg, Ray Gun und BO1-Rundenmechanik. Laut Bericht gibt es keine Assetdateien: Texturen, Stöhnen und Jingles werden in Code erzeugt."
+    },
+    {
+      "public_number": 24,
+      "title": "Schneespiel in zwei Überarbeitungsrunden verfeinert",
+      "takeaway": "Planen Sie Überarbeitungsrunden und Laufzeit für ein Schneespiel mit abgestimmten Bild- und Toneffekten ein.",
+      "body_notes": "Der Autor berichtet von einem anfänglichen Prompt und etwa zwei Überarbeitungsrunden für ein Schneespiel, wobei das Modell über eine Stunde arbeitete. Die Demo umfasst aufspritzenden Schnee, Bäume, Spuren, Beleuchtung, Schatten und Klangeffekte."
+    },
+    {
+      "public_number": 25,
+      "title": "Spielfunktionen und Trailer-Schnitt",
+      "takeaway": "Prüfen Sie das spielbare Spiel zusammen mit dem Trailer und behalten Sie die offengelegte Partnerschaft des Autors im Blick.",
+      "body_notes": "In diesem als Partnerschaft offengelegten Beitrag berichtet ein Autor mit frühem Modellzugang über ergänzte Spielfunktionen und den Schnitt eines Trailers und stellt einen spielbaren Link bereit."
+    },
+    {
+      "public_number": 26,
+      "title": "Mehrspieler-Überlebensinsel in Tesana",
+      "takeaway": "Prüfen Sie die Mehrspielersysteme der Tesana-Insel, bevor Sie sich auf die behauptete Spieldauer verlassen.",
+      "body_notes": "Der Autor berichtet, mit wenigen Prompts eine Mehrspieler-Überlebensinsel im ARK-Stil in Tesana mit Quests, Dinosaurierzähmung, Herstellung und Kämpfen gebaut und anschließend mit zwei Freunden gespielt zu haben. Die behaupteten 30+ Stunden Spielzeit sind eine Eigenangabe; der Bericht weist auf eine mögliche, unbestätigte Partnerschaft hin."
+    },
+    {
+      "public_number": 27,
+      "title": "Spielvergleich in Unreal Engine",
+      "takeaway": "Vergleichen Sie die Spielergebnisse aus Unreal Engine im Kontext des Plattformablaufs von Higgsfield.",
+      "body_notes": "Higgsfields eigene Plattformwerbung vergleicht Opus 5.5 und GPT-6 Sol beim Erstellen von 3D-Spielen in Unreal Engine."
+    },
+    {
+      "public_number": 28,
+      "title": "Dark-Fantasy-RPG in Tesana",
+      "takeaway": "Prüfen Sie, wie das Tesana-RPG Gebiete, Quests und vertonte Dialoge verbindet, während der Partnerschaftsstatus ungeklärt bleibt.",
+      "body_notes": "Der Autor berichtet, mit wenigen Prompts ein Dark-Fantasy-RPG in Tesana mit mehreren Gebieten, Quests und vertonten Dialogen erstellt zu haben. Der Bericht weist auf eine mögliche, unbestätigte Partnerschaft hin."
+    },
+    {
+      "public_number": 29,
+      "title": "Gitarrenladen mit lärmausgelösten Kämpfen",
+      "takeaway": "Testen Sie die Leistung, bevor Sie einen Three.js-Ladensimulator mit Hunderten spielbarer Gitarrenmodelle ausbauen.",
+      "body_notes": "Der Autor demonstriert einen Ladensimulator mit 300+ spielbaren Gitarrenmodellen und durch Lärm ausgelösten Kämpfen. Three.js wird als ruckelig beschrieben; ein Neubau in Blender/Godot ist geplant, aber noch nicht umgesetzt."
+    },
+    {
+      "public_number": 30,
+      "title": "Handgezeichnetes Schach mit Zuganalyse",
+      "takeaway": "Prüfen Sie, wie die Schachdemo eine handgezeichnete Optik mit Zuganalyse verbindet.",
+      "body_notes": "Higgsfields Plattformwerbung demonstriert ein Schachspiel im handgezeichneten Stil mit Zuganalyse."
+    },
+    {
+      "public_number": 31,
+      "title": "Flugsimulator im Vergleich mit Kimi K3",
+      "takeaway": "Vergleichen Sie beim Abwägen der beiden Ergebnisse das Flugsimulatorverhalten zusammen mit den angegebenen Kosten.",
+      "body_notes": "Der Autor vergleicht Flugsimulatoren von Opus 5.5 und Kimi K3 mit demselben Prompt und zeigt Oberfläche, mehrere Kamerawinkel und Sprache. Beide laufen laut Bericht flüssig, während Kimi K3 kosteneffizienter ist."
+    },
+    {
+      "public_number": 32,
+      "title": "Tesana-Fantasiewelt aus einem Prompt",
+      "takeaway": "Prüfen Sie anhand der Tesana-Fantasiewelt das kombinierte Gameplay-, Audio- und Oberflächenergebnis der Plattform.",
+      "body_notes": "Tesanas eigene Werbedemo präsentiert eine aus einem Prompt erzeugte Fantasiewelt mit Gameplay, Systemen, Audio und Oberfläche."
+    },
+    {
+      "public_number": 33,
+      "title": "Bogenschießspiel in unter zehn Minuten erstellt",
+      "takeaway": "Prüfen Sie das bereitgestellte Bogenschießspiel, bevor Sie die angegebene Erstellungszeit von unter zehn Minuten verallgemeinern.",
+      "body_notes": "Der Autor demonstriert ein Bogenschießspiel und berichtet, Erstellung und Bereitstellung in unter zehn Minuten abgeschlossen zu haben."
+    },
+    {
+      "public_number": 34,
+      "title": "Vergleiche von Minecraft- und Warcraft-Klonen",
+      "takeaway": "Vergleichen Sie die veröffentlichten Spielergebnisse und Prompts unter Berücksichtigung von Aufwand, Laufzeit und geschätzten Kosten.",
+      "body_notes": "Der Autor teilt spielbare Ergebnisse und Prompts für Opus 5.5, Fable 5.1 und Astra über zwei Spiele hinweg. Opus benötigte etwa 45 Minuten mit xhigh in Claude Code; $11–14 sind die geschätzten API-äquivalenten Nutzungskosten bei einem Abonnement."
+    },
+    {
+      "public_number": 35,
+      "title": "Ergebnis und Kosten bei Runescape Bench",
+      "takeaway": "Behandeln Sie den angegebenen Preis und Rang bei Runescape Bench ausschließlich als Belege zu dessen Spielaufgaben.",
+      "body_notes": "Laut Autor liegt Opus 5.5 bei Runescape Bench hinter Astra auf dem zweiten Platz, zu ungefähr einem Drittel des Preises. Dies ist das Ergebnis eines Benchmarks für Spielaufgaben und kein Maßstab für jedes Spiel- oder Entwicklungsszenario."
+    },
+    {
+      "public_number": 36,
+      "title": "Interaktiver Korallenriff-Hintergrund",
+      "takeaway": "Nutzen Sie die Fischfütterungsinteraktion als Referenz, um einen atmosphärischen Bildschirmhintergrund interaktiv zu gestalten.",
+      "body_notes": "Der Autor demonstriert einen Korallenriff-Hintergrund mit einer Interaktion, bei der Nutzer die Fische füttern können."
+    },
+    {
+      "public_number": 37,
+      "title": "Wassersimulation aus einem Livestream",
+      "takeaway": "Prüfen Sie die gezeigte Wassersimulation als ein Ergebnis einer längeren Livestream-Sitzung.",
+      "body_notes": "Der Autor erstellt während eines Livestreams Wassersimulationen; dieser Beitrag zeigt eines der drei Ergebnisse."
+    },
+    {
+      "public_number": 38,
+      "title": "3D-Wasser anhand eines Videos nachbauen",
+      "takeaway": "Vergleichen Sie das nachgebildete Wasser mit der Videoreferenz, bevor Sie die Einschätzung der Originaltreue durch den Autor übernehmen.",
+      "body_notes": "Der Autor demonstriert eine in einem Durchlauf erstellte 3D-Wassernachbildung anhand einer Videoreferenz und hält sie für originalgetreu. Die zitierte Referenz ist eine Wasserdemo von Grok 4.7."
+    },
+    {
+      "public_number": 39,
+      "title": "Handanatomie schichtweise erkunden",
+      "takeaway": "Prüfen Sie die schichtweise Anatomieoberfläche, ohne sich auf ihre unvalidierten Schmerz- oder Genesungshinweise zu verlassen.",
+      "body_notes": "Higgsfields Plattformdemo zeigt die Handanatomie mit Knochen, Muskeln und Sehnen in Schichten und lokalisiert Schmerzen per Webcam oder Klick. Die vorgeschlagenen Ursachen und Genesungstipps wurden nicht validiert."
+    },
+    {
+      "public_number": 40,
+      "title": "Grasberührungs-Simulator in Kilo Code",
+      "takeaway": "Vergleichen Sie die Grasberührungs-Ergebnisse zusammen mit den von der Plattform angegebenen Kosten je Lauf.",
+      "body_notes": "Dieser werbliche Plattformvergleich erstellt einen Grasberührungs-Simulator in Kilo Code und nennt $3.52 für Grok 4.7 und $7.35 für Opus 5.5. Dies sind Eigenangaben zu den Kosten dieses Laufs."
+    },
+    {
+      "public_number": 41,
+      "title": "Eine Trebuchet-Skizze wird zur Simulation",
+      "takeaway": "Nutzen Sie die Trebuchet-Präsentation als Referenz für den Weg von der Skizze zur Simulation und wahren Sie ihren Status als Bericht aus zweiter Hand.",
+      "body_notes": "Dieser Beitrag aus zweiter Hand zeigt eine Trebuchet-Skizze, die in eine 3D-Simulation mit Physik, Steuerung und Klangeffekten überführt wurde; laut Behauptung genügte ein Prompt."
+    },
+    {
+      "public_number": 42,
+      "title": "Schienen- und Pendelmechanismen",
+      "takeaway": "Trennen Sie bei der Kostenschätzung einer Mechanismussimulation API-Laufzeit und verstrichene Leerlaufzeit.",
+      "body_notes": "Die Vorschau zeigt Schienen, Pendelstangen und weitere Mechanismen. Die Rechnung des Autors verzeichnet 52m 6s API-Laufzeit und $19.86; die verstrichenen 4h 21m umfassen etwa drei Stunden Leerlauf und sind keine durchgehende Modellarbeit."
+    },
+    {
+      "public_number": 43,
+      "title": "Gesichter unter unterschiedlicher Schwerkraft",
+      "takeaway": "Prüfen Sie die Demo schwerkraftabhängiger Gesichter unter Beibehaltung des Hinweises auf eine mögliche Partnerschaft.",
+      "body_notes": "Der Autor demonstriert Gesichtsveränderungen bei verschiedenen Schwerkrafteinstellungen in Higgsfield. Der Bericht weist auf eine mögliche, unbestätigte Partnerschaft hin."
+    },
+    {
+      "public_number": 44,
+      "title": "Das Web durch verlinkte Seiten erklären",
+      "takeaway": "Erwägen Sie verknüpfte HTML-Seiten für eine erkundbare Erklärung und planen Sie dabei die berichtete lange Laufzeit ein.",
+      "body_notes": "Der Autor berichtet von einem einzelnen Lauf mit Medium-Aufwand über mehr als vier Stunden, um miteinander verbundene HTML-Seiten zur Funktionsweise des Webs zu erstellen, und verlinkt das Ergebnis zum Ausprobieren."
+    },
+    {
+      "public_number": 45,
+      "title": "Erkundbare 3D-Lernseite zum Auge",
+      "takeaway": "Nutzen Sie die erkundbare Augendemo als Referenz für eine schichtweise 3D-Lernoberfläche.",
+      "body_notes": "Higgsfields Werbedemo präsentiert eine 3D-Lernseite, auf der ein Auge zerlegt und untersucht werden kann, und vergleicht das Ergebnis mit GPT-6 Sol."
+    },
+    {
+      "public_number": 46,
+      "title": "Unvollendete interaktive Größenskala des Universums",
+      "takeaway": "Legen Sie Nutzungskontrollpunkte fest, bevor Sie ein interaktives Projekt vom Universum bis zur Planck-Skala angehen.",
+      "body_notes": "Der Autor versucht eine interaktive Reise vom beobachtbaren Universum bis zur Planck-Skala, erreicht jedoch das Nutzungslimit von Max 5x und stellt nur einen Teil der Arbeit fertig."
+    },
+    {
+      "public_number": 47,
+      "title": "Vergleich zehnsekündiger Blender-Aufnahmen",
+      "takeaway": "Vergleichen Sie Blender-Aufnahmen unter Berücksichtigung von Laufzeit, Tokenverbrauch und API-äquivalenten Kosten.",
+      "body_notes": "Mit demselben einzelnen Prompt und ausschließlich Blender vergleicht der Autor prozedurale zehnsekündige Aufnahmen und Zeitraffer ihrer Erstellung. Angegeben werden für Opus 35m, 199.6k Ausgabetokens und etwa $13.3 zu API-Konditionen, gegenüber GPT-6 Astra mit 28m, 56.6k Tokens und etwa $14.5."
+    },
+    {
+      "public_number": 48,
+      "title": "San Francisco in Unreal Engine mit Jev",
+      "takeaway": "Berücksichtigen Sie Jevs Rolle bei der Bewertung des Verhaltens in dieser Stadtszene in Unreal Engine.",
+      "body_notes": "Der Autor demonstriert eine Nachbildung von San Francisco in Unreal Engine, in der Jev das Verhalten von Menschen, Haustieren und Fahrzeugen steuert."
+    },
+    {
+      "public_number": 49,
+      "title": "Fitnessstudioplaner mit 500 Gerätetypen",
+      "takeaway": "Nutzen Sie den Fitnessstudioplaner als Referenz für die Kombination eines gerenderten Gerätekatalogs mit Layoutsteuerung.",
+      "body_notes": "Der Autor demonstriert das Rendern von 500 Fitnessgerätetypen und den Aufbau eines Werkzeugs zur Fitnessstudioanordnung auf dieser Grundlage."
+    },
+    {
+      "public_number": 50,
+      "title": "Raketenstart im Vergleich von vier Modellen",
+      "takeaway": "Vergleichen Sie die vier Raketenstart-Ergebnisse zusammen mit den von der Plattform angegebenen Zeit- und Kostenwerten.",
+      "body_notes": "BridgeBenchs Plattformwerbung vergleicht vier Modelle, die aus einem Prompt einen 3D-Raketenstart erzeugen. Angegebene Kosten/Zeit: GPT-6 Luna unter $0.01/~1m; GPT-6 Sol $0.11/1m; Grok 4.7 $0.29/11m; Opus 5.5 $1.52/12m."
+    },
+    {
+      "public_number": 51,
+      "title": "Pelikan auf einem Fahrrad",
+      "takeaway": "Prüfen Sie den radfahrenden Pelikan als visuelles Ergebnis statt als dokumentierten Arbeitsablauf.",
+      "body_notes": "Der Autor teilt eine Kreation mit einem Pelikan, der Fahrrad fährt."
+    },
+    {
+      "public_number": 52,
+      "title": "Market Street vor dem Erdbeben von 1906",
+      "takeaway": "Behandeln Sie die historische Market-Street-Szene bis zur Prüfung ihrer Genauigkeit als Blender-Interpretation.",
+      "body_notes": "Diese Werbedemo einer Plattform präsentiert eine mit einem Prompt erstellte Blender-Nachbildung von San Franciscos Market Street vor dem Erdbeben von 1906. Die historische Genauigkeit ist eine Behauptung des Verfassers."
+    },
+    {
+      "public_number": 53,
+      "title": "Pelikan-Animationsschleife in Blender im Vergleich mit Sol",
+      "takeaway": "Vergleichen Sie die Pelikan-Animationsschleifen getrennt von der Charakterpräferenz der Plattform.",
+      "body_notes": "Atomic Chats Plattformwerbung vergleicht Blender-Animationsschleifen eines radfahrenden Pelikans mit GPT-6 Sol bei gleichem Prompt. Das Urteil, eine Version sei charmanter, stammt von der Plattform selbst."
+    },
+    {
+      "public_number": 54,
+      "title": "Präsentation einer Blender-Arbeit",
+      "takeaway": "Prüfen Sie das Blender-Ergebnis direkt, da der Beitrag weder Motiv noch Arbeitsablauf beschreibt.",
+      "body_notes": "Der Autor teilt eine Blender-Kreation, ohne ihr Motiv im Beitragstext anzugeben."
+    },
+    {
+      "public_number": 55,
+      "title": "Windmühlen-Arbeitsablauf in Blender",
+      "takeaway": "Prüfen Sie anhand der Windmühlen-Präsentation einen kombinierten Blender-Ablauf für Modellierung, Rigging, Texturierung und Animation.",
+      "body_notes": "Higgsfields Werbedemo berichtet, Modellierung, Rigging, Texturierung und Animation einer Blender-Windmühle in 15 Minuten abgeschlossen zu haben."
+    },
+    {
+      "public_number": 56,
+      "title": "Golden Gate Bridge aus Code",
+      "takeaway": "Vergleichen Sie die programmierte Brückenszene mit der verlinkten Referenz, bevor Sie das Qualitätsurteil des Autors übernehmen.",
+      "body_notes": "Der Autor zeigt eine vollständig in Code erzeugte Golden-Gate-Bridge-Szene, hält ihre 3D-Szenenqualität für mit Astra vergleichbar und verlinkt ein Vergleichsvideo."
+    },
+    {
+      "public_number": 57,
+      "title": "Vulkaninseln, Meeresleben und Polarlichter",
+      "takeaway": "Leiten Sie aus den zwei unterschiedlichen Landschaftsszenen keine endgültige Modellrangfolge ab.",
+      "body_notes": "Der Autor zeigt eine Vulkaninsel, Unterwasserleben, Vegetation, Mammuts und Polarlichter und nennt $1.6 für Opus 5 gegenüber $3.4 für Opus 5.5. Er hält die Bildqualität für mit Astra vergleichbar, erklärt aber ausdrücklich, dass zwei unterschiedliche Szenen kein endgültiges Urteil erlauben."
+    },
+    {
+      "public_number": 58,
+      "title": "Exoskelett-Gelenke in Blender neu gestalten",
+      "takeaway": "Behandeln Sie das überarbeitete Exoskelett bis zur Validierung seiner mechanischen Zuverlässigkeit als Modellierungsvorschlag.",
+      "body_notes": "Higgsfield berichtet von einem einzigen Lauf über 39 Minuten mit 5.5 Millionen Tokens, um Schwächen eines Exoskeletts zu analysieren und ein Blender-3D-Modell bis hin zu seinen Gelenken neu zu gestalten. Die mechanische Zuverlässigkeit wurde nicht validiert."
+    },
+    {
+      "public_number": 59,
+      "title": "Solarpunk-Stadt in Cowork",
+      "takeaway": "Prüfen Sie die Solarpunk-Szene als berichtetes Beispiel für den Aufbau einer 3D-Umgebung in Cowork.",
+      "body_notes": "Der Autor demonstriert eine in Cowork erstellte Solarpunk-Stadtszene."
+    },
+    {
+      "public_number": 60,
+      "title": "New Yorker Viertel in Three.js",
+      "takeaway": "Prüfen Sie Render-Schleifen und Kamerabewegungen beim Vergleich der beiden New-York-Szenenergebnisse.",
+      "body_notes": "Der Autor vergleicht eine Three.js-Szene von New York mit Taxis, Dächern, Brooklyn Bridge und Central Park mit GPT-6 Sol. Laut Bericht ist dieses Sol-Ergebnis ein statisches Bild ohne Render-Schleife oder Kamerabewegung."
+    },
+    {
+      "public_number": 61,
+      "title": "Eine weitere Kreation eines radfahrenden Pelikans",
+      "takeaway": "Prüfen Sie diese Kreation eines radfahrenden Pelikans als zusätzliche visuelle Referenz zum selben Motiv.",
+      "body_notes": "Der Autor teilt eine mit Opus 5.5 erstellte Kreation eines Pelikans auf einem Fahrrad."
+    },
+    {
+      "public_number": 62,
+      "title": "Shinkansen-Modell in Blender",
+      "takeaway": "Prüfen Sie das Shinkansen-Modell, bevor Sie sich auf die Objekt- und Sitzanzahlen der Plattform verlassen.",
+      "body_notes": "Higgsfields Plattformdemo präsentiert ein Blender-Shinkansen-Modell und behauptet, es enthalte 5,112 Objekte und 430 Sitze. Diese Zahlen sind Eigenangaben der Plattform."
+    },
+    {
+      "public_number": 63,
+      "title": "Vom Bild zu Low-Poly-3D",
+      "takeaway": "Bewerten Sie beim berichteten Bild-zu-3D-Ergebnis sowohl geometrische Details als auch Farbtreue.",
+      "body_notes": "Der Autor wandelt ein Eingabebild in einem Durchlauf in 3D um, lobt die Farbwiedergabe, bezeichnet das Ergebnis aber zugleich als zu polygonarm. Beides sind Beobachtungen des Autors."
+    },
+    {
+      "public_number": 64,
+      "title": "Figuren-Arbeitsablauf mit Tripo P2, JEF und MCP",
+      "takeaway": "Berücksichtigen Sie Tripo P2, JEF und Blender MCP bei der Bewertung des Produktionsablaufs für die Figur.",
+      "body_notes": "Diese als Partnerschaft offengelegte Demo verbindet Tripo P2, JEF und Blender MCP; der Autor nennt 20 Minuten für Meshes, IK-Rigging mit Gewichtungsmalerei, Kleidung und Animation. Seine Schätzung, Astra würde etwa zehn Stunden und zwei wöchentliche Kontingentrücksetzungen benötigen, ist kein kontrollierter Vergleich."
+    },
+    {
+      "public_number": 65,
+      "title": "Hausfotos und Grundrisse werden zu 3D",
+      "takeaway": "Erwägen Sie die Kombination eines Hausfotos und von Grundrissen für einen Modellprototyp mit interaktivem Browser-Betrachter.",
+      "body_notes": "Higgsfields Plattformdemo verwandelt ein Hausfoto und Grundrisse in ein Blender-Modell samt Offline-Browser-Betrachter für Bauphasen, durchsichtige Wände und einen Rundgang durch den möblierten Innenraum."
+    },
+    {
+      "public_number": 66,
+      "title": "Generierungstest für ein Buddelschiff",
+      "takeaway": "Prüfen Sie am Buddelschiff-Ergebnis die Szenenkomposition, ohne auf einen undokumentierten Arbeitsablauf zu schließen.",
+      "body_notes": "Der Autor demonstriert das Ergebnis eines Generierungstests für ein Buddelschiff."
+    },
+    {
+      "public_number": 67,
+      "title": "DeLorean, Uhrturm und Blitz",
+      "takeaway": "Vergleichen Sie das Verhalten der animierten Szene zusammen mit Generatornutzung, Laufzeit und geschätzten Kosten jedes Modells.",
+      "body_notes": "Der Autor vergleicht Animationen mit DeLorean, Uhrturm und Blitz bei Max-Aufwand und gleichem Prompt. Beide Modelle nutzen Higgsfields Blender-Plugin und MCP mit Zugriff auf Nano Banana Pro und Tripo. Berichtete Ergebnisse: Opus 73m/218k Ausgabetokens/$27.3 API-äquivalent, funktionierende Türen/Räder und ein einschlagender Blitz; GPT-6 Astra 88m/136k/$21.3, ohne Generatoren und mit selbstständigem Bau aller 517 Objekte."
+    },
+    {
+      "public_number": 68,
+      "title": "Vier Phasen von der Skizze zum fertigen Haus",
+      "takeaway": "Nutzen Sie gestaffelte Three.js- und TSL-Ansichten, um die Entwicklung eines Gebäudes von der Skizze bis zur Fertigstellung zu vermitteln.",
+      "body_notes": "Der Autor zeigt mit Three.js und TSL die Entwicklung eines Gebäudes in vier Phasen: Skizze, Volumenmodell, Detaillierung und fertiges Haus."
+    },
+    {
+      "public_number": 69,
+      "title": "Vergleich von 3D-Ergebnissen und berichteten Kosten",
+      "takeaway": "Wägen Sie das gezeigte 3D-Ergebnis gegen den von der Plattform angegebenen Kostenunterschied ab.",
+      "body_notes": "Die Plattformwerbung von AI/ML API vergleicht 3D-Ergebnisse und nennt $4.37 für Opus 5.5 gegenüber $0.34 für GPT-6 Sol, also etwa 13-mal so viel. Die Qualitätsbewertung stammt von der Plattform selbst."
+    },
+    {
+      "public_number": 70,
+      "title": "Ein Gemälde wird zur erkundbaren Szene",
+      "takeaway": "Nutzen Sie die Gemälde-Erweiterung als Referenz, um eine flache Komposition aus mehreren 3D-Blickwinkeln zu erkunden.",
+      "body_notes": "Higgsfields Plattformdemo erweitert ein Gemälde zu Szenen in Blender und Unreal Engine, die aus verschiedenen Blickwinkeln betrachtet werden können."
+    },
+    {
+      "public_number": 71,
+      "title": "3D-Simulator für Möbelanordnungen",
+      "takeaway": "Erwägen Sie einen 3D-Anordnungssimulator, um Möbelaufstellungen vor der Designentscheidung zu vergleichen.",
+      "body_notes": "Higgsfields Plattformdemo zeigt einen Simulator zum Ausprobieren unterschiedlicher Möbelanordnungen in 3D."
+    },
+    {
+      "public_number": 72,
+      "title": "Kohlezeichnung wird zu 3D",
+      "takeaway": "Prüfen Sie, wie die Umwandlung einer Kohlezeichnung in Blender deren Zeichentexturen in eine 3D-Szene überträgt.",
+      "body_notes": "Higgsfields Plattformdemo wandelt eine Kohlezeichnung unter Erhaltung ihrer Strichtexturen in eine Blender-3D-Szene um."
+    },
+    {
+      "public_number": 73,
+      "title": "Mehrspieler-Rundgang durch einen Mittelmeerhafen",
+      "takeaway": "Unterscheiden Sie bei der Bewertung des Hafenrundgangs prozedurale Kulissen und Klänge von importierten Menschenmodellen.",
+      "body_notes": "Der Autor demonstriert einen Mehrspieler-Browserrundgang durch eine Hafenstadt am Mittelmeer. Szenen und Klänge sind prozedural, während die Menschen auf importierten Scan-Assets beruhen."
+    },
+    {
+      "public_number": 74,
+      "title": "3D-Controller-Demo",
+      "takeaway": "Prüfen Sie die Controller-Demo und das angeforderte Video getrennt von der zuvor referenzierten SVG-Aufgabe.",
+      "body_notes": "Der Autor berichtet von einem in einem Durchlauf erstellten 3D-Controller und bittet das Modell um ein teilbares Video. Der zitierte Beitrag bezeichnet die frühere Aufgabe in Claude Code als SVG eines Xbox-Controllers."
+    },
+    {
+      "public_number": 75,
+      "title": "Tempelgarten im Minecraft-Stil",
+      "takeaway": "Vergleichen Sie die Tempelgarten-Vorschauen, ohne die Modellpräferenz des Autors zu verallgemeinern.",
+      "body_notes": "Der Autor vergleicht Opus 5.5 mit GPT-6 Astra; die Medienvorschau zeigt einen Tempelgarten im Minecraft-Stil. Die Präferenz ist seine Einschätzung dieses Tests."
+    },
+    {
+      "public_number": 76,
+      "title": "Oktopus-Modellierung und Animation in Blender",
+      "takeaway": "Prüfen Sie Oktopus-Modell und Animation, ohne die werbliche Qualitätsbezeichnung der Plattform als Bewertung zu behandeln.",
+      "body_notes": "Higgsfields Plattformdemo zeigt die Modellierung und Animation eines Oktopus in Blender. Die Formulierung „AAA-Qualität“ ist eine Werbeaussage, keine unabhängig bestätigte Qualitätseinstufung."
+    },
+    {
+      "public_number": 77,
+      "title": "New-York-Vergleich mit gleichem Prompt",
+      "takeaway": "Vergleichen Sie denselben New-York-Szenenauftrag unter Beibehaltung der jeweiligen Modellversion und Aufwandseinstellung.",
+      "body_notes": "Der Autor vergleicht Opus 5.5 mit High-Aufwand und Opus 5 bei derselben New-York-Szenenaufgabe mit Empire State Building, Brooklyn Bridge, Bäumen im Central Park und Cirruswolken bei Sonnenuntergang."
+    },
+    {
+      "public_number": 78,
+      "title": "Aussichtsflug über mehrere Landschaften",
+      "takeaway": "Folgen Sie dem Making-of-Video, um zu verstehen, wie der Aussichtsflug seine verschiedenen Landschaften verbindet.",
+      "body_notes": "Der Autor demonstriert einen von Disney Soaring inspirierten Flug über die Alpen, Polarlichter, Pyramiden, die Große Mauer und das nächtliche Paris mit Feuerwerk und verlinkt ein Video zur Entstehung."
+    },
+    {
+      "public_number": 79,
+      "title": "Claude-Animation im Voxel-Stil",
+      "takeaway": "Nutzen Sie die Voxel-Figurendemo als Referenz für die Animation einer stilisierten Claude-Figur.",
+      "body_notes": "Der Autor demonstriert eine Claude-Figur im Voxel-Stil samt Animation."
+    },
+    {
+      "public_number": 80,
+      "title": "Voxel-Pelikan im Vergleich mit Fable und Astra",
+      "takeaway": "Vergleichen Sie die Voxel-Pelikan-Ergebnisse und beschränken Sie die Aussage des Autors zum Tokenverbrauch auf diesen Versuch.",
+      "body_notes": "Der Autor vergleicht eine Szene mit einem radfahrenden Pelikan im Voxel-Stil mit Fable und Astra und berichtet für diesen Versuch von geringerem Tokenverbrauch. Der zitierte Beitrag nennt 5.2 als Fable-Version."
+    },
+    {
+      "public_number": 81,
+      "title": "Rennwagenmodell im Vergleich mit GPT-6 Sol",
+      "takeaway": "Prüfen Sie die Rennwagenmodelle nebeneinander, ohne über die gezeigten Ergebnisse hinaus auf Leistungsfähigkeit zu schließen.",
+      "body_notes": "Die Medienvorschau zeigt ein Rennwagenmodell neben dem Ergebnis von GPT-6 Sol für dieselbe Aufgabe."
+    },
+    {
+      "public_number": 82,
+      "title": "GPU-beschleunigte Katzenfell-Simulation",
+      "takeaway": "Nutzen Sie die Katzenfell-Demo als Referenz für eine GPU-beschleunigte Simulation in Three.js.",
+      "body_notes": "Der Autor demonstriert eine in einem Durchlauf erstellte Three.js-Katzenfell-Simulation mit GPU-Beschleunigung."
+    },
+    {
+      "public_number": 83,
+      "title": "Vergleich des Voxel-Bauens in Minecraft",
+      "takeaway": "Trennen Sie die Minecraft-Präferenz des Autors vom formalen VoxelBench-Test, der weiterhin nur geplant ist.",
+      "body_notes": "Der Autor vergleicht Opus 5.5 und GPT-6 Astra subjektiv beim Voxel-Bauen in Minecraft. Ein formaler VoxelBench-Test ist bislang lediglich geplant."
+    },
+    {
+      "public_number": 84,
+      "title": "Raumschiff-Test mit drei Modellen",
+      "takeaway": "Berücksichtigen Sie beim Vergleich der drei Raumschiff-Ergebnisse die unterschiedlichen Denkeinstellungen.",
+      "body_notes": "Der Autor vergleicht eine Raumschiff-Aufgabe mit Opus 5.5 Medium, Grok 4.7 xhigh und Astra Medium; die Denkeinstellungen unterscheiden sich."
+    },
+    {
+      "public_number": 85,
+      "title": "Three.js im Vergleich mit Opus 5",
+      "takeaway": "Folgen Sie der verlinkten Evaluationsplattform, um den Opus-Versionsvergleich bei Three.js-Aufgaben zu prüfen.",
+      "body_notes": "Der Autor vergleicht Three.js-Programmierergebnisse von Opus 5.5 und Opus 5 und verlinkt eine Evaluationsplattform."
+    },
+    {
+      "public_number": 86,
+      "title": "Apokalyptische Kurzfilme in Three.js",
+      "takeaway": "Berücksichtigen Sie ungleiche Ausführungsumgebungen, Korrekturmöglichkeiten und geschätzte Kosten, bevor Sie die gerenderten Kurzfilme vergleichen.",
+      "body_notes": "Der Autor vergleicht Opus 5.5, Fable 5.1 und GPT-6 Astra bei Three.js-Kurzfilmen in Einzeldateien über einen Vergnügungspark, eine Geisterstadt und ein Atomkraftwerk: Alle 36 Einstellungen werden laut Bericht gerendert, doch Astra lässt den geforderten Sternenhimmel aus. Opus/Fable prüfen und korrigieren Frames in Claude Code; Astra erhält eine einzige OpenRouter-Antwort. Fables Kosten/Tokens sind geschätzt. Gemeldete Summen: $19.38/~$9.20/$8.43 und ~69/40/27m; daraus ergibt sich keine faire Modellrangfolge."
+    },
+    {
+      "public_number": 87,
+      "title": "In JavaScript synthetisierte Bassmusik",
+      "takeaway": "Nutzen Sie die Bassmusik-Demo als Referenz für die direkte Klangsynthese in JavaScript.",
+      "body_notes": "Der Autor demonstriert Bassmusik, die aus einem einzigen Prompt mit JavaScript synthetisiert wurde."
+    },
+    {
+      "public_number": 88,
+      "title": "Angeblich perfekte Musikfehler-Erkennung",
+      "takeaway": "Behandeln Sie das perfekte Ergebnis bei Choralfehlern als berichtetes Resultat zu zehn Auszügen, solange eine breitere Validierung fehlt.",
+      "body_notes": "Der Autor testet die Erkennung von Stimmführungsfehlern in zehn vierstimmigen Choralauszügen und berichtet für Opus 5.5 ein perfektes Ergebnis, das früheren Ergebnissen von GPT-6 Astra und Grok 4.7 entspricht. Testsatz und Verallgemeinerbarkeit wurden nicht unabhängig validiert."
+    },
+    {
+      "public_number": 89,
+      "title": "Arbeitsablauf zur Klangeffekterzeugung",
+      "takeaway": "Prüfen Sie den Arbeitsablauf für Klangeffekte direkt, da der Beitrag die entstandenen Klänge nicht benennt.",
+      "body_notes": "Der Autor demonstriert einen Arbeitsablauf zur Erzeugung von Klangeffekten, ohne die resultierenden Klänge im Beitragstext anzugeben."
+    },
+    {
+      "public_number": 90,
+      "title": "Grafikvergleich eines Pocket-Color-Handhelds",
+      "takeaway": "Vergleichen Sie die Handheld-Grafiken anhand sichtbarer Außendetails statt daraus abgeleiteter Gerätefunktionen.",
+      "body_notes": "Der Autor vergleicht Opus 5.5 mit GPT-6 Sol; die Medienvorschau zeigt generierte Grafiken des Äußeren eines Pocket-Color-Handhelds."
+    },
+    {
+      "public_number": 91,
+      "title": "Sweet-Tooth-Animation in 18m 31s",
+      "takeaway": "Prüfen Sie die Sweet-Tooth-Animation, bevor Sie ihre angegebene Produktionszeit für einen Durchlauf verallgemeinern.",
+      "body_notes": "Der Autor demonstriert eine Sweet-Tooth-Animation, die laut Bericht in einem Durchlauf in 18 Minuten und 31 Sekunden erzeugt wurde."
+    },
+    {
+      "public_number": 92,
+      "title": "Cartoon über Claude und AGI",
+      "takeaway": "Nutzen Sie den Cartoon als visuelle Referenz, während sein Erzeugungsablauf weiterhin unbekannt bleibt.",
+      "body_notes": "Eine Video-Stichprobe des Berichts identifiziert einen Cartoon mit Claude und AGI-Thematik, doch der Originalbeitrag legt den Erzeugungsablauf nicht offen."
+    },
+    {
+      "public_number": 93,
+      "title": "Pixel-Zauberer-Animation aus Code",
+      "takeaway": "Prüfen Sie die programmierte Pixelanimation und suchen Sie in den Antworten nach dem vom Autor genannten Prompt.",
+      "body_notes": "Der Autor demonstriert eine vollständig in Code erstellte Pixel-Zauberer-Animation und gibt an, dass der Prompt in den Antworten verfügbar ist."
+    },
+    {
+      "public_number": 94,
+      "title": "Einzelbildanimation in JavaScript",
+      "takeaway": "Nutzen Sie die einzelbildweise gezeichnete Animation als Referenz für die Erzeugung von Bewegung durch JavaScript-Rendering.",
+      "body_notes": "Der Autor zeigt eine Animation, deren Einzelbilder Opus 5.5 in JavaScript gezeichnet hat."
+    },
+    {
+      "public_number": 95,
+      "title": "Nintendo-Switch-SVG-Animation",
+      "takeaway": "Wägen Sie die Anforderungen an die SVG-Animation gegen den berichteten Sitzungsverbrauch bei Max-Aufwand ab.",
+      "body_notes": "Der Autor erstellte mit Max-Aufwand ein Nintendo-Switch-SVG und verglich es mit Gemini 4 Pro; der referenzierte Prompt enthält einrastende Controller und ein Startlogo. Der Lauf verbrauchte laut Bericht 27% des Sitzungskontingents im $20-Abonnement."
+    },
+    {
+      "public_number": 96,
+      "title": "Programmierte Animation des Problemlösens",
+      "takeaway": "Nutzen Sie die reine Codeanimation als kreative Darstellung des Problemlösens statt als Erklärung des Modellprozesses.",
+      "body_notes": "Der Autor präsentiert eine reine Codeanimation, die sich vorstellt, wie das Lösen schwieriger Probleme durch das Modell aussehen könnte."
+    },
+    {
+      "public_number": 97,
+      "title": "Geteilte Schleife eines radfahrenden Pelikans",
+      "takeaway": "Prüfen Sie die Radfahrbewegung unter Beibehaltung der Zuordnung der geteilten Schleife als Bericht aus zweiter Hand.",
+      "body_notes": "Der Beitrag teilt eine Animationsschleife eines radfahrenden Pelikans und hebt Bewegungen wie das Anheben des Vorderrads hervor. Es ist eine Präsentation aus zweiter Hand, keine unabhängige Reproduktion des Arbeitsablaufs."
+    },
+    {
+      "public_number": 98,
+      "title": "SVG-Vergleich eines PS5-Controllers",
+      "takeaway": "Vergleichen Sie Controllerdetails und Schattierung getrennt von BridgeMinds werblichem Qualitätsurteil.",
+      "body_notes": "BridgeMind vergleicht Opus 5.5 und GPT-6 Sol mit demselben Prompt für ein PS5-Controller-SVG, mit Fokus auf Details und Schattierung. Dies ist eine Plattformpräsentation; die Qualitätsurteile stammen vom Herausgeber."
+    },
+    {
+      "public_number": 99,
+      "title": "Wasser- und Partikeleffekte in Devin",
+      "takeaway": "Vergleichen Sie die visuellen Devin-Ergebnisse unter Beibehaltung der offengelegten Zugehörigkeit, Laufzeiten und Kosten des Autors.",
+      "body_notes": "Mit derselben Devin-Ausführungsumgebung, demselben Prompt und jeweils höchster Denkeinstellung vergleicht der Autor Wasser-/Partikeleffekte: Opus benötigte 2h 10m und $75, Astra dagegen 1h 25m und $61. Der Autor legt seine Rolle als Cognition-Botschafter offen; eine Bezahlung für diesen Beitrag ist unbestätigt, und Zeiten sowie Kosten sind Eigenangaben."
+    },
+    {
+      "public_number": 100,
+      "title": "Eine Oktoberfest-Animation",
+      "takeaway": "Prüfen Sie die Oktoberfest-Animation und die verlinkten Anweisungen, bevor Sie sich auf die angegebene Dauer für einen einzigen Versuch verlassen.",
+      "body_notes": "Der Autor zeigt eine Oktoberfest-Animation, die laut Bericht in einem Versuch in 14 Minuten 48 Sekunden erstellt wurde. Der Beitrag gibt an, dass die Anweisungen darunter stehen."
+    },
+    {
+      "public_number": 101,
+      "title": "Musik und Bilder in JavaScript geschrieben",
+      "takeaway": "Nutzen Sie die kombinierte Musik-und-Bild-Demo als JavaScript-Beispiel mit begrenzter Beweiskraft für weitergehende Ersatzansprüche.",
+      "body_notes": "Der Autor präsentiert Musik und animierte Bilder, die laut Bericht vollständig in JavaScript entstanden. Die Präsentation belegt keinen Ersatz für allgemeine Arbeitsabläufe zur Musik- oder Videogenerierung."
+    },
+    {
+      "public_number": 102,
+      "title": "Interaktive Animation nur mit JavaScript",
+      "takeaway": "Prüfen Sie, wie die interaktive Animation JavaScript ohne laut Bericht externe Assets oder Erweiterungen nutzt.",
+      "body_notes": "Der Autor zeigt eine stilisierte interaktive Animation und berichtet, ausschließlich JavaScript verwendet zu haben, ohne externe Assets, MCP oder Skills."
+    },
+    {
+      "public_number": 103,
+      "title": "Animationsvergleich mit drei Modellen",
+      "takeaway": "Vergleichen Sie die drei Animationsergebnisse unter Berücksichtigung der gemeinsamen Eingaben und der vom Autor angegebenen Laufzeiten.",
+      "body_notes": "Über AIML API vergleicht der Autor in einem Versuch erzeugte Animationen mit demselben Prompt, derselben Referenz und XHigh-Einstellung für Opus 5.5, GPT-6 Astra und Opus 5. Die angegebenen Zeiten betragen jeweils 36:46, 32:12 und 14:56; die Urteile zur Bildqualität stammen vom Autor."
+    },
+    {
+      "public_number": 104,
+      "title": "Ein Xbox-Controller in 334 SVG-Zeilen",
+      "takeaway": "Prüfen Sie das kompakte Controller-SVG unter Berücksichtigung des berichteten hohen Tokenverbrauchs bei Max-Aufwand.",
+      "body_notes": "Der Autor berichtet, in Claude Code in einem Versuch einen Xbox-Controller mit 334 SVG-Zeilen einschließlich Xbox-Logo erzeugt zu haben. Er weist außerdem auf hohen Tokenverbrauch bei Max-Aufwand hin."
+    },
+    {
+      "public_number": 105,
+      "title": "Referenzeffekte in TouchDesigner nachgebildet",
+      "takeaway": "Berücksichtigen Sie TouchDesigner bei der Bewertung der referenzbasierten Effektnachbildung.",
+      "body_notes": "Higgsfield zeigt, wie Opus 5.5 seine Effekte anhand von Referenzen in TouchDesigner nachbildet, laut Bericht in 15 Minuten. Das Ergebnis nutzt einen Produktionsablauf in TouchDesigner."
+    },
+    {
+      "public_number": 106,
+      "title": "Ein visueller Game-Boy-Test",
+      "takeaway": "Vergleichen Sie die Game-Boy-Ergebnisse selbst, bevor Sie die visuelle Präferenz des Autors übernehmen.",
+      "body_notes": "Der Autor zeigt das Ergebnis von Opus 5.5 für eine visuelle Game-Boy-Aufgabe und bevorzugt es nach eigener Aussage gegenüber Astras Version. Dies ist ein einzelner visueller Test mit subjektiver Bewertung."
+    },
+    {
+      "public_number": 107,
+      "title": "Präsentation einer JavaScript-Animation",
+      "takeaway": "Nutzen Sie die JavaScript-Animation als Ergebnisreferenz, da eine vollständige Produktionsanleitung fehlt.",
+      "body_notes": "Der Autor teilt eine mit Opus 5.5 und JavaScript erstellte Animation. Der Beitrag konzentriert sich auf das Ergebnis und enthält keine vollständige Erläuterung der Produktion."
+    },
+    {
+      "public_number": 108,
+      "title": "Animation und Klang in CoAnimator",
+      "takeaway": "Prüfen Sie, wie CoAnimator Animation, Zeitleisten und Klang in der eigenen App seines Entwicklers verbindet.",
+      "body_notes": "Der Entwickler von CoAnimator präsentiert Animationen, Zeitleisten, Klangeffekte und Atmosphäre, die mit wenigen Prompts in Opus 5.5 entstanden. Dies ist eine Demonstration seiner eigenen App, deren Qualitätsaussagen vom Autor stammen."
+    },
+    {
+      "public_number": 109,
+      "title": "3D-Kamera- und Texteffekte in HyperFrames",
+      "takeaway": "Berücksichtigen Sie HyperFrames bei der Bewertung der gezeigten 3D-Kamera- und Texteffekte.",
+      "body_notes": "Ein Teammitglied von HyperFrames/HeyGen zeigt 3D-Kamera- und Texteffekte, die mit Opus 5.5 und HyperFrames erstellt wurden. Dies ist eine Demonstration der eigenen Werkzeugkombination des Teams."
+    },
+    {
+      "public_number": 110,
+      "title": "Eine Pixelanimation in unter fünf Minuten",
+      "takeaway": "Prüfen Sie die Pixelanimation und suchen Sie in den Antworten nach dem angekündigten Prompt.",
+      "body_notes": "Der Autor teilt eine laut Bericht in unter fünf Minuten erzeugte Pixelanimation und kündigt an, den Prompt in den Antworten zu veröffentlichen."
+    },
+    {
+      "public_number": 111,
+      "title": "Ein Controller-SVG mit einem PNG-Asset",
+      "takeaway": "Prüfen Sie eingebettete Bildassets, bevor Sie ein SVG-Ergebnis als vollständig vektorgezeichnet beschreiben.",
+      "body_notes": "Der Autor zeigt ein Controller-SVG, merkt aber an, dass das Modell ein DualShock-PNG abgerufen hat. Vorhandenes Bildmaterial war beteiligt; das Ergebnis belegt daher nicht, dass jedes Detail von Grund auf als Vektorpfad gezeichnet wurde."
+    },
+    {
+      "public_number": 112,
+      "title": "Einen ChronoVolume-Effekt nachbilden",
+      "takeaway": "Vergleichen Sie den nachgebildeten ChronoVolume-Effekt mit seiner Referenz sowie den Kosten- und Laufzeitangaben der Plattform.",
+      "body_notes": "Higgsfield präsentiert einen anhand einer Referenz nachgebildeten ChronoVolume-Effekt und nennt einen Lauf von 26 Minuten sowie Tokenkosten unter $5."
+    },
+    {
+      "public_number": 113,
+      "title": "Ein Brunnen mit demselben Prompt",
+      "takeaway": "Vergleichen Sie die Brunnenergebnisse unter dem gemeinsamen Prompt und den maximalen Aufwandseinstellungen.",
+      "body_notes": "Der Autor vergleicht Brunnenbilder von Opus 5.5 und GPT-6 Astra mit demselben Prompt „A beautiful fountain“ bei maximalem Denkaufwand."
+    },
+    {
+      "public_number": 114,
+      "title": "Die Mona Lisa als SVG zeichnen",
+      "takeaway": "Prüfen Sie die beiden Mona-Lisa-SVG-Ergebnisse unter Beibehaltung der Aufwandseinstellung des zitierten Vergleichs.",
+      "body_notes": "Der Autor bittet Opus 5.5, die Mona Lisa als SVG zu zeichnen, und zitiert zum Vergleich dieselbe Aufgabe mit GPT-6 Astra High."
+    },
+    {
+      "public_number": 115,
+      "title": "Ein SVG-Vergleich mit Sol und Luna",
+      "takeaway": "Beschränken Sie den SVG-Vergleich der drei Modelle auf die sichtbaren Ergebnisse und das persönliche Urteil des Autors.",
+      "body_notes": "Der Autor vergleicht Opus 5.5, GPT-6 Sol und Luna bei einer SVG-Aufgabe, zeigt Ergebnisse und gibt ein persönliches Urteil ab. Weitergehende Modellaussagen im Beitrag gehen über die Aussagekraft dieses Beispiels hinaus."
+    },
+    {
+      "public_number": 116,
+      "title": "Ein Foto per Skript in Paint zeichnen",
+      "takeaway": "Geben Sie ausschließlich mausbasierte Interaktion vor und prüfen Sie diese, wenn ein per Skript erzeugtes Bild die Paint-Aufgabe nicht erfüllt.",
+      "body_notes": "Der Autor verlangte ein Porträt seines Chefs in Paint, doch das Modell verwendete ein Skript, statt mit der Maus zu zeichnen. Das Ergebnis demonstriert einen programmierten Bildablauf anstelle der beabsichtigten manuellen Cursorbedienung."
+    },
+    {
+      "public_number": 117,
+      "title": "Claude als kleine Sonne vorgestellt",
+      "takeaway": "Behandeln Sie das Kleine-Sonne-Bild als fantasievollen Selbstporträt-Prompt, nicht als Beleg für Modellerleben.",
+      "body_notes": "Auf die Bitte zu zeichnen, wie es sich anfühlt, Claude zu sein, erzeugte Opus 5.5 eine kleine Sonne, die überfordert wird und Erinnerungen in einem Glas aufbewahrt. Dies ist eine vermenschlichende kreative Darstellung."
+    },
+    {
+      "public_number": 118,
+      "title": "Ein Pelikan-Zeichentest",
+      "takeaway": "Nutzen Sie die Pelikanzeichnung als Ergebnisprobe mit nicht verfügbarem Prompt und Arbeitsablauf.",
+      "body_notes": "Der Autor teilt das Ergebnis eines Pelikan-Zeichentests mit Opus 5.5, ohne den genauen Prompt oder die Erzeugungsschritte im Beitrag bereitzustellen."
+    },
+    {
+      "public_number": 119,
+      "title": "Brunnen und Fledermausaugen in Pixelkunst",
+      "takeaway": "Vergleichen Sie animierte Details der Pixelszenen getrennt von subjektiven Stilvorlieben.",
+      "body_notes": "Der Autor vergleicht Pixelszenen von Opus 5.5 und GPT-6 Astra und hebt animiertes Brunnenwasser sowie Fledermausaugen in einer Höhle hervor. Die Vorliebe für einen visuellen Stil ist seine subjektive Einschätzung."
+    },
+    {
+      "public_number": 120,
+      "title": "Eine Darstellung von San Francisco",
+      "takeaway": "Prüfen Sie das San-Francisco-Bild, ohne ihm eine nicht angegebene Produktionswerkzeugkette zuzuschreiben.",
+      "body_notes": "Der Autor teilt ein mit Opus 5.5 erstelltes San-Francisco-Bild, ohne im Beitrag die Werkzeuge oder den vollständigen Produktionsablauf anzugeben."
+    },
+    {
+      "public_number": 121,
+      "title": "Radfahrender Pelikan im Vergleich mit Grok 4.7",
+      "takeaway": "Vergleichen Sie die Pelikananimationen direkt, bevor Sie das Urteil des Autors über gleichmäßigere Bewegung übernehmen.",
+      "body_notes": "Der Autor vergleicht Radfahranimationen eines Pelikans von Opus 5.5 und Grok 4.7 und bewertet Opus' Bewegung als gleichmäßiger. Diese Schlussfolgerung beruht auf seiner Präsentation und Beobachtung."
+    },
+    {
+      "public_number": 122,
+      "title": "Ein Kunstgenerator aus „subtle art“",
+      "takeaway": "Probieren Sie den verlinkten Kunstgenerator unter Beibehaltung der Plattformzugehörigkeit seines Autors aus.",
+      "body_notes": "Ein mit der Plattform verbundener Autor zeigt einen Kunstgenerator zum Prompt „some subtle art“ und stellt einen Link zum Ausprobieren bereit. Dies ist eine Präsentation der Arbeit eines Plattformvertreters."
+    },
+    {
+      "public_number": 123,
+      "title": "Ein von John Wick inspirierter Nachbau",
+      "takeaway": "Nutzen Sie die John-Wick-Animation als visuelle Referenz mit undokumentiertem Erzeugungsablauf.",
+      "body_notes": "Der Autor präsentiert eine mit Opus 5.5 nachgebaute Animation zum Thema John Wick, ohne im Beitrag einen vollständigen Erzeugungsablauf bereitzustellen."
+    },
+    {
+      "public_number": 124,
+      "title": "Vier SVG-Ergebnisse und ein Fehlschlag bei Max-Aufwand",
+      "takeaway": "Prüfen Sie die SVG-Ergebnisse der Aufwandsstufen zusammen mit der berichteten Tokenerschöpfung bei Max-Aufwand und den Kosten des gescheiterten Versuchs.",
+      "body_notes": "Der Autor veröffentlicht Befehle und SVG-Ergebnisse eines Pelikans auf einem Fahrrad für low, medium, high und xhigh mit llm-anthropic. Max schöpfte 128,000 Ausgabetokens aus, ohne zu antworten; dieser gescheiterte Versuch kostete $2.56."
+    },
+    {
+      "public_number": 125,
+      "title": "Ein MacBook-Pro-SVG-Benchmark",
+      "takeaway": "Lesen Sie die MacBook-Pro-SVG-Ergebnisse als Playcodes eigene aufgabenspezifische Evaluation und Produktentscheidung.",
+      "body_notes": "Playcode teilt seinen MacBook-Pro-SVG-Benchmark, berichtet von günstigen Kosten für ein gutes Ergebnis und erklärt Opus 5.5 zu seinem neuen Standardmodell. Dies ist die eigene Evaluation und Werbung eines Werkzeuganbieters."
+    },
+    {
+      "public_number": 126,
+      "title": "Eine persönliche Website iterieren und ihren Trailer erstellen",
+      "takeaway": "Erwägen Sie iterative Designkritik und einen Trailer der Versionshistorie, um die Neugestaltung einer persönlichen Website zu dokumentieren.",
+      "body_notes": "Ein mit einer Plattform verbundener Autor gestaltete mit einem Max-Abonnement und iterativen Design- und Kritikabläufen eine persönliche Website neu und bat Opus 5.5 anschließend um einen Trailer der Versionen. Dass der gewünschte Ton getroffen wurde, ist seine eigene Einschätzung."
+    },
+    {
+      "public_number": 127,
+      "title": "Eine Mineralkatalog-Website aus acht Referenzen",
+      "takeaway": "Planen Sie für den hier gezeigten Mineralkatalog-Stil mehrere Referenzen und Überarbeitungs-Prompts ein.",
+      "body_notes": "Die Medienvorschau zeigt eine Webseite im Stil eines Mineralkatalogs. Der Autor nennt acht Referenzbilder, neun Prompts und etwa eine Stunde Iteration statt eines Ergebnisses aus einem einzigen Versuch."
+    },
+    {
+      "public_number": 128,
+      "title": "Eine bestehende App mit demselben Ziel neu gestalten",
+      "takeaway": "Vergleichen Sie die Neugestaltungen anhand derselben bestehenden App und des angegebenen Ziels.",
+      "body_notes": "Der Autor gibt Opus 5.5 und Opus 5 (1M) denselben Prompt und /goal zur Neugestaltung einer groben bestehenden App und stellt anschließend beide Oberflächen zum Vergleich vor."
+    },
+    {
+      "public_number": 129,
+      "title": "Frontend-Tests mit steckengebliebenen Vulkanversuchen",
+      "takeaway": "Beziehen Sie steckengebliebene Versuche und den Verbrauch an Denktokens in die Bewertung von Frontend-Ergebnissen ein.",
+      "body_notes": "Der Autor präsentiert sechs visuelle Frontend-Tests, bewertet sie als nahe an Fable 5.1 und berichtet von höherem Verbrauch an Denktokens. Wiederholte Versuche eines Vulkanausbruchs blieben sowohl im Terminal als auch im Web ohne Code stecken; Aussagen über Destillation oder Modellgröße sind Spekulation."
+    },
+    {
+      "public_number": 130,
+      "title": "Oberfläche für verknüpfte Notizen ohne Design-Skill",
+      "takeaway": "Prüfen Sie die Oberfläche für verknüpfte Notizen, ohne eine bestätigte vollständige Funktionalität vorauszusetzen.",
+      "body_notes": "Die Medienvorschau zeigt eine Website für verknüpfte Notizen; laut Autor wurde kein Design-Skill verwendet. Der Beitrag nennt sie eine interaktive Demo, liefert aber keine vollständige Funktionsprüfung."
+    },
+    {
+      "public_number": 131,
+      "title": "Eine Oberfläche aus einem Versuch im Vergleich mit Grok 4.7",
+      "takeaway": "Vergleichen Sie die beiden Oberflächenergebnisse unter Beibehaltung der unterschiedlichen Termine der Läufe mit gleichem Prompt.",
+      "body_notes": "Der Autor erzeugt mit Opus 5.5 in einem Versuch eine Oberfläche und verwendet denselben Prompt, mit dem er am Vortag Grok 4.7 getestet hat; anschließend teilt er das Ergebnis zum Vergleich."
+    },
+    {
+      "public_number": 132,
+      "title": "Eine Stressabbau-App in 23 Minuten",
+      "takeaway": "Prüfen Sie die Stressabbau-App als Prototyp, ohne einen nachgewiesenen therapeutischen Nutzen vorauszusetzen.",
+      "body_notes": "Nach einer schwierigen Woche bat der Autor Opus 5.5 um eine Stressabbau-App und teilt ein laut Bericht in 23 Minuten erstelltes Ergebnis. Der Beitrag präsentiert die App, ohne ihre Wirkung auf Stress zu bewerten."
+    },
+    {
+      "public_number": 133,
+      "title": "Eine wetterbezogene Stratus-Landingpage",
+      "takeaway": "Nutzen Sie die wetterbezogene Landingpage als Designreferenz im Kontext der angegebenen Kosten und Laufzeit.",
+      "body_notes": "Die Medienvorschau zeigt eine Stratus-Landingpage rund um Wolken und Wetter. Der Autor nennt Kosten von $6.82 und einen Lauf über 21 Minuten."
+    },
+    {
+      "public_number": 134,
+      "title": "Ein interaktives umgekehrtes CAPTCHA",
+      "takeaway": "Erwägen Sie eine umgekehrte CAPTCHA-Interaktion als Experiment mit mehrdeutiger Fragengestaltung.",
+      "body_notes": "Der Autor verwandelt Opus 5.5 in ein umgekehrtes CAPTCHA-Erlebnis und präsentiert dessen Frage-Antwort-Interaktion; dabei merkt er an, dass die Antworten weniger offensichtlich als erwartet waren."
+    },
+    {
+      "public_number": 135,
+      "title": "Ein persönliches Interaktionswerkzeug mit Figma-Importen",
+      "takeaway": "Nutzen Sie importierte Designreferenzen und kleine Änderungen, um Oberflächeninteraktionen zu erkunden und zu lernen.",
+      "body_notes": "Der Autor baut ein persönliches, über Claude gesteuertes Werkzeug für Interaktionsdesign und berichtet von Importen aus Figma, Websites oder Code sowie Änderungen und Feinjustierungen von Interaktionen. Der Ablauf dient auch dazu zu lernen, wie das Design funktioniert."
+    },
+    {
+      "public_number": 136,
+      "title": "PonteMLX zur Überwachung lokaler Modelle",
+      "takeaway": "Prüfen Sie die Überwachungsoberfläche unter Berücksichtigung ihres separaten lokalen Bildgenerierungsmodells.",
+      "body_notes": "Der Autor präsentiert PonteMLX, eine antik gestaltete App, deren Fluss die lokale Tokenverarbeitung widerspiegelt und die mehrere MLX-API-Gateways sowie RAM-Auslastung anzeigt. Die Bilder stammen von einem lokalen Qwen-Image-2.1-Modell, das Opus laut Bericht ohne entsprechende Aufforderung entdeckt und koordiniert hat."
+    },
+    {
+      "public_number": 137,
+      "title": "Vorschau eines Logistik-Planungsdashboards",
+      "takeaway": "Behandeln Sie den Logistik-Screenshot bis zur Prüfung von Backend und Planungsverhalten als Beleg für eine Oberfläche.",
+      "body_notes": "Die Anhangvorschau zeigt ein Logistik-Planungsdashboard, anhand dessen der Autor Produktdesign diskutiert. Der Screenshot belegt eine Oberflächenpräsentation, aber kein funktionierendes Backend oder Planungssystem."
+    },
+    {
+      "public_number": 138,
+      "title": "Vergleich von WebGL-Websites für ein Kreativstudio",
+      "takeaway": "Vergleichen Sie die Kreativstudio-Seiten anhand des gemeinsamen Auftrags zu WebGL, Typografie und Scrollverhalten.",
+      "body_notes": "Der Autor vergleicht Opus 5.5 und GPT-6 Sol in Higgsfield mit demselben Auftrag: eine futuristische Kreativstudio-Website mit interaktiver WebGL-Kugel, übergroßer Typografie und flüssigen Scrollanimationen."
+    },
+    {
+      "public_number": 139,
+      "title": "Eine Oberfläche mit isometrischen Icon-Komponenten",
+      "takeaway": "Prüfen Sie die isometrische Komponentenoberfläche, ohne anzunehmen, der Screenshot belege funktionierende Komponenten.",
+      "body_notes": "Der Screenshot zeigt eine Oberfläche mit isometrischen Icon-Komponenten; laut Autor wurde sie in einem Versuch erzeugt. Das Bild belegt nicht, dass die vollständigen Komponenten oder App-Funktionen arbeiten."
+    },
+    {
+      "public_number": 140,
+      "title": "Spielauswahlseite im Handheld-Stil",
+      "takeaway": "Behandeln Sie die Auswahlseite im Handheld-Stil bis zur Prüfung des Spielstarts als Oberflächenpräsentation.",
+      "body_notes": "Die Medienvorschau zeigt eine Opus 5.5 zugeschriebene Spielauswahlseite im Stil einer Handheld-Konsole. Ihr Backend und die Funktion zum Starten von Spielen wurden nicht verifiziert."
+    },
+    {
+      "public_number": 141,
+      "title": "Ein Bild-zu-Vektor-Werkzeug aus einem Versuch",
+      "takeaway": "Testen Sie die Konvertierungsgenauigkeit über verschiedene Bildtypen hinweg, bevor Sie sich auf das angeblich in einem Versuch erstellte Vektorisierungswerkzeug verlassen.",
+      "body_notes": "Der Autor präsentiert ein Bild-zu-Vektor-Werkzeug, das laut Bericht mit Opus 5.5 in einem Versuch erzeugt wurde. Der Beitrag liefert keine systematischen Tests der Konvertierungsgenauigkeit oder unterschiedlicher Bildtypen."
+    },
+    {
+      "public_number": 142,
+      "title": "Landingpages mit gemeinsamem Prompt im Vergleich",
+      "takeaway": "Vergleichen Sie die Landingpage-Galerie anhand ihres gemeinsamen Prompts, statt die Präferenz des Autors zu übernehmen.",
+      "body_notes": "Der Autor ergänzt eine Galerie von Landingpages aus demselben Prompt um Claude Opus 5.5, GPT-6 Luna und GPT-6 Sol. Der Beitrag zeigt Ergebnisse; die Präferenz für Opus ist subjektiv."
+    },
+    {
+      "public_number": 143,
+      "title": "Eine bestehende App mit AppLlama MCP neu gestalten",
+      "takeaway": "Trennen Sie die mit AppLlama unterstützte Neugestaltung von den der bereits bestehenden App zugeschriebenen Einnahmen.",
+      "body_notes": "Der Autor zeigt Vorher-Nachher-Ansichten einer bestehenden App, die laut Bericht in einem Versuch mit Opus 5.5 und AppLlama MCP neu gestaltet wurde. Die behaupteten $10,000 MRR gehören zur bereits bestehenden App und sind keine nachgewiesenen Einnahmen aus dieser Neugestaltung."
+    },
+    {
+      "public_number": 144,
+      "title": "Bildtreue und Leistung bei Bild-zu-HTML",
+      "takeaway": "Prüfen Sie bei Bild-zu-HTML-Aufgaben neben der visuellen Treue auch Übergänge und Laufzeitleistung.",
+      "body_notes": "Der Autor teilt ein Designbild und Seitenergebnisse mehrerer Modelle. Opus 5.5 folgt dem Design, lässt aber geforderte Seitenübergänge aus und hat eine schlechte Laufzeitleistung; der Autor bevorzugt in diesem Test weiterhin Astra."
+    },
+    {
+      "public_number": 145,
+      "title": "100 kreative HTML-Dateien erzeugen",
+      "takeaway": "Prüfen und testen Sie Stichproben der veröffentlichten HTML-Ergebnisse, bevor Sie sich auf die Behauptung des Autors verlassen, keine Datei sei defekt.",
+      "body_notes": "Der Autor verlangt 100 visuell ausgearbeitete, nicht repetitive HTML-Dateien und veröffentlicht Ergebnisse samt Prompts. Beispiele sind Schach, Breakout, ein Klavier, Sternkarten und Animation; die Aussage, keine sei defekt, stammt vom Autor selbst."
+    },
+    {
+      "public_number": 146,
+      "title": "Erfolgsquote und Durchschnittskosten bei Next.js",
+      "takeaway": "Lesen Sie die berichtete Erfolgsquote und die Durchschnittskosten im frameworkspezifischen Rahmen der Next.js-Evaluation.",
+      "body_notes": "Next.js meldet für Opus 5.5 eine Erfolgsquote von 97%, gleichauf mit Sol und Fable 5.1, und die niedrigsten Durchschnittskosten dieser drei Modelle. Die verlinkte Rangliste behandelt diese frameworkspezifische Evaluation."
+    },
+    {
+      "public_number": 147,
+      "title": "Kernergebnis einer Zehn-Minuten-Aufgabe verfehlt",
+      "takeaway": "Fordern Sie das Kernergebnis zuerst und nennen Sie Budget und Abbruchpunkt ausdrücklich.",
+      "body_notes": "In Everys eigenem Test erhielt Opus zehn Minuten für einen Veranstaltungsablaufplan, erstellte aber zunächst einen Datengenerator und Handouts und hatte vor dem Zeitplan keine Zeit mehr. Das Team empfiehlt, Ergebnis, Budget und Abbruchpunkt festzulegen und die Selbstkritiken des Modells zu prüfen."
+    },
+    {
+      "public_number": 148,
+      "title": "SEO-Lücken über 347 rankende Seiten finden",
+      "takeaway": "Trennen Sie den berichteten Umfang der SEO-Recherche und die Regelkonformität der Entwürfe von nicht gemessenen Suchtraffic-Ergebnissen.",
+      "body_notes": "Der Plattformautor berichtet, 347 rankende Seiten für 40 Keywords gelesen, 131 unbesetzte Themenansätze gefunden und Rohdaten für $6.35 ausgelesen zu haben; Fable 5.1 bearbeitete in derselben Zeit 16 Keywords für $5.53. Außerdem nennt er einen Verstoß gegen Schreibregeln in 131 Entwürfen gegenüber zwei in 37 bei Fable; dieser interne Test belegt keine Zunahme des Suchtraffics."
+    },
+    {
+      "public_number": 149,
+      "title": "Black-Friday-Analyse über Trendtrack MCP",
+      "takeaway": "Berücksichtigen Sie den Datenzugang von Trendtrack MCP bei der Bewertung des Black-Friday-Analyseablaufs.",
+      "body_notes": "Der Autor bittet Opus 5.5, zur Black-Friday-Vorbereitung seine BrandTrackers über Trendtrack MCP zu analysieren, und teilt das Ergebnis. Der Ablauf ist für den Datenzugang auf die Trendtrack-Integration angewiesen."
+    },
+    {
+      "public_number": 150,
+      "title": "Evidenzverknüpfte Paper-Blogs in alphaXiv",
+      "takeaway": "Prüfen Sie mit dem Paper verknüpfte Belege, bevor Sie sich auf automatisch erzeugte Forschungszusammenfassungen verlassen.",
+      "body_notes": "alphaXiv demonstriert eine Produktfunktion, die arXiv-Papers in blogartige Übersichten mit Abbildungen, zentralen Erkenntnissen und Erklärungen umwandelt, und behauptet, jede Aussage sei mit hervorgehobenen Belegen im Paper verknüpft. Dies ist eine Plattformdemo ohne unabhängige Prüfung jeder Belegzuordnung."
+    },
+    {
+      "public_number": 151,
+      "title": "SafeForges Schleife für Risikozusammenfassungen testen",
+      "takeaway": "Verlangen Sie Evaluationsmethoden und Kennzahlen, bevor Sie SafeForges Bewertung seines bevorzugten Modells verallgemeinern.",
+      "body_notes": "SafeForge präsentiert Tests von Opus 5.5 in seiner Schleife für Risikozusammenfassungen und bezeichnet es als bestes vom Team getestetes Modell. Dies ist die eigene Einschätzung der Plattform; der Beitrag liefert weder eine vollständige Vergleichsmethode noch Kennzahlen."
+    },
+    {
+      "public_number": 152,
+      "title": "Modelldaten in einer Benchmark-Grafik aktualisieren",
+      "takeaway": "Unterscheiden Sie die Aktualisierung einer Benchmark-Grafik von einer Wiederholung der zugrunde liegenden Evaluation.",
+      "body_notes": "Der Autor bittet Opus 5.5, in einer vorhandenen Benchmark-Grafik die GPT-5.6-Werte durch Daten der GPT-6-Serie zu ersetzen. Dies demonstriert die Bearbeitung eines Diagramms, keine erneute Ausführung des zugrunde liegenden Benchmarks."
+    },
+    {
+      "public_number": 153,
+      "title": "Erstellung eines Indikators im Versionsvergleich",
+      "takeaway": "Vergleichen Sie die Indikatorergebnisse, wobei die nicht angegebene Validierungsmethode ungeklärt bleibt.",
+      "body_notes": "Der Autor verwendet identische Anweisungen, um mit Opus 5 und Opus 5.5 einen Indikator zu erstellen, zeigt beide Ergebnisse und bewertet das Verständnis des neueren Modells als besser. Indikatortyp und Validierungsmethode sind nicht angegeben."
+    },
+    {
+      "public_number": 154,
+      "title": "Vertriebsansprache aus einer Website-URL",
+      "takeaway": "Trennen Sie die behauptete Versandkapazität des Anspracheprodukts von unbestätigten Antwortquoten und Verkaufsergebnissen.",
+      "body_notes": "GojiberryAI demonstriert einen Ablauf von der Website-URL zur Ansprache und behauptet, innerhalb von Sekunden Hunderte Leads mit hoher Kaufabsicht über LinkedIn und E-Mail kontaktieren zu können. Die Produktdemo bestätigt weder Antwortquoten noch Verkaufsergebnisse."
+    },
+    {
+      "public_number": 155,
+      "title": "Ramps Evaluation von Buchhaltungsaufgaben",
+      "takeaway": "Beschränken Sie Ramps berichtete Kosten- und Geschwindigkeitsvorteile auf seinen Accounting-Bench-Lauf.",
+      "body_notes": "Ramp legt frühen Zugang und einen Lauf auf seinem Accounting Bench offen. Das Team meldet eine Leistung nahe Fable 5.1 bei 61% geringeren Kosten und 1.7× der Geschwindigkeit; dies belegt dieselben Vorteile nicht für sämtliche Buchhaltungsarbeit."
+    },
+    {
+      "public_number": 156,
+      "title": "Ein Team aus mehreren Modellen mit fable-advisor",
+      "takeaway": "Prüfen Sie die Modellrollen des Open-Source-Plugins, bevor Sie dessen kollaborativen Teamablauf übernehmen.",
+      "body_notes": "Der Plugin-Autor veröffentlicht fable-advisor v6.0.0, ein kostenloses Open-Source-Plugin für Claude Code, das Opus 5.5, Fable 5.1, GPT-6 Sol und Luna zu einem kollaborativen Team verbindet. Dies ist die Veröffentlichung des eigenen Arbeitsablaufs des Autors."
+    },
+    {
+      "public_number": 157,
+      "title": "Aufgabenübergaben und Worker-Austausch in ntm",
+      "takeaway": "Verwenden Sie beim Wechsel von Workern zwischen Modellversionen in einem Orchestrierungswerkzeug eine ausdrückliche Übergabe.",
+      "body_notes": "Der Autor des Werkzeugs ntm berichtet, Opus 5 um einen Übergabe-Prompt gebeten und anschließend Opus 5.5 die älteren Worker stoppen und neu starten lassen zu haben. Dies ist ein selbst berichteter Ablauf einer Modellmigration im eigenen Orchestrierungswerkzeug des Autors."
+    },
+    {
+      "public_number": 158,
+      "title": "Agenten von der Apple Watch aus steuern",
+      "takeaway": "Prüfen Sie Agentenanzeige und diktierte Befehle der Watch-App getrennt von den RSI-Spekulationen des Autors.",
+      "body_notes": "Laut Autor entstand nach einer Stunde Erkundung eine Apple-Watch-App, die arbeitende Herdr-Agenten anzeigt und diktierte Befehle annimmt. Dies ist ein berichtetes App-Ergebnis; die gesonderten RSI-Spekulationen des Beitrags sind keine gesicherten Tatsachen."
+    },
+    {
+      "public_number": 159,
+      "title": "Prompt-Cache beim Wechsel des Aufwands erhalten",
+      "takeaway": "Beachten Sie bei der cacheerhaltenden Aufwandsänderung die angegebene Versionsanforderung für Claude Code.",
+      "body_notes": "Ein Mitglied des Claude-Code-Teams erklärt, dass eine Änderung des Aufwands für Opus 5.5 während einer Sitzung den Prompt-Cache in Claude Code v2.1.280 oder neuer erhält. Diese Anleitung gilt für dieses Werkzeug und diesen Versionsbereich."
+    },
+    {
+      "public_number": 160,
+      "title": "Den Modellcache von T3 Code erneuern",
+      "takeaway": "Folgen Sie der Cache-Aktualisierung des T3-Code-Teams, wenn das erwartete Modell in der Liste fehlt.",
+      "body_notes": "Das T3-Code-Team erklärt, dass kein App-Update nötig ist, und beschreibt eine erzwungene Aktualisierung der Modellliste: App schließen, die angegebenen Modellmanifest-Caches löschen und neu starten. Dies ist eine Anleitung zur Integrationspflege."
+    },
+    {
+      "public_number": 161,
+      "title": "Projektdateien und Agent-Sitzungshistorie prüfen",
+      "takeaway": "Gleichen Sie Muster aus der Sitzungshistorie mit aktuellem Code ab, bevor Sie daraus Projektverbesserungen ableiten.",
+      "body_notes": "Ein sechsschrittiges Tutorial kombiniert Projektdateien und lokale Sitzungen, um wiederholte Korrekturen und Fehler zu finden, den aktuellen Code zu prüfen, einen Plan zu begutachten, Änderungen zu testen und Verbesserungen zu speichern. Es liefert einen Prompt, keinen verifizierten Implementierungsbericht."
+    },
+    {
+      "public_number": 162,
+      "title": "Mehragenten-Geschwindigkeit auf ProgramBench",
+      "takeaway": "Berücksichtigen Sie bei der Interpretation des berichteten Mehragenten-Geschwindigkeitsvergleichs die Abdeckung von 166 aus 200 Aufgaben.",
+      "body_notes": "Der Autor diskutiert Ergebnisse aus der System Card, bei denen mehrere Agenten schneller ähnliche Ergebnisse wie ein einzelner Agent erreichen, und weist darauf hin, dass nur 166 von 200 ProgramBench-Aufgaben verwendet wurden. Diese Abdeckungsgrenze ist relevant."
+    },
+    {
+      "public_number": 163,
+      "title": "Eine ProgramBench-Evaluation mit 100 Agenten",
+      "takeaway": "Trennen Sie die Benchmark-Evaluation mit 100 Agenten von spekulativen künftigen Koordinationsmechanismen.",
+      "body_notes": "Ein ProgramBench-Mitwirkender hebt eine Evaluation aus der Model Card hervor, bei der 100 Agenten auf dem Benchmark zusammenarbeiten. Aufgabensammlung und Umfang sind konkret; die Diskussion künftiger Parallelitätsmechanismen im Beitrag bleibt spekulativ."
+    },
+    {
+      "public_number": 164,
+      "title": "Beschriftungen in denselben Straßenaufnahmen verfolgen",
+      "takeaway": "Prüfen Sie mitbewegte Beschriftungen, während die Beschriftungsgenauigkeit in diesem Plattformvergleich ungemessen bleibt.",
+      "body_notes": "Higgsfield vergleicht Opus 5.5 und GPT-6 Astra am selben Straßenvideo und zeigt Überlagerungen, die Menschen, Gebäuden und Objekten während der Kamerabewegung folgen. Dies ist ein Plattformvergleich ohne berichtete Messung der Beschriftungsgenauigkeit."
+    },
+    {
+      "public_number": 165,
+      "title": "Roboflow-Evaluationen zur Objekterkennung",
+      "takeaway": "Nutzen Sie die Roboflow-Rangliste zur Bewertung der Objekterkennung innerhalb ihres aufgabenspezifischen Evaluationsrahmens.",
+      "body_notes": "Eine Führungskraft von Roboflow teilt Playground-Ergebnisse zur Objekterkennung für Opus 5.5, Sol und Luna und verlinkt die aufgabenspezifische Rangliste. Die berichteten Platzierungen betreffen diese visuelle Aufgabe, nicht sämtliche Sehfähigkeiten."
+    },
+    {
+      "public_number": 166,
+      "title": "Arbeitsabläufe mit Seedance 2.5 in Medeo vergleichen",
+      "takeaway": "Schreiben Sie beim Vergleich der steuernden Sprachmodelle die Videogenerierung Seedance 2.5 zu.",
+      "body_notes": "Medeo vergleicht Videos, bei denen GPT-6 Sol und Opus 5.5 Seedance 2.5 steuern, mit Fokus auf Szenenverständnis und Details. Dies ist ein Orchestrierungsablauf mit Sprachmodellen; die Videogenerierung führt Seedance 2.5 aus."
+    },
+    {
+      "public_number": 167,
+      "title": "Knetanimation mit Blender in Claude erstellen",
+      "takeaway": "Berücksichtigen Sie Blender bei der Bewertung des Ein-Prompt-Arbeitsablaufs für Knetanimation in Claude.",
+      "body_notes": "Ein mit einer Plattform verbundener Autor demonstriert, wie Blender von claude.ai aus mit einem einzigen Prompt eine Knetanimation erstellt. Der Animationsablauf hängt von Blender ab; das Sprachmodell erzeugt nicht direkt Video."
+    },
+    {
+      "public_number": 168,
+      "title": "Nachbauten eines Veröffentlichungsvideos in Tesseract vergleichen",
+      "takeaway": "Vergleichen Sie die nachgebauten Veröffentlichungsvideos unter ausdrücklicher Nennung von Tesseracts Rolle beim Schnitt und Rendering.",
+      "body_notes": "Tesseracts Team kombiniert Opus 5.5 und GPT-6 Astra mit seinem eigenen Videowerkzeug, um sein Veröffentlichungsvideo nachzubauen und Kosten zu vergleichen. Tesseract liefert die Schnitt- und Rendering-Fähigkeiten."
+    },
+    {
+      "public_number": 169,
+      "title": "Ein Teaser-Video für DocJev",
+      "takeaway": "Trennen Sie den Produktteaser vom Jev zugeschriebenen Kern der Dokumentverarbeitung.",
+      "body_notes": "Der Autor von DocJev präsentiert einen mit Opus 5.5 erstellten Produktteaser. Der Beitrag schreibt den Kern für Dokumentklassifikation und -aufteilung der Jev-Werkzeugkette zu; die Erstellung des Teasers belegt nicht, dass Opus diesen Kern gebaut hat."
+    },
+    {
+      "public_number": 170,
+      "title": "Eine Claude-Modellgeschichte mit eigenem Skill",
+      "takeaway": "Berücksichtigen Sie den eigenen Skill des Autors bei der Bewertung des JavaScript-Videos zur Modellgeschichte.",
+      "body_notes": "Der Autor bittet Opus 5.5 um eine Geschichte der Claude-Modellentwicklung und berichtet, sie mit einem eigenen Skill in reinem JavaScript produziert zu haben. Dieser individuelle Skill ist Teil des Arbeitsablaufs."
+    },
+    {
+      "public_number": 171,
+      "title": "Origami-Tiger-Videos in Medeo",
+      "takeaway": "Vergleichen Sie die Origami-Videoabläufe als Steuerung von Seedance 2.5 durch Sprachmodelle.",
+      "body_notes": "Medeo vergleicht mit Opus 5.5 und GPT-6 Astra erstellte Origami-Tiger-Videos, wobei Seedance 2.5 in beiden Abläufen das Video erzeugt. Die Präsentation betrifft Sprachmodelle, die ein Videowerkzeug steuern, keine native Videogenerierung durch Opus."
+    },
+    {
+      "public_number": 172,
+      "title": "Ein BridgeMind-Hoodie-Werbevideo mit Remotion",
+      "takeaway": "Prüfen Sie Timing und Übergänge des Remotion-Werbevideos getrennt von der subjektiven Modellrangfolge seines Herausgebers.",
+      "body_notes": "BridgeMind präsentiert ein mit Opus 5.5 und Remotion erstelltes Video zur Einführung eines Hoodies. Der Herausgeber bevorzugt Übergänge, Timing und Markenauftritt gegenüber früheren Ergebnissen von Fable 5.1 und GPT-6 Astra; dies ist ein subjektiver Vergleich in einer Eigenwerbung."
+    },
+    {
+      "public_number": 173,
+      "title": "Zeit und Kosten eines Higgsfield-Werbespots",
+      "takeaway": "Behandeln Sie den Zeit- und Kostenvergleich des Werbespots als Produktionsbelege aus Angaben der Plattform.",
+      "body_notes": "Higgsfield vergleicht Werbevideoproduktion und nennt 60 Minuten und $50 für Opus 5.5 gegenüber 82 Minuten und $97 für GPT-6 Astra. Diese Werte stammen aus der eigenen Produktionspräsentation der Plattform."
+    },
+    {
+      "public_number": 174,
+      "title": "Ein Veröffentlichungsvideo aus einem Release-Beitrag programmieren",
+      "takeaway": "Erwägen Sie einen Release-Beitrag als Vorlage für ein Veröffentlichungsvideo mit in Code erstellten Bildern und Klängen.",
+      "body_notes": "Der Autor liefert den ursprünglichen Release-Beitrag und bittet Opus 5.5, ein Veröffentlichungsvideo in JavaScript zu programmieren. Laut Bericht entstanden sämtliche Musik, Klänge und Bilder in Code ohne externe Assets."
+    },
+    {
+      "public_number": 175,
+      "title": "Ein geteilter Stop-Motion-Blick durch Claudes Augen",
+      "takeaway": "Behandeln Sie den geteilten Stop-Motion-Film als Präsentation aus zweiter Hand mit nicht angegebener Werkzeugkette.",
+      "body_notes": "Der Beitrag teilt eine Stop-Motion-Animation darüber, die Welt durch Claudes Augen zu sehen, und behauptet, Opus 5.5 habe alles darin erstellt. Es ist eine Präsentation aus zweiter Hand ohne angegebene Werkzeugkette."
+    },
+    {
+      "public_number": 176,
+      "title": "Ein vertontes Video von zwei auf 22 Sekunden erweitern",
+      "takeaway": "Vergleichen Sie die aufeinanderfolgenden Videoversionen, um die Entwicklung von Dauer und programmierter Musik zu prüfen.",
+      "body_notes": "Der Autor zeigt drei Versionen, die ein Video von zwei Sekunden auf 17 und schließlich 22 Sekunden verlängern, und berichtet, auch dessen Musik mit Opus 5.5 programmiert zu haben."
+    },
+    {
+      "public_number": 177,
+      "title": "Videoartefakte mit Photoshop und Fusion beheben",
+      "takeaway": "Prüfen Sie die Reparaturen in Photoshop und Fusion, ohne eine unabhängige Bestätigung der behaupteten Zeitersparnis vorauszusetzen.",
+      "body_notes": "Higgsfield zeigt, wie Opus 5.5 mit Photoshop und DaVinci Resolve Fusion Renderingfehler in einem KI-generierten Video behebt. Die Plattform behauptet, Minuten statt Stunden manueller Arbeit zu benötigen; diese Zeitersparnis wurde nicht unabhängig überprüft."
+    },
+    {
+      "public_number": 178,
+      "title": "Ein Kotlin-Werbevideo anhand seiner Website",
+      "takeaway": "Berücksichtigen Sie die HyperFrames-Skills bei der Bewertung des Ablaufs von der Website zum Kotlin-Werbevideo.",
+      "body_notes": "JetBrains zeigt, wie ein Teammitglied Opus 5.5 HeyGens HyperFrames-Skills gibt und auf die Kotlin-Website verweist, um ein Werbevideo zu erstellen. Der Produktionsablauf hängt von diesen Skills ab."
+    },
+    {
+      "public_number": 179,
+      "title": "Rohmaterial passend zum persönlichen Stil schneiden",
+      "takeaway": "Stellen Sie Referenzmaterial bereit und prüfen Sie Schnitte direkt, wenn Sie eine Anpassung an einen persönlichen Stil verlangen.",
+      "body_notes": "Der Autor liefert Rohmaterial mit Aufnahmefehlern und ein Referenzbeispiel und berichtet, dass ein Prompt Opus 5.5 zum Schnitt in seinem üblichen Stil gebracht habe. Die Stiltreue ist seine eigene Einschätzung; zum Ablauf gehört Referenzmaterial."
+    },
+    {
+      "public_number": 180,
+      "title": "Einen Coinacademy-Artikel in ein FLOP-Labs-Video verwandeln",
+      "takeaway": "Nutzen Sie einen bestehenden Artikel als Quellenvorlage für ein kurzes Einführungsvideo.",
+      "body_notes": "Der Autor verwendet seinen Coinacademy-Artikel als Eingabe und berichtet, mit Opus 5.5 in zwei Prompts ein Einführungsvideo zu FLOP Labs erstellt zu haben."
+    },
+    {
+      "public_number": 181,
+      "title": "Videoergebnisse im Vergleich mit GPT-6 Sol",
+      "takeaway": "Vergleichen Sie die gezeigten Videoergebnisse, ohne einen gemeinsamen Prompt oder eine gemeinsame Produktionswerkzeugkette anzunehmen.",
+      "body_notes": "Der Autor stellt GPT-6 Sol und Opus 5.5 zugeschriebene Videos nebeneinander, ohne im Beitrag Prompt, Skripte oder Produktionswerkzeugkette anzugeben."
+    },
+    {
+      "public_number": 182,
+      "title": "Ein programmiertes Werbevideo für serai",
+      "takeaway": "Prüfen Sie das programmierte serai-Werbevideo, während seine nicht angegebenen Rendering-Werkzeuge ungeklärt bleiben.",
+      "body_notes": "Der Autor bittet Opus 5.5, per Code ein Werbevideo für serai zu erstellen, und teilt das Ergebnis. Der Beitrag nennt keine Schnitt- oder Rendering-Werkzeuge."
+    },
+    {
+      "public_number": 183,
+      "title": "Ein Erklärvideo zu Opus 5.5 aus Cowork",
+      "takeaway": "Prüfen Sie die Modell- und Preisbehauptungen des Erklärvideos getrennt von seiner erfolgreichen Videoproduktion auf Fakten.",
+      "body_notes": "Der Autor bittet Opus 5.5, in Cowork ein Erklärvideo über sich selbst zu erstellen, und berichtet, keine externen APIs verwendet zu haben. Die Aussagen des Videos zu Fähigkeiten und Preisen sind dessen Inhalt, keine durch die Erstellung unabhängig bestätigten Schlussfolgerungen."
+    },
+    {
+      "public_number": 184,
+      "title": "Eine Videopräsentation und eine geplante fal-Kombination",
+      "takeaway": "Trennen Sie das gezeigte Video von der fal-Integration, die weiterhin eine künftige Idee ist.",
+      "body_notes": "Der Autor erklärt, Opus 5.5 habe das gezeigte Video allein erstellt, ohne die Rendering-Werkzeugkette anzugeben. Eine Kombination mit fal, insbesondere H3 Max, wird als künftige Idee beschrieben, nicht als abgeschlossene Integration."
+    },
+    {
+      "public_number": 185,
+      "title": "UGC-Ordner mit animiertem Text schneiden",
+      "takeaway": "Berücksichtigen Sie Tesseracts Rolle bei der Textanimation, wenn Sie den UGC-Schnittablauf bewerten.",
+      "body_notes": "Der Autor verweist Opus 5.5 auf KI-UGC-Ordner und nutzt Tesseract zum Videoschnitt, wobei er betont, dass Tesseract die Textanimationen erstellt. Die Demo belegt einen Ablauf zum Schneiden von Material, keine verifizierte Automatisierung eines vollständigen Content-Accounts."
+    },
+    {
+      "public_number": 186,
+      "title": "Ein Tutorial zu arabischem Text in Spiele-Engines",
+      "takeaway": "Behalten Sie die Abhängigkeiten von Logo und ElevenLabs-Audio bei der Bewertung des programmierten Tutorials zu arabischem Text bei.",
+      "body_notes": "Der Autor programmiert mit Opus 5.5 ein Tutorial zu arabischem Text in Spiele-Engines, die diesen nicht unterstützen, und nennt 18 Minuten Programmierzeit. Die Produktion verwendet außerdem ein Logobild und ElevenLabs-Audio; somit wird nicht jedes Asset von Opus erzeugt."
+    },
+    {
+      "public_number": 187,
+      "title": "Eine Tuschegeschichte über einen Regenschirm mit programmierter Musik",
+      "takeaway": "Nutzen Sie die Regenschirmgeschichte als Referenz für die Abstimmung programmierter Bilder und einer eigenen Filmmusik.",
+      "body_notes": "Der Autor zeigt einen Kurzfilm über einen verlorenen Regenschirm, der einem Frosch, einer Schnecke und einer Ente mit ihren Küken Schutz bietet, und berichtet, Opus 5.5 habe sowohl die Tuschebilder als auch die Musik in Code erstellt."
+    },
+    {
+      "public_number": 188,
+      "title": "105 eingebaute Fehler in zwei Repositories beheben",
+      "takeaway": "Vergleichen Sie Fehlerbehebungszahlen und Kosten unter Berücksichtigung ungleich dokumentierter Wiederholungszahlen.",
+      "body_notes": "Der Autor nennt Behebungen und Kosten mit Max-Aufwand über zwei Repositories: Opus 5.5, 43/$60.49; Astra, 45/$33.03; Fable 5.1, 43/$77.55; Opus 5, 27/$51.33; und Muse Spark 1.3, 32.2/$18.11, bei insgesamt 105 eingebauten Fehlern. Der Beitrag kennzeichnet ausdrücklich nur Astra mit n=3, sodass die Wiederholungszahlen ungleich dokumentiert bleiben."
+    },
+    {
+      "public_number": 189,
+      "title": "Eine behauptete Generierung eines CS2-Cheatprogramms",
+      "takeaway": "Behandeln Sie das CS2-Programm als unbestätigte Behauptung des Autors, ohne die Demonstration als Funktionsbeweis anzusehen.",
+      "body_notes": "Der Autor behauptet, Opus 5.5 habe in einem Versuch ein CS2-Cheatprogramm erzeugt, und teilt eine Demonstration. Die tatsächliche Funktionsfähigkeit wurde nicht verifiziert; der Eintrag hält die Behauptung des Autors fest."
+    },
+    {
+      "public_number": 190,
+      "title": "Ein noch laufender circuit_eval-Checkpoint-Test",
+      "takeaway": "Warten Sie den Abschluss des circuit_eval-Laufs ab, bevor Sie Checkpoint-Fortschritt als Endergebnis interpretieren.",
+      "body_notes": "Der Autor testet Opus 5.5 mit Medium-Aufwand an aufeinanderfolgenden circuit_eval-Checkpoints und stellt es dem berichteten Fehler von Opus 5 nach dem zweiten Checkpoint gegenüber. Der Test lief noch, mit geplanten Aktualisierungen alle zehn Minuten; dies ist daher kein Endergebnis."
+    },
+    {
+      "public_number": 191,
+      "title": "Durch Schutzmechanismen unterbrochene Systementwicklungsaufgaben",
+      "takeaway": "Beschränken Sie die berichteten Schutzunterbrechungen auf die unvollendeten Aufgaben und die Sitzung des Autors.",
+      "body_notes": "Der Autor berichtet von Unterbrechungen durch den Cyber-Klassifikator, bevor seine Embedded-, Treiber- und Systemaufgaben abgeschlossen werden konnten. Dies beschreibt seine eigene Erfahrung an diesem Tag, keine allgemeine Blockade von System- oder Sicherheitsarbeit."
+    },
+    {
+      "public_number": 192,
+      "title": "Eine eigene Web-App auf Sicherheitsprobleme prüfen",
+      "takeaway": "Unterscheiden Sie die Sicherheitsprüfung von Quellcode von der Ausführung von Sicherheitstests gegen eine Anwendung.",
+      "body_notes": "Der Autor berichtet, das Modell habe ohne Ablehnung den Quellcode seiner eigenen Web-App gelesen und Sicherheitsprobleme identifiziert. Er unterscheidet ausdrücklich zwischen Quellcodeprüfung und der Durchführung von Sicherheitstests."
+    },
+    {
+      "public_number": 193,
+      "title": "Probleme in 12 Patches finden",
+      "takeaway": "Vergleichen Sie Ergebnisse der Patch-Prüfung zusammen mit API-äquivalenten Kostenschätzungen, statt eine automatische Kostensenkung zu behaupten.",
+      "body_notes": "In einem Test zur Patch-Prüfung einer Mailingliste findet Opus 5.5 8 von 14 Problemen gegenüber 6 bei Opus 5. Die Beträge $15.40 und $15.19 sind API-äquivalente Schätzungen für Abonnementnutzung; das neuere Modell ist hier also nicht strikt günstiger."
+    },
+    {
+      "public_number": 194,
+      "title": "Ein Spieleprojekt debuggen",
+      "takeaway": "Behandeln Sie den Debugging-Erfolg beim Spiel als frühen persönlichen Bericht ohne öffentliche Reproduktionsbelege.",
+      "body_notes": "Nach einem kurzen Versuch an einem Spieleprojekt berichtet der Autor, mehrere komplexe Fehler in einem Anlauf gelöst zu haben. Es gibt weder eine öffentliche Problemsammlung noch Reproduktionsschritte; dies bleibt daher ein früher persönlicher Nutzungsbericht."
+    },
+    {
+      "public_number": 195,
+      "title": "Der PR-Prüfbot der Khan Academy",
+      "takeaway": "Nutzen Sie den PR-Bot-Bericht als teamspezifische Referenz zum Messen von Kosten, Aufrufen, Laufzeit und Prüfqualität.",
+      "body_notes": "Nach dem Wechsel eines internen PR-Prüfbots von Opus 5 auf 5.5 berichtet der Autor von 50% geringeren Kosten, 34% weniger Werkzeugaufrufen und 62% weniger Ausführungszeit ohne Qualitätsverlust. Dies sind Beobachtungen eines einzelnen Teams."
+    },
+    {
+      "public_number": 196,
+      "title": "Eine Ablehnung nach einem schutzbedingten Modellwechsel",
+      "takeaway": "Identifizieren Sie das Ersatzmodell, bevor Sie die abschließende Ablehnung Opus 5.5 zuschreiben.",
+      "body_notes": "Der Screenshot zeigt, wie eine nicht autorisierte Sicherheitsanfrage den Cyber-Schutz von Opus 5.5 auslöst, gefolgt von einem Wechsel zu Opus 4.8 und einer Ablehnung. Es wird kein Angriff ausgeführt; die endgültige Antwort stammt vom Ersatzmodell."
+    },
+    {
+      "public_number": 197,
+      "title": "Eine CyScenarioBench-Teilmenge mit zehn Aufgaben",
+      "takeaway": "Beschränken Sie die berichtete Lösungsquote auf die CyScenarioBench-Teilmenge mit zehn Aufgaben.",
+      "body_notes": "Irregular meldet für eine Teilmenge seines mehrstufigen Cyber-Benchmarks mit zehn Aufgaben eine durchschnittliche Lösungsquote von 67.6% für Opus 5.5, gegenüber 61.7% für Mythos 5.1 und 53.0% für Opus 5. Dies sind vom Evaluator berichtete Ergebnisse einer Teilmenge."
+    },
+    {
+      "public_number": 198,
+      "title": "Erklärungen eines Optionskonzepts vergleichen",
+      "takeaway": "Vergleichen Sie die Erklärungsauszüge unter Beibehaltung der Offenlegung des frühen Zugangs durch den Autor.",
+      "body_notes": "Anhand von Screenshots zur Erklärung eines Optionskonzepts vergleicht der Autor Opus 5 und Opus 5.5 und bewertet die neuere Prosa als direkter und natürlicher. Er legt frühen Testzugang offen; kommerzielle Bedingungen des Beitrags werden nicht genannt."
+    },
+    {
+      "public_number": 199,
+      "title": "Ein Geschichtenauszug rund um Wald und Fluss",
+      "takeaway": "Bewerten Sie die Prosa des Geschichtenauszugs, ohne dessen fehlenden Schreibauftrag zu rekonstruieren.",
+      "body_notes": "Der Screenshot zeigt eine Passage einer Geschichte rund um einen Wald und einen Fluss, die der Autor Opus 5.5 zuschreibt. Der ursprüngliche Prompt fehlt; der vollständige Schreibauftrag lässt sich daher nicht aus dem Auszug rekonstruieren."
+    },
+    {
+      "public_number": 200,
+      "title": "Einen Repository-Scheduler erklären",
+      "takeaway": "Prüfen Sie beim Kürzen einer technischen Scheduler-Erklärung sowohl Korrektheit als auch Leserfeedback.",
+      "body_notes": "Der Autor verlangt eine kurze Scheduler-Erklärung, die Korrektheitsdetails bewahrt, und teilt den entstandenen Text. Er findet ihn klarer, während Leser desselben Threads weiterhin Metaphern und Formulierungen kritisieren."
+    },
+    {
+      "public_number": 201,
+      "title": "Prosa eines älteren Modells vereinfachen",
+      "takeaway": "Nutzen Sie die Vorher-Nachher-Überschriften als konkrete Referenz für das Vereinfachen von Prosa.",
+      "body_notes": "Der Autor bittet Opus 5.5, ein von einem älteren Opus geschriebenes Dokument zu überarbeiten, und zeigt Vorher-Nachher-Überschriften, darunter kürzere Bezeichnungen wie Scope und Status. Der Beleg ist dieses konkrete Bearbeitungsergebnis."
+    },
+    {
+      "public_number": 202,
+      "title": "Zehn Agenten erforschen einen Kürzeste-Wege-Algorithmus",
+      "takeaway": "Verlangen Sie unabhängige Beweisprüfungen und Reproduktion, bevor Sie sich auf die berichtete Verbesserung bei kürzesten Wegen verlassen.",
+      "body_notes": "Vals AI berichtet von einem eigenen Experiment, in dem zehn Agenten mit Opus 5.5 innerhalb von 15 Stunden C-HD erzeugten, und behauptet eine in Lean formalisierte Verbesserung gegenüber veröffentlichten Schranken für kürzeste Wege. Die Evidenzprüfung bestätigte weder den Beweis noch praktische Laufzeitgewinne unabhängig; die Forschungsbehauptung muss noch reproduziert werden."
+    },
+    {
+      "public_number": 203,
+      "title": "Bluetooth-Lautsprecherschaltungen in tscircuit",
+      "takeaway": "Behandeln Sie den tscircuit-Lautsprecherentwurf als Schaltplanpräsentation, bis Hardware gebaut und getestet wurde.",
+      "body_notes": "Ein mit tscircuit verbundener Autor vergleicht Opus 5.5 und GPT-6 Astra bei derselben Bitte, mit tscircuit einen Bluetooth-Lautsprecher zu bauen. Dies ist eine Präsentation des eigenen Werkzeugs des Autors ohne Nachweis gefertigter oder getesteter Hardware."
+    },
+    {
+      "public_number": 204,
+      "title": "Zeitmessung einer Schaltplanaufgabe",
+      "takeaway": "Vergleichen Sie die Schaltplanergebnisse mit der angegebenen Laufzeit, während weitergehende geschwindigkeitsbasierte Rangfolgen vorläufig bleiben.",
+      "body_notes": "Der Autor nennt einen achtminütigen Schaltplanlauf mit Opus 5.5 gegenüber 20 Minuten mit Grok 4.7 und bevorzugt Opus' Qualität. Die Vermutung, es könne Astra übertreffen, ist seine geschwindigkeitsbasierte Meinung."
+    },
+    {
+      "public_number": 205,
+      "title": "ARC-AGI-Ergebnisse und Kosten je Aufgabe",
+      "takeaway": "Interpretieren Sie ARC-Ergebnisse und Kosten je Aufgabe unter den vom Evaluator berichteten Testbedingungen.",
+      "body_notes": "ARC Prize meldet verifizierte Ergebnisse von 93.3% bei $0.41 je Aufgabe auf ARC-AGI-2 und 98.5% bei $0.16 auf ARC-AGI-1. Ergebnisse und Kosten gelten für die vom Evaluator angegebenen Bedingungen."
+    },
+    {
+      "public_number": 206,
+      "title": "Regeln für Interaction Calculus schreiben",
+      "takeaway": "Trennen Sie die berichtete Wiedergabe der Kalkülregeln von der vorgeschlagenen künftigen Neufassung von Bend.",
+      "body_notes": "Der Urheber des Fachgebiets berichtet, dass Opus 5.5 detaillierte Grammatik und Regeln des Interaction Calculus wiedergibt, und nennt ein Projekt zum Vergleich. Bend in sich selbst neu zu schreiben erscheint lediglich als künftige Idee, nicht als abgeschlossenes Ergebnis."
+    },
+    {
+      "public_number": 207,
+      "title": "Die Mona Lisa mit der Maus in Paintbrush zeichnen",
+      "takeaway": "Vergleichen Sie die mit der Maus gezeichneten Ergebnisse anhand der gemeinsamen Einschränkungen sowie der Zeit- und Kostenschätzungen der Plattform.",
+      "body_notes": "Higgsfield bittet beide Modelle, die Mona Lisa in Paintbrush nur mit schwarzen Strichen und Maus-Tastatur-Steuerung zu zeichnen. Die Plattform nennt 11m 42s und geschätzte $1.66 für Opus 5.5 gegenüber 5m 26s und geschätzten $2.72 für GPT-6 Astra."
+    },
+    {
+      "public_number": 208,
+      "title": "Vergleichen, wie Modelle in Paint zeichnen",
+      "takeaway": "Prüfen Sie die verlangte Zeicheninteraktion und unterscheiden Sie das angehängte Vergleichsvideo vom Opus-Ergebnis.",
+      "body_notes": "Der Autor bittet beide Modelle, in Paint ein Porträt zu zeichnen und es mit Magnific MCP zu animieren, erklärt aber, Opus nehme statt der verlangten Interaktion eine Abkürzung. Das angehängte Video zeigt ausdrücklich das ChatGPT-Vergleichsergebnis."
+    }
+  ]
+}

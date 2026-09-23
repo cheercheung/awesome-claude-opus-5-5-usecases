@@ -1,13 +1,16 @@
-# Publication preparation
+# Publication checklist
 
-This is a local content deliverable. Nothing has been published remotely.
+The owner requested local preparation without a remote push. These publication actions have not been executed or passed.
 
-- Complete the remaining eight locales if the standard 11-language publication policy is requested
-- Migrate all preview images and playable videos to the approved R2 namespace; recheck source freshness and source-to-public media parity
-- Verify every source, author, CTA, badge and media URL; preserve blocked/check-failed status rather than treating it as success
-- Verify an API/agent first-run route and record runtime evidence if publication requires it
-- Configure and create a remote only when requested; apply the prepared About metadata
-- Inspect the rendered GitHub README and its images after publication
-- Use live star count to decide whether Star History should appear; this unpublished repository has no Star History chart
+- Verify the current model/agent access route and record the required real API result or an explicitly approved waiver; never infer a credit budget
+- Upload the complete public-media inventory to the approved R2 bucket/prefix, including localized covers, all case previews and playable video assets
+- Replace local/source media presentation with verified R2 poster and playback URLs while preserving the source-fidelity denominator
+- Rerun the shared handoff verifier in its default publication stage; a local-scaffold report cannot satisfy that stage
+- Recheck human-facing source pages, including Hacker News pages previously limited; their source identities and content have alternate official API evidence
+- Verify every README/docs link, image, badge, anchor, relative path and UTM slot with current evidence
+- Create/configure a GitHub remote only after authorization; apply the prepared About description, bare homepage URL and topics
+- Read the live star count before deciding whether to show Star History
+- Verify the rendered GitHub README and full expected image/camo set after an authorized push
+- Record exact commit, branch, remote equality, readback and completion-gate result
 
-The standard upstream handoff verifier requires R2 media and positive media counts for every case. This corpus legitimately includes text-only evidence and the owner requested local creation, so a separate local validator checks all source, data, README and local-media invariants. The upstream publication gate is recorded as unsatisfied, not silently bypassed or claimed passed.
+The 11-language content, source notes and local-media checks are separate from these public actions. A source-only or local check must never be relabeled as a publication pass.

@@ -1,0 +1,112 @@
+[
+  {
+    "locale": "de",
+    "source": "assets/banners/de.svg",
+    "source_sha256": "605801c7b8ef6cd5381bdca2ca5ae3b39a485e882d17ab416a33f4b86714ff6d",
+    "path": "images/de.png",
+    "sha256": "e7737d645956f8a7c5b1d85d082c136a62bc3659b22010c1b03dd4bfe3cc37fe",
+    "renderer": "CairoSVG 2.9.1",
+    "width": 1520,
+    "height": 460
+  },
+  {
+    "locale": "en",
+    "source": "assets/banners/en.svg",
+    "source_sha256": "562f5aaee13ebb88d6d128826fbc228e29951a9b415b6862eaf9c757465ef57c",
+    "path": "images/en.png",
+    "sha256": "8386fc0521becde5da7c6c0ea1fda2facad6889930568260648aaa2911155055",
+    "renderer": "CairoSVG 2.9.1",
+    "width": 1520,
+    "height": 460
+  },
+  {
+    "locale": "es",
+    "source": "assets/banners/es.svg",
+    "source_sha256": "ce2c104770dfce79f8022513d778016803ffb7f2579ac92a541f1e8f9db9fa00",
+    "path": "images/es.png",
+    "sha256": "fe7b63c071ddca274c07c51f5a9265c1fccb6effbca98bf740b5558a579f20e0",
+    "renderer": "CairoSVG 2.9.1",
+    "width": 1520,
+    "height": 460
+  },
+  {
+    "locale": "fr",
+    "source": "assets/banners/fr.svg",
+    "source_sha256": "f30967e4d492b133f919149e7c28f096a2d24862c99943af63ee558bc42b2c37",
+    "path": "images/fr.png",
+    "sha256": "03d03cac19b38f0c3c2fc1cfca01b5d08087ecc9e0957d59954fa4e3abc6ddbd",
+    "renderer": "CairoSVG 2.9.1",
+    "width": 1520,
+    "height": 460
+  },
+  {
+    "locale": "ja",
+    "source": "assets/banners/ja.svg",
+    "source_sha256": "2e4582eae46d444cff4dacd88481d9eb1a079b81b09c2a49b0218f9294e1bde6",
+    "path": "images/ja.png",
+    "sha256": "abe09ed60e5292167bc0b73d5d3967ef22ca42f32e629ddfe0fbbabf97f70a21",
+    "renderer": "CairoSVG 2.9.1",
+    "width": 1520,
+    "height": 460
+  },
+  {
+    "locale": "ko",
+    "source": "assets/banners/ko.svg",
+    "source_sha256": "4415ad360fa1fc06ad7a4ec1e0da512b0b91cd95524c8e7e645cbbdcae1cb379",
+    "path": "images/ko.png",
+    "sha256": "8fe4ba932b52b65e477b770d3b7ccfcbbbc56bbb4d125d01945032a5289ff1e9",
+    "renderer": "CairoSVG 2.9.1",
+    "width": 1520,
+    "height": 460
+  },
+  {
+    "locale": "pt",
+    "source": "assets/banners/pt.svg",
+    "source_sha256": "19fc420c086dae6262d4ac4b1eea6e6f22e80be1f029b0305b60cd54384e2e4a",
+    "path": "images/pt.png",
+    "sha256": "fe7b63c071ddca274c07c51f5a9265c1fccb6effbca98bf740b5558a579f20e0",
+    "renderer": "CairoSVG 2.9.1",
+    "width": 1520,
+    "height": 460
+  },
+  {
+    "locale": "ru",
+    "source": "assets/banners/ru.svg",
+    "source_sha256": "00940c54949468012ae608825d694f3cdf08f674231eb7340a528bc39a6f5a64",
+    "path": "images/ru.png",
+    "sha256": "c8240c34bbf5a51caf9d6c2b6e5defcaa424ac863a2883a530b1f499d3917026",
+    "renderer": "CairoSVG 2.9.1",
+    "width": 1520,
+    "height": 460
+  },
+  {
+    "locale": "tr",
+    "source": "assets/banners/tr.svg",
+    "source_sha256": "dde5875871b1b34e6d86cb41fa2c80829ace5ac6af4f51645b9ae648089ae27e",
+    "path": "images/tr.png",
+    "sha256": "627b946f888ef324a41e51b84e665ca60c1749c414b91e4d26ebf610378506ce",
+    "renderer": "CairoSVG 2.9.1",
+    "width": 1520,
+    "height": 460
+  },
+  {
+    "locale": "zh-CN",
+    "source": "assets/banners/zh-CN.svg",
+    "source_sha256": "00db4015d12567605818f6d9055d85a4efc7c2f23a3a59b3b3550459c4f5f122",
+    "path": "images/zh.png",
+    "sha256": "e4720d8dd94369ceece88c241e7ffb2b796a73b567fdbb62ff5fc3b4afa788e6",
+    "renderer": "CairoSVG 2.9.1",
+    "width": 1520,
+    "height": 460
+  },
+  {
+    "locale": "zh-TW",
+    "source": "assets/banners/zh-TW.svg",
+    "source_sha256": "0b9859b53e14a3725f6592cd2966d2677eba94cd7c5a58fb061574daeb3796a8",
+    "path": "images/zh-tw.png",
+    "sha256": "c829a2e5bc9d2f420ff27ac53080a35283f4a4c059c586112e5d6047af881aed",
+    "renderer": "CairoSVG 2.9.1",
+    "width": 1520,
+    "height": 460
+  }
+]

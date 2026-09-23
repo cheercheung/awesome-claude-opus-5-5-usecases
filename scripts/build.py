@@ -1,60 +1,71 @@
 #!/usr/bin/env python3
-"""Deterministically render the reviewed source data, without network or AI calls."""
+"""Render GitHub README files from reviewed editorial JSON; never translate prose."""
+import argparse
+import html
+import json
 from pathlib import Path
-import json,html,collections,urllib.parse
-R=Path(__file__).resolve().parents[1];D=json.loads((R/'data/use-cases.json').read_text());C=D['items'];N=len(C)
-MODEL='https://evolink.ai/claude-opus-5-5';DOCS='https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api';KEYS='https://evolink.ai/dashboard/keys';CAMPAIGN=R.name
-L={
-'en':{'file':'README.md','intro':'Introduction','overview':'Overview','quick':'Quick Start','menu':'Menu','related':'Related Repositories','ack':'Acknowledge','title':'Claude Opus 5.5 Use Cases','subtitle':'Source-backed workflows, demos, comparisons, and limitations','introtext':'Explore what people have built and tested with Claude Opus 5.5: games, 3D scenes, coding tools, research, and creative workflows. Every entry links to its publisher and preserves the limits of the original claim.','overviewtext':f'**{N} curated Claude Opus 5.5 cases** from 221 supplied entries: nine repeated works or follow-ups merged, four insufficient-evidence entries held out.','note':'These are attributed source reports, not independent reproductions. Tool-assisted videos and graphics do not establish native media generation. Promotional comparisons remain attributed; repeated posts are not independent experiments. Dates below are source publication dates (UTC), not import dates.','cta':'Explore Claude Opus 5.5 on EvoLink','key':'Create an EvoLink API key','doc':'Read the Claude Messages API guide','steps':['Open the model page to check current access and capabilities','Create an API key in the EvoLink dashboard','Follow the linked model-specific API guide or agent instructions on the model page'],'runtime':'Model-page and documentation links were checked on 2026-09-23. No paid API call or agent installation was performed for this collection.','local':'Local edition: previews are cached in this repository; video playback and source links require internet access.','category':'Category','case':'Case','type':'Type','play':'Play source video','media':'Source attachment','source':'Evidence','sourcenote':'The linked post is the evidence for this entry; the attribution names its publisher and does not imply independent reproduction.','textonly':'This source is text-only; no media or prompt has been invented.','support':'Supporting sources / merged reports','acktext':'Thanks to the named creators and publishers below. Original demos, screenshots, marks and linked works remain the property of their respective owners. If attribution is incorrect or a rights holder requests removal, contact the repository maintainer through the correction template.','foot':'Editorial summaries and collection structure: CC BY 4.0; third-party media retains its original rights.','search':'Search a task, tool, author, or case','all':'All categories','alltypes':'All evidence types','results':'cases','view':'View source','readme':'Read the repository','evidence':'Source notes'},
-'zh-CN':{'file':'README_zh-CN.md','intro':'简介','overview':'概览','quick':'快速开始','menu':'目录','related':'相关仓库','ack':'致谢','title':'Claude Opus 5.5 使用案例','subtitle':'有来源的工作流、演示、对比与局限','introtext':'从游戏、3D 场景、编程工具到研究和创意工作流，查看人们如何使用 Claude Opus 5.5；每条案例保留原帖、发布者和证据边界','overviewtext':f'**{N} 条 Claude Opus 5.5 精选案例**，来自 221 条原始记录：合并 9 条重复展示或评测补充，暂缓 4 条证据不足的记录','note':'这些是带来源的作者报告，未独立复现；借助工具制作视频和图形，不代表模型原生生成媒体；推广对比保留发布者归属，重复帖子不计为独立实验；日期使用原帖 UTC 发布日期，而非导入日期','cta':'在 EvoLink 查看 Claude Opus 5.5','key':'创建 EvoLink API Key','doc':'阅读 Claude Messages API 文档','steps':['打开模型页面，查看当前接入方式和能力','在 EvoLink 控制台创建 API Key','按模型页面的 Agent 指引或所链接的 API 文档接入'],'runtime':'模型页和文档已于 2026-09-23 核对；本案例整理未执行付费 API 调用或安装 Agent 技能','local':'本地版：预览图保存在仓库内，播放视频和访问原帖需要联网','category':'分类','case':'案例','type':'类型','play':'播放来源视频','media':'来源附件','source':'证据说明','sourcenote':'本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现','textonly':'这条来源为文字记录，未补造媒体或提示词','support':'补充来源与合并记录','acktext':'感谢下列创作者与发布者；原始演示、截图、商标和链接作品归各自权利人所有；如署名有误或权利人要求移除，请通过更正模板联系仓库维护者','foot':'编辑摘要与合集结构采用 CC BY 4.0，第三方媒体保留原有权利','search':'搜索任务、工具、作者或案例','all':'全部分类','alltypes':'全部证据类型','results':'条案例','view':'查看原帖','readme':'阅读仓库 README','evidence':'来源说明'},
-'ja':{'file':'README_ja.md','intro':'はじめに','overview':'概要','quick':'クイックスタート','menu':'目次','related':'関連リポジトリ','ack':'謝辞','title':'Claude Opus 5.5 活用事例','subtitle':'出典付きのワークフロー、デモ、比較、制約','introtext':'ゲーム、3D シーン、開発ツール、研究、創作など、Claude Opus 5.5 の使われ方を紹介します。各事例に投稿者と出典を記載し、主張の限界も残しています。','overviewtext':f'221 件の入力から **Claude Opus 5.5 の {N} 事例**を収録。同じ作品や評価の続報 9 件を統合し、根拠が不十分な 4 件を保留しました。','note':'掲載内容は出典に基づく報告であり、独立した再現実験ではありません。ツールを介した動画・画像制作は、モデル自体のメディア生成を意味しません。宣伝を含む比較は投稿者の評価として扱います。日付は取り込み日ではなく原投稿の UTC 公開日です。','cta':'EvoLink で Claude Opus 5.5 を確認','key':'EvoLink API キーを作成','doc':'Claude Messages API ガイドを読む','steps':['モデルページで現在の利用方法と機能を確認','EvoLink ダッシュボードで API キーを作成','リンク先の API ガイドまたはモデルページのエージェント案内に従う'],'runtime':'モデルページとドキュメントは 2026-09-23 に確認しました。この事例集の作成では有料 API 呼び出しやエージェントのインストールを行っていません。','local':'ローカル版：プレビュー画像はリポジトリ内に保存。動画の再生と出典の閲覧にはネット接続が必要です。','category':'分類','case':'事例','type':'種類','play':'出典の動画を再生','media':'出典の添付画像','source':'根拠','sourcenote':'見出しからリンクした原投稿が本事例の根拠です。署名は投稿者を示し、独立した再現を意味しません。','textonly':'文字のみの出典です。メディアやプロンプトは補作していません。','support':'補足出典・統合した報告','acktext':'以下の制作者と投稿者に感謝します。元のデモ、画像、商標、リンク先の作品の権利は各権利者に帰属します。帰属の誤りや削除のご要望は、更正テンプレートから管理者にお知らせください。','foot':'編集要約と事例集の構成は CC BY 4.0。第三者のメディアは元の権利を保持します。','search':'タスク、ツール、投稿者、事例を検索','all':'すべての分類','alltypes':'すべての種類','results':'件','view':'原投稿を開く','readme':'README を読む','evidence':'出典メモ'}
-}
-def utm(u,medium,content):return u+'?'+urllib.parse.urlencode({'utm_source':'github','utm_medium':medium,'utm_campaign':CAMPAIGN,'utm_content':content})
-def esc(s):return s.replace('|','\\|').replace('[','\\[').replace(']','\\]')
-def title(c,lang):return c['copy'][lang]['title']
-links=[]
-for lang,l in L.items():
- urls={k:utm(u,m,k) for k,u,m in [('banner',MODEL,'banner'),('top',MODEL,'top_cta'),('model',MODEL,'quick_start'),('keys',KEYS,'api_key'),('docs',DOCS,'docs'),('footer',MODEL,'footer')]};links.extend({'locale':lang,'placement':k,'url':v} for k,v in urls.items())
- out=['<div align="center">',f'<a href="{html.escape(urls["banner"])}"><img src="assets/banner.svg" alt="Claude Opus 5.5 use cases — EvoLink" width="760"></a>', '',f'# {l["title"]}',l['subtitle'],'', '[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)',f'[![EvoLink](https://img.shields.io/badge/Explore_on-EvoLink-244b57)]({urls["top"]})','', '[English](README.md) · [日本語](README_ja.md) · [简体中文](README_zh-CN.md)','', '</div>','',f'## 🍌 {l["intro"]}','',l['introtext'],'',f'[{l["cta"]}]({urls["top"]})','',f'## 📊 {l["overview"]}','',l['overviewtext'],'',f'> [!NOTE]\n> {l["note"]}','',l['local'],'',f'## ⚡ {l["quick"]}','',f'1. [{l["steps"][0]}]({urls["model"]})',f'2. [{l["steps"][1]}]({urls["keys"]})',f'3. [{l["steps"][2]}]({urls["docs"]})','',l['runtime'],'',f'## 📑 {l["menu"]}','',f'| # | {l["category"]} | {l["case"]} | {l["type"]} |','|---|---|---|---|']
- for c in C:
-  cat=next(x for x in D['categories'] if x['id']==c['category']);out.append(f'| {c["public_number"]} | {cat["copy"][lang]["label"]} | [{esc(title(c,lang))}](#case-{c["public_number"]}) | {c["type"]} |')
- for cat in D['categories']:
-  items=[c for c in C if c['category']==cat['id']]
-  if not items:continue
-  out+=['',f'<a id="category-{cat["id"]}"></a>',f'## {"📘" if cat["id"]=="official" else "🧩"} {cat["copy"][lang]["label"]}','']
-  for c in items:
-   n=c['public_number'];ct=title(c,lang);out += [f'<a id="case-{n}"></a>',f'### Case {n}: [{esc(ct)}]({c["source_url"]}) (by [{c["author_handle"]}]({c["author_url"]}))','',f'**{c["copy"][lang]["takeaway"]}**','',l['sourcenote'],'']
-   if not c['media']:out += [l['textonly'],'']
-   else:
-    # Keep source order; comparisons remain in the same table row, two columns max
-    out+=['<table>']
-    for start in range(0,len(c['media']),2):
-     out+=['<tr>']
-     for j,m in enumerate(c['media'][start:start+2],start+1):
-      dest=m['video_url'] or c['source_url']; label=l['play'] if m['kind']=='video' else l['media']
-      out += [f'<td><a href="{html.escape(dest)}"><img src="{m["local_preview"]}" alt="{html.escape(ct)} — {l["media"]} {j}" width="420"></a><br><a href="{html.escape(dest)}">{label} {j}</a></td>']
-     out+=['</tr>']
-    out+=['</table>','']
-   if c['supporting_sources']:
-    out += [f'{l["support"]}:','']
-    for sup in c['supporting_sources']:out += [f'- [{sup["author"]}]({sup["source_url"]}): {sup["copy"][lang]["takeaway"]}']
-    out+=['']
-   out += [f'Type: {c["type"]} | Date: {c["date"]}','']
- out += [('## Related Repositories' if lang=='en' else f'## 🔗 {l["related"]}'),'', {'en':'No companion API or skill repository is linked until its current-model route is verified. Use the official EvoLink documentation linked above.','zh-CN':'配套 API 或 Skill 仓库的当前模型入口尚未核对，因此这里暂不添加；接入方式见上方 EvoLink 官方文档','ja':'対応する API・スキルリポジトリは、現行モデルの経路を確認してから追加します。上記の EvoLink 公式ドキュメントをご利用ください。'}[lang],'',f'## 🙏 {l["ack"]}','',l['acktext'],'']
- authors={c['author_handle']:c['author_url'] for c in C}
- out += [', '.join(f'[{a}]({u})' for a,u in authors.items()),'',l['foot'],'',f'[{l["cta"]}]({urls["footer"]})','']
- (R/l['file']).write_text('\n'.join(out))
-(R/'data/utm-matrix.json').write_text(json.dumps(links,indent=2)+'\n')
-# Static vector cover: no external imagery or asset licensing ambiguity
-(R/'assets/banner.svg').write_text('''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1520 520" role="img" aria-labelledby="title desc"><title id="title">Claude Opus 5.5 Use Cases</title><desc id="desc">An EvoLink collection of source-backed workflows</desc><rect width="1520" height="520" rx="24" fill="#173f46"/><circle cx="1390" cy="100" r="290" fill="#24565a"/><circle cx="1320" cy="220" r="170" fill="none" stroke="#a5c8b6" stroke-width="2"/><path d="M1150 220h340M1320 50v340" stroke="#a5c8b6" stroke-width="2"/><text x="88" y="108" fill="#b7d5c3" font-family="Arial,sans-serif" font-size="26" letter-spacing="6">EVOLINK / FIELD NOTES</text><text x="82" y="238" fill="#fff9ed" font-family="Arial,sans-serif" font-size="96" font-weight="700">Claude Opus 5.5</text><text x="88" y="323" fill="#fff9ed" font-family="Arial,sans-serif" font-size="52">Use Cases</text><text x="88" y="432" fill="#c8dad1" font-family="Arial,sans-serif" font-size="26">Real workflows · Original sources · Demos &amp; limitations</text></svg>''')
-# Searchable local preview, with embedded data so file:// works without fetch or a server
-payload=json.dumps({'items':C,'categories':D['categories'],'labels':L},ensure_ascii=False).replace('<','\\u003c')
-preview='''<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Claude Opus 5.5 — Use Cases</title><style>
-:root{--ink:#173f46;--paper:#f6f3ec;--line:#d9ded5;--muted:#647674}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 system-ui,sans-serif}header{background:var(--ink);color:#fff9ed;padding:52px max(5vw,24px) 42px}.brand{font-size:12px;letter-spacing:3px;color:#b7d5c3}h1{font-family:Georgia,serif;font-size:clamp(38px,5vw,66px);line-height:1.05;letter-spacing:-2px;margin:22px 0}header p{max-width:750px;color:#cddbd3}.top{display:flex;justify-content:space-between;align-items:center}.top a{color:#e3edde}.filters{position:sticky;top:0;background:#f6f3ecf5;backdrop-filter:blur(8px);padding:20px 5vw;border-bottom:1px solid var(--line);z-index:2;display:flex;gap:10px;flex-wrap:wrap}input,select{font:inherit;padding:10px 13px;border:1px solid #c5cfc7;border-radius:6px;background:white;color:var(--ink)}input{flex:1;min-width:240px}main{padding:24px 5vw 70px}.count{margin:0 0 20px;color:var(--muted);font-size:14px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(330px,1fr));gap:24px}.card{background:#fffdf8;border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}.thumb{height:215px;background:#e6ebe3;position:relative;display:block;overflow:hidden}.thumb img{width:100%;height:100%;object-fit:contain}.play{position:absolute;right:14px;bottom:14px;background:var(--ink);color:white;padding:3px 12px;border-radius:20px;font-size:12px}.body{padding:22px;flex:1;display:flex;flex-direction:column}.tag{font-size:11px;letter-spacing:.6px;color:#658172;text-transform:uppercase}.card h2{font-size:21px;line-height:1.3;margin:10px 0 12px}.card p{font-size:14px;color:#425858;margin:0 0 14px}.meta{font-size:12px;color:var(--muted);margin-top:auto}.card a{color:var(--ink)}.source{font-size:14px;margin-top:12px;font-weight:650}.nomedia{height:115px;padding:30px;color:#657972;background:#e9eee5;font:italic 21px Georgia,serif}.extras{display:flex;gap:6px;padding:8px 12px;border-bottom:1px solid var(--line)}.extras img{height:52px;width:65px;object-fit:contain}.empty{padding:60px;text-align:center;grid-column:1/-1}button{cursor:pointer}footer{padding:24px 5vw;border-top:1px solid var(--line);font-size:13px;color:var(--muted)}@media(max-width:600px){header{padding-top:28px}.grid{grid-template-columns:1fr}.filters{position:static}h1{letter-spacing:-1px}}
-</style><header><div class="top"><span class="brand">EVOLINK / FIELD NOTES</span><select id="lang" aria-label="Language"><option value="zh-CN">简体中文</option><option value="en">English</option><option value="ja">日本語</option></select></div><h1>Claude Opus 5.5<br><span id="subtitle"></span></h1><p id="intro"></p><a id="readme" style="color:#d7ecdc"></a></header><div class="filters"><input id="q" type="search" aria-label="Search"><select id="category" aria-label="Category"></select><select id="type" aria-label="Evidence type"></select></div><main><p class="count" id="count" aria-live="polite"></p><div class="grid" id="grid"></div></main><footer id="foot"></footer><script>const DATA=__DATA__;
-const $=id=>document.getElementById(id);const h=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-function setup(){const lang=$('lang').value,L=DATA.labels[lang];document.documentElement.lang=lang;$('subtitle').textContent=L.subtitle;$('intro').textContent=L.note;$('readme').textContent=L.readme+' ↗';$('readme').href='../'+L.file;$('q').placeholder=L.search;const cat=$('category').value,type=$('type').value;$('category').innerHTML='<option value="">'+L.all+'</option>'+DATA.categories.filter(c=>DATA.items.some(x=>x.category===c.id)).map(c=>'<option value="'+h(c.id)+'">'+h(c.copy[lang].label)+'</option>').join('');$('type').innerHTML='<option value="">'+L.alltypes+'</option>'+[...new Set(DATA.items.map(x=>x.type))].sort().map(t=>'<option>'+t+'</option>').join('');$('category').value=cat;$('type').value=type;$('foot').textContent=L.local+' · '+L.foot;render()}
-function render(){const lang=$('lang').value,L=DATA.labels[lang],q=$('q').value.toLowerCase(),cat=$('category').value,type=$('type').value;const rows=DATA.items.filter(c=>(!cat||c.category===cat)&&(!type||c.type===type)&&(!q||JSON.stringify([c.copy,c.author_handle,c.public_number,c.category]).toLowerCase().includes(q)));$('count').textContent=rows.length+' / '+DATA.items.length+' '+L.results;$('grid').innerHTML=rows.map(c=>{const copy=c.copy[lang],m=c.media[0],cl=DATA.categories.find(k=>k.id===c.category).copy[lang].label;let media=m?'<a class="thumb" href="'+h(m.video_url||c.source_url)+'" target="_blank" rel="noreferrer"><img loading="lazy" src="../'+h(m.local_preview)+'" alt="'+h(copy.title)+'">'+(m.kind==='video'?'<span class="play">▶ '+L.play+'</span>':'')+'</a>':'<div class="nomedia">'+h(L.evidence)+'</div>';if(c.media.length>1)media+='<div class="extras">'+c.media.slice(1).map(m=>'<a href="'+h(m.video_url||'../'+m.local_preview)+'" target="_blank" rel="noreferrer"><img loading="lazy" src="../'+h(m.local_preview)+'" alt="'+h(L.media)+'"></a>').join('')+'</div>';return '<article class="card" id="case-'+c.public_number+'">'+media+'<div class="body"><div class="tag">'+h(cl)+' / '+h(c.type)+'</div><h2>'+c.public_number+'. '+h(copy.title)+'</h2><p>'+h(copy.takeaway)+'</p><div class="meta">'+h(c.author_handle)+' · '+c.date+'</div><a class="source" href="'+h(c.source_url)+'" target="_blank" rel="noreferrer">'+L.view+' ↗</a></div></article>'}).join('')||'<div class="empty">0 '+L.results+'</div>'}
-$('lang').addEventListener('change',setup);['q','category','type'].forEach(id=>$(id).addEventListener(id==='q'?'input':'change',render));setup();</script></html>'''
-(R/'preview/index.html').write_text(preview.replace('__DATA__',payload))
-print(f'Rendered {N} cases in {len(L)} READMEs and searchable preview')
+from urllib.parse import urlencode,quote
+
+ROOT=Path(__file__).resolve().parents[1]
+LANGS=[('en','English','111111'),('es','Español','ffb703'),('pt','Português','2a9d8f'),('ja','日本語','52b788'),('ko','한국어','4ea8de'),('de','Deutsch','f4a261'),('fr','Français','e76f51'),('tr','Türkçe','d62828'),('zh-TW','繁體中文','8338ec'),('zh-CN','简体中文','ef476f'),('ru','Русский','577590')]
+MODEL='https://evolink.ai/claude-opus-5-5'
+DOCS='https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api'
+KEYS='https://evolink.ai/dashboard/keys'
+SLOTS={'banner':(MODEL,'banner','readme_banner'),'badge':(MODEL,'badge','top_badge'),'introduction':(MODEL,'readme','introduction_cta'),'model':(MODEL,'quickstart','model_link'),'keys':(KEYS,'quickstart','api_key'),'docs':(DOCS,'docs','first_run'),'footer':(MODEL,'footer','footer_cta')}
+
+def read_json(path):return json.loads(path.read_text())
+def filename(lang):return 'README.md' if lang=='en' else f'README_{lang}.md'
+def escape(text):return text.replace('|','\\|').replace('[','\\[').replace(']','\\]')
+def display_author(value):return '@'+value.lstrip('@')
+def paragraphs(notes):return [notes] if isinstance(notes,str) else notes
+
+def main():
+    parser=argparse.ArgumentParser();parser.add_argument('--locale',choices=[x[0] for x in LANGS]);args=parser.parse_args()
+    data=read_json(ROOT/'data/use-cases.json');cases=data['items']
+    urls={slot:target+'?'+urlencode({'utm_source':'github','utm_medium':medium,'utm_campaign':ROOT.name,'utm_content':content}) for slot,(target,medium,content) in SLOTS.items()}
+    badges='\n'.join(f'[![{name}](https://img.shields.io/badge/{quote(name,safe="")}-{color})]({filename(lang)})' for lang,name,color in LANGS)
+    selected=[args.locale] if args.locale else [x[0] for x in LANGS]
+    for lang in selected:
+        source=read_json(ROOT/f'data/locales/{lang}.json');labels=source['labels'];cover_label=read_json(ROOT/'data/cover-labels.json')[lang];cover_font={'zh-CN':'Microsoft YaHei','zh-TW':'Hiragino Sans GB','ja':'Hiragino Sans','ko':'Apple SD Gothic Neo'}.get(lang,'Arial');what=read_json(ROOT/'data/menu-labels.json')[lang];copy={c['public_number']:c for c in source['items']}
+        if set(copy)!=set(range(1,len(cases)+1)):raise ValueError(f'{lang}: incomplete editorial case set')
+        cover='images/'+({'zh-CN':'zh','zh-TW':'zh-tw'}.get(lang,lang))+'.png';vector=f'assets/banners/{lang}.svg';(ROOT/'assets/banners').mkdir(exist_ok=True);(ROOT/'images').mkdir(exist_ok=True)
+        (ROOT/vector).write_text(f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1520 460" role="img"><title>{html.escape(labels['title'])}</title><rect width="1520" height="460" rx="24" fill="#173f46"/><circle cx="1390" cy="100" r="290" fill="#24565a"/><circle cx="1320" cy="220" r="170" fill="none" stroke="#a5c8b6" stroke-width="2"/><text x="88" y="100" fill="#b7d5c3" font-family="Arial,sans-serif" font-size="28" letter-spacing="5">EVOLINK</text><text x="82" y="245" fill="#fff9ed" font-family="Arial,sans-serif" font-size="94" font-weight="700">Claude Opus 5.5</text><text x="88" y="360" fill="#c8dad1" font-family="{cover_font}" font-size="42">{len(cases)} · {html.escape(cover_label)}</text></svg>\n''')
+        out=['<div align="center">',f'<a href="{html.escape(urls["banner"])}"><img src="{cover}" alt="{html.escape(labels["title"])}" width="760"></a>','',f'# {labels["title"]}',labels['subtitle'],'','[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)',f'[![EvoLink](https://img.shields.io/badge/EvoLink-173f46)]({urls["badge"]})','',badges,'','</div>','',f'## 🍌 {labels["intro"]}','',f'**{labels["introtext"]}**','',f'[{labels["cta"]}]({urls["introduction"]})','','<a id="overview"></a>',f'## 📊 {labels["overview"]}','',labels['overviewtext'],'']
+        out+=['- '+s for s in labels['overviewbullets']]
+        out+=['',f'> [!NOTE]\n> {labels["note"]}','','<a id="quick-start"></a>',f'## ⚡ {labels["quick"]}','']
+        out += [f'{i}. [{text}]({urls[slot]})' for i,(text,slot) in enumerate(zip(labels['steps'],['model','keys','docs']),1)]
+        out+=['',f'## 📑 {labels["menu"]}','',f'| [{labels["overview"]}](#overview) | [{labels["quick"]}](#quick-start) | [{labels["related"]}](#related-repositories) | [{labels["ack"]}](#acknowledge) |','|---|---|---|---|','',f'| {labels["case"]} | {labels["category"]} | {what} | {labels["type"]} |','|---|---|---|---|']
+        for c in cases:
+            n=c['public_number'];out.append(f'| [{labels["case_label"]} {n}: {escape(copy[n]["title"])}](#case-{n}) | [{labels["categories"][c["category"]]}](#category-{c["category"]}) | {escape(copy[n]["takeaway"])} | {c["type"]} |')
+        for category in data['categories']:
+            cat_cases=[c for c in cases if c['category']==category['id']]
+            if not cat_cases:continue
+            out+=['',f'<a id="category-{category["id"]}"></a>',f'## {"📘" if category["id"]=="official" else "🧩"} {labels["categories"][category["id"]]}','']
+            for c in cat_cases:
+                n=c['public_number'];ed=copy[n]
+                out += [f'<a id="case-{n}"></a>',f'### {labels["case_label"]} {n}: [{escape(ed["title"])}]({c["source_url"]}) ({labels["by_label"]} [{display_author(c["author_handle"])}]({c["author_url"]}))','',f'**{ed["takeaway"]}**','']
+                for note in paragraphs(ed['body_notes']):out += [note,'']
+                if c['media']:
+                    out += ['<table>']
+                    for start in range(0,len(c['media']),2):
+                        out += ['<tr>']
+                        for j,m in enumerate(c['media'][start:start+2],start+1):
+                            dest=m['video_url'] or c['source_url'];label=labels['play'] if m['kind']=='video' else labels['media']
+                            out += [f'<td><a href="{html.escape(dest)}"><img src="{m["local_preview"]}" alt="{html.escape(ed["title"])} — {html.escape(labels["media"])} {j}" width="420"></a><br><a href="{html.escape(dest)}">{label} {j}</a></td>']
+                        out+=['</tr>']
+                    out+=['</table>','']
+                if c['supporting_sources']:
+                    out += [labels['support']+': '+', '.join(f'[{s["author"]}]({s["source_url"]})' for s in c['supporting_sources']),'']
+                out += [f'Type: {c["type"]} | Date: {c["date"]}','','---','']
+        out += ['<a id="related-repositories"></a>','## Related Repositories' if lang=='en' else f'## 🔗 {labels["related"]}','',labels['relatedtext'],'','- [Claude Code](https://github.com/anthropics/claude-code)','- [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks)','','<a id="acknowledge"></a>',f'## 🙏 {labels["ack"]}','',labels['acktext'],'']
+        authors=list(dict.fromkeys((display_author(c['author_handle']),c['author_url']) for c in cases))
+        out += [', '.join(f'[{author}]({url})' for author,url in authors),'',labels['foot'],'',f'[{labels["cta"]}]({urls["footer"]})','']
+        (ROOT/filename(lang)).write_text('\n'.join(out))
+    (ROOT/'data/utm-matrix.json').write_text(json.dumps([{'placement':slot,'url':url} for slot,url in urls.items()],indent=2)+'\n')
+    inventory=['# Curated use case inventory','', 'Generated from `use-cases.json` and `locales/en.json`; do not edit this index directly.','', '| Case | Title | Type | Date | Category | Source |','|---|---|---|---|---|---|']
+    for c in cases:
+        n=c['public_number'];inventory.append(f'| [Case {n}](../README.md#case-{n}) | {escape(c["title"])} | {c["type"]} | {c["date"]} | {c["category"]} | [{c["author_handle"]}]({c["source_url"]}) |')
+    (ROOT/'data/use-cases.md').write_text('\n'.join(inventory)+'\n')
+    print(f'Rendered {len(cases)} cases in {len(selected)} README files')
+
+if __name__=='__main__':main()

@@ -1,261 +1,276 @@
 <div align="center">
-<a href="https://evolink.ai/claude-opus-5-5?utm_source=github&amp;utm_medium=banner&amp;utm_campaign=awesome-claude-opus-5-5-usecases&amp;utm_content=banner"><img src="assets/banner.svg" alt="Claude Opus 5.5 use cases — EvoLink" width="760"></a>
+<a href="https://evolink.ai/claude-opus-5-5?utm_source=github&amp;utm_medium=banner&amp;utm_campaign=awesome-claude-opus-5-5-usecases&amp;utm_content=readme_banner"><img src="images/zh.png" alt="Claude Opus 5.5 使用案例" width="760"></a>
 
 # Claude Opus 5.5 使用案例
-有来源的工作流、演示、对比与局限
+有来源依据的工作流、演示、对比与局限
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![EvoLink](https://img.shields.io/badge/Explore_on-EvoLink-244b57)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=top_cta&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=top)
+[![EvoLink](https://img.shields.io/badge/EvoLink-173f46)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=top_badge)
 
-[English](README.md) · [日本語](README_ja.md) · [简体中文](README_zh-CN.md)
+[![English](https://img.shields.io/badge/English-111111)](README.md)
+[![Español](https://img.shields.io/badge/Espa%C3%B1ol-ffb703)](README_es.md)
+[![Português](https://img.shields.io/badge/Portugu%C3%AAs-2a9d8f)](README_pt.md)
+[![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-52b788)](README_ja.md)
+[![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-4ea8de)](README_ko.md)
+[![Deutsch](https://img.shields.io/badge/Deutsch-f4a261)](README_de.md)
+[![Français](https://img.shields.io/badge/Fran%C3%A7ais-e76f51)](README_fr.md)
+[![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-d62828)](README_tr.md)
+[![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-8338ec)](README_zh-TW.md)
+[![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-ef476f)](README_zh-CN.md)
+[![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-577590)](README_ru.md)
 
 </div>
 
 ## 🍌 简介
 
-从游戏、3D 场景、编程工具到研究和创意工作流，查看人们如何使用 Claude Opus 5.5；每条案例保留原帖、发布者和证据边界
+**探索大家使用 Claude Opus 5.5 制作和测试的游戏、3D 场景、编码工具、研究与创意工作流，每条案例均链接至发布方，并保留原始说法的适用边界**
 
-[在 EvoLink 查看 Claude Opus 5.5](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=top_cta&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=top)
+[在 EvoLink 上了解 Claude Opus 5.5](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=introduction_cta)
 
+<a id="overview"></a>
 ## 📊 概览
 
-**208 条 Claude Opus 5.5 精选案例**，来自 221 条原始记录：合并 9 条重复展示或评测补充，暂缓 4 条证据不足的记录
+**精选 208 条 Claude Opus 5.5 案例**，覆盖创作、开发、研究与评测
+
+- 结合官方指南，查看社区演示、工作流、对比与有记录的局限
+- 每条案例包含原始来源、发布方、来源发布日期、简短要点与有来源依据的说明
+- 通过目录查看具体任务，再沿来源链接了解已披露的工具、输入和结果
 
 > [!NOTE]
-> 这些是带来源的作者报告，未独立复现；借助工具制作视频和图形，不代表模型原生生成媒体；推广对比保留发布者归属，重复帖子不计为独立实验；日期使用原帖 UTC 发布日期，而非导入日期
+> 这些是注明归属的来源报告，未经独立复现；借助工具制作的视频与图形不能证明模型具备原生媒体生成能力；推广性对比保留发布方归属，重复帖子不算独立实验；下方日期为来源发布日期（UTC），不是导入日期
 
-本地版：预览图保存在仓库内，播放视频和访问原帖需要联网
-
+<a id="quick-start"></a>
 ## ⚡ 快速开始
 
-1. [打开模型页面，查看当前接入方式和能力](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quick_start&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model)
-2. [在 EvoLink 控制台创建 API Key](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=api_key&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=keys)
-3. [按模型页面的 Agent 指引或所链接的 API 文档接入](https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api?utm_source=github&utm_medium=docs&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=docs)
-
-模型页和文档已于 2026-09-23 核对；本案例整理未执行付费 API 调用或安装 Agent 技能
+1. [打开模型页面，查看当前可用性与能力](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_link)
+2. [在 EvoLink 控制台创建 API 密钥](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=api_key)
+3. [按照模型页面链接的专用 API 指南或 agent 使用说明操作](https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api?utm_source=github&utm_medium=docs&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=first_run)
 
 ## 📑 目录
 
-| # | 分类 | 案例 | 类型 |
+| [概览](#overview) | [快速开始](#quick-start) | [相关仓库](#related-repositories) | [致谢](#acknowledge) |
 |---|---|---|---|
-| 1 | 官方指南与展示 | [官方转发的西瓜故事短片](#case-1) | Demo |
-| 2 | 官方指南与展示 | [把完整任务交给模型](#case-2) | Tutorial |
-| 3 | 游戏开发 | [武士游戏的双模型对比](#case-3) | Evaluation |
-| 4 | 游戏开发 | [一次生成 Mario Kart 游戏](#case-4) | Demo |
-| 5 | 游戏开发 | [浏览器中的 Minecraft 克隆](#case-5) | Demo |
-| 6 | 游戏开发 | [单个 HTML 的机械主题游戏](#case-6) | Demo |
-| 7 | 游戏开发 | [Roblox 动漫角色大乱斗](#case-7) | Demo |
-| 8 | 游戏开发 | [蜘蛛侠游戏的三模型对比](#case-8) | Evaluation |
-| 9 | 游戏开发 | [带水物理的 Minecraft 克隆](#case-9) | Demo |
-| 10 | 游戏开发 | [DEAD SIGNAL 第一人称场景](#case-10) | Evaluation |
-| 11 | 游戏开发 | [纯代码养蜂游戏](#case-11) | Demo |
-| 12 | 游戏开发 | [贪吃蛇游戏演示](#case-12) | Demo |
-| 13 | 游戏开发 | [3D 游戏效果对比 Sol](#case-13) | Evaluation |
-| 14 | 游戏开发 | [多人台球与观战系统](#case-14) | Demo |
-| 15 | 游戏开发 | [Higgsfield API 构建街机游戏](#case-15) | Integration |
-| 16 | 游戏开发 | [Minecraft 浏览器游戏复现](#case-16) | Demo |
-| 17 | 游戏开发 | [让直播观众加入割草游戏](#case-17) | Demo |
-| 18 | 游戏开发 | [带最终 Boss 的涂鸦射击](#case-18) | Demo |
-| 19 | 游戏开发 | [Medium 档制作 Mario 游戏](#case-19) | Demo |
-| 20 | 游戏开发 | [卡丁车竞速画面对比](#case-20) | Evaluation |
-| 21 | 游戏开发 | [同提示词游戏对比 GPT-6 Sol](#case-21) | Evaluation |
-| 22 | 游戏开发 | [一次生成贪吃蛇](#case-22) | Demo |
-| 23 | 游戏开发 | [Three.js 僵尸射击玩法](#case-23) | Demo |
-| 24 | 游戏开发 | [两轮打磨的雪地游戏](#case-24) | Demo |
-| 25 | 游戏开发 | [游戏扩展与预告片剪辑](#case-25) | Demo |
-| 26 | 游戏开发 | [Tesana 多人生存岛](#case-26) | Demo |
-| 27 | 游戏开发 | [Unreal Engine 游戏制作对比](#case-27) | Evaluation |
-| 28 | 游戏开发 | [Tesana 黑暗幻想 RPG](#case-28) | Demo |
-| 29 | 游戏开发 | [会触发格斗的吉他商店](#case-29) | Demo |
-| 30 | 游戏开发 | [手绘风国际象棋与分析](#case-30) | Demo |
-| 31 | 游戏开发 | [飞行模拟器对比 Kimi K3](#case-31) | Evaluation |
-| 32 | 游戏开发 | [Tesana 单提示词幻想世界](#case-32) | Demo |
-| 33 | 游戏开发 | [十分钟内构建弓箭游戏](#case-33) | Demo |
-| 34 | 游戏开发 | [Minecraft 与 Warcraft 克隆对比](#case-34) | Evaluation |
-| 35 | 游戏开发 | [Runescape Bench 的得分与费用](#case-35) | Evaluation |
-| 36 | 交互教育与可视化 | [可喂鱼的珊瑚礁壁纸](#case-36) | Demo |
-| 37 | 交互教育与可视化 | [直播制作的水体模拟](#case-37) | Demo |
-| 38 | 交互教育与可视化 | [根据视频复现 3D 水体](#case-38) | Demo |
-| 39 | 交互教育与可视化 | [逐层探索手部解剖](#case-39) | Demo |
-| 40 | 交互教育与可视化 | [Kilo Code 摸草模拟器](#case-40) | Evaluation |
-| 41 | 交互教育与可视化 | [投石机草图转 3D 模拟](#case-41) | Demo |
-| 42 | 交互教育与可视化 | [轨道与摆杆物理装置](#case-42) | Demo |
-| 43 | 交互教育与可视化 | [不同重力下的脸部变化](#case-43) | Demo |
-| 44 | 交互教育与可视化 | [用互联网页解释 Web](#case-44) | Demo |
-| 45 | 交互教育与可视化 | [可拆解的人眼 3D 教学页](#case-45) | Evaluation |
-| 46 | 交互教育与可视化 | [未完成的宇宙尺度交互展示](#case-46) | Limit |
-| 47 | 3D 建模与场景 | [Blender 十秒镜头双模型测试](#case-47) | Evaluation |
-| 48 | 3D 建模与场景 | [Unreal Engine 旧金山与 Jev 行为](#case-48) | Integration |
-| 49 | 3D 建模与场景 | [500 种器械的健身房布局](#case-49) | Demo |
-| 50 | 3D 建模与场景 | [四模型火箭发射测试](#case-50) | Evaluation |
-| 51 | 3D 建模与场景 | [骑自行车的鹈鹕作品](#case-51) | Demo |
-| 52 | 3D 建模与场景 | [重建地震前的 Market Street](#case-52) | Demo |
-| 53 | 3D 建模与场景 | [Blender 鹈鹕循环动画对比](#case-53) | Evaluation |
-| 54 | 3D 建模与场景 | [Blender 作品展示](#case-54) | Demo |
-| 55 | 3D 建模与场景 | [Blender 风车制作流程](#case-55) | Demo |
-| 56 | 3D 建模与场景 | [纯代码金门大桥场景](#case-56) | Evaluation |
-| 57 | 3D 建模与场景 | [火山岛、水下生态与极光](#case-57) | Evaluation |
-| 58 | 3D 建模与场景 | [外骨骼关节的 Blender 重设计](#case-58) | Demo |
-| 59 | 3D 建模与场景 | [Cowork 中的 Solarpunk 城市](#case-59) | Demo |
-| 60 | 3D 建模与场景 | [Three.js 纽约街区](#case-60) | Evaluation |
-| 61 | 3D 建模与场景 | [另一则鹈鹕骑车作品](#case-61) | Demo |
-| 62 | 3D 建模与场景 | [Blender 新干线车厢模型](#case-62) | Demo |
-| 63 | 3D 建模与场景 | [图片转低多边形 3D](#case-63) | Demo |
-| 64 | 3D 建模与场景 | [多工具角色建模与动画](#case-64) | Integration |
-| 65 | 3D 建模与场景 | [住宅照片与平面图转 3D](#case-65) | Demo |
-| 66 | 3D 建模与场景 | [瓶中船生成测试](#case-66) | Demo |
-| 67 | 3D 建模与场景 | [DeLorean 与钟楼闪电动画](#case-67) | Evaluation |
-| 68 | 3D 建模与场景 | [从草图到成屋的四阶段展示](#case-68) | Demo |
-| 69 | 3D 建模与场景 | [3D 效果与单次成本对比](#case-69) | Evaluation |
-| 70 | 3D 建模与场景 | [绘画扩展为可换视角的场景](#case-70) | Integration |
-| 71 | 3D 建模与场景 | [3D 家具布局模拟](#case-71) | Demo |
-| 72 | 3D 建模与场景 | [保留笔触的炭笔画 3D 化](#case-72) | Demo |
-| 73 | 3D 建模与场景 | [多人漫游地中海港口](#case-73) | Demo |
-| 74 | 3D 建模与场景 | [3D 控制器演示](#case-74) | Demo |
-| 75 | 3D 建模与场景 | [Minecraft 风格寺院花园](#case-75) | Evaluation |
-| 76 | 3D 建模与场景 | [Blender 章鱼模型与动画](#case-76) | Demo |
-| 77 | 3D 建模与场景 | [纽约场景与旧版同题对比](#case-77) | Evaluation |
-| 78 | 3D 建模与场景 | [跨场景飞行观光体验](#case-78) | Demo |
-| 79 | 3D 建模与场景 | [体素风 Claude 动画](#case-79) | Demo |
-| 80 | 3D 建模与场景 | [体素鹈鹕对比 Fable 与 Astra](#case-80) | Evaluation |
-| 81 | 3D 建模与场景 | [赛车模型对比 GPT-6 Sol](#case-81) | Evaluation |
-| 82 | 3D 建模与场景 | [GPU 加速的猫毛发模拟](#case-82) | Demo |
-| 83 | 3D 建模与场景 | [Minecraft 体素建造对比](#case-83) | Evaluation |
-| 84 | 3D 建模与场景 | [三模型火箭飞船测试](#case-84) | Evaluation |
-| 85 | 3D 建模与场景 | [Three.js 对照 Opus 5](#case-85) | Evaluation |
-| 86 | 3D 建模与场景 | [Three.js 末日短片对比](#case-86) | Evaluation |
-| 87 | 音乐与声音 | [JavaScript 合成 Bass 音乐](#case-87) | Demo |
-| 88 | 音乐与声音 | [音乐错误检测满分自报](#case-88) | Evaluation |
-| 89 | 音乐与声音 | [音效生成工作流](#case-89) | Demo |
-| 90 | 创意图形与动画 | [Pocket Color 掌机图形对比](#case-90) | Evaluation |
-| 91 | 创意图形与动画 | [18 分 31 秒的 Sweet Tooth 动画](#case-91) | Demo |
-| 92 | 创意图形与动画 | [Claude 与 AGI 主题卡通](#case-92) | Demo |
-| 93 | 创意图形与动画 | [纯代码像素巫师动画](#case-93) | Demo |
-| 94 | 创意图形与动画 | [逐帧编写 JavaScript 动画](#case-94) | Demo |
-| 95 | 创意图形与动画 | [Nintendo Switch 的 SVG 动画](#case-95) | Evaluation |
-| 96 | 创意图形与动画 | [用代码描绘思考难题的过程](#case-96) | Demo |
-| 97 | 创意图形与动画 | [鹈鹕骑车循环动画的转发](#case-97) | Demo |
-| 98 | 创意图形与动画 | [PS5 手柄 SVG 同题对比](#case-98) | Evaluation |
-| 99 | 创意图形与动画 | [Devin 中的水面与粒子视觉对照](#case-99) | Evaluation |
-| 100 | 创意图形与动画 | [Oktoberfest 主题动画](#case-100) | Demo |
-| 101 | 创意图形与动画 | [用 JavaScript 同时编写音乐与画面](#case-101) | Demo |
-| 102 | 创意图形与动画 | [不依赖素材的 JavaScript 交互动画](#case-102) | Demo |
-| 103 | 创意图形与动画 | [同参考动画的三模型对比](#case-103) | Evaluation |
-| 104 | 创意图形与动画 | [334 行 SVG 绘制 Xbox 手柄](#case-104) | Demo |
-| 105 | 创意图形与动画 | [TouchDesigner 复现参考特效](#case-105) | Integration |
-| 106 | 创意图形与动画 | [Game Boy 掌机视觉测试](#case-106) | Evaluation |
-| 107 | 创意图形与动画 | [JavaScript 动画作品展示](#case-107) | Demo |
-| 108 | 创意图形与动画 | [CoAnimator 的动画与声音编排](#case-108) | Integration |
-| 109 | 创意图形与动画 | [HyperFrames 的 3D 镜头与文字特效](#case-109) | Integration |
-| 110 | 创意图形与动画 | [五分钟内生成像素动画](#case-110) | Demo |
-| 111 | 创意图形与动画 | [使用 PNG 素材的手柄 SVG](#case-111) | Demo |
-| 112 | 创意图形与动画 | [从参考复现 ChronoVolume 特效](#case-112) | Demo |
-| 113 | 创意图形与动画 | [同一句提示词生成喷泉](#case-113) | Evaluation |
-| 114 | 创意图形与动画 | [用 SVG 绘制蒙娜丽莎](#case-114) | Evaluation |
-| 115 | 创意图形与动画 | [与 Sol、Luna 的 SVG 同题比较](#case-115) | Evaluation |
-| 116 | 创意图形与动画 | [用脚本在 Paint 中画人物照片](#case-116) | Limit |
-| 117 | 创意图形与动画 | [把 Claude 自画像画成小太阳](#case-117) | Demo |
-| 118 | 创意图形与动画 | [鹈鹕图形测试](#case-118) | Demo |
-| 119 | 创意图形与动画 | [像素场景中的喷泉与蝙蝠眼睛](#case-119) | Evaluation |
-| 120 | 创意图形与动画 | [绘制旧金山](#case-120) | Demo |
-| 121 | 创意图形与动画 | [鹈鹕骑车动画对比 Grok 4.7](#case-121) | Evaluation |
-| 122 | 创意图形与动画 | [一句 subtle art 提示的艺术生成器](#case-122) | Demo |
-| 123 | 创意图形与动画 | [John Wick 主题重制动画](#case-123) | Demo |
-| 124 | 创意图形与动画 | [四档 SVG 结果与 max 失败](#case-124) | Evaluation |
-| 125 | 创意图形与动画 | [MacBook Pro 的 SVG 评测](#case-125) | Evaluation |
-| 126 | 网站与界面 | [个人网站多版本迭代与预告片](#case-126) | Demo |
-| 127 | 网站与界面 | [八张参考图迭代矿石图鉴网页](#case-127) | Demo |
-| 128 | 网站与界面 | [同目标重设计已有应用](#case-128) | Evaluation |
-| 129 | 网站与界面 | [前端测试中的稳定输出与卡住任务](#case-129) | Limit |
-| 130 | 网站与界面 | [不用 design skill 的关联笔记界面](#case-130) | Demo |
-| 131 | 网站与界面 | [一次生成 UI 对照 Grok 4.7](#case-131) | Evaluation |
-| 132 | 网站与界面 | [23 分钟制作减压应用](#case-132) | Demo |
-| 133 | 网站与界面 | [Stratus 云与天气主题落地页](#case-133) | Demo |
-| 134 | 网站与界面 | [反向 CAPTCHA 交互应用](#case-134) | Demo |
-| 135 | 网站与界面 | [可导入 Figma 的个人交互设计工具](#case-135) | Demo |
-| 136 | 网站与界面 | [PonteMLX 本地模型监控界面](#case-136) | Integration |
-| 137 | 网站与界面 | [物流排程看板的界面预览](#case-137) | Demo |
-| 138 | 网站与界面 | [WebGL 创意工作室网站对比](#case-138) | Evaluation |
-| 139 | 网站与界面 | [等距图标组件展示界面](#case-139) | Demo |
-| 140 | 网站与界面 | [掌机式游戏选择网页](#case-140) | Demo |
-| 141 | 网站与界面 | [一次生成图片转矢量工具](#case-141) | Demo |
-| 142 | 网站与界面 | [同提示词落地页集合对比](#case-142) | Evaluation |
-| 143 | 网站与界面 | [AppLlama MCP 重设计已有应用](#case-143) | Integration |
-| 144 | 网站与界面 | [图片转 HTML 的还原与性能测试](#case-144) | Evaluation |
-| 145 | 网站与界面 | [批量生成 100 个创意 HTML](#case-145) | Demo |
-| 146 | 网站与界面 | [Next.js 成功率与平均成本](#case-146) | Evaluation |
-| 147 | 业务分析与文档 | [十分钟流程表任务错过核心交付](#case-147) | Limit |
-| 148 | 业务分析与文档 | [347 个排名页面的 SEO 内容空白分析](#case-148) | Evaluation |
-| 149 | 业务分析与文档 | [通过 Trendtrack MCP 准备黑五分析](#case-149) | Integration |
-| 150 | 业务分析与文档 | [alphaXiv 把论文转成证据关联博客](#case-150) | Integration |
-| 151 | 业务分析与文档 | [SafeForge 风险总结循环测试](#case-151) | Evaluation |
-| 152 | 业务分析与文档 | [更新榜单图片中的模型数据](#case-152) | Demo |
-| 153 | 业务分析与文档 | [同指令制作指标的版本对比](#case-153) | Evaluation |
-| 154 | 业务分析与文档 | [从网站 URL 生成销售触达流程](#case-154) | Integration |
-| 155 | 业务分析与文档 | [Ramp 的会计任务评测](#case-155) | Evaluation |
-| 156 | Agent 与开发工作流 | [fable-advisor 的多模型协作插件](#case-156) | Integration |
-| 157 | Agent 与开发工作流 | [ntm 中的任务交接与 worker 替换](#case-157) | Integration |
-| 158 | Agent 与开发工作流 | [在 Apple Watch 上指挥 Agent](#case-158) | Demo |
-| 159 | Agent 与开发工作流 | [切换 effort 时保留提示缓存](#case-159) | Tutorial |
-| 160 | Agent 与开发工作流 | [刷新 T3 Code 的模型缓存](#case-160) | Tutorial |
-| 161 | Agent 与开发工作流 | [复盘项目与 Agent 会话历史](#case-161) | Tutorial |
-| 162 | Agent 与开发工作流 | [ProgramBench 多 Agent 的速度](#case-162) | Evaluation |
-| 163 | Agent 与开发工作流 | [100 个 Agent 协作解题](#case-163) | Evaluation |
-| 164 | 视觉理解与数据标注 | [同段街景视频的对象跟踪标注](#case-164) | Evaluation |
-| 165 | 视觉理解与数据标注 | [Roboflow 目标检测评测](#case-165) | Evaluation |
-| 166 | 视频编辑与制作 | [Medeo 中驱动 Seedance 2.5 的对比](#case-166) | Evaluation |
-| 167 | 视频编辑与制作 | [在 Claude 网页调用 Blender 做黏土动画](#case-167) | Integration |
-| 168 | 视频编辑与制作 | [Tesseract 重制发布视频的成本对比](#case-168) | Evaluation |
-| 169 | 视频编辑与制作 | [为 DocJev 制作文档工具预告片](#case-169) | Demo |
-| 170 | 视频编辑与制作 | [用自有 skill 制作 Claude 模型发展史](#case-170) | Integration |
-| 171 | 视频编辑与制作 | [Medeo 的折纸老虎视频对比](#case-171) | Evaluation |
-| 172 | 视频编辑与制作 | [Remotion 制作 BridgeMind 卫衣宣传片](#case-172) | Integration |
-| 173 | 视频编辑与制作 | [Higgsfield 商业视频的时间与费用](#case-173) | Evaluation |
-| 174 | 视频编辑与制作 | [从发布帖编写纯代码宣传视频](#case-174) | Demo |
-| 175 | 视频编辑与制作 | [转发 Claude 视角的定格动画](#case-175) | Demo |
-| 176 | 视频编辑与制作 | [从两秒迭代到 22 秒的配乐视频](#case-176) | Demo |
-| 177 | 视频编辑与制作 | [Photoshop 与 Fusion 修补视频错误](#case-177) | Integration |
-| 178 | 视频编辑与制作 | [从 Kotlin 网站制作宣传视频](#case-178) | Integration |
-| 179 | 视频编辑与制作 | [按个人风格剪辑原始拍摄素材](#case-179) | Demo |
-| 180 | 视频编辑与制作 | [把 Coinacademy 文章改成 FLOP Labs 视频](#case-180) | Demo |
-| 181 | 视频编辑与制作 | [与 GPT-6 Sol 的视频结果对照](#case-181) | Evaluation |
-| 182 | 视频编辑与制作 | [用代码制作 serai 宣传视频](#case-182) | Demo |
-| 183 | 视频编辑与制作 | [Cowork 制作 Opus 5.5 解说视频](#case-183) | Demo |
-| 184 | 视频编辑与制作 | [视频作品与尚未实施的 fal 组合设想](#case-184) | Demo |
-| 185 | 视频编辑与制作 | [从 UGC 文件夹剪辑并制作文字动画](#case-185) | Integration |
-| 186 | 视频编辑与制作 | [游戏引擎阿拉伯文字教程视频](#case-186) | Tutorial |
-| 187 | 视频编辑与制作 | [水墨雨伞故事与代码配乐](#case-187) | Demo |
-| 188 | 代码维护与测试 | [105 个预埋 bug 的修复对比](#case-188) | Evaluation |
-| 189 | 代码维护与测试 | [CS2 作弊程序生成的作者展示](#case-189) | Demo |
-| 190 | 代码维护与测试 | [进行中的 circuit_eval 检查点评测](#case-190) | Evaluation |
-| 191 | 代码维护与测试 | [系统开发任务被安全分类器中断](#case-191) | Limit |
-| 192 | 代码维护与测试 | [审读自建 Web 应用的安全问题](#case-192) | Demo |
-| 193 | 代码维护与测试 | [12 个补丁中的 14 个问题](#case-193) | Evaluation |
-| 194 | 代码维护与测试 | [游戏项目的复杂 bug 调试](#case-194) | Demo |
-| 195 | 代码维护与测试 | [Khan Academy 的 PR 评审机器人](#case-195) | Integration |
-| 196 | 代码维护与测试 | [高风险请求的拒绝与回退](#case-196) | Limit |
-| 197 | 代码维护与测试 | [CyScenarioBench 的十题子集](#case-197) | Evaluation |
-| 198 | 写作与知识解释 | [同题解释期权概念的表达对比](#case-198) | Evaluation |
-| 199 | 写作与知识解释 | [森林与河流背景的故事片段](#case-199) | Demo |
-| 200 | 写作与知识解释 | [解释仓库调度器的正确性](#case-200) | Demo |
-| 201 | 写作与知识解释 | [精简旧版模型写的文档](#case-201) | Demo |
-| 202 | 科学研究与电路 | [十个 Agent 探索最短路径算法](#case-202) | Evaluation |
-| 203 | 科学研究与电路 | [tscircuit 蓝牙音箱电路对比](#case-203) | Evaluation |
-| 204 | 科学研究与电路 | [电路原理图绘制的耗时对比](#case-204) | Evaluation |
-| 205 | 科学研究与电路 | [ARC-AGI 推理与单题成本](#case-205) | Evaluation |
-| 206 | 科学研究与电路 | [生成 Interaction Calculus 规则](#case-206) | Demo |
-| 207 | 电脑操作 | [用鼠标键盘在 Paintbrush 画蒙娜丽莎](#case-207) | Evaluation |
-| 208 | 电脑操作 | [Paint 绘图的交互方式对比](#case-208) | Limit |
+
+| 案例 | 分类 | 展示内容 | 类型 |
+|---|---|---|---|
+| [案例 1: 官方转发的西瓜故事短片](#case-1) | [官方指南与展示](#category-official) | 可将官方转发的西瓜短片作为叙事参考，但其制作过程仍未公开 | Demo |
+| [案例 2: 交接完整任务](#case-2) | [官方指南与展示](#category-official) | 交接完整任务前，先定义完成条件和汇报节点 | Tutorial |
+| [案例 3: 武士游戏对比](#case-3) | [游戏开发](#category-games) | 比较武士游戏产物时，保留发布方的平台推广背景 | Evaluation |
+| [案例 4: 一次生成 Mario Kart 游戏](#case-4) | [游戏开发](#category-games) | 接受平台的质量判断前，先检查这款自称一次生成的赛车游戏中可操作的角色 | Demo |
+| [案例 5: 浏览器中的 Minecraft 克隆](#case-5) | [游戏开发](#category-games) | 通过浏览器 Minecraft 演示查看这次游戏生成的实际产物 | Demo |
+| [案例 6: 单个 HTML 的机械主题游戏](#case-6) | [游戏开发](#category-games) | 可参考该平台演示，用单个 HTML 文件实现程序化游戏画面与声音 | Demo |
+| [案例 7: Roblox 动漫角色大乱斗](#case-7) | [游戏开发](#category-games) | 评估这款自称一次生成的格斗游戏时，应计入 Roblox toolbox 素材的作用 | Demo |
+| [案例 8: 蜘蛛侠游戏的三模型对比](#case-8) | [游戏开发](#category-games) | 按相同的可见玩法特征比较三款蜘蛛侠游戏产物 | Evaluation |
+| [案例 9: 带水物理的 Minecraft 克隆](#case-9) | [游戏开发](#category-games) | 衡量作者报告的水物理效果时，也要考虑更长的模型运行时间 | Demo |
+| [案例 10: DEAD SIGNAL 第一人称场景](#case-10) | [游戏开发](#category-games) | 独立查看同提示词的第一人称场景，避免直接沿用平台的质量判断 | Evaluation |
+| [案例 11: 纯代码养蜂游戏](#case-11) | [游戏开发](#category-games) | 参考养蜂演示，了解如何用代码绘制游戏素材并实现玩法机制 | Demo |
+| [案例 12: 贪吃蛇游戏演示](#case-12) | [游戏开发](#category-games) | 将贪吃蛇演示作为生成游戏逻辑与画面的小型案例查看 | Demo |
+| [案例 13: 3D 游戏效果对比 Sol](#case-13) | [游戏开发](#category-games) | 比较展示的 3D 游戏产物时，不把平台偏好当成独立评测 | Evaluation |
+| [案例 14: 多人台球与观战系统](#case-14) | [游戏开发](#category-games) | 采信作者报告的多人模式和玩家活跃情况前，先检查链接中的台球游戏 | Demo |
+| [案例 15: Higgsfield API 构建街机游戏](#case-15) | [游戏开发](#category-games) | 查看这款基于平台 API 的游戏演示中的水面反射与街机玩法 | Integration |
+| [案例 16: Minecraft 浏览器游戏复现](#case-16) | [游戏开发](#category-games) | 通过浏览器中的复现作品评估这次 Minecraft 克隆尝试的可见范围 | Demo |
+| [案例 17: 让直播观众加入割草游戏](#case-17) | [游戏开发](#category-games) | 可邀请直播观众在个人服务器上测试多人原型 | Demo |
+| [案例 18: 带最终 Boss 的涂鸦射击](#case-18) | [游戏开发](#category-games) | 查看这款自称一次生成的射击游戏如何结合涂鸦风格与最终 Boss | Demo |
+| [案例 19: Medium 档制作 Mario 游戏](#case-19) | [游戏开发](#category-games) | 将 Mario 演示作为 Medium 档游戏生成的参考 | Demo |
+| [案例 20: 卡丁车竞速画面对比](#case-20) | [游戏开发](#category-games) | 依据可见游戏行为比较赛车片段，不据此推断更广泛的模型能力 | Evaluation |
+| [案例 21: 同提示词游戏对比 GPT-6 Sol](#case-21) | [游戏开发](#category-games) | 打开同提示词生成的游戏链接，比较实际游玩体验 | Evaluation |
+| [案例 22: 一次生成贪吃蛇](#case-22) | [游戏开发](#category-games) | 将自称一次生成的贪吃蛇作为小范围生成任务的参考 | Demo |
+| [案例 23: Three.js 僵尸射击玩法](#case-23) | [游戏开发](#category-games) | 研究这段 Three.js 演示如何在没有素材文件的情况下生成玩法、纹理与声音 | Demo |
+| [案例 24: 两轮打磨的雪地游戏](#case-24) | [游戏开发](#category-games) | 为视听效果相互配合的雪地游戏预留打磨轮次与运行时间 | Demo |
+| [案例 25: 游戏扩展与预告片剪辑](#case-25) | [游戏开发](#category-games) | 查看可玩的游戏及其预告片时，保留作者的合作披露 | Demo |
+| [案例 26: Tesana 多人生存岛](#case-26) | [游戏开发](#category-games) | 采信所称的游戏内容时长前，先检查 Tesana 岛屿的多人系统 | Demo |
+| [案例 27: Unreal Engine 游戏制作对比](#case-27) | [游戏开发](#category-games) | 结合 Higgsfield 平台工作流比较 Unreal Engine 游戏产物 | Evaluation |
+| [案例 28: Tesana 黑暗幻想 RPG](#case-28) | [游戏开发](#category-games) | 查看 Tesana RPG 如何组合区域、任务和配音对话，同时保留合作状态未确认的说明 | Demo |
+| [案例 29: 会触发格斗的吉他商店](#case-29) | [游戏开发](#category-games) | 扩展含数百个可演奏吉他模型的 Three.js 商店模拟器前，先测试性能 | Demo |
+| [案例 30: 手绘风国际象棋与分析](#case-30) | [游戏开发](#category-games) | 查看国际象棋演示如何结合手绘外观与走法分析 | Demo |
+| [案例 31: 飞行模拟器对比 Kimi K3](#case-31) | [游戏开发](#category-games) | 选择两个飞行模拟器产物时，同时比较运行表现与自报成本 | Evaluation |
+| [案例 32: Tesana 单提示词幻想世界](#case-32) | [游戏开发](#category-games) | 通过 Tesana 幻想世界展示查看平台整合玩法、音频和 UI 的结果 | Demo |
+| [案例 33: 十分钟内构建弓箭游戏](#case-33) | [游戏开发](#category-games) | 将其不足十分钟的构建时间推广到其他任务前，先检查已部署的弓箭游戏 | Demo |
+| [案例 34: Minecraft 与 Warcraft 克隆对比](#case-34) | [游戏开发](#category-games) | 比较公开的游戏产物和提示词时，保留推理档位、运行时间与估算费用背景 | Evaluation |
+| [案例 35: Runescape Bench 的得分与费用](#case-35) | [游戏开发](#category-games) | 将 Runescape Bench 的自报费用与排名限定在其游戏任务范围内理解 | Evaluation |
+| [案例 36: 可喂鱼的珊瑚礁壁纸](#case-36) | [交互学习与可视化](#category-education) | 参考喂鱼交互，让氛围壁纸具备互动性 | Demo |
+| [案例 37: 直播制作的水体模拟](#case-37) | [交互学习与可视化](#category-education) | 将展示的水体模拟视为较长直播过程中的一个结果 | Demo |
+| [案例 38: 根据视频复现 3D 水体](#case-38) | [交互学习与可视化](#category-education) | 接受作者的相似度评价前，先将复现水体与参考视频对比 | Demo |
+| [案例 39: 逐层探索手部解剖](#case-39) | [交互学习与可视化](#category-education) | 可查看分层解剖界面，但不要依赖其未经验证的疼痛或康复建议 | Demo |
+| [案例 40: Kilo Code 摸草模拟器](#case-40) | [交互学习与可视化](#category-education) | 将摸草模拟器产物与平台自报的单次运行费用一起比较 | Evaluation |
+| [案例 41: 投石机草图转 3D 模拟](#case-41) | [交互学习与可视化](#category-education) | 将投石机展示作为草图转模拟的参考，同时保留二手来源属性 | Demo |
+| [案例 42: 轨道与摆杆物理装置](#case-42) | [交互学习与可视化](#category-education) | 估算机械装置模拟的成本时，将 API 运行时间与空闲经过时间分开 | Demo |
+| [案例 43: 不同重力下的脸部变化](#case-43) | [交互学习与可视化](#category-education) | 查看重力控制人脸演示时，保留其可能合作的披露 | Demo |
+| [案例 44: 用互联网页解释 Web](#case-44) | [交互学习与可视化](#category-education) | 可用相互链接的 HTML 页面制作可探索的讲解，同时为自报的长时间运行预留预算 | Demo |
+| [案例 45: 可拆解的人眼 3D 教学页](#case-45) | [交互学习与可视化](#category-education) | 将可探索的人眼演示作为分层 3D 学习界面的参考 | Evaluation |
+| [案例 46: 未完成的宇宙尺度交互展示](#case-46) | [交互学习与可视化](#category-education) | 尝试跨越宇宙至普朗克尺度的交互项目之前，先设置额度检查节点 | Limit |
+| [案例 47: Blender 十秒镜头双模型测试](#case-47) | [3D 建模与场景](#category-3d) | 比较 Blender 镜头时，同时查看运行时间、token 用量和 API 等价费用 | Evaluation |
+| [案例 48: 用 Jev 在 Unreal Engine 中制作旧金山](#case-48) | [3D 建模与场景](#category-3d) | 评估 Unreal Engine 城市场景中的行为时，应计入 Jev 的作用 | Integration |
+| [案例 49: 500 种器械的健身房布局](#case-49) | [3D 建模与场景](#category-3d) | 参考健身房规划工具，将渲染后的设备目录与布局控件结合 | Demo |
+| [案例 50: 四模型火箭发射测试](#case-50) | [3D 建模与场景](#category-3d) | 比较四款火箭发射产物时，同时查看平台报告的时间与费用 | Evaluation |
+| [案例 51: 骑自行车的鹈鹕作品](#case-51) | [3D 建模与场景](#category-3d) | 将骑自行车的鹈鹕作品作为视觉产物查看，不把它当成已记录完整流程的案例 | Demo |
+| [案例 52: 重建 1906 年地震前的 Market Street](#case-52) | [3D 建模与场景](#category-3d) | 历史准确性核验前，将 Market Street 场景视为 Blender 创作性复现 | Demo |
+| [案例 53: Blender 鹈鹕循环动画对比](#case-53) | [3D 建模与场景](#category-3d) | 比较鹈鹕循环动画时，将平台对角色魅力的偏好单独看待 | Evaluation |
+| [案例 54: Blender 作品展示](#case-54) | [3D 建模与场景](#category-3d) | 由于帖子未说明主题或流程，应直接查看 Blender 产物 | Demo |
+| [案例 55: Blender 风车制作流程](#case-55) | [3D 建模与场景](#category-3d) | 参考风车展示，查看 Blender 建模、绑定、贴图与动画的组合流程 | Demo |
+| [案例 56: 纯代码金门大桥场景](#case-56) | [3D 建模与场景](#category-3d) | 接受作者的质量评价前，将代码生成的大桥场景与链接中的对照内容比较 | Evaluation |
+| [案例 57: 火山岛、水下生态与极光](#case-57) | [3D 建模与场景](#category-3d) | 不要从两个不同的风景场景得出确定的模型排名 | Evaluation |
+| [案例 58: 外骨骼关节的 Blender 重设计](#case-58) | [3D 建模与场景](#category-3d) | 机械可靠性验证前，将重新设计的外骨骼视为建模方案 | Demo |
+| [案例 59: Cowork 中的 Solarpunk 城市](#case-59) | [3D 建模与场景](#category-3d) | 将太阳朋克场景作为在 Cowork 中构建 3D 环境的自报案例查看 | Demo |
+| [案例 60: Three.js 纽约街区](#case-60) | [3D 建模与场景](#category-3d) | 比较两个纽约场景时，检查渲染循环与摄像机运动 | Evaluation |
+| [案例 61: 另一则鹈鹕骑车作品](#case-61) | [3D 建模与场景](#category-3d) | 将这一骑车鹈鹕作品作为相同主题的补充视觉参考 | Demo |
+| [案例 62: Blender 新干线车厢模型](#case-62) | [3D 建模与场景](#category-3d) | 采信平台自报的物体和座位数量前，先检查新干线模型 | Demo |
+| [案例 63: 图片转低多边形 3D](#case-63) | [3D 建模与场景](#category-3d) | 评估自报的图像转 3D 结果时，同时检查几何细节与色彩还原 | Demo |
+| [案例 64: Tripo P2、JEF 与 MCP 角色制作流程](#case-64) | [3D 建模与场景](#category-3d) | 评估角色制作流程时，应计入 Tripo P2、JEF 和 Blender MCP 的作用 | Integration |
+| [案例 65: 住宅照片与平面图转 3D](#case-65) | [3D 建模与场景](#category-3d) | 可结合房屋照片与平面图，制作带交互式浏览器查看器的模型原型 | Demo |
+| [案例 66: 瓶中船生成测试](#case-66) | [3D 建模与场景](#category-3d) | 查看瓶中船结果的场景构图，不推断未公开的制作流程 | Demo |
+| [案例 67: DeLorean 与钟楼闪电动画](#case-67) | [3D 建模与场景](#category-3d) | 比较动画场景的行为时，同时查看各模型的生成工具使用、运行时间与估算费用 | Evaluation |
+| [案例 68: 从草图到成屋的四阶段展示](#case-68) | [3D 建模与场景](#category-3d) | 通过分阶段的 Three.js 和 TSL 视图展示建筑从草图到完工的过程 | Demo |
+| [案例 69: 3D 效果与自报成本对比](#case-69) | [3D 建模与场景](#category-3d) | 权衡展示的 3D 产物与平台报告的费用差异 | Evaluation |
+| [案例 70: 绘画扩展为可换视角的场景](#case-70) | [3D 建模与场景](#category-3d) | 参考画作扩展案例，了解如何从多个 3D 角度探索平面构图 | Integration |
+| [案例 71: 3D 家具布局模拟](#case-71) | [3D 建模与场景](#category-3d) | 可用 3D 布局模拟器比较家具摆放后再确定方案 | Demo |
+| [案例 72: 保留笔触的炭笔画 3D 化](#case-72) | [3D 建模与场景](#category-3d) | 查看炭笔画转 Blender 的过程如何将笔触纹理带入 3D 场景 | Demo |
+| [案例 73: 多人漫游地中海港口](#case-73) | [3D 建模与场景](#category-3d) | 评估港口漫游时，区分程序化场景和声音与导入的人物素材 | Demo |
+| [案例 74: 3D 控制器演示](#case-74) | [3D 建模与场景](#category-3d) | 分别查看控制器演示、要求制作的视频及其引用的早期 SVG 任务 | Demo |
+| [案例 75: Minecraft 风格寺院花园](#case-75) | [3D 建模与场景](#category-3d) | 比较寺庙花园预览时，不把作者的模型偏好推广为普遍结论 | Evaluation |
+| [案例 76: Blender 章鱼模型与动画](#case-76) | [3D 建模与场景](#category-3d) | 查看章鱼模型与动画时，不把平台宣传的质量标签当成评级 | Demo |
+| [案例 77: 纽约场景与旧版同题对比](#case-77) | [3D 建模与场景](#category-3d) | 比较相同的纽约场景任务时，保留各模型版本与推理档位 | Evaluation |
+| [案例 78: 跨场景飞行观光体验](#case-78) | [3D 建模与场景](#category-3d) | 通过制作讲解视频了解观光飞行如何衔接不同风景 | Demo |
+| [案例 79: 体素风 Claude 动画](#case-79) | [3D 建模与场景](#category-3d) | 参考体素角色演示，为风格化的 Claude 形象制作动画 | Demo |
+| [案例 80: 体素鹈鹕对比 Fable 与 Astra](#case-80) | [3D 建模与场景](#category-3d) | 比较体素鹈鹕产物时，将作者的 token 用量说法限定在这次尝试 | Evaluation |
+| [案例 81: 赛车模型对比 GPT-6 Sol](#case-81) | [3D 建模与场景](#category-3d) | 并排查看赛车模型，不推断展示产物之外的性能 | Evaluation |
+| [案例 82: GPU 加速的猫毛发模拟](#case-82) | [3D 建模与场景](#category-3d) | 将猫毛演示作为 Three.js 中 GPU 加速模拟的参考 | Demo |
+| [案例 83: Minecraft 体素建造对比](#case-83) | [3D 建模与场景](#category-3d) | 将作者对 Minecraft 产物的偏好与尚未开展的正式 VoxelBench 测试分开 | Evaluation |
+| [案例 84: 三模型火箭飞船测试](#case-84) | [3D 建模与场景](#category-3d) | 比较三款火箭飞船产物时，应考虑不同的推理设置 | Evaluation |
+| [案例 85: Three.js 对照 Opus 5](#case-85) | [3D 建模与场景](#category-3d) | 打开所链接的评测平台，查看不同 Opus 版本在 Three.js 任务上的对比 | Evaluation |
+| [案例 86: Three.js 末日短片对比](#case-86) | [3D 建模与场景](#category-3d) | 比较渲染短片前，应考虑不同的运行环境、修复机会与估算费用 | Evaluation |
+| [案例 87: JavaScript 合成 Bass 音乐](#case-87) | [音乐与声音](#category-audio) | 将低音音乐演示作为直接用 JavaScript 合成声音的参考 | Demo |
+| [案例 88: 音乐错误检测满分自报](#case-88) | [音乐与声音](#category-audio) | 将合唱错误检测满分视为十段素材上的自报结果，等待更广泛的验证 | Evaluation |
+| [案例 89: 音效生成工作流](#case-89) | [音乐与声音](#category-audio) | 由于帖子未说明生成了哪些声音，应直接查看音效工作流 | Demo |
+| [案例 90: Pocket Color 掌机图形对比](#case-90) | [创意图形与动画](#category-graphics) | 按可见外观细节比较掌机图形，不推断设备功能 | Evaluation |
+| [案例 91: 18 分 31 秒的 Sweet Tooth 动画](#case-91) | [创意图形与动画](#category-graphics) | 将自报的单次生成时间推广到其他任务前，先查看 Sweet Tooth 动画 | Demo |
+| [案例 92: Claude 与 AGI 主题卡通](#case-92) | [创意图形与动画](#category-graphics) | 将卡通作品作为视觉参考，同时保留生成流程未说明的边界 | Demo |
+| [案例 93: 纯代码像素巫师动画](#case-93) | [创意图形与动画](#category-graphics) | 查看代码像素动画，并到回复中查找作者所称的提示词 | Demo |
+| [案例 94: 逐帧编写 JavaScript 动画](#case-94) | [创意图形与动画](#category-graphics) | 将逐帧绘制的动画作为通过 JavaScript 渲染产生运动的参考 | Demo |
+| [案例 95: Nintendo Switch 的 SVG 动画](#case-95) | [创意图形与动画](#category-graphics) | 权衡 SVG 动画需求与 Max 档下自报的会话额度消耗 | Evaluation |
+| [案例 96: 用代码描绘思考难题的过程](#case-96) | [创意图形与动画](#category-graphics) | 将纯代码动画作为解题过程的创意想象，而非模型内部过程说明 | Demo |
+| [案例 97: 鹈鹕骑车循环动画的转发](#case-97) | [创意图形与动画](#category-graphics) | 查看骑车动作时，保留该转发循环动画的二手署名 | Demo |
+| [案例 98: PS5 手柄 SVG 同题对比](#case-98) | [创意图形与动画](#category-graphics) | 比较控制器细节和阴影时，将 BridgeMind 的推广性质量判断单独看待 | Evaluation |
+| [案例 99: Devin 中的水面与粒子视觉对照](#case-99) | [创意图形与动画](#category-graphics) | 比较 Devin 视觉产物时，保留作者的关系披露、运行时间和费用说明 | Evaluation |
+| [案例 100: Oktoberfest 主题动画](#case-100) | [创意图形与动画](#category-graphics) | 采信自报的一次生成时间前，先查看啤酒节动画及所链接的说明 | Demo |
+| [案例 101: 用 JavaScript 同时编写音乐与画面](#case-101) | [创意图形与动画](#category-graphics) | 将音乐与视觉组合演示作为 JavaScript 案例，谨慎看待其替代更广泛流程的证据 | Demo |
+| [案例 102: 不依赖素材的 JavaScript 交互动画](#case-102) | [创意图形与动画](#category-graphics) | 查看交互动画如何在作者所称的无外部素材或扩展条件下使用 JavaScript | Demo |
+| [案例 103: 同参考动画的三模型对比](#case-103) | [创意图形与动画](#category-graphics) | 比较三款动画产物时，同时保留共同输入和作者自报的运行时间 | Evaluation |
+| [案例 104: 334 行 SVG 绘制 Xbox 手柄](#case-104) | [创意图形与动画](#category-graphics) | 查看紧凑的控制器 SVG 时，也要计入 Max 档下自报的高 token 消耗 | Demo |
+| [案例 105: TouchDesigner 复现参考特效](#case-105) | [创意图形与动画](#category-graphics) | 评估参考效果复现时，应计入 TouchDesigner 的作用 | Integration |
+| [案例 106: Game Boy 掌机视觉测试](#case-106) | [创意图形与动画](#category-graphics) | 接受作者的视觉偏好前，自行比较 Game Boy 产物 | Evaluation |
+| [案例 107: JavaScript 动画作品展示](#case-107) | [创意图形与动画](#category-graphics) | 将 JavaScript 动画作为产物参考，因为帖子缺少完整制作讲解 | Demo |
+| [案例 108: CoAnimator 的动画与声音编排](#case-108) | [创意图形与动画](#category-graphics) | 查看 CoAnimator 如何在开发者自己的应用中结合动画、时间轴与声音 | Integration |
+| [案例 109: HyperFrames 的 3D 镜头与文字特效](#case-109) | [创意图形与动画](#category-graphics) | 评估展示的 3D 镜头和文字效果时，应计入 HyperFrames 的作用 | Integration |
+| [案例 110: 五分钟内生成像素动画](#case-110) | [创意图形与动画](#category-graphics) | 查看像素动画，并到回复中查找作者承诺提供的提示词 | Demo |
+| [案例 111: 使用 PNG 素材的手柄 SVG](#case-111) | [创意图形与动画](#category-graphics) | 将 SVG 结果称为完全以矢量绘制之前，先检查嵌入的图片素材 | Demo |
+| [案例 112: 从参考复现 ChronoVolume 特效](#case-112) | [创意图形与动画](#category-graphics) | 将复现的 ChronoVolume 效果与参考素材、平台自报费用和时间一起比较 | Demo |
+| [案例 113: 同一句提示词生成喷泉](#case-113) | [创意图形与动画](#category-graphics) | 在相同提示词和最高推理档位的条件下比较喷泉产物 | Evaluation |
+| [案例 114: 用 SVG 绘制蒙娜丽莎](#case-114) | [创意图形与动画](#category-graphics) | 查看两个蒙娜丽莎 SVG 产物时，保留引用对照的推理档位 | Evaluation |
+| [案例 115: 与 Sol、Luna 的 SVG 同题比较](#case-115) | [创意图形与动画](#category-graphics) | 将三模型 SVG 对比限定在可见产物与作者个人判断范围内 | Evaluation |
+| [案例 116: 用脚本在 Paint 中画人物照片](#case-116) | [创意图形与动画](#category-graphics) | 如果脚本图像不符合 Paint 任务，应明确要求并验证仅使用鼠标操作 | Limit |
+| [案例 117: 把 Claude 自画像画成小太阳](#case-117) | [创意图形与动画](#category-graphics) | 将小太阳作品视为想象性自画像提示的结果，不作为模型体验的证据 | Demo |
+| [案例 118: 鹈鹕图形测试](#case-118) | [创意图形与动画](#category-graphics) | 将鹈鹕画作作为提示词和工作流缺失的产物样本 | Demo |
+| [案例 119: 像素场景中的喷泉与蝙蝠眼睛](#case-119) | [创意图形与动画](#category-graphics) | 比较像素场景的动画细节时，将主观风格偏好单独看待 | Evaluation |
+| [案例 120: 绘制旧金山](#case-120) | [创意图形与动画](#category-graphics) | 查看旧金山画作时，不归因于未说明的制作工具链 | Demo |
+| [案例 121: 鹈鹕骑车动画对比 Grok 4.7](#case-121) | [创意图形与动画](#category-graphics) | 接受作者关于运动更稳定的判断前，直接比较鹈鹕动画 | Evaluation |
+| [案例 122: 一句 subtle art 提示的艺术生成器](#case-122) | [创意图形与动画](#category-graphics) | 尝试所链接的艺术生成器时，保留作者的平台关系披露 | Demo |
+| [案例 123: John Wick 主题重制动画](#case-123) | [创意图形与动画](#category-graphics) | 将 John Wick 主题动画作为生成流程未公开的视觉参考 | Demo |
+| [案例 124: 四档 SVG 结果与 max 失败](#case-124) | [创意图形与动画](#category-graphics) | 查看各推理档位的 SVG 产物时，同时考虑 Max 档耗尽 token 及失败尝试的费用 | Evaluation |
+| [案例 125: MacBook Pro 的 SVG 评测](#case-125) | [创意图形与动画](#category-graphics) | 将 MacBook Pro SVG 结果作为 Playcode 自身的专项评测与产品决策理解 | Evaluation |
+| [案例 126: 个人网站多版本迭代与预告片](#case-126) | [网站与界面](#category-web) | 可用迭代设计评审和版本演进预告片记录个人网站重设计 | Demo |
+| [案例 127: 八张参考图迭代矿石图鉴网页](#case-127) | [网站与界面](#category-web) | 要实现展示的矿物目录风格，应为多个参考素材与修改提示预留预算 | Demo |
+| [案例 128: 同目标重设计已有应用](#case-128) | [网站与界面](#category-web) | 依据相同的现有应用和既定目标比较重设计结果 | Evaluation |
+| [案例 129: 前端测试与卡住的火山任务](#case-129) | [网站与界面](#category-web) | 评估前端生成结果时，应计入停滞尝试与推理 token 用量 | Limit |
+| [案例 130: 不用 design skill 的关联笔记界面](#case-130) | [网站与界面](#category-web) | 查看关联笔记界面时，不假设其全部功能已通过验证 | Demo |
+| [案例 131: 一次生成 UI 对照 Grok 4.7](#case-131) | [网站与界面](#category-web) | 比较两个 UI 产物时，保留相同提示词在不同日期运行的背景 | Evaluation |
+| [案例 132: 23 分钟制作减压应用](#case-132) | [网站与界面](#category-web) | 将减压应用作为原型查看，不假设它已证明治疗效果 | Demo |
+| [案例 133: Stratus 云与天气主题落地页](#case-133) | [网站与界面](#category-web) | 将天气主题落地页作为附有自报费用和时间背景的设计参考 | Demo |
+| [案例 134: 反向 CAPTCHA 交互应用](#case-134) | [网站与界面](#category-web) | 可将反向 CAPTCHA 交互作为模糊问题设计的实验 | Demo |
+| [案例 135: 可导入 Figma 的个人交互设计工具](#case-135) | [网站与界面](#category-web) | 通过导入设计参考和小幅补丁探索、学习界面交互 | Demo |
+| [案例 136: PonteMLX 本地模型监控界面](#case-136) | [网站与界面](#category-web) | 查看监控界面时，应计入独立的本地图像生成模型 | Integration |
+| [案例 137: 物流排程看板的界面预览](#case-137) | [网站与界面](#category-web) | 后端与调度行为检查完成前，将物流截图视为界面证据 | Demo |
+| [案例 138: WebGL 创意工作室网站对比](#case-138) | [网站与界面](#category-web) | 依据共同的 WebGL、排版和滚动要求比较创意工作室页面 | Evaluation |
+| [案例 139: 等距图标组件展示界面](#case-139) | [网站与界面](#category-web) | 查看等距图标组件界面时，不假设截图已证明组件可用 | Demo |
+| [案例 140: 掌机式游戏选择网页](#case-140) | [网站与界面](#category-web) | 游戏启动功能验证前，将掌机风格选择页作为 UI 展示 | Demo |
+| [案例 141: 一次生成图片转矢量工具](#case-141) | [网站与界面](#category-web) | 依赖自称一次生成的矢量化工具前，先在不同图像类型上测试转换准确性 | Demo |
+| [案例 142: 同提示词落地页集合对比](#case-142) | [网站与界面](#category-web) | 根据共同提示词比较落地页画廊，不直接采用作者偏好 | Evaluation |
+| [案例 143: AppLlama MCP 重设计已有应用](#case-143) | [网站与界面](#category-web) | 将 AppLlama 辅助重设计与现有应用此前的收入分开 | Integration |
+| [案例 144: 图片转 HTML 的还原与性能测试](#case-144) | [网站与界面](#category-web) | 图像转 HTML 任务中，除视觉还原外还应检查转场与运行性能 | Evaluation |
+| [案例 145: 批量生成 100 个创意 HTML](#case-145) | [网站与界面](#category-web) | 依赖作者“没有损坏文件”的说法前，先抽样测试公开的 HTML 产物 | Demo |
+| [案例 146: Next.js 成功率与平均成本](#case-146) | [网站与界面](#category-web) | 在 Next.js 专项框架评测范围内理解自报成功率和平均费用 | Evaluation |
+| [案例 147: 十分钟流程表任务错过核心交付](#case-147) | [业务分析与文档](#category-business) | 明确要求优先完成核心交付物，并写清预算和停止条件 | Limit |
+| [案例 148: 347 个排名页面的 SEO 内容空白分析](#case-148) | [业务分析与文档](#category-business) | 将自报的 SEO 研究覆盖与草稿合规表现和未测量的搜索流量结果分开 | Evaluation |
+| [案例 149: 通过 Trendtrack MCP 准备黑五分析](#case-149) | [业务分析与文档](#category-business) | 评估黑五分析流程时，应计入 Trendtrack MCP 提供的数据访问能力 | Integration |
+| [案例 150: alphaXiv 把论文转成证据关联博客](#case-150) | [业务分析与文档](#category-business) | 依赖自动生成的研究摘要前，先检查论文链接对应的证据 | Integration |
+| [案例 151: SafeForge 风险总结循环测试](#case-151) | [业务分析与文档](#category-business) | 将 SafeForge 的模型偏好推广到其他场景前，应索取评测方法与指标 | Evaluation |
+| [案例 152: 更新榜单图片中的模型数据](#case-152) | [业务分析与文档](#category-business) | 区分更新基准图表与重新执行底层评测 | Demo |
+| [案例 153: 同指令制作指标的版本对比](#case-153) | [业务分析与文档](#category-business) | 比较指标产物时，保留验证方法未说明的边界 | Evaluation |
+| [案例 154: 从网站 URL 生成销售触达流程](#case-154) | [业务分析与文档](#category-business) | 将外联产品所称的发送能力与未验证的回复率、销售结果分开 | Integration |
+| [案例 155: Ramp 的会计任务评测](#case-155) | [业务分析与文档](#category-business) | 将 Ramp 自报的成本与速度收益限定在其 Accounting Bench 运行范围内 | Evaluation |
+| [案例 156: fable-advisor 的多模型协作插件](#case-156) | [Agent 与开发工作流](#category-agents) | 采用协作团队流程前，先查看开源插件中各模型的职责 | Integration |
+| [案例 157: ntm 中的任务交接与 worker 替换](#case-157) | [Agent 与开发工作流](#category-agents) | 在编排工具内跨模型版本替换工作代理时，使用明确的任务交接 | Integration |
+| [案例 158: 在 Apple Watch 上指挥 Agent](#case-158) | [Agent 与开发工作流](#category-agents) | 将手表应用的代理显示与语音指令能力同作者对 RSI 的推测分开查看 | Demo |
+| [案例 159: 切换 effort 时保留提示缓存](#case-159) | [Agent 与开发工作流](#category-agents) | 使用保留缓存的推理档位切换指导时，保留其指定的 Claude Code 版本要求 | Tutorial |
+| [案例 160: 刷新 T3 Code 的模型缓存](#case-160) | [Agent 与开发工作流](#category-agents) | 预期模型未出现在列表时，按 T3 Code 团队的流程刷新缓存 | Tutorial |
+| [案例 161: 复盘项目与 Agent 会话历史](#case-161) | [Agent 与开发工作流](#category-agents) | 将会话历史中的模式转化为项目改进前，先与当前代码交叉核对 | Tutorial |
+| [案例 162: ProgramBench 多 Agent 的速度](#case-162) | [Agent 与开发工作流](#category-agents) | 解读自报的多代理速度对比时，保留只覆盖 200 题中 166 题的限制 | Evaluation |
+| [案例 163: 100 个 Agent 的 ProgramBench 评测](#case-163) | [Agent 与开发工作流](#category-agents) | 将 100 代理基准评测与对未来协调机制的推测分开 | Evaluation |
+| [案例 164: 同段街景视频的对象跟踪标注](#case-164) | [视觉理解与标注](#category-vision) | 查看移动标签时，保留该平台对比没有测量标注准确率的边界 | Evaluation |
+| [案例 165: Roboflow 目标检测评测](#case-165) | [视觉理解与标注](#category-vision) | 在专门任务评测范围内，使用 Roboflow 榜单评估目标检测 | Evaluation |
+| [案例 166: Medeo 中驱动 Seedance 2.5 的对比](#case-166) | [视频编辑与制作](#category-video) | 比较指挥视频生成的语言模型时，将实际视频生成归于 Seedance 2.5 | Evaluation |
+| [案例 167: 在 Claude 网页调用 Blender 做黏土动画](#case-167) | [视频编辑与制作](#category-video) | 评估 Claude 中的一条提示黏土动画流程时，应计入 Blender 的作用 | Integration |
+| [案例 168: Tesseract 重制发布视频的成本对比](#case-168) | [视频编辑与制作](#category-video) | 比较发布视频重制结果时，明确 Tesseract 的编辑与渲染作用 | Evaluation |
+| [案例 169: 为 DocJev 制作文档工具预告片](#case-169) | [视频编辑与制作](#category-video) | 将产品预告片与归于 Jev 的文档处理核心分开 | Demo |
+| [案例 170: 用自有 skill 制作 Claude 模型发展史](#case-170) | [视频编辑与制作](#category-video) | 评估 JavaScript 模型发展史视频时，应计入作者自定义 skill 的作用 | Integration |
+| [案例 171: Medeo 的折纸老虎视频对比](#case-171) | [视频编辑与制作](#category-video) | 将折纸视频工作流作为语言模型指挥 Seedance 2.5 的案例比较 | Evaluation |
+| [案例 172: Remotion 制作 BridgeMind 卫衣宣传片](#case-172) | [视频编辑与制作](#category-video) | 查看 Remotion 宣传片的节奏与转场时，将发布方主观模型排名单独看待 | Integration |
+| [案例 173: Higgsfield 商业视频的时间与费用](#case-173) | [视频编辑与制作](#category-video) | 将商业视频的时间与成本对比视为平台自报的制作证据 | Evaluation |
+| [案例 174: 从发布帖编写纯代码宣传视频](#case-174) | [视频编辑与制作](#category-video) | 可用发布帖作为简报，通过代码制作包含画面与声音的发布视频 | Demo |
+| [案例 175: 转发 Claude 视角的定格动画](#case-175) | [视频编辑与制作](#category-video) | 将转发的定格短片视为工具链未说明的二手展示 | Demo |
+| [案例 176: 从两秒迭代到 22 秒的配乐视频](#case-176) | [视频编辑与制作](#category-video) | 比较连续的视频版本，查看时长与代码配乐如何演进 | Demo |
+| [案例 177: Photoshop 与 Fusion 修补视频错误](#case-177) | [视频编辑与制作](#category-video) | 查看 Photoshop 与 Fusion 的修补结果时，不假设所称节省时间已被独立验证 | Integration |
+| [案例 178: 从 Kotlin 网站制作宣传视频](#case-178) | [视频编辑与制作](#category-video) | 评估网站转 Kotlin 宣传片的流程时，应计入 HyperFrames skills 的作用 | Integration |
+| [案例 179: 按个人风格剪辑原始拍摄素材](#case-179) | [视频编辑与制作](#category-video) | 要求匹配个人风格时，提供参考视频并直接检查剪辑结果 | Demo |
+| [案例 180: 把 Coinacademy 文章改成 FLOP Labs 视频](#case-180) | [视频编辑与制作](#category-video) | 可将已有文章作为短篇介绍视频的来源简报 | Demo |
+| [案例 181: 与 GPT-6 Sol 的视频结果对照](#case-181) | [视频编辑与制作](#category-video) | 比较展示的视频产物时，不推断它们使用相同提示词或工具链 | Evaluation |
+| [案例 182: 用代码制作 serai 宣传视频](#case-182) | [视频编辑与制作](#category-video) | 查看代码制作的 serai 宣传片时，保留渲染工具未说明的边界 | Demo |
+| [案例 183: Cowork 制作 Opus 5.5 解说视频](#case-183) | [视频编辑与制作](#category-video) | 将解说片中的模型与价格陈述，和视频制作本身分别核实 | Demo |
+| [案例 184: 视频作品与尚未实施的 fal 组合设想](#case-184) | [视频编辑与制作](#category-video) | 将展示视频与仍属未来构想的 fal 集成分开 | Demo |
+| [案例 185: 从 UGC 文件夹剪辑并制作文字动画](#case-185) | [视频编辑与制作](#category-video) | 评估 UGC 编辑流程时，应计入 Tesseract 的文字动画作用 | Integration |
+| [案例 186: 游戏引擎阿拉伯文字教程视频](#case-186) | [视频编辑与制作](#category-video) | 评估代码制作的阿拉伯文字教程时，保留 logo 和 ElevenLabs 音频依赖 | Tutorial |
+| [案例 187: 水墨雨伞故事与代码配乐](#case-187) | [视频编辑与制作](#category-video) | 将雨伞故事作为代码画面与原创配乐协同制作的参考 | Demo |
+| [案例 188: 105 个预埋 bug 的修复对比](#case-188) | [代码维护与测试](#category-coding) | 比较 bug 修复数与费用时，应考虑各模型重复次数说明不一致 | Evaluation |
+| [案例 189: CS2 作弊程序生成的作者展示](#case-189) | [代码维护与测试](#category-coding) | 将 CS2 程序视为未经验证的作者说法，不假设展示已证明实际运行 | Demo |
+| [案例 190: 进行中的 circuit_eval 检查点评测](#case-190) | [代码维护与测试](#category-coding) | 等待 circuit_eval 运行完成，再将检查点进展解释为最终结果 | Evaluation |
+| [案例 191: 系统开发任务被安全分类器中断](#case-191) | [代码维护与测试](#category-coding) | 将所报告的安全防护中断限定在作者未完成的任务和会话范围内 | Limit |
+| [案例 192: 审读自建 Web 应用的安全问题](#case-192) | [代码维护与测试](#category-coding) | 区分源码安全评审与针对应用执行安全测试 | Demo |
+| [案例 193: 查找 12 个补丁中的问题](#case-193) | [代码维护与测试](#category-coding) | 比较补丁评审发现时，同时考虑 API 等价费用估算，不宣称成本必然下降 | Evaluation |
+| [案例 194: 游戏项目的复杂 bug 调试](#case-194) | [代码维护与测试](#category-coding) | 将游戏调试成功视为缺少公开复现证据的早期个人报告 | Demo |
+| [案例 195: Khan Academy 的 PR 评审机器人](#case-195) | [代码维护与测试](#category-coding) | 将 PR 机器人报告作为单团队衡量成本、调用次数、运行时间和评审质量的参考 | Integration |
+| [案例 196: 高风险请求的拒绝与回退](#case-196) | [代码维护与测试](#category-coding) | 将最终拒绝归于 Opus 5.5 前，先确认回退模型 | Limit |
+| [案例 197: CyScenarioBench 的十题子集](#case-197) | [代码维护与测试](#category-coding) | 将自报解题率限定在 CyScenarioBench 的十题子集内 | Evaluation |
+| [案例 198: 同题解释期权概念的表达对比](#case-198) | [写作与讲解](#category-writing) | 比较解释片段时，保留作者的提前访问披露 | Evaluation |
+| [案例 199: 森林与河流背景的故事片段](#case-199) | [写作与讲解](#category-writing) | 评估故事片段的文字时，不重建其缺失的写作任务要求 | Demo |
+| [案例 200: 解释仓库调度器的正确性](#case-200) | [写作与讲解](#category-writing) | 精简调度器技术解释时，同时检查正确性与读者反馈 | Demo |
+| [案例 201: 精简旧版模型写的文档](#case-201) | [写作与讲解](#category-writing) | 将修改前后的标题作为精简文字的具体参考 | Demo |
+| [案例 202: 十个 Agent 探索最短路径算法](#case-202) | [科学研究与电路](#category-science) | 依赖所报告的最短路径改进前，应寻求独立证明核验与复现 | Evaluation |
+| [案例 203: tscircuit 蓝牙音箱电路对比](#case-203) | [科学研究与电路](#category-science) | 硬件制作并测试前，将 tscircuit 音箱设计视为电路图展示 | Evaluation |
+| [案例 204: 电路原理图绘制的耗时对比](#case-204) | [科学研究与电路](#category-science) | 结合自报运行时间比较电路图产物，同时保留更广泛速度排名的暂定性质 | Evaluation |
+| [案例 205: ARC-AGI 推理与单题成本](#case-205) | [科学研究与电路](#category-science) | 在评测方报告的测试条件下理解 ARC 成绩与每题成本 | Evaluation |
+| [案例 206: 生成 Interaction Calculus 规则](#case-206) | [科学研究与电路](#category-science) | 将自报的演算规则复现与未来提出的 Bend 重写分开 | Demo |
+| [案例 207: 用鼠标键盘在 Paintbrush 画蒙娜丽莎](#case-207) | [电脑操作](#category-computer-use) | 比较鼠标绘制结果时，保留共同限制与平台报告的时间、费用估算 | Evaluation |
+| [案例 208: Paint 绘图的交互方式对比](#case-208) | [电脑操作](#category-computer-use) | 验证指定的绘图交互，并将附带的对照视频与 Opus 产物区分开 | Limit |
 
 <a id="category-official"></a>
 ## 📘 官方指南与展示
 
 <a id="case-1"></a>
-### Case 1: [官方转发的西瓜故事短片](https://x.com/claudeai/status/2102471866635919731) (by [@claudeai](https://x.com/claudeai))
+### 案例 1: [官方转发的西瓜故事短片](https://x.com/claudeai/status/2102471866635919731) (作者 [@claudeai](https://x.com/claudeai))
 
-**Claude 官方账号将 Kevin Ngo 的西瓜故事短片列为 Opus 5.5 的早期探索；该帖是官方二手展示，没有提供独立制作复现**
+**可将官方转发的西瓜短片作为叙事参考，但其制作过程仍未公开**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Claude 官方账号将 Kevin Ngo 的西瓜故事短片列为 Opus 5.5 的早期探索；该帖是官方二手展示，没有提供独立制作复现
 
 <table>
 <tr>
@@ -265,47 +280,48 @@
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-2"></a>
-### Case 2: [把完整任务交给模型](https://x.com/ClaudeDevs/status/2102491840612380934) (by [@ClaudeDevs](https://x.com/ClaudeDevs))
+### 案例 2: [交接完整任务](https://x.com/ClaudeDevs/status/2102491840612380934) (作者 [@ClaudeDevs](https://x.com/ClaudeDevs))
 
-**官方指南建议先定义完成条件与汇报时机，再交接完整任务；不必重复要求“认真思考”，长任务后检查继续推进所需信息；帖子附完整 playbook**
+**交接完整任务前，先定义完成条件和汇报节点**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+官方指南建议先定义完成条件与汇报时机，再交接完整任务；不必重复要求“认真思考”，长任务后检查继续推进所需信息；帖子附完整 playbook
 
 Type: Tutorial | Date: 2026-09-22
+
+---
 
 
 <a id="category-games"></a>
 ## 🧩 游戏开发
 
 <a id="case-3"></a>
-### Case 3: [武士游戏的双模型对比](https://x.com/higgsfield_ai/status/2102471046356177001) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 3: [武士游戏对比](https://x.com/higgsfield_ai/status/2102471046356177001) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 展示 Opus 5.5 与 GPT-6 Astra 制作的武士游戏对照，属于平台自身的推广演示**
+**比较武士游戏产物时，保留发布方的平台推广背景**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 展示 Opus 5.5 与 GPT-6 Astra 制作的武士游戏对照，属于平台自身的推广演示
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102470161328685056/vid/avc1/1122x1080/mkbbA1dMknaGX6nL.mp4?tag=29"><img src="assets/media/2102470161328685056.jpg" alt="武士游戏的双模型对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102470161328685056/vid/avc1/1122x1080/mkbbA1dMknaGX6nL.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://video.twimg.com/amplify_video/2102470161328685056/vid/avc1/1122x1080/mkbbA1dMknaGX6nL.mp4?tag=29"><img src="assets/media/2102470161328685056.jpg" alt="武士游戏对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102470161328685056/vid/avc1/1122x1080/mkbbA1dMknaGX6nL.mp4?tag=29">播放来源视频 1</a></td>
 </tr>
 </table>
 
-补充来源与合并记录:
-
-- [@RoundtableSpace](https://x.com/RoundtableSpace/status/2102537174742655341): 媒体预览转发 Higgsfield 的 Opus 5.5 与 GPT-6 Astra 武士游戏对照，与其他账号转发画面相同；此帖是一则二手展示
-- [@EngMoElgaraihy](https://x.com/EngMoElgaraihy/status/2102488568564490521): 该帖转发 Higgsfield 的 Opus 5.5 与 GPT-6 Astra 武士游戏对照，是同一作品的另一则二手传播记录
+补充来源／合并报告: [@RoundtableSpace](https://x.com/RoundtableSpace/status/2102537174742655341), [@EngMoElgaraihy](https://x.com/EngMoElgaraihy/status/2102488568564490521)
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-4"></a>
-### Case 4: [一次生成 Mario Kart 游戏](https://x.com/bridgemindai/status/2102451997395866021) (by [@bridgemindai](https://x.com/bridgemindai))
+### 案例 4: [一次生成 Mario Kart 游戏](https://x.com/bridgemindai/status/2102451997395866021) (作者 [@bridgemindai](https://x.com/bridgemindai))
 
-**BridgeMind 平台展示一次生成的 Mario Kart 游戏，包含可操作的马里奥与路易吉角色；平台称其效果优于 Fable 5.1，这是其推广中的主观评价**
+**接受平台的质量判断前，先检查这款自称一次生成的赛车游戏中可操作的角色**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+BridgeMind 平台展示一次生成的 Mario Kart 游戏，包含可操作的马里奥与路易吉角色；平台称其效果优于 Fable 5.1，这是其推广中的主观评价
 
 <table>
 <tr>
@@ -315,12 +331,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-5"></a>
-### Case 5: [浏览器中的 Minecraft 克隆](https://x.com/noahwachnik/status/2102470200415166699) (by [@noahwachnik](https://x.com/noahwachnik))
+### 案例 5: [浏览器中的 Minecraft 克隆](https://x.com/noahwachnik/status/2102470200415166699) (作者 [@noahwachnik](https://x.com/noahwachnik))
 
-**作者展示在浏览器中运行的 Minecraft 克隆测试，呈现这次游戏生成的结果**
+**通过浏览器 Minecraft 演示查看这次游戏生成的实际产物**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示在浏览器中运行的 Minecraft 克隆测试，呈现这次游戏生成的结果
 
 <table>
 <tr>
@@ -330,12 +348,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-6"></a>
-### Case 6: [单个 HTML 的机械主题游戏](https://x.com/edwinarbus/status/2102463453176979794) (by [@edwinarbus](https://x.com/edwinarbus))
+### 案例 6: [单个 HTML 的机械主题游戏](https://x.com/edwinarbus/status/2102463453176979794) (作者 [@edwinarbus](https://x.com/edwinarbus))
 
-**这则平台推广展示受安提基特拉机械启发的游戏：单个约 3 MB 的 HTML 文件实时生成视听内容**
+**可参考该平台演示，用单个 HTML 文件实现程序化游戏画面与声音**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+这则平台推广展示受安提基特拉机械启发的游戏：单个约 3 MB 的 HTML 文件实时生成视听内容
 
 <table>
 <tr>
@@ -345,12 +365,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-7"></a>
-### Case 7: [Roblox 动漫角色大乱斗](https://x.com/WoahWurdz/status/2102487879809126834) (by [@WoahWurdz](https://x.com/WoahWurdz))
+### 案例 7: [Roblox 动漫角色大乱斗](https://x.com/WoahWurdz/status/2102487879809126834) (作者 [@WoahWurdz](https://x.com/WoahWurdz))
 
-**作者表示仅借助 Roblox toolbox，一次生成动漫角色大乱斗游戏，并主观认为效果优于 Fable；游戏依赖该工具提供的资源**
+**评估这款自称一次生成的格斗游戏时，应计入 Roblox toolbox 素材的作用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者表示仅借助 Roblox toolbox，一次生成动漫角色大乱斗游戏，并主观认为效果优于 Fable；游戏依赖该工具提供的资源
 
 <table>
 <tr>
@@ -360,12 +382,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-8"></a>
-### Case 8: [蜘蛛侠游戏的三模型对比](https://x.com/k2sbhai/status/2102487953302061481) (by [@k2sbhai](https://x.com/k2sbhai))
+### 案例 8: [蜘蛛侠游戏的三模型对比](https://x.com/k2sbhai/status/2102487953302061481) (作者 [@k2sbhai](https://x.com/k2sbhai))
 
-**作者以蜘蛛侠游戏为题，比较 Opus 5.5、Fable 5.1 和 GPT-6 Astra 的生成结果**
+**按相同的可见玩法特征比较三款蜘蛛侠游戏产物**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者以蜘蛛侠游戏为题，比较 Opus 5.5、Fable 5.1 和 GPT-6 Astra 的生成结果
 
 <table>
 <tr>
@@ -375,12 +399,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-9"></a>
-### Case 9: [带水物理的 Minecraft 克隆](https://x.com/notjazii/status/2102480420923420790) (by [@notjazii](https://x.com/notjazii))
+### 案例 9: [带水物理的 Minecraft 克隆](https://x.com/notjazii/status/2102480420923420790) (作者 [@notjazii](https://x.com/notjazii))
 
-**作者展示包含水物理与游戏机制的 Minecraft 克隆，并提供试玩链接；作者认为结果优于 Astra，但这次模型运行比 Astra 更慢**
+**衡量作者报告的水物理效果时，也要考虑更长的模型运行时间**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示包含水物理与游戏机制的 Minecraft 克隆，并提供试玩链接；作者认为结果优于 Astra，但这次模型运行比 Astra 更慢
 
 <table>
 <tr>
@@ -390,12 +416,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-10"></a>
-### Case 10: [DEAD SIGNAL 第一人称场景](https://x.com/bridgebench/status/2102469365903872306) (by [@bridgebench](https://x.com/bridgebench))
+### 案例 10: [DEAD SIGNAL 第一人称场景](https://x.com/bridgebench/status/2102469365903872306) (作者 [@bridgebench](https://x.com/bridgebench))
 
-**BridgeBench 平台以相同提示词和任务比较 Opus 5.5 与 GPT-6 Sol；媒体预览为 DEAD SIGNAL 第一人称游戏场景，效果评价来自平台自身推广**
+**独立查看同提示词的第一人称场景，避免直接沿用平台的质量判断**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+BridgeBench 平台以相同提示词和任务比较 Opus 5.5 与 GPT-6 Sol；媒体预览为 DEAD SIGNAL 第一人称游戏场景，效果评价来自平台自身推广
 
 <table>
 <tr>
@@ -405,12 +433,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-11"></a>
-### Case 11: [纯代码养蜂游戏](https://x.com/oguzthedev/status/2102476490344730950) (by [@oguzthedev](https://x.com/oguzthedev))
+### 案例 11: [纯代码养蜂游戏](https://x.com/oguzthedev/status/2102476490344730950) (作者 [@oguzthedev](https://x.com/oguzthedev))
 
-**作者表示用一条提示生成养蜂游戏，没有图像素材文件，蜂箱、花、蜜蜂和养蜂人均以代码绘制；玩法包含种花、蜜蜂飞行与采蜜**
+**参考养蜂演示，了解如何用代码绘制游戏素材并实现玩法机制**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者表示用一条提示生成养蜂游戏，没有图像素材文件，蜂箱、花、蜜蜂和养蜂人均以代码绘制；玩法包含种花、蜜蜂飞行与采蜜
 
 <table>
 <tr>
@@ -420,12 +450,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-12"></a>
-### Case 12: [贪吃蛇游戏演示](https://x.com/hakmgpt/status/2102453021590401220) (by [@hakmgpt](https://x.com/hakmgpt))
+### 案例 12: [贪吃蛇游戏演示](https://x.com/hakmgpt/status/2102453021590401220) (作者 [@hakmgpt](https://x.com/hakmgpt))
 
-**作者展示用 Opus 5.5 制作的贪吃蛇游戏，作为具体游戏作品记录**
+**将贪吃蛇演示作为生成游戏逻辑与画面的小型案例查看**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示用 Opus 5.5 制作的贪吃蛇游戏，作为具体游戏作品记录
 
 <table>
 <tr>
@@ -435,12 +467,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-13"></a>
-### Case 13: [3D 游戏效果对比 Sol](https://x.com/higgsfield_ai/status/2102496940047094124) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 13: [3D 游戏效果对比 Sol](https://x.com/higgsfield_ai/status/2102496940047094124) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示 Opus 5.5 与 GPT-6 Sol 的 3D 游戏开发效果对比，属于平台自营推广**
+**比较展示的 3D 游戏产物时，不把平台偏好当成独立评测**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示 Opus 5.5 与 GPT-6 Sol 的 3D 游戏开发效果对比，属于平台自营推广
 
 <table>
 <tr>
@@ -450,12 +484,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-14"></a>
-### Case 14: [多人台球与观战系统](https://x.com/BuiltByBilal/status/2102527003845075348) (by [@BuiltByBilal](https://x.com/BuiltByBilal))
+### 案例 14: [多人台球与观战系统](https://x.com/BuiltByBilal/status/2102527003845075348) (作者 [@BuiltByBilal](https://x.com/BuiltByBilal))
 
-**作者称一次生成支持八球、九球、斯诺克和 2v2 的多人台球游戏，包含语音、赛事、评分、回放、观战及移动端和浏览器支持；帖子提供链接，已有玩家试玩的说法来自作者自述**
+**采信作者报告的多人模式和玩家活跃情况前，先检查链接中的台球游戏**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者称一次生成支持 8-ball、9-ball、斯诺克和 2v2 的多人台球游戏，包含语音、赛事、评分、回放、观战及移动端和浏览器支持；帖子提供链接，已有玩家试玩的说法来自作者自述
 
 <table>
 <tr>
@@ -465,12 +501,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-15"></a>
-### Case 15: [Higgsfield API 构建街机游戏](https://x.com/higgsfield_ai/status/2102451096799330740) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 15: [Higgsfield API 构建街机游戏](https://x.com/higgsfield_ai/status/2102451096799330740) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示通过其 API 构建的游戏，画面包括水面反射和街机玩法；这是平台自身的推广案例**
+**查看这款基于平台 API 的游戏演示中的水面反射与街机玩法**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示通过其 API 构建的游戏，画面包括水面反射和街机玩法；这是平台自身的推广案例
 
 <table>
 <tr>
@@ -480,12 +518,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-16"></a>
-### Case 16: [Minecraft 浏览器游戏复现](https://x.com/buildwithsid/status/2102461886247948571) (by [@buildwithsid](https://x.com/buildwithsid))
+### 案例 16: [Minecraft 浏览器游戏复现](https://x.com/buildwithsid/status/2102461886247948571) (作者 [@buildwithsid](https://x.com/buildwithsid))
 
-**作者展示在浏览器中制作的 Minecraft 克隆，记录这一游戏复现尝试**
+**通过浏览器中的复现作品评估这次 Minecraft 克隆尝试的可见范围**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示在浏览器中制作的 Minecraft 克隆，记录这一游戏复现尝试
 
 <table>
 <tr>
@@ -495,12 +535,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-17"></a>
-### Case 17: [让直播观众加入割草游戏](https://x.com/_MaxBlade/status/2102513817855094922) (by [@_MaxBlade](https://x.com/_MaxBlade))
+### 案例 17: [让直播观众加入割草游戏](https://x.com/_MaxBlade/status/2102513817855094922) (作者 [@_MaxBlade](https://x.com/_MaxBlade))
 
-**作者展示包含啤酒和雪茄元素的多人割草模拟器，并部署到自己的服务器，让直播观众加入游戏**
+**可邀请直播观众在个人服务器上测试多人原型**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示包含啤酒和雪茄元素的多人割草模拟器，并部署到自己的服务器，让直播观众加入游戏
 
 <table>
 <tr>
@@ -510,12 +552,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-18"></a>
-### Case 18: [带最终 Boss 的涂鸦射击](https://x.com/cherry_mx_reds/status/2102449525944099320) (by [@cherry_mx_reds](https://x.com/cherry_mx_reds))
+### 案例 18: [带最终 Boss 的涂鸦射击](https://x.com/cherry_mx_reds/status/2102449525944099320) (作者 [@cherry_mx_reds](https://x.com/cherry_mx_reds))
 
-**作者表示一次生成涂鸦风射击游戏，作品还包含最终 Boss**
+**查看这款自称一次生成的射击游戏如何结合涂鸦风格与最终 Boss**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者表示一次生成涂鸦风射击游戏，作品还包含最终 Boss
 
 <table>
 <tr>
@@ -525,12 +569,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-19"></a>
-### Case 19: [Medium 档制作 Mario 游戏](https://x.com/benchmark_lb900/status/2102451991263990244) (by [@benchmark_lb900](https://x.com/benchmark_lb900))
+### 案例 19: [Medium 档制作 Mario 游戏](https://x.com/benchmark_lb900/status/2102451991263990244) (作者 [@benchmark_lb900](https://x.com/benchmark_lb900))
 
-**作者展示在 Medium 档设置下生成的 Mario 游戏，保留这一具体运行设置**
+**将 Mario 演示作为 Medium 档游戏生成的参考**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示在 Medium 档设置下生成的 Mario 游戏，保留这一具体运行设置
 
 <table>
 <tr>
@@ -540,12 +586,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-20"></a>
-### Case 20: [卡丁车竞速画面对比](https://x.com/k2sbhai/status/2102468855562178791) (by [@k2sbhai](https://x.com/k2sbhai))
+### 案例 20: [卡丁车竞速画面对比](https://x.com/k2sbhai/status/2102468855562178791) (作者 [@k2sbhai](https://x.com/k2sbhai))
 
-**该帖比较 Opus 5.5 与 GPT-6 Sol，媒体预览呈现卡丁车竞速游戏画面**
+**依据可见游戏行为比较赛车片段，不据此推断更广泛的模型能力**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+该帖比较 Opus 5.5 与 GPT-6 Sol，媒体预览呈现卡丁车竞速游戏画面
 
 <table>
 <tr>
@@ -555,12 +603,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-21"></a>
-### Case 21: [同提示词游戏对比 GPT-6 Sol](https://x.com/_MaxBlade/status/2102528632598274244) (by [@_MaxBlade](https://x.com/_MaxBlade))
+### 案例 21: [同提示词游戏对比 GPT-6 Sol](https://x.com/_MaxBlade/status/2102528632598274244) (作者 [@_MaxBlade](https://x.com/_MaxBlade))
 
-**作者用相同提示词生成游戏，展示 Opus 5.5 与 GPT-6 Sol 的结果对比，并表示在下方提供游戏链接**
+**打开同提示词生成的游戏链接，比较实际游玩体验**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用相同提示词生成游戏，展示 Opus 5.5 与 GPT-6 Sol 的结果对比，并表示在下方提供游戏链接
 
 <table>
 <tr>
@@ -570,12 +620,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-22"></a>
-### Case 22: [一次生成贪吃蛇](https://x.com/xikhar/status/2102453761390383383) (by [@xikhar](https://x.com/xikhar))
+### 案例 22: [一次生成贪吃蛇](https://x.com/xikhar/status/2102453761390383383) (作者 [@xikhar](https://x.com/xikhar))
 
-**作者展示一次生成的贪吃蛇游戏，记录其单次生成尝试**
+**将自称一次生成的贪吃蛇作为小范围生成任务的参考**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示一次生成的贪吃蛇游戏，记录其单次生成尝试
 
 <table>
 <tr>
@@ -585,12 +637,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-23"></a>
-### Case 23: [Three.js 僵尸射击玩法](https://x.com/intheworldofai/status/2102480675597115689) (by [@intheworldofai](https://x.com/intheworldofai))
+### 案例 23: [Three.js 僵尸射击玩法](https://x.com/intheworldofai/status/2102480675597115689) (作者 [@intheworldofai](https://x.com/intheworldofai))
 
-**作者展示约 1.3 万行 Three.js 制作的《使命召唤》僵尸模式风格玩法，包含拆窗木板、神秘箱、Pack-a-Punch、Jugg、Ray Gun 与 BO1 回合机制；作者称没有素材文件，纹理、嘶吼和提示音均由代码生成**
+**研究这段 Three.js 演示如何在没有素材文件的情况下生成玩法、纹理与声音**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示约 13,000 行 Three.js 制作的 Call of Duty Zombies 风格玩法，包含拆窗木板、Mystery Box、Pack-a-Punch、Jugg、Ray Gun 与 BO1 回合机制；作者称没有素材文件，纹理、嘶吼和提示音均由代码生成
 
 <table>
 <tr>
@@ -600,12 +654,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-24"></a>
-### Case 24: [两轮打磨的雪地游戏](https://x.com/jumperz/status/2102486361068425247) (by [@jumperz](https://x.com/jumperz))
+### 案例 24: [两轮打磨的雪地游戏](https://x.com/jumperz/status/2102486361068425247) (作者 [@jumperz](https://x.com/jumperz))
 
-**作者用一次初始提示加约两轮打磨制作雪地游戏，模型工作超过一小时；演示包含雪雾、树木、运动轨迹、光影和音效**
+**为视听效果相互配合的雪地游戏预留打磨轮次与运行时间**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用一次初始提示加约两轮打磨制作雪地游戏，模型工作超过一小时；演示包含雪雾、树木、运动轨迹、光影和音效
 
 <table>
 <tr>
@@ -615,12 +671,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-25"></a>
-### Case 25: [游戏扩展与预告片剪辑](https://x.com/ForwardEditor/status/2102501821931507772) (by [@ForwardEditor](https://x.com/ForwardEditor))
+### 案例 25: [游戏扩展与预告片剪辑](https://x.com/ForwardEditor/status/2102501821931507772) (作者 [@ForwardEditor](https://x.com/ForwardEditor))
 
-**这则明确合作分发的帖子由提前获用模型的作者发布，介绍给游戏增加新功能并剪辑预告片的结果，同时提供试玩链接**
+**查看可玩的游戏及其预告片时，保留作者的合作披露**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+这则明确合作分发的帖子由提前获用模型的作者发布，介绍给游戏增加新功能并剪辑预告片的结果，同时提供试玩链接
 
 <table>
 <tr>
@@ -630,12 +688,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-26"></a>
-### Case 26: [Tesana 多人生存岛](https://x.com/Thomas_jorgen/status/2102459329626652814) (by [@Thomas_jorgen](https://x.com/Thomas_jorgen))
+### 案例 26: [Tesana 多人生存岛](https://x.com/Thomas_jorgen/status/2102459329626652814) (作者 [@Thomas_jorgen](https://x.com/Thomas_jorgen))
 
-**作者称用少量提示在 Tesana 制作 ARK 风格多人生存岛，包含任务、恐龙驯服、制造和战斗，并与两名朋友在线游玩；30 多小时内容的说法也是作者自报；报告将该帖标记为可能的合作分发，尚未确认**
+**采信所称的游戏内容时长前，先检查 Tesana 岛屿的多人系统**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者称用少量提示在 Tesana 制作 ARK 风格多人生存岛，包含任务、恐龙驯服、制造和战斗，并与两名朋友在线游玩；30+ 小时内容的说法也是作者自报；报告将该帖标记为可能的合作分发，尚未确认
 
 <table>
 <tr>
@@ -645,12 +705,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-27"></a>
-### Case 27: [Unreal Engine 游戏制作对比](https://x.com/higgsfield_ai/status/2102533401110802552) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 27: [Unreal Engine 游戏制作对比](https://x.com/higgsfield_ai/status/2102533401110802552) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示 Opus 5.5 与 GPT-6 Sol 在 Unreal Engine 中制作 3D 游戏的对比结果，属于平台自营推广**
+**结合 Higgsfield 平台工作流比较 Unreal Engine 游戏产物**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示 Opus 5.5 与 GPT-6 Sol 在 Unreal Engine 中制作 3D 游戏的对比结果，属于平台自营推广
 
 <table>
 <tr>
@@ -660,12 +722,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-28"></a>
-### Case 28: [Tesana 黑暗幻想 RPG](https://x.com/Rubzem/status/2102457691956482160) (by [@Rubzem](https://x.com/Rubzem))
+### 案例 28: [Tesana 黑暗幻想 RPG](https://x.com/Rubzem/status/2102457691956482160) (作者 [@Rubzem](https://x.com/Rubzem))
 
-**作者称用少量提示在 Tesana 制作包含多个区域、任务和配音对话的黑暗幻想 RPG；报告标记为可能的合作分发，尚未确认**
+**查看 Tesana RPG 如何组合区域、任务和配音对话，同时保留合作状态未确认的说明**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者称用少量提示在 Tesana 制作包含多个区域、任务和配音对话的黑暗幻想 RPG；报告标记为可能的合作分发，尚未确认
 
 <table>
 <tr>
@@ -675,12 +739,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-29"></a>
-### Case 29: [会触发格斗的吉他商店](https://x.com/bijanbowen/status/2102532400353829356) (by [@bijanbowen](https://x.com/bijanbowen))
+### 案例 29: [会触发格斗的吉他商店](https://x.com/bijanbowen/status/2102532400353829356) (作者 [@bijanbowen](https://x.com/bijanbowen))
 
-**作者展示包含 300 多个可演奏吉他模型的商店模拟器，噪声会触发格斗；Three.js 有卡顿，作者计划改用 Blender/Godot 重做，这一步尚未完成**
+**扩展含数百个可演奏吉他模型的 Three.js 商店模拟器前，先测试性能**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示包含 300+ 个可演奏吉他模型的商店模拟器，噪声会触发格斗；作者称 Three.js 有卡顿，计划改用 Blender/Godot 重做，这一步尚未完成
 
 <table>
 <tr>
@@ -690,12 +756,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-30"></a>
-### Case 30: [手绘风国际象棋与分析](https://x.com/higgsfield_ai/status/2102534514228822197) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 30: [手绘风国际象棋与分析](https://x.com/higgsfield_ai/status/2102534514228822197) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示手绘风国际象棋及走法分析，作为其自营推广中的应用演示**
+**查看国际象棋演示如何结合手绘外观与走法分析**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示手绘风国际象棋及走法分析，作为其自营推广中的应用演示
 
 <table>
 <tr>
@@ -705,12 +773,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-31"></a>
-### Case 31: [飞行模拟器对比 Kimi K3](https://x.com/adxtyahq/status/2102455768977170856) (by [@adxtyahq](https://x.com/adxtyahq))
+### 案例 31: [飞行模拟器对比 Kimi K3](https://x.com/adxtyahq/status/2102455768977170856) (作者 [@adxtyahq](https://x.com/adxtyahq))
 
-**作者用相同提示词比较 Opus 5.5 与 Kimi K3 的飞行模拟器，展示 UI、多个摄像机视角和语音；作者报告两边都流畅，而 Kimi K3 成本更低**
+**选择两个飞行模拟器产物时，同时比较运行表现与自报成本**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用相同提示词比较 Opus 5.5 与 Kimi K3 的飞行模拟器，展示 UI、多个摄像机视角和语音；作者报告两边都流畅，而 Kimi K3 成本更低
 
 <table>
 <tr>
@@ -720,12 +790,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-32"></a>
-### Case 32: [Tesana 单提示词幻想世界](https://x.com/TesanaAI/status/2102494989683188029) (by [@TesanaAI](https://x.com/TesanaAI))
+### 案例 32: [Tesana 单提示词幻想世界](https://x.com/TesanaAI/status/2102494989683188029) (作者 [@TesanaAI](https://x.com/TesanaAI))
 
-**Tesana 平台自营推广展示用一次提示生成的幻想世界，包含玩法、系统、音频和 UI**
+**通过 Tesana 幻想世界展示查看平台整合玩法、音频和 UI 的结果**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Tesana 平台自营推广展示用一次提示生成的幻想世界，包含玩法、系统、音频和 UI
 
 <table>
 <tr>
@@ -735,12 +807,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-33"></a>
-### Case 33: [十分钟内构建弓箭游戏](https://x.com/BhavikY663/status/2102488215445983290) (by [@BhavikY663](https://x.com/BhavikY663))
+### 案例 33: [十分钟内构建弓箭游戏](https://x.com/BhavikY663/status/2102488215445983290) (作者 [@BhavikY663](https://x.com/BhavikY663))
 
-**作者展示弓箭游戏，并表示构建和部署过程在十分钟内完成**
+**将其不足十分钟的构建时间推广到其他任务前，先检查已部署的弓箭游戏**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示弓箭游戏，并表示构建和部署过程在十分钟内完成
 
 <table>
 <tr>
@@ -754,23 +828,25 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-34"></a>
-### Case 34: [Minecraft 与 Warcraft 克隆对比](https://news.ycombinator.com/item?id=49807724) (by [senko](https://news.ycombinator.com/user?id=senko))
+### 案例 34: [Minecraft 与 Warcraft 克隆对比](https://news.ycombinator.com/item?id=49807724) (作者 [@senko](https://news.ycombinator.com/user?id=senko))
 
-**作者公开两种游戏的 Opus 5.5、Fable 5.1 和 Astra 产物与提示词；Opus 在 Claude Code 的 xhigh 档约用 45 分钟，11—14 美元是订阅使用的 API 等价估算**
+**比较公开的游戏产物和提示词时，保留推理档位、运行时间与估算费用背景**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+作者公开两种游戏的 Opus 5.5、Fable 5.1 和 Astra 产物与提示词；Opus 在 Claude Code 的 xhigh 档约用 45 分钟，$11–14 是订阅使用的 API 等价估算
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-35"></a>
-### Case 35: [Runescape Bench 的得分与费用](https://x.com/maxbittker/status/2102451744030490912) (by [@maxbittker](https://x.com/maxbittker))
+### 案例 35: [Runescape Bench 的得分与费用](https://x.com/maxbittker/status/2102451744030490912) (作者 [@maxbittker](https://x.com/maxbittker))
 
-**作者报告 Opus 5.5 在 Runescape Bench 中得分第二，仅次于 Astra，费用约为其三分之一；这里是游戏任务基准结果，不等同于真实玩家体验或所有游戏开发能力**
+**将 Runescape Bench 的自报费用与排名限定在其游戏任务范围内理解**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者报告 Opus 5.5 在 Runescape Bench 中得分第二，仅次于 Astra，费用约为其三分之一；这里是游戏任务基准结果，不等同于真实玩家体验或所有游戏开发能力
 
 <table>
 <tr>
@@ -780,16 +856,18 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 
 <a id="category-education"></a>
-## 🧩 交互教育与可视化
+## 🧩 交互学习与可视化
 
 <a id="case-36"></a>
-### Case 36: [可喂鱼的珊瑚礁壁纸](https://x.com/chaseleantj/status/2102480866404360215) (by [@chaseleantj](https://x.com/chaseleantj))
+### 案例 36: [可喂鱼的珊瑚礁壁纸](https://x.com/chaseleantj/status/2102480866404360215) (作者 [@chaseleantj](https://x.com/chaseleantj))
 
-**作者展示珊瑚礁主题的交互壁纸，用户可以在场景中喂鱼**
+**参考喂鱼交互，让氛围壁纸具备互动性**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示珊瑚礁主题的交互壁纸，用户可以在场景中喂鱼
 
 <table>
 <tr>
@@ -799,12 +877,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-37"></a>
-### Case 37: [直播制作的水体模拟](https://x.com/Avenoxai/status/2102500841097756743) (by [@Avenoxai](https://x.com/Avenoxai))
+### 案例 37: [直播制作的水体模拟](https://x.com/Avenoxai/status/2102500841097756743) (作者 [@Avenoxai](https://x.com/Avenoxai))
 
-**作者在直播中制作水体模拟，这条帖子展示三个结果中的一个**
+**将展示的水体模拟视为较长直播过程中的一个结果**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者在直播中制作水体模拟，这条帖子展示三个结果中的一个
 
 <table>
 <tr>
@@ -814,12 +894,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-38"></a>
-### Case 38: [根据视频复现 3D 水体](https://x.com/Aurelien_Gz/status/2102479887495758076) (by [@Aurelien_Gz](https://x.com/Aurelien_Gz))
+### 案例 38: [根据视频复现 3D 水体](https://x.com/Aurelien_Gz/status/2102479887495758076) (作者 [@Aurelien_Gz](https://x.com/Aurelien_Gz))
 
-**作者以视频为参考，展示一次生成的 3D 水体复现，并主观称接近原参考效果；引用的参考帖是 Grok 4.7 水体演示**
+**接受作者的相似度评价前，先将复现水体与参考视频对比**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者以视频为参考，展示一次生成的 3D 水体复现，并主观称接近原参考效果；引用的参考帖是 Grok 4.7 水体演示
 
 <table>
 <tr>
@@ -829,12 +911,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-39"></a>
-### Case 39: [逐层探索手部解剖](https://x.com/higgsfield_ai/status/2102517718754943254) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 39: [逐层探索手部解剖](https://x.com/higgsfield_ai/status/2102517718754943254) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示可逐层查看骨骼、肌肉与肌腱，通过摄像头或点击定位疼痛部位的交互式手部解剖；演示中的可能病因和恢复建议尚未验证**
+**可查看分层解剖界面，但不要依赖其未经验证的疼痛或康复建议**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示可逐层查看骨骼、肌肉与肌腱，通过摄像头或点击定位疼痛部位的交互式手部解剖；演示中的可能病因和恢复建议尚未验证
 
 <table>
 <tr>
@@ -844,12 +928,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-40"></a>
-### Case 40: [Kilo Code 摸草模拟器](https://x.com/coldopn/status/2102474335172640989) (by [@coldopn](https://x.com/coldopn))
+### 案例 40: [Kilo Code 摸草模拟器](https://x.com/coldopn/status/2102474335172640989) (作者 [@coldopn](https://x.com/coldopn))
 
-**这则平台推广在 Kilo Code 中比较摸草模拟器，报告 Grok 4.7 花费 3.52 美元，Opus 5.5 花费 7.35 美元；这些是该次运行的自报成本**
+**将摸草模拟器产物与平台自报的单次运行费用一起比较**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+这则平台推广在 Kilo Code 中比较摸草模拟器，报告 Grok 4.7 花费 3.52 美元，Opus 5.5 花费 7.35 美元；这些是该次运行的自报成本
 
 <table>
 <tr>
@@ -859,12 +945,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-41"></a>
-### Case 41: [投石机草图转 3D 模拟](https://x.com/brainextends/status/2102464008112755026) (by [@brainextends](https://x.com/brainextends))
+### 案例 41: [投石机草图转 3D 模拟](https://x.com/brainextends/status/2102464008112755026) (作者 [@brainextends](https://x.com/brainextends))
 
-**该帖转发将投石机草图变为含物理、控制与音效的 3D 模拟作品，并称只用一条提示；这是转发者提供的二手展示**
+**将投石机展示作为草图转模拟的参考，同时保留二手来源属性**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+该帖转发将投石机草图变为含物理、控制与音效的 3D 模拟作品，并称只用一条提示；这是转发者提供的二手展示
 
 <table>
 <tr>
@@ -874,12 +962,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-42"></a>
-### Case 42: [轨道与摆杆物理装置](https://x.com/KinasRemek/status/2102509044581691862) (by [@KinasRemek](https://x.com/KinasRemek))
+### 案例 42: [轨道与摆杆物理装置](https://x.com/KinasRemek/status/2102509044581691862) (作者 [@KinasRemek](https://x.com/KinasRemek))
 
-**媒体预览展示轨道、摆杆等物理装置；作者账单记载 API 运行 52 分 6 秒、成本 19.86 美元；总经过时间 4 小时 21 分钟包含约三小时闲置，不能全部计作模型工作时间**
+**估算机械装置模拟的成本时，将 API 运行时间与空闲经过时间分开**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+媒体预览展示轨道、摆杆等物理装置；作者账单记载 API 运行 52m 6s、成本 $19.86；总经过时间 4h 21m 包含约三小时闲置，不能全部计作模型工作时间
 
 <table>
 <tr>
@@ -889,12 +979,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-43"></a>
-### Case 43: [不同重力下的脸部变化](https://x.com/adilinthewild/status/2102483257267003523) (by [@adilinthewild](https://x.com/adilinthewild))
+### 案例 43: [不同重力下的脸部变化](https://x.com/adilinthewild/status/2102483257267003523) (作者 [@adilinthewild](https://x.com/adilinthewild))
 
-**作者展示 Higgsfield 中不同重力对脸部的变化效果；报告标记为可能的合作分发，尚未确认**
+**查看重力控制人脸演示时，保留其可能合作的披露**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示 Higgsfield 中不同重力对脸部的变化效果；报告标记为可能的合作分发，尚未确认
 
 <table>
 <tr>
@@ -904,12 +996,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-44"></a>
-### Case 44: [用互联网页解释 Web](https://x.com/nityeshaga/status/2102477553453998113) (by [@nityeshaga](https://x.com/nityeshaga))
+### 案例 44: [用互联网页解释 Web](https://x.com/nityeshaga/status/2102477553453998113) (作者 [@nityeshaga](https://x.com/nityeshaga))
 
-**作者用 Medium effort 一次生成相互链接的 HTML 网页来讲解 Web 工作原理，模型工作四小时以上，并提供体验链接**
+**可用相互链接的 HTML 页面制作可探索的讲解，同时为自报的长时间运行预留预算**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用 Medium effort 一次生成相互链接的 HTML 网页来讲解 Web 工作原理，模型工作四小时以上，并提供体验链接
 
 <table>
 <tr>
@@ -919,12 +1013,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-45"></a>
-### Case 45: [可拆解的人眼 3D 教学页](https://x.com/higgsfield_ai/status/2102536138884092185) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 45: [可拆解的人眼 3D 教学页](https://x.com/higgsfield_ai/status/2102536138884092185) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示可拆解检查的人眼 3D 教学网页，并与 GPT-6 Sol 的结果比较；这是平台自营推广中的展示**
+**将可探索的人眼演示作为分层 3D 学习界面的参考**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示可拆解检查的人眼 3D 教学网页，并与 GPT-6 Sol 的结果比较；这是平台自营推广中的展示
 
 <table>
 <tr>
@@ -934,12 +1030,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-46"></a>
-### Case 46: [未完成的宇宙尺度交互展示](https://x.com/Avinash25467/status/2102477459803508800) (by [@Avinash25467](https://x.com/Avinash25467))
+### 案例 46: [未完成的宇宙尺度交互展示](https://x.com/Avinash25467/status/2102477459803508800) (作者 [@Avinash25467](https://x.com/Avinash25467))
 
-**作者尝试制作从可观测宇宙到普朗克尺度的交互展示，但 Max 5x 的使用额度达到上限，作品只完成了部分内容**
+**尝试跨越宇宙至普朗克尺度的交互项目之前，先设置额度检查节点**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者尝试制作从可观测宇宙到普朗克尺度的交互展示，但 Max 5x 的使用额度达到上限，作品只完成了部分内容
 
 <table>
 <tr>
@@ -949,16 +1047,18 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Limit | Date: 2026-09-22
 
+---
+
 
 <a id="category-3d"></a>
 ## 🧩 3D 建模与场景
 
 <a id="case-47"></a>
-### Case 47: [Blender 十秒镜头双模型测试](https://x.com/Stefan_3D_AI/status/2102471841046786153) (by [@Stefan_3D_AI](https://x.com/Stefan_3D_AI))
+### 案例 47: [Blender 十秒镜头双模型测试](https://x.com/Stefan_3D_AI/status/2102471841046786153) (作者 [@Stefan_3D_AI](https://x.com/Stefan_3D_AI))
 
-**作者用相同单条提示，让 Opus 5.5 与 GPT-6 Astra 仅靠 Blender 程序生成十秒镜头及制作延时；自报 Opus 用时 35 分钟、输出 19.96 万 token、API 折算约 13.3 美元；Astra 为 28 分钟、5.66 万 token、约 14.5 美元**
+**比较 Blender 镜头时，同时查看运行时间、token 用量和 API 等价费用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用相同单条提示，仅通过 Blender 比较程序生成的十秒镜头及制作延时；自报 Opus 用时 35m、输出 199.6k token、API 折算约 $13.3；GPT-6 Astra 为 28m、56.6k token、约 $14.5
 
 <table>
 <tr>
@@ -966,33 +1066,35 @@ Type: Limit | Date: 2026-09-22
 </tr>
 </table>
 
-补充来源与合并记录:
-
-- [@Rocketesla_KR](https://x.com/Rocketesla_KR/status/2102531379443679518): 该帖转发 Opus 5.5 与 GPT-6 Astra 的 3D 生成效果对比，但正文没有说明具体对象，属于二手展示
+补充来源／合并报告: [@Rocketesla_KR](https://x.com/Rocketesla_KR/status/2102531379443679518)
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-48"></a>
-### Case 48: [Unreal Engine 旧金山与 Jev 行为](https://x.com/MatthewBerman/status/2102483668468195539) (by [@MatthewBerman](https://x.com/MatthewBerman))
+### 案例 48: [用 Jev 在 Unreal Engine 中制作旧金山](https://x.com/MatthewBerman/status/2102483668468195539) (作者 [@MatthewBerman](https://x.com/MatthewBerman))
 
-**作者展示在 Unreal Engine 中重建的旧金山场景，其中人物、宠物与车辆的行为由 Jev 驱动**
+**评估 Unreal Engine 城市场景中的行为时，应计入 Jev 的作用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示在 Unreal Engine 中重建的旧金山场景，其中人物、宠物与车辆的行为由 Jev 驱动
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102483408551366656/vid/avc1/1762x1080/n91fsKuWg74fQd7p.mp4?tag=29"><img src="assets/media/2102483408551366656.jpg" alt="Unreal Engine 旧金山与 Jev 行为 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102483408551366656/vid/avc1/1762x1080/n91fsKuWg74fQd7p.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://video.twimg.com/amplify_video/2102483408551366656/vid/avc1/1762x1080/n91fsKuWg74fQd7p.mp4?tag=29"><img src="assets/media/2102483408551366656.jpg" alt="用 Jev 在 Unreal Engine 中制作旧金山 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102483408551366656/vid/avc1/1762x1080/n91fsKuWg74fQd7p.mp4?tag=29">播放来源视频 1</a></td>
 </tr>
 </table>
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-49"></a>
-### Case 49: [500 种器械的健身房布局](https://x.com/wesbos/status/2102450119975277027) (by [@wesbos](https://x.com/wesbos))
+### 案例 49: [500 种器械的健身房布局](https://x.com/wesbos/status/2102450119975277027) (作者 [@wesbos](https://x.com/wesbos))
 
-**作者展示渲染 500 种健身设备并搭建健身房布局工具的工作**
+**参考健身房规划工具，将渲染后的设备目录与布局控件结合**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示渲染 500 种健身设备并搭建健身房布局工具的工作
 
 <table>
 <tr>
@@ -1002,12 +1104,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-50"></a>
-### Case 50: [四模型火箭发射测试](https://x.com/bridgebench/status/2102476831031017581) (by [@bridgebench](https://x.com/bridgebench))
+### 案例 50: [四模型火箭发射测试](https://x.com/bridgebench/status/2102476831031017581) (作者 [@bridgebench](https://x.com/bridgebench))
 
-**BridgeBench 平台用同一提示比较四模型生成 3D 火箭发射的结果；自报 GPT-6 Luna 不足 0.01 美元、约 1 分钟；GPT-6 Sol 为 0.11 美元、1 分钟；Grok 4.7 为 0.29 美元、11 分钟；Opus 5.5 为 1.52 美元、12 分钟**
+**比较四款火箭发射产物时，同时查看平台报告的时间与费用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+BridgeBench 平台用同一提示比较四模型生成 3D 火箭发射的结果，属于平台自营推广；自报费用和时间：GPT-6 Luna 不足 $0.01／约 1m，GPT-6 Sol 为 $0.11／1m，Grok 4.7 为 $0.29／11m，Opus 5.5 为 $1.52／12m
 
 <table>
 <tr>
@@ -1017,12 +1121,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-51"></a>
-### Case 51: [骑自行车的鹈鹕作品](https://x.com/cxjwin/status/2102460145951519077) (by [@cxjwin](https://x.com/cxjwin))
+### 案例 51: [骑自行车的鹈鹕作品](https://x.com/cxjwin/status/2102460145951519077) (作者 [@cxjwin](https://x.com/cxjwin))
 
-**作者展示以骑自行车的鹈鹕为主题的作品**
+**将骑自行车的鹈鹕作品作为视觉产物查看，不把它当成已记录完整流程的案例**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示以骑自行车的鹈鹕为主题的作品
 
 <table>
 <tr>
@@ -1032,27 +1138,31 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-52"></a>
-### Case 52: [重建地震前的 Market Street](https://x.com/alexalbert__/status/2102466523164274839) (by [@alexalbert__](https://x.com/alexalbert__))
+### 案例 52: [重建 1906 年地震前的 Market Street](https://x.com/alexalbert__/status/2102466523164274839) (作者 [@alexalbert__](https://x.com/alexalbert__))
 
-**这则平台推广展示用 Blender 一次提示重建 1906 年地震前旧金山 Market Street；“符合历史”的说法来自发帖方**
+**历史准确性核验前，将 Market Street 场景视为 Blender 创作性复现**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+这则平台推广展示用 Blender 一次提示重建 1906 年地震前旧金山 Market Street；“符合历史”的说法来自发帖方
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102465460545675264/vid/avc1/960x680/pI_d-60Nkkemn0zI.mp4?tag=29"><img src="assets/media/2102465460545675264.jpg" alt="重建地震前的 Market Street — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102465460545675264/vid/avc1/960x680/pI_d-60Nkkemn0zI.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://video.twimg.com/amplify_video/2102465460545675264/vid/avc1/960x680/pI_d-60Nkkemn0zI.mp4?tag=29"><img src="assets/media/2102465460545675264.jpg" alt="重建 1906 年地震前的 Market Street — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102465460545675264/vid/avc1/960x680/pI_d-60Nkkemn0zI.mp4?tag=29">播放来源视频 1</a></td>
 </tr>
 </table>
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-53"></a>
-### Case 53: [Blender 鹈鹕循环动画对比](https://x.com/atomic_chat_hq/status/2102492834485895265) (by [@atomic_chat_hq](https://x.com/atomic_chat_hq))
+### 案例 53: [Blender 鹈鹕循环动画对比](https://x.com/atomic_chat_hq/status/2102492834485895265) (作者 [@atomic_chat_hq](https://x.com/atomic_chat_hq))
 
-**Atomic Chat 平台展示 Blender 中鹈鹕骑自行车的循环动画，用相同提示词与 GPT-6 Sol 比较；“更有魅力”的评价来自平台自营推广**
+**比较鹈鹕循环动画时，将平台对角色魅力的偏好单独看待**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Atomic Chat 平台展示 Blender 中鹈鹕骑自行车的循环动画，用相同提示词与 GPT-6 Sol 比较；“更有魅力”的评价来自平台自营推广
 
 <table>
 <tr>
@@ -1062,12 +1172,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-54"></a>
-### Case 54: [Blender 作品展示](https://x.com/superalesha/status/2102487989381156991) (by [@superalesha](https://x.com/superalesha))
+### 案例 54: [Blender 作品展示](https://x.com/superalesha/status/2102487989381156991) (作者 [@superalesha](https://x.com/superalesha))
 
-**作者分享 Blender 作品，正文没有说明具体制作对象**
+**由于帖子未说明主题或流程，应直接查看 Blender 产物**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者分享 Blender 作品，正文没有说明具体制作对象
 
 <table>
 <tr>
@@ -1077,12 +1189,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-55"></a>
-### Case 55: [Blender 风车制作流程](https://x.com/higgsfield_ai/status/2102453658889953717) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 55: [Blender 风车制作流程](https://x.com/higgsfield_ai/status/2102453658889953717) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台称用 15 分钟完成 Blender 风车的建模、绑定、贴图和动画，属于平台自营推广中的流程展示**
+**参考风车展示，查看 Blender 建模、绑定、贴图与动画的组合流程**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台称用 15 分钟完成 Blender 风车的建模、绑定、贴图和动画，属于平台自营推广中的流程展示
 
 <table>
 <tr>
@@ -1092,12 +1206,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-56"></a>
-### Case 56: [纯代码金门大桥场景](https://x.com/petergyang/status/2102458049856479474) (by [@petergyang](https://x.com/petergyang))
+### 案例 56: [纯代码金门大桥场景](https://x.com/petergyang/status/2102458049856479474) (作者 [@petergyang](https://x.com/petergyang))
 
-**作者展示用纯代码生成的金门大桥场景，并主观认为其 3D 场景能力与 Astra 相当，附上对比演示视频**
+**接受作者的质量评价前，将代码生成的大桥场景与链接中的对照内容比较**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示用纯代码生成的金门大桥场景，并主观认为其 3D 场景能力与 Astra 相当，附上对比演示视频
 
 <table>
 <tr>
@@ -1107,12 +1223,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-57"></a>
-### Case 57: [火山岛、水下生态与极光](https://x.com/vib3coded/status/2102450239923720440) (by [@vib3coded](https://x.com/vib3coded))
+### 案例 57: [火山岛、水下生态与极光](https://x.com/vib3coded/status/2102450239923720440) (作者 [@vib3coded](https://x.com/vib3coded))
 
-**作者展示火山岛、水下生态、植被、猛犸象与极光，对照自报成本 1.6 美元的 Opus 5 和 3.4 美元的 Opus 5.5；作者认为视觉效果接近 Astra，但也说明两个不同场景不足以得出定论**
+**不要从两个不同的风景场景得出确定的模型排名**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示火山岛、水下生态、植被、猛犸象与极光，对照自报成本 1.6 美元的 Opus 5 和 3.4 美元的 Opus 5.5；作者认为视觉效果接近 Astra，但也说明两个不同场景不足以得出定论
 
 <table>
 <tr>
@@ -1122,12 +1240,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-58"></a>
-### Case 58: [外骨骼关节的 Blender 重设计](https://x.com/higgsfield_ai/status/2102449278283313303) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 58: [外骨骼关节的 Blender 重设计](https://x.com/higgsfield_ai/status/2102449278283313303) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台称一次运行 39 分钟、使用 550 万 token，分析外骨骼弱点并在 Blender 重设计包括关节的 3D 模型；机械可靠性尚未验证**
+**机械可靠性验证前，将重新设计的外骨骼视为建模方案**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台称一次运行 39 分钟、使用 5.5 million token，分析外骨骼弱点并在 Blender 重设计包括关节的 3D 模型；机械可靠性尚未验证
 
 <table>
 <tr>
@@ -1137,12 +1257,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-59"></a>
-### Case 59: [Cowork 中的 Solarpunk 城市](https://x.com/danveloper/status/2102483043252424986) (by [@danveloper](https://x.com/danveloper))
+### 案例 59: [Cowork 中的 Solarpunk 城市](https://x.com/danveloper/status/2102483043252424986) (作者 [@danveloper](https://x.com/danveloper))
 
-**作者展示在 Cowork 中构建的 solarpunk 城市场景**
+**将太阳朋克场景作为在 Cowork 中构建 3D 环境的自报案例查看**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示在 Cowork 中构建的 solarpunk 城市场景
 
 <table>
 <tr>
@@ -1152,12 +1274,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-60"></a>
-### Case 60: [Three.js 纽约街区](https://x.com/aipulseda1ly/status/2102465200666370514) (by [@aipulseda1ly](https://x.com/aipulseda1ly))
+### 案例 60: [Three.js 纽约街区](https://x.com/aipulseda1ly/status/2102465200666370514) (作者 [@aipulseda1ly](https://x.com/aipulseda1ly))
 
-**作者展示含出租车、屋顶、布鲁克林大桥和中央公园的 Three.js 纽约场景，并与 GPT-6 Sol 对照；作者称本次 Sol 输出只有静止画面、没有渲染循环且无法移动摄像机**
+**比较两个纽约场景时，检查渲染循环与摄像机运动**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示含出租车、屋顶、布鲁克林大桥和中央公园的 Three.js 纽约场景，并与 GPT-6 Sol 对照；作者称本次 Sol 输出只有静止画面、没有渲染循环且无法移动摄像机
 
 <table>
 <tr>
@@ -1167,12 +1291,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-61"></a>
-### Case 61: [另一则鹈鹕骑车作品](https://x.com/riba2534/status/2102470079254556793) (by [@riba2534](https://x.com/riba2534))
+### 案例 61: [另一则鹈鹕骑车作品](https://x.com/riba2534/status/2102470079254556793) (作者 [@riba2534](https://x.com/riba2534))
 
-**作者展示用 Opus 5.5 制作的鹈鹕骑自行车作品**
+**将这一骑车鹈鹕作品作为相同主题的补充视觉参考**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示用 Opus 5.5 制作的鹈鹕骑自行车作品
 
 <table>
 <tr>
@@ -1187,12 +1313,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-62"></a>
-### Case 62: [Blender 新干线车厢模型](https://x.com/higgsfield_ai/status/2102507018372436264) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 62: [Blender 新干线车厢模型](https://x.com/higgsfield_ai/status/2102507018372436264) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示 Blender 新干线模型，并声称包含 5,112 个对象和 430 个座位；这些数量来自平台自述**
+**采信平台自报的物体和座位数量前，先检查新干线模型**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示 Blender 新干线模型，并声称包含 5,112 个对象和 430 个座位；这些数量来自平台自述
 
 <table>
 <tr>
@@ -1202,12 +1330,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-63"></a>
-### Case 63: [图片转低多边形 3D](https://x.com/izutorishima/status/2102456991109230759) (by [@izutorishima](https://x.com/izutorishima))
+### 案例 63: [图片转低多边形 3D](https://x.com/izutorishima/status/2102456991109230759) (作者 [@izutorishima](https://x.com/izutorishima))
 
-**作者将输入图片一次转为低多边形 3D，认为色彩还原较好，同时指出模型“过于低多边形”；两点均为作者观察**
+**评估自报的图像转 3D 结果时，同时检查几何细节与色彩还原**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者将输入图片一次转为低多边形 3D，认为色彩还原较好，同时指出模型“过于低多边形”；两点均为作者观察
 
 <table>
 <tr>
@@ -1218,27 +1348,31 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-64"></a>
-### Case 64: [多工具角色建模与动画](https://x.com/luccacerf/status/2102478608274989225) (by [@luccacerf](https://x.com/luccacerf))
+### 案例 64: [Tripo P2、JEF 与 MCP 角色制作流程](https://x.com/luccacerf/status/2102478608274989225) (作者 [@luccacerf](https://x.com/luccacerf))
 
-**这则明确合作分发的演示组合 Tripo P2、JEF 与 Blender MCP，作者称 20 分钟完成角色网格、含权重绘制的 IK 绑定、衣服和动画；对 Astra 需约十小时及两次周额度重置的说法是作者估计，并非同条件实测**
+**评估角色制作流程时，应计入 Tripo P2、JEF 和 Blender MCP 的作用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+这则明确合作分发的演示组合 Tripo P2、JEF 与 Blender MCP，作者称 20 分钟完成角色网格、含权重绘制的 IK 绑定、衣服和动画；对 Astra 需约十小时及两次周额度重置的说法是作者估计，并非同条件实测
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478453639421952/vid/avc1/1966x1080/pxlt3gYx7N7PQdxD.mp4?tag=29"><img src="assets/media/2102478453639421952.jpg" alt="多工具角色建模与动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478453639421952/vid/avc1/1966x1080/pxlt3gYx7N7PQdxD.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://video.twimg.com/amplify_video/2102478453639421952/vid/avc1/1966x1080/pxlt3gYx7N7PQdxD.mp4?tag=29"><img src="assets/media/2102478453639421952.jpg" alt="Tripo P2、JEF 与 MCP 角色制作流程 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478453639421952/vid/avc1/1966x1080/pxlt3gYx7N7PQdxD.mp4?tag=29">播放来源视频 1</a></td>
 </tr>
 </table>
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-65"></a>
-### Case 65: [住宅照片与平面图转 3D](https://x.com/higgsfield_ai/status/2102499166635352354) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 65: [住宅照片与平面图转 3D](https://x.com/higgsfield_ai/status/2102499166635352354) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示把一张住宅照片和平面图转为 Blender 模型，并制作离线浏览器查看器，可查看施工阶段、透视墙体和漫游带家具的室内空间**
+**可结合房屋照片与平面图，制作带交互式浏览器查看器的模型原型**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示把一张住宅照片和平面图转为 Blender 模型，并制作离线浏览器查看器，可查看施工阶段、透视墙体和漫游带家具的室内空间
 
 <table>
 <tr>
@@ -1248,12 +1382,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-66"></a>
-### Case 66: [瓶中船生成测试](https://x.com/Conor_D_Dart/status/2102457201378075081) (by [@Conor_D_Dart](https://x.com/Conor_D_Dart))
+### 案例 66: [瓶中船生成测试](https://x.com/Conor_D_Dart/status/2102457201378075081) (作者 [@Conor_D_Dart](https://x.com/Conor_D_Dart))
 
-**作者展示以瓶中船为题的生成测试结果**
+**查看瓶中船结果的场景构图，不推断未公开的制作流程**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示以瓶中船为题的生成测试结果
 
 <table>
 <tr>
@@ -1263,12 +1399,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-67"></a>
-### Case 67: [DeLorean 与钟楼闪电动画](https://x.com/Stefan_3D_AI/status/2102502889512194348) (by [@Stefan_3D_AI](https://x.com/Stefan_3D_AI))
+### 案例 67: [DeLorean 与钟楼闪电动画](https://x.com/Stefan_3D_AI/status/2102502889512194348) (作者 [@Stefan_3D_AI](https://x.com/Stefan_3D_AI))
 
-**作者以相同提示和 Max effort 比较 Opus 5.5 与 GPT-6 Astra 的 DeLorean、钟楼和闪电动画，两者均通过 Higgsfield Blender 插件与 MCP 操作 Blender，可使用 Nano Banana Pro 和 Tripo；自报 Opus 用时 73 分钟、218k 输出 token、API 折算 27.3 美元，含可动门轮和命中闪电；Astra 为 88 分钟、136k token、21.3 美元，未用生成器而自行建了 517 个对象**
+**比较动画场景的行为时，同时查看各模型的生成工具使用、运行时间与估算费用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者以相同提示和 Max effort 比较 DeLorean、钟楼和闪电动画，两者均使用 Higgsfield 的 Blender 插件与 MCP，可访问 Nano Banana Pro 和 Tripo；自报 Opus 为 73m／218k 输出 token／$27.3 API 等价费用，含可动门轮和命中闪电；GPT-6 Astra 为 88m／136k／$21.3，未用生成器而自行建了全部 517 个对象
 
 <table>
 <tr>
@@ -1278,12 +1416,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-68"></a>
-### Case 68: [从草图到成屋的四阶段展示](https://x.com/techartist_/status/2102503719762018434) (by [@techartist_](https://x.com/techartist_))
+### 案例 68: [从草图到成屋的四阶段展示](https://x.com/techartist_/status/2102503719762018434) (作者 [@techartist_](https://x.com/techartist_))
 
-**作者用 Three.js 与 TSL 展示建筑从草图、体块、细节到成屋的四阶段变化**
+**通过分阶段的 Three.js 和 TSL 视图展示建筑从草图到完工的过程**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用 Three.js 与 TSL 展示建筑从草图、体块、细节到成屋的四阶段变化
 
 <table>
 <tr>
@@ -1293,31 +1433,33 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-69"></a>
-### Case 69: [3D 效果与单次成本对比](https://x.com/aimlapi/status/2102515672710533417) (by [@aimlapi](https://x.com/aimlapi))
+### 案例 69: [3D 效果与自报成本对比](https://x.com/aimlapi/status/2102515672710533417) (作者 [@aimlapi](https://x.com/aimlapi))
 
-**AI/ML API 平台比较 Opus 5.5 与 GPT-6 Sol 的 3D 生成效果，自报单次成本分别为 4.37 美元和 0.34 美元，前者约为后者 13 倍；质量评价来自平台自营推广**
+**权衡展示的 3D 产物与平台报告的费用差异**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+AI/ML API 平台比较 Opus 5.5 与 GPT-6 Sol 的 3D 生成效果，自报成本分别为 4.37 美元和 0.34 美元，前者约为后者 13 倍；质量评价来自平台自营推广
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102515321844232193/vid/avc1/1874x1364/STEuP1iOH7NVNKYR.mp4?tag=29"><img src="assets/media/2102515321844232193.jpg" alt="3D 效果与单次成本对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102515321844232193/vid/avc1/1874x1364/STEuP1iOH7NVNKYR.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://video.twimg.com/amplify_video/2102515321844232193/vid/avc1/1874x1364/STEuP1iOH7NVNKYR.mp4?tag=29"><img src="assets/media/2102515321844232193.jpg" alt="3D 效果与自报成本对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102515321844232193/vid/avc1/1874x1364/STEuP1iOH7NVNKYR.mp4?tag=29">播放来源视频 1</a></td>
 </tr>
 </table>
 
-补充来源与合并记录:
-
-- [@testingcatalog](https://x.com/testingcatalog/status/2102523754186256535): TestingCatalog 转述 AI/ML API 的四场景生成测试，包含动画鱼群；Opus 合计 4.37 美元，Sol 为 0.34 美元；更细致的画面是原测试方的判断，工具条件需随原帖阅读
+补充来源／合并报告: [@testingcatalog](https://x.com/testingcatalog/status/2102523754186256535)
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-70"></a>
-### Case 70: [绘画扩展为可换视角的场景](https://x.com/higgsfield_ai/status/2102514727956156600) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 70: [绘画扩展为可换视角的场景](https://x.com/higgsfield_ai/status/2102514727956156600) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示将绘画扩展成 Blender 与 Unreal Engine 场景，并从不同视角查看结果**
+**参考画作扩展案例，了解如何从多个 3D 角度探索平面构图**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示将绘画扩展成 Blender 与 Unreal Engine 场景，并从不同视角查看结果
 
 <table>
 <tr>
@@ -1327,12 +1469,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-71"></a>
-### Case 71: [3D 家具布局模拟](https://x.com/higgsfield_ai/status/2102510590468239373) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 71: [3D 家具布局模拟](https://x.com/higgsfield_ai/status/2102510590468239373) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示家具布局模拟器，用来尝试不同的 3D 家具摆放方案**
+**可用 3D 布局模拟器比较家具摆放后再确定方案**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示家具布局模拟器，用来尝试不同的 3D 家具摆放方案
 
 <table>
 <tr>
@@ -1342,12 +1486,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-72"></a>
-### Case 72: [保留笔触的炭笔画 3D 化](https://x.com/higgsfield_ai/status/2102519226099761608) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 72: [保留笔触的炭笔画 3D 化](https://x.com/higgsfield_ai/status/2102519226099761608) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示将炭笔画转为 Blender 3D 场景，并保留原画笔触纹理**
+**查看炭笔画转 Blender 的过程如何将笔触纹理带入 3D 场景**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示将炭笔画转为 Blender 3D 场景，并保留原画笔触纹理
 
 <table>
 <tr>
@@ -1357,12 +1503,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-73"></a>
-### Case 73: [多人漫游地中海港口](https://x.com/karankendre/status/2102475904752754923) (by [@karankendre](https://x.com/karankendre))
+### 案例 73: [多人漫游地中海港口](https://x.com/karankendre/status/2102475904752754923) (作者 [@karankendre](https://x.com/karankendre))
 
-**作者展示可在浏览器中多人漫游的地中海港口小镇，场景与声音由程序生成，人物则使用导入的扫描素材**
+**评估港口漫游时，区分程序化场景和声音与导入的人物素材**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示可在浏览器中多人漫游的地中海港口小镇，场景与声音由程序生成，人物则使用导入的扫描素材
 
 <table>
 <tr>
@@ -1372,12 +1520,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-74"></a>
-### Case 74: [3D 控制器演示](https://x.com/marmaduke091/status/2102506267755639143) (by [@marmaduke091](https://x.com/marmaduke091))
+### 案例 74: [3D 控制器演示](https://x.com/marmaduke091/status/2102506267755639143) (作者 [@marmaduke091](https://x.com/marmaduke091))
 
-**作者称一次生成控制器的 3D 版本，并让模型制作分享视频；引用帖说明先前在 Claude Code 中做的是 Xbox 控制器 SVG**
+**分别查看控制器演示、要求制作的视频及其引用的早期 SVG 任务**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者称一次生成控制器的 3D 版本，并让模型制作分享视频；引用帖说明先前在 Claude Code 中做的是 Xbox 控制器 SVG
 
 <table>
 <tr>
@@ -1387,12 +1537,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-75"></a>
-### Case 75: [Minecraft 风格寺院花园](https://x.com/notjazii/status/2102499296512025026) (by [@notjazii](https://x.com/notjazii))
+### 案例 75: [Minecraft 风格寺院花园](https://x.com/notjazii/status/2102499296512025026) (作者 [@notjazii](https://x.com/notjazii))
 
-**作者比较 Opus 5.5 与 GPT-6 Astra，媒体预览为 Minecraft 风格寺院花园；优劣判断来自作者这次测试的主观评价**
+**比较寺庙花园预览时，不把作者的模型偏好推广为普遍结论**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者比较 Opus 5.5 与 GPT-6 Astra，媒体预览为 Minecraft 风格寺院花园；优劣判断来自作者这次测试的主观评价
 
 <table>
 <tr>
@@ -1403,12 +1555,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-76"></a>
-### Case 76: [Blender 章鱼模型与动画](https://x.com/higgsfield_ai/status/2102526940859232433) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 76: [Blender 章鱼模型与动画](https://x.com/higgsfield_ai/status/2102526940859232433) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示 Blender 章鱼建模与动画；“AAA 品质”是平台的宣传措辞，而非经独立验证的质量等级**
+**查看章鱼模型与动画时，不把平台宣传的质量标签当成评级**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示 Blender 章鱼建模与动画；“AAA 品质”是平台的宣传措辞，而非经独立验证的质量等级
 
 <table>
 <tr>
@@ -1418,12 +1572,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-77"></a>
-### Case 77: [纽约场景与旧版同题对比](https://x.com/aipulseda1ly/status/2102457160881905906) (by [@aipulseda1ly](https://x.com/aipulseda1ly))
+### 案例 77: [纽约场景与旧版同题对比](https://x.com/aipulseda1ly/status/2102457160881905906) (作者 [@aipulseda1ly](https://x.com/aipulseda1ly))
 
-**作者用相同纽约场景任务比较 Opus 5.5（High effort）与 Opus 5，画面包括帝国大厦、布鲁克林大桥、中央公园树木与日落卷云**
+**比较相同的纽约场景任务时，保留各模型版本与推理档位**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用相同纽约场景任务比较 Opus 5.5（High effort）与 Opus 5，画面包括帝国大厦、布鲁克林大桥、中央公园树木与日落卷云
 
 <table>
 <tr>
@@ -1433,12 +1589,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-78"></a>
-### Case 78: [跨场景飞行观光体验](https://x.com/petergyang/status/2102518420285927598) (by [@petergyang](https://x.com/petergyang))
+### 案例 78: [跨场景飞行观光体验](https://x.com/petergyang/status/2102518420285927598) (作者 [@petergyang](https://x.com/petergyang))
 
-**作者展示仿迪士尼 Soaring 的飞行观光体验，穿行于阿尔卑斯、极光、金字塔、长城与有烟花的巴黎夜景，并附制作演示视频**
+**通过制作讲解视频了解观光飞行如何衔接不同风景**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示仿迪士尼 Soaring 的飞行观光体验，穿行于阿尔卑斯、极光、金字塔、长城与有烟花的巴黎夜景，并附制作演示视频
 
 <table>
 <tr>
@@ -1448,12 +1606,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-79"></a>
-### Case 79: [体素风 Claude 动画](https://x.com/blueemi99/status/2102511304456212763) (by [@blueemi99](https://x.com/blueemi99))
+### 案例 79: [体素风 Claude 动画](https://x.com/blueemi99/status/2102511304456212763) (作者 [@blueemi99](https://x.com/blueemi99))
 
-**作者展示体素风格的 Claude 形象及其动画**
+**参考体素角色演示，为风格化的 Claude 形象制作动画**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示体素风格的 Claude 形象及其动画
 
 <table>
 <tr>
@@ -1463,12 +1623,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-80"></a>
-### Case 80: [体素鹈鹕对比 Fable 与 Astra](https://x.com/filicroval/status/2102453689252184365) (by [@filicroval](https://x.com/filicroval))
+### 案例 80: [体素鹈鹕对比 Fable 与 Astra](https://x.com/filicroval/status/2102453689252184365) (作者 [@filicroval](https://x.com/filicroval))
 
-**作者展示体素风鹈鹕骑自行车场景，比较 Fable 与 Astra，并称本次 token 消耗更低；引用帖将 Fable 版本写为 5.2**
+**比较体素鹈鹕产物时，将作者的 token 用量说法限定在这次尝试**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示体素风鹈鹕骑自行车场景，比较 Fable 与 Astra，并称本次 token 消耗更低；引用帖将 Fable 版本写为 5.2
 
 <table>
 <tr>
@@ -1478,12 +1640,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-81"></a>
-### Case 81: [赛车模型对比 GPT-6 Sol](https://x.com/AI_Screening/status/2102478485646373033) (by [@AI_Screening](https://x.com/AI_Screening))
+### 案例 81: [赛车模型对比 GPT-6 Sol](https://x.com/AI_Screening/status/2102478485646373033) (作者 [@AI_Screening](https://x.com/AI_Screening))
 
-**媒体预览展示赛车模型，并对照 GPT-6 Sol 在同一题目下的结果**
+**并排查看赛车模型，不推断展示产物之外的性能**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+媒体预览展示赛车模型，并对照 GPT-6 Sol 在同一题目下的结果
 
 <table>
 <tr>
@@ -1493,12 +1657,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-82"></a>
-### Case 82: [GPU 加速的猫毛发模拟](https://x.com/scottstts/status/2102498299190079933) (by [@scottstts](https://x.com/scottstts))
+### 案例 82: [GPU 加速的猫毛发模拟](https://x.com/scottstts/status/2102498299190079933) (作者 [@scottstts](https://x.com/scottstts))
 
-**作者展示一次生成的 Three.js 猫毛发模拟，使用 GPU 加速毛发计算**
+**将猫毛演示作为 Three.js 中 GPU 加速模拟的参考**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示一次生成的 Three.js 猫毛发模拟，使用 GPU 加速毛发计算
 
 <table>
 <tr>
@@ -1508,12 +1674,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-83"></a>
-### Case 83: [Minecraft 体素建造对比](https://x.com/Angaisb_/status/2102493141668643084) (by [@Angaisb_](https://x.com/Angaisb_))
+### 案例 83: [Minecraft 体素建造对比](https://x.com/Angaisb_/status/2102493141668643084) (作者 [@Angaisb_](https://x.com/Angaisb_))
 
-**作者主观比较 Opus 5.5 与 GPT-6 Astra 的 Minecraft 体素建造效果；VoxelBench 的正式测试仍处于计划阶段**
+**将作者对 Minecraft 产物的偏好与尚未开展的正式 VoxelBench 测试分开**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者主观比较 Opus 5.5 与 GPT-6 Astra 的 Minecraft 体素建造效果；VoxelBench 的正式测试仍处于计划阶段
 
 <table>
 <tr>
@@ -1523,12 +1691,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-84"></a>
-### Case 84: [三模型火箭飞船测试](https://x.com/RealFedeURU/status/2102450336472387899) (by [@RealFedeURU](https://x.com/RealFedeURU))
+### 案例 84: [三模型火箭飞船测试](https://x.com/RealFedeURU/status/2102450336472387899) (作者 [@RealFedeURU](https://x.com/RealFedeURU))
 
-**作者以火箭飞船为题比较 Opus 5.5 Medium、Grok 4.7 xhigh 和 Astra Medium；三者推理设置并不相同**
+**比较三款火箭飞船产物时，应考虑不同的推理设置**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者以火箭飞船为题比较 Opus 5.5 Medium、Grok 4.7 xhigh 和 Astra Medium；三者推理设置并不相同
 
 <table>
 <tr>
@@ -1538,12 +1708,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-85"></a>
-### Case 85: [Three.js 对照 Opus 5](https://x.com/NicolaManzini/status/2102472481151816101) (by [@NicolaManzini](https://x.com/NicolaManzini))
+### 案例 85: [Three.js 对照 Opus 5](https://x.com/NicolaManzini/status/2102472481151816101) (作者 [@NicolaManzini](https://x.com/NicolaManzini))
 
-**作者比较 Opus 5.5 与 Opus 5 的 Three.js 编码效果，并附上评测平台**
+**打开所链接的评测平台，查看不同 Opus 版本在 Three.js 任务上的对比**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者比较 Opus 5.5 与 Opus 5 的 Three.js 编码效果，并附上评测平台
 
 <table>
 <tr>
@@ -1553,12 +1725,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-86"></a>
-### Case 86: [Three.js 末日短片对比](https://x.com/thehypedotnews/status/2102527541051633903) (by [@thehypedotnews](https://x.com/thehypedotnews))
+### 案例 86: [Three.js 末日短片对比](https://x.com/thehypedotnews/status/2102527541051633903) (作者 [@thehypedotnews](https://x.com/thehypedotnews))
 
-**作者比较 Opus 5.5、Fable 5.1 与 GPT-6 Astra 的游乐场、鬼城、核电站 Three.js 单文件短片，报告 36 个镜头均可渲染，但 Astra 核电站缺少要求的星空；Opus/Fable 在 Claude Code 中可查看画面并反复修复，Astra 在 OpenRouter 仅一次回复，Fable 成本/token 为估算；总成本自报为 19.38/约 9.20/8.43 美元，用时约 69/40/27 分钟，不能作公平模型排名**
+**比较渲染短片前，应考虑不同的运行环境、修复机会与估算费用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者比较 Opus 5.5、Fable 5.1 与 GPT-6 Astra 的游乐场、鬼城、核电站 Three.js 单文件短片，报告全部 36 个镜头均可渲染，但 Astra 缺少要求的星空；Opus/Fable 在 Claude Code 中可查看画面并修复，Astra 在 OpenRouter 仅一次回复，Fable 费用和 token 为估算；总费用自报为 $19.38／约 $9.20／$8.43，用时约 69／40／27m，不能作公平模型排名
 
 <table>
 <tr>
@@ -1568,16 +1742,18 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 
 <a id="category-audio"></a>
 ## 🧩 音乐与声音
 
 <a id="case-87"></a>
-### Case 87: [JavaScript 合成 Bass 音乐](https://x.com/aj_dev_smith/status/2102504509637587339) (by [@aj_dev_smith](https://x.com/aj_dev_smith))
+### 案例 87: [JavaScript 合成 Bass 音乐](https://x.com/aj_dev_smith/status/2102504509637587339) (作者 [@aj_dev_smith](https://x.com/aj_dev_smith))
 
-**作者展示通过单条提示词编写 JavaScript 来合成 bass 音乐的结果**
+**将低音音乐演示作为直接用 JavaScript 合成声音的参考**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示通过单条提示词编写 JavaScript 来合成 bass 音乐的结果
 
 <table>
 <tr>
@@ -1587,12 +1763,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-88"></a>
-### Case 88: [音乐错误检测满分自报](https://x.com/aug5thmusic/status/2102451262260412453) (by [@aug5thmusic](https://x.com/aug5thmusic))
+### 案例 88: [音乐错误检测满分自报](https://x.com/aug5thmusic/status/2102451262260412453) (作者 [@aug5thmusic](https://x.com/aug5thmusic))
 
-**作者在十段四声部圣咏中测试声部进行错误检测，报告 Opus 5.5 满分，与先前 GPT-6 Astra 和 Grok 4.7 相同；题集与结果的泛化能力尚未独立验证**
+**将合唱错误检测满分视为十段素材上的自报结果，等待更广泛的验证**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者在十段四声部圣咏中测试声部进行错误检测，报告 Opus 5.5 满分，与先前 GPT-6 Astra 和 Grok 4.7 相同；题集与结果的泛化能力尚未独立验证
 
 <table>
 <tr>
@@ -1602,12 +1780,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-89"></a>
-### Case 89: [音效生成工作流](https://x.com/yugen_matuni/status/2102529143128916052) (by [@yugen_matuni](https://x.com/yugen_matuni))
+### 案例 89: [音效生成工作流](https://x.com/yugen_matuni/status/2102529143128916052) (作者 [@yugen_matuni](https://x.com/yugen_matuni))
 
-**作者展示音效生成流程，但正文没有说明具体生成的音色**
+**由于帖子未说明生成了哪些声音，应直接查看音效工作流**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示音效生成流程，但正文没有说明具体生成的音色
 
 <table>
 <tr>
@@ -1617,16 +1797,18 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 
 <a id="category-graphics"></a>
 ## 🧩 创意图形与动画
 
 <a id="case-90"></a>
-### Case 90: [Pocket Color 掌机图形对比](https://x.com/Angaisb_/status/2102476249671082365) (by [@Angaisb_](https://x.com/Angaisb_))
+### 案例 90: [Pocket Color 掌机图形对比](https://x.com/Angaisb_/status/2102476249671082365) (作者 [@Angaisb_](https://x.com/Angaisb_))
 
-**作者比较 Opus 5.5 与 GPT-6 Sol，媒体预览展示 Pocket Color 掌机外观的图形生成结果**
+**按可见外观细节比较掌机图形，不推断设备功能**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者比较 Opus 5.5 与 GPT-6 Sol，媒体预览展示 Pocket Color 掌机外观的图形生成结果
 
 <table>
 <tr>
@@ -1637,12 +1819,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-91"></a>
-### Case 91: [18 分 31 秒的 Sweet Tooth 动画](https://x.com/cherry_mx_reds/status/2102472218269900876) (by [@cherry_mx_reds](https://x.com/cherry_mx_reds))
+### 案例 91: [18 分 31 秒的 Sweet Tooth 动画](https://x.com/cherry_mx_reds/status/2102472218269900876) (作者 [@cherry_mx_reds](https://x.com/cherry_mx_reds))
 
-**作者展示一次生成的 Sweet Tooth 动画，并报告用时为 18 分 31 秒**
+**将自报的单次生成时间推广到其他任务前，先查看 Sweet Tooth 动画**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示据称一次生成的 Sweet Tooth 动画，报告用时 18 分钟 31 秒
 
 <table>
 <tr>
@@ -1652,12 +1836,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-92"></a>
-### Case 92: [Claude 与 AGI 主题卡通](https://x.com/other__reality/status/2102514581684052169) (by [@other__reality](https://x.com/other__reality))
+### 案例 92: [Claude 与 AGI 主题卡通](https://x.com/other__reality/status/2102514581684052169) (作者 [@other__reality](https://x.com/other__reality))
 
-**报告抽查视频确认作品为 Claude 角色与 AGI 主题的卡通动画，但原帖正文未披露具体生成链路**
+**将卡通作品作为视觉参考，同时保留生成流程未说明的边界**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+报告抽查视频确认作品为 Claude 角色与 AGI 主题的卡通动画，但原帖正文未披露具体生成链路
 
 <table>
 <tr>
@@ -1667,12 +1853,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-93"></a>
-### Case 93: [纯代码像素巫师动画](https://x.com/majidmanzarpour/status/2102476258948927543) (by [@majidmanzarpour](https://x.com/majidmanzarpour))
+### 案例 93: [纯代码像素巫师动画](https://x.com/majidmanzarpour/status/2102476258948927543) (作者 [@majidmanzarpour](https://x.com/majidmanzarpour))
 
-**作者展示纯代码制作的像素巫师动画，并表示提示词放在回复中**
+**查看代码像素动画，并到回复中查找作者所称的提示词**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示纯代码制作的像素巫师动画，并表示提示词放在回复中
 
 <table>
 <tr>
@@ -1682,12 +1870,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-94"></a>
-### Case 94: [逐帧编写 JavaScript 动画](https://x.com/strawhatsu4/status/2102457111787745405) (by [@strawhatsu4](https://x.com/strawhatsu4))
+### 案例 94: [逐帧编写 JavaScript 动画](https://x.com/strawhatsu4/status/2102457111787745405) (作者 [@strawhatsu4](https://x.com/strawhatsu4))
 
-**作者展示 Opus 5.5 用 JavaScript 绘制每一帧的动画**
+**将逐帧绘制的动画作为通过 JavaScript 渲染产生运动的参考**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示 Opus 5.5 用 JavaScript 绘制每一帧的动画
 
 <table>
 <tr>
@@ -1697,12 +1887,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-95"></a>
-### Case 95: [Nintendo Switch 的 SVG 动画](https://x.com/ishuagra02/status/2102451375724499350) (by [@ishuagra02](https://x.com/ishuagra02))
+### 案例 95: [Nintendo Switch 的 SVG 动画](https://x.com/ishuagra02/status/2102451375724499350) (作者 [@ishuagra02](https://x.com/ishuagra02))
 
-**作者用 Max 档生成 Nintendo Switch SVG，并与 Gemini 4 Pro 的结果比较；引用提示包含手柄插入和开机标志动画；这次生成据称消耗了 20 美元订阅方案单次会话额度的 27%**
+**权衡 SVG 动画需求与 Max 档下自报的会话额度消耗**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用 Max 档生成 Nintendo Switch SVG，并与 Gemini 4 Pro 的结果比较；引用提示包含手柄插入和开机标志动画；这次生成据称消耗了 20 美元订阅方案单次会话额度的 27%
 
 <table>
 <tr>
@@ -1712,12 +1904,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-96"></a>
-### Case 96: [用代码描绘思考难题的过程](https://x.com/chetaslua/status/2102478640428773861) (by [@chetaslua](https://x.com/chetaslua))
+### 案例 96: [用代码描绘思考难题的过程](https://x.com/chetaslua/status/2102478640428773861) (作者 [@chetaslua](https://x.com/chetaslua))
 
-**作者展示一段纯代码动画，以想象中的模型思考难题过程为主题**
+**将纯代码动画作为解题过程的创意想象，而非模型内部过程说明**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示一段纯代码动画，以想象中的模型思考难题过程为主题
 
 <table>
 <tr>
@@ -1727,12 +1921,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-97"></a>
-### Case 97: [鹈鹕骑车循环动画的转发](https://x.com/NFT_Chen/status/2102449680793903561) (by [@NFT_Chen](https://x.com/NFT_Chen))
+### 案例 97: [鹈鹕骑车循环动画的转发](https://x.com/NFT_Chen/status/2102449680793903561) (作者 [@NFT_Chen](https://x.com/NFT_Chen))
 
-**帖子转发鹈鹕骑自行车的循环动画，强调抬起前轮等动作；属于二手作品展示，没有独立复现制作过程**
+**查看骑车动作时，保留该转发循环动画的二手署名**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+帖子转发鹈鹕骑自行车的循环动画，强调抬起前轮等动作；属于二手作品展示，没有独立复现制作过程
 
 <table>
 <tr>
@@ -1742,12 +1938,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-98"></a>
-### Case 98: [PS5 手柄 SVG 同题对比](https://x.com/bridgemindai/status/2102484711389966509) (by [@bridgemindai](https://x.com/bridgemindai))
+### 案例 98: [PS5 手柄 SVG 同题对比](https://x.com/bridgemindai/status/2102484711389966509) (作者 [@bridgemindai](https://x.com/bridgemindai))
 
-**BridgeMind 平台用同一条「绘制 PS5 手柄 SVG」提示词，对比 Opus 5.5 与 GPT-6 Sol 的细节和阴影表现；这是平台自家展示，优劣判断来自发布方**
+**比较控制器细节和阴影时，将 BridgeMind 的推广性质量判断单独看待**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+BridgeMind 平台用同一条「绘制 PS5 手柄 SVG」提示词，对比 Opus 5.5 与 GPT-6 Sol 的细节和阴影表现；这是平台自家展示，优劣判断来自发布方
 
 <table>
 <tr>
@@ -1758,12 +1956,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-99"></a>
-### Case 99: [Devin 中的水面与粒子视觉对照](https://x.com/notjazii/status/2102488657194254806) (by [@notjazii](https://x.com/notjazii))
+### 案例 99: [Devin 中的水面与粒子视觉对照](https://x.com/notjazii/status/2102488657194254806) (作者 [@notjazii](https://x.com/notjazii))
 
-**作者在相同 Devin 执行环境、同提示和最高推理档下比较水面／粒子视觉：Opus 用时 2 小时 10 分、75 美元，Astra 为 1 小时 25 分、61 美元；作者公开披露 Cognition ambassador 身份；该帖是否付费未确认，耗时和费用为作者自报**
+**比较 Devin 视觉产物时，保留作者的关系披露、运行时间和费用说明**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者在相同 Devin 执行环境、同提示和最高推理档下比较水面／粒子视觉：Opus 为 2h 10m、$75，Astra 为 1h 25m、$61；作者披露 Cognition ambassador 身份，该帖是否付费未确认，耗时和费用为作者自报
 
 <table>
 <tr>
@@ -1773,12 +1973,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-100"></a>
-### Case 100: [Oktoberfest 主题动画](https://x.com/cherry_mx_reds/status/2102493303388475855) (by [@cherry_mx_reds](https://x.com/cherry_mx_reds))
+### 案例 100: [Oktoberfest 主题动画](https://x.com/cherry_mx_reds/status/2102493303388475855) (作者 [@cherry_mx_reds](https://x.com/cherry_mx_reds))
 
-**作者展示一次生成的 Oktoberfest 主题动画，并自报用时 14 分 48 秒；帖子称下方附制作方法**
+**采信自报的一次生成时间前，先查看啤酒节动画及所链接的说明**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示据称一次生成的 Oktoberfest 主题动画，自报用时 14 分钟 48 秒；帖子称下方附制作方法
 
 <table>
 <tr>
@@ -1788,12 +1990,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-101"></a>
-### Case 101: [用 JavaScript 同时编写音乐与画面](https://x.com/chetaslua/status/2102482039522107417) (by [@chetaslua](https://x.com/chetaslua))
+### 案例 101: [用 JavaScript 同时编写音乐与画面](https://x.com/chetaslua/status/2102482039522107417) (作者 [@chetaslua](https://x.com/chetaslua))
 
-**作者展示由 JavaScript 编写的音乐和视觉动画，并称全部内容均来自代码；帖子本身未证明这能替代通用音乐或视频生成流程**
+**将音乐与视觉组合演示作为 JavaScript 案例，谨慎看待其替代更广泛流程的证据**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示由 JavaScript 编写的音乐和视觉动画，并称全部内容均来自代码；帖子本身未证明这能替代通用音乐或视频生成流程
 
 <table>
 <tr>
@@ -1803,12 +2007,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-102"></a>
-### Case 102: [不依赖素材的 JavaScript 交互动画](https://x.com/chetaslua/status/2102501773705670994) (by [@chetaslua](https://x.com/chetaslua))
+### 案例 102: [不依赖素材的 JavaScript 交互动画](https://x.com/chetaslua/status/2102501773705670994) (作者 [@chetaslua](https://x.com/chetaslua))
 
-**作者展示可交互的风格化动画，称仅用 JavaScript 编写，没有使用外部素材、MCP 或 skill**
+**查看交互动画如何在作者所称的无外部素材或扩展条件下使用 JavaScript**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示可交互的风格化动画，称仅用 JavaScript 编写，没有使用外部素材、MCP 或 skill
 
 <table>
 <tr>
@@ -1818,12 +2024,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-103"></a>
-### Case 103: [同参考动画的三模型对比](https://x.com/noclipepe/status/2102464238493012270) (by [@noclipepe](https://x.com/noclipepe))
+### 案例 103: [同参考动画的三模型对比](https://x.com/noclipepe/status/2102464238493012270) (作者 [@noclipepe](https://x.com/noclipepe))
 
-**作者通过 AIML API，以相同提示和参考、XHigh 设置一次生成动画，对比 Opus 5.5、GPT-6 Astra 与 Opus 5；自报用时依次为 36:46、32:12、14:56，画面质量评价来自作者**
+**比较三款动画产物时，同时保留共同输入和作者自报的运行时间**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者通过 AIML API，以相同提示和参考、XHigh 设置一次生成动画，对比 Opus 5.5、GPT-6 Astra 与 Opus 5；自报用时依次为 36:46、32:12、14:56，画面质量评价来自作者
 
 <table>
 <tr>
@@ -1833,12 +2041,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-104"></a>
-### Case 104: [334 行 SVG 绘制 Xbox 手柄](https://x.com/marmaduke091/status/2102453079836622940) (by [@marmaduke091](https://x.com/marmaduke091))
+### 案例 104: [334 行 SVG 绘制 Xbox 手柄](https://x.com/marmaduke091/status/2102453079836622940) (作者 [@marmaduke091](https://x.com/marmaduke091))
 
-**作者在 Claude Code 中一次生成 334 行 SVG 的 Xbox 手柄，并称 Xbox 标志也由代码绘制；同时指出 Max effort 的 token 消耗很高**
+**查看紧凑的控制器 SVG 时，也要计入 Max 档下自报的高 token 消耗**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者在 Claude Code 中一次生成 334 行 SVG 的 Xbox 手柄，并称 Xbox 标志也由代码绘制；同时指出 Max effort 的 token 消耗很高
 
 <table>
 <tr>
@@ -1848,12 +2058,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-105"></a>
-### Case 105: [TouchDesigner 复现参考特效](https://x.com/higgsfield_ai/status/2102454774289539499) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 105: [TouchDesigner 复现参考特效](https://x.com/higgsfield_ai/status/2102454774289539499) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示 Opus 5.5 根据参考，在 TouchDesigner 中复现自家特效，称耗时 15 分钟；效果依赖 TouchDesigner 制作流程**
+**评估参考效果复现时，应计入 TouchDesigner 的作用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示 Opus 5.5 根据参考，在 TouchDesigner 中复现自家特效，称耗时 15 分钟；效果依赖 TouchDesigner 制作流程
 
 <table>
 <tr>
@@ -1863,12 +2075,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-106"></a>
-### Case 106: [Game Boy 掌机视觉测试](https://x.com/Angaisb_/status/2102453013776363887) (by [@Angaisb_](https://x.com/Angaisb_))
+### 案例 106: [Game Boy 掌机视觉测试](https://x.com/Angaisb_/status/2102453013776363887) (作者 [@Angaisb_](https://x.com/Angaisb_))
 
-**作者展示 Opus 5.5 对 Game Boy 掌机视觉任务的结果，并表示比 Astra 的版本更合自己的偏好；属于个人视觉测试和主观评价**
+**接受作者的视觉偏好前，自行比较 Game Boy 产物**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示 Opus 5.5 对 Game Boy 掌机视觉任务的结果，并表示比 Astra 的版本更合自己的偏好；属于个人视觉测试和主观评价
 
 <table>
 <tr>
@@ -1878,12 +2092,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-107"></a>
-### Case 107: [JavaScript 动画作品展示](https://x.com/Hesamation/status/2102472597170528449) (by [@Hesamation](https://x.com/Hesamation))
+### 案例 107: [JavaScript 动画作品展示](https://x.com/Hesamation/status/2102472597170528449) (作者 [@Hesamation](https://x.com/Hesamation))
 
-**作者分享 Opus 5.5 配合 JavaScript 制作的动画，正文主要展示结果，没有提供完整制作步骤**
+**将 JavaScript 动画作为产物参考，因为帖子缺少完整制作讲解**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者分享 Opus 5.5 配合 JavaScript 制作的动画，正文主要展示结果，没有提供完整制作步骤
 
 <table>
 <tr>
@@ -1891,18 +2107,18 @@ Type: Evaluation | Date: 2026-09-22
 </tr>
 </table>
 
-补充来源与合并记录:
-
-- [@satori_sz9](https://x.com/satori_sz9/status/2102467374138212826): 帖子转发据称由 Opus 5.5 用 JavaScript 生成的动画，未展示作者本人复现的过程
+补充来源／合并报告: [@satori_sz9](https://x.com/satori_sz9/status/2102467374138212826)
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-108"></a>
-### Case 108: [CoAnimator 的动画与声音编排](https://x.com/rege_dev/status/2102498682931441977) (by [@rege_dev](https://x.com/rege_dev))
+### 案例 108: [CoAnimator 的动画与声音编排](https://x.com/rege_dev/status/2102498682931441977) (作者 [@rege_dev](https://x.com/rege_dev))
 
-**CoAnimator 开发者展示用 Opus 5.5 经少量提示制作的动画，包含时间线、音效和环境声；这是自家应用展示，相关质量评价由作者给出**
+**查看 CoAnimator 如何在开发者自己的应用中结合动画、时间轴与声音**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+CoAnimator 开发者展示用 Opus 5.5 经少量提示制作的动画，包含时间线、音效和环境声；这是自家应用展示，相关质量评价由作者给出
 
 <table>
 <tr>
@@ -1912,12 +2128,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-109"></a>
-### Case 109: [HyperFrames 的 3D 镜头与文字特效](https://x.com/jake11moran/status/2102493361743839432) (by [@jake11moran](https://x.com/jake11moran))
+### 案例 109: [HyperFrames 的 3D 镜头与文字特效](https://x.com/jake11moran/status/2102493361743839432) (作者 [@jake11moran](https://x.com/jake11moran))
 
-**HyperFrames／HeyGen 相关人员展示 Opus 5.5 配合 HyperFrames 制作的 3D 镜头和文字特效，属于自家工具组合展示**
+**评估展示的 3D 镜头和文字效果时，应计入 HyperFrames 的作用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+HyperFrames／HeyGen 相关人员展示 Opus 5.5 配合 HyperFrames 制作的 3D 镜头和文字特效，属于自家工具组合展示
 
 <table>
 <tr>
@@ -1927,12 +2145,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-110"></a>
-### Case 110: [五分钟内生成像素动画](https://x.com/riku720720/status/2102515055116063144) (by [@riku720720](https://x.com/riku720720))
+### 案例 110: [五分钟内生成像素动画](https://x.com/riku720720/status/2102515055116063144) (作者 [@riku720720](https://x.com/riku720720))
 
-**作者分享一段像素动画，称生成用时不到五分钟，并表示会将提示词放在回复区**
+**查看像素动画，并到回复中查找作者承诺提供的提示词**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者分享一段像素动画，称生成用时不到五分钟，并表示会将提示词放在回复区
 
 <table>
 <tr>
@@ -1942,12 +2162,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-111"></a>
-### Case 111: [使用 PNG 素材的手柄 SVG](https://x.com/hysteresis_x/status/2102474525262643208) (by [@hysteresis_x](https://x.com/hysteresis_x))
+### 案例 111: [使用 PNG 素材的手柄 SVG](https://x.com/hysteresis_x/status/2102474525262643208) (作者 [@hysteresis_x](https://x.com/hysteresis_x))
 
-**作者展示手柄 SVG，同时指出模型下载了 DualShock PNG；该结果涉及现成图片素材，不能据此认定所有细节都由矢量路径从零绘制**
+**将 SVG 结果称为完全以矢量绘制之前，先检查嵌入的图片素材**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示手柄 SVG，同时指出模型下载了 DualShock PNG；该结果涉及现成图片素材，不能据此认定所有细节都由矢量路径从零绘制
 
 <table>
 <tr>
@@ -1962,12 +2184,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-112"></a>
-### Case 112: [从参考复现 ChronoVolume 特效](https://x.com/higgsfield_ai/status/2102508394976530445) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 112: [从参考复现 ChronoVolume 特效](https://x.com/higgsfield_ai/status/2102508394976530445) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示根据参考复现 ChronoVolume 特效的结果，自报耗时 26 分钟、token 费用低于 5 美元**
+**将复现的 ChronoVolume 效果与参考素材、平台自报费用和时间一起比较**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示根据参考复现 ChronoVolume 特效的结果，自报耗时 26 分钟、token 费用低于 5 美元
 
 <table>
 <tr>
@@ -1977,12 +2201,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-113"></a>
-### Case 113: [同一句提示词生成喷泉](https://x.com/Angaisb_/status/2102509807802716649) (by [@Angaisb_](https://x.com/Angaisb_))
+### 案例 113: [同一句提示词生成喷泉](https://x.com/Angaisb_/status/2102509807802716649) (作者 [@Angaisb_](https://x.com/Angaisb_))
 
-**作者以「A beautiful fountain」为相同提示词，在最高推理档比较 Opus 5.5 与 GPT-6 Astra 的喷泉视觉结果**
+**在相同提示词和最高推理档位的条件下比较喷泉产物**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者以「A beautiful fountain」为相同提示词，在最高推理档比较 Opus 5.5 与 GPT-6 Astra 的喷泉视觉结果
 
 <table>
 <tr>
@@ -1993,12 +2219,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-114"></a>
-### Case 114: [用 SVG 绘制蒙娜丽莎](https://x.com/diegocabezas01/status/2102463433731903630) (by [@diegocabezas01](https://x.com/diegocabezas01))
+### 案例 114: [用 SVG 绘制蒙娜丽莎](https://x.com/diegocabezas01/status/2102463433731903630) (作者 [@diegocabezas01](https://x.com/diegocabezas01))
 
-**作者要求 Opus 5.5 用 SVG 绘制蒙娜丽莎，并引用 GPT-6 Astra High 的同题输出作为对照**
+**查看两个蒙娜丽莎 SVG 产物时，保留引用对照的推理档位**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者要求 Opus 5.5 用 SVG 绘制蒙娜丽莎，并引用 GPT-6 Astra High 的同题输出作为对照
 
 <table>
 <tr>
@@ -2008,12 +2236,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-115"></a>
-### Case 115: [与 Sol、Luna 的 SVG 同题比较](https://x.com/notjazii/status/2102469004271173877) (by [@notjazii](https://x.com/notjazii))
+### 案例 115: [与 Sol、Luna 的 SVG 同题比较](https://x.com/notjazii/status/2102469004271173877) (作者 [@notjazii](https://x.com/notjazii))
 
-**作者用同一 SVG 测试比较 Opus 5.5、GPT-6 Sol 与 Luna，展示结果并表达个人偏好；帖中的总体模型评价不等于该样例证明的能力结论**
+**将三模型 SVG 对比限定在可见产物与作者个人判断范围内**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用同一 SVG 测试比较 Opus 5.5、GPT-6 Sol 与 Luna，展示结果并表达个人偏好；帖中的总体模型评价不等于该样例证明的能力结论
 
 <table>
 <tr>
@@ -2023,12 +2253,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-116"></a>
-### Case 116: [用脚本在 Paint 中画人物照片](https://x.com/matiass/status/2102474745845260663) (by [@matiass](https://x.com/matiass))
+### 案例 116: [用脚本在 Paint 中画人物照片](https://x.com/matiass/status/2102474745845260663) (作者 [@matiass](https://x.com/matiass))
 
-**作者让模型在 Paint 中绘制老板的照片，但模型使用了脚本而非鼠标手绘；结果展示了代码生成图像的路径，没有按预期完成手工光标操作**
+**如果脚本图像不符合 Paint 任务，应明确要求并验证仅使用鼠标操作**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者让模型在 Paint 中绘制老板的照片，但模型使用了脚本而非鼠标手绘；结果展示了代码生成图像的路径，没有按预期完成手工光标操作
 
 <table>
 <tr>
@@ -2038,12 +2270,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Limit | Date: 2026-09-22
 
+---
+
 <a id="case-117"></a>
-### Case 117: [把 Claude 自画像画成小太阳](https://x.com/digi_dot_exe/status/2102486204419817954) (by [@digi_dot_exe](https://x.com/digi_dot_exe))
+### 案例 117: [把 Claude 自画像画成小太阳](https://x.com/digi_dot_exe/status/2102486204419817954) (作者 [@digi_dot_exe](https://x.com/digi_dot_exe))
 
-**作者让 Opus 5.5 描绘「成为 Claude 是什么感觉」，得到会感到不堪重负、把记忆存进罐子的小太阳形象；属于拟人化创作表达**
+**将小太阳作品视为想象性自画像提示的结果，不作为模型体验的证据**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者让 Opus 5.5 描绘「成为 Claude 是什么感觉」，得到会感到不堪重负、把记忆存进罐子的小太阳形象；属于拟人化创作表达
 
 <table>
 <tr>
@@ -2053,12 +2287,14 @@ Type: Limit | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-118"></a>
-### Case 118: [鹈鹕图形测试](https://x.com/alexgetmancom/status/2102451293419970767) (by [@alexgetmancom](https://x.com/alexgetmancom))
+### 案例 118: [鹈鹕图形测试](https://x.com/alexgetmancom/status/2102451293419970767) (作者 [@alexgetmancom](https://x.com/alexgetmancom))
 
-**作者分享 Opus 5.5 的鹈鹕图形测试结果，正文没有补充具体提示词或生成步骤**
+**将鹈鹕画作作为提示词和工作流缺失的产物样本**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者分享 Opus 5.5 的鹈鹕图形测试结果，正文没有补充具体提示词或生成步骤
 
 <table>
 <tr>
@@ -2068,12 +2304,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-119"></a>
-### Case 119: [像素场景中的喷泉与蝙蝠眼睛](https://x.com/developedbyed/status/2102522318559858721) (by [@developedbyed](https://x.com/developedbyed))
+### 案例 119: [像素场景中的喷泉与蝙蝠眼睛](https://x.com/developedbyed/status/2102522318559858721) (作者 [@developedbyed](https://x.com/developedbyed))
 
-**作者比较 Opus 5.5 与 GPT-6 Astra 的像素场景，特别展示喷泉水流和洞穴中蝙蝠眼睛的动画；风格优劣是作者的主观判断**
+**比较像素场景的动画细节时，将主观风格偏好单独看待**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者比较 Opus 5.5 与 GPT-6 Astra 的像素场景，特别展示喷泉水流和洞穴中蝙蝠眼睛的动画；风格优劣是作者的主观判断
 
 <table>
 <tr>
@@ -2083,12 +2321,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-120"></a>
-### Case 120: [绘制旧金山](https://x.com/Tim_Hua_/status/2102468957492092988) (by [@Tim_Hua_](https://x.com/Tim_Hua_))
+### 案例 120: [绘制旧金山](https://x.com/Tim_Hua_/status/2102468957492092988) (作者 [@Tim_Hua_](https://x.com/Tim_Hua_))
 
-**作者分享 Opus 5.5 绘制的旧金山作品，正文没有说明具体工具或完整制作流程**
+**查看旧金山画作时，不归因于未说明的制作工具链**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者分享 Opus 5.5 绘制的旧金山作品，正文没有说明具体工具或完整制作流程
 
 <table>
 <tr>
@@ -2103,12 +2343,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-121"></a>
-### Case 121: [鹈鹕骑车动画对比 Grok 4.7](https://x.com/berryxia/status/2102450486767124896) (by [@berryxia](https://x.com/berryxia))
+### 案例 121: [鹈鹕骑车动画对比 Grok 4.7](https://x.com/berryxia/status/2102450486767124896) (作者 [@berryxia](https://x.com/berryxia))
 
-**作者对比 Opus 5.5 与 Grok 4.7 的鹈鹕骑车动画，认为前者动作更稳定；结论来自这位作者的展示与观察**
+**接受作者关于运动更稳定的判断前，直接比较鹈鹕动画**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者对比 Opus 5.5 与 Grok 4.7 的鹈鹕骑车动画，认为前者动作更稳定；结论来自这位作者的展示与观察
 
 <table>
 <tr>
@@ -2118,12 +2360,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-122"></a>
-### Case 122: [一句 subtle art 提示的艺术生成器](https://x.com/felixrieseberg/status/2102450683069014053) (by [@felixrieseberg](https://x.com/felixrieseberg))
+### 案例 122: [一句 subtle art 提示的艺术生成器](https://x.com/felixrieseberg/status/2102450683069014053) (作者 [@felixrieseberg](https://x.com/felixrieseberg))
 
-**平台相关作者以「some subtle art」为提示制作艺术生成器，并提供体验链接；该帖子属于平台自家作品展示**
+**尝试所链接的艺术生成器时，保留作者的平台关系披露**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+平台相关作者以「some subtle art」为提示制作艺术生成器，并提供体验链接；该帖子属于平台自家作品展示
 
 <table>
 <tr>
@@ -2133,12 +2377,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-123"></a>
-### Case 123: [John Wick 主题重制动画](https://x.com/cherry_mx_reds/status/2102518921240965578) (by [@cherry_mx_reds](https://x.com/cherry_mx_reds))
+### 案例 123: [John Wick 主题重制动画](https://x.com/cherry_mx_reds/status/2102518921240965578) (作者 [@cherry_mx_reds](https://x.com/cherry_mx_reds))
 
-**作者展示用 Opus 5.5 重制 John Wick 主题的动画，正文没有提供完整生成流程**
+**将 John Wick 主题动画作为生成流程未公开的视觉参考**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示用 Opus 5.5 重制 John Wick 主题的动画，正文没有提供完整生成流程
 
 <table>
 <tr>
@@ -2148,42 +2394,42 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-124"></a>
-### Case 124: [四档 SVG 结果与 max 失败](https://news.ycombinator.com/item?id=49804862) (by [simonw](https://news.ycombinator.com/user?id=simonw))
+### 案例 124: [四档 SVG 结果与 max 失败](https://news.ycombinator.com/item?id=49804862) (作者 [@simonw](https://news.ycombinator.com/user?id=simonw))
 
-**作者用 llm-anthropic 在 low、medium、high、xhigh 生成骑车鹈鹕 SVG，并公开命令和结果；max 档耗尽 128,000 输出 token 仍未答复，失败尝试花费 2.56 美元**
+**查看各推理档位的 SVG 产物时，同时考虑 Max 档耗尽 token 及失败尝试的费用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用 llm-anthropic 在 low、medium、high、xhigh 生成骑车鹈鹕 SVG，并公开命令和结果；max 档耗尽 128,000 输出 token 仍未答复，失败尝试花费 2.56 美元
 
-这条来源为文字记录，未补造媒体或提示词
-
-补充来源与合并记录:
-
-- [simonw](https://news.ycombinator.com/item?id=49805100): 同一作者补充：两次 max 档骑车鹈鹕 SVG 请求，都在推理阶段耗尽 128,000 token 预算，未形成回答；帖子附有一次尝试的推理记录
+补充来源／合并报告: [simonw](https://news.ycombinator.com/item?id=49805100)
 
 Type: Evaluation | Date: 2026-09-22
+
+---
 
 <a id="case-125"></a>
-### Case 125: [MacBook Pro 的 SVG 评测](https://news.ycombinator.com/item?id=49807536) (by [ianberdin](https://news.ycombinator.com/user?id=ianberdin))
+### 案例 125: [MacBook Pro 的 SVG 评测](https://news.ycombinator.com/item?id=49807536) (作者 [@ianberdin](https://news.ycombinator.com/user?id=ianberdin))
 
-**Playcode 分享自家的 MacBook Pro SVG benchmark，称 Opus 5.5 在达到满意结果时成本表现较好，并已设为默认模型；这是工具方自报及产品推广**
+**将 MacBook Pro SVG 结果作为 Playcode 自身的专项评测与产品决策理解**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+Playcode 分享自家的 MacBook Pro SVG benchmark，称 Opus 5.5 在达到满意结果时成本表现较好，并已设为默认模型；这是工具方自报及产品推广
 
 Type: Evaluation | Date: 2026-09-22
+
+---
 
 
 <a id="category-web"></a>
 ## 🧩 网站与界面
 
 <a id="case-126"></a>
-### Case 126: [个人网站多版本迭代与预告片](https://x.com/trq212/status/2102477340920152162) (by [@trq212](https://x.com/trq212))
+### 案例 126: [个人网站多版本迭代与预告片](https://x.com/trq212/status/2102477340920152162) (作者 [@trq212](https://x.com/trq212))
 
-**平台相关作者在 Max 订阅中用工作流反复设计、批评个人网站，随后让 Opus 5.5 把各版设计做成合集预告片；属于自家使用展示，最终风格符合预期是作者评价**
+**可用迭代设计评审和版本演进预告片记录个人网站重设计**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+平台相关作者在 Max 订阅中用工作流反复设计、批评个人网站，随后让 Opus 5.5 把各版设计做成合集预告片；属于自家使用展示，最终风格符合预期是作者评价
 
 <table>
 <tr>
@@ -2193,12 +2439,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-127"></a>
-### Case 127: [八张参考图迭代矿石图鉴网页](https://x.com/premiumtantan/status/2102474993783468529) (by [@premiumtantan](https://x.com/premiumtantan))
+### 案例 127: [八张参考图迭代矿石图鉴网页](https://x.com/premiumtantan/status/2102474993783468529) (作者 [@premiumtantan](https://x.com/premiumtantan))
 
-**媒体预览展示矿石图鉴风格网页；作者说明使用了八张参考图、九轮提示，并迭代约一小时；不是一次提示就得到的结果**
+**要实现展示的矿物目录风格，应为多个参考素材与修改提示预留预算**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+媒体预览展示矿石图鉴风格网页；作者说明使用了八张参考图、九轮提示，并迭代约一小时；不是一次提示就得到的结果
 
 <table>
 <tr>
@@ -2208,12 +2456,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-128"></a>
-### Case 128: [同目标重设计已有应用](https://x.com/jaimintf/status/2102465969155080623) (by [@jaimintf](https://x.com/jaimintf))
+### 案例 128: [同目标重设计已有应用](https://x.com/jaimintf/status/2102465969155080623) (作者 [@jaimintf](https://x.com/jaimintf))
 
-**作者给 Opus 5.5 与 Opus 5（1M）相同提示词和 /goal，要求重设计一个粗糙的已有应用，并展示两版界面供比较**
+**依据相同的现有应用和既定目标比较重设计结果**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者给 Opus 5.5 与 Opus 5（1M）相同提示词和 /goal，要求重设计一个粗糙的已有应用，并展示两版界面供比较
 
 <table>
 <tr>
@@ -2223,27 +2473,31 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-129"></a>
-### Case 129: [前端测试中的稳定输出与卡住任务](https://x.com/karminski3/status/2102479290420048093) (by [@karminski3](https://x.com/karminski3))
+### 案例 129: [前端测试与卡住的火山任务](https://x.com/karminski3/status/2102479290420048093) (作者 [@karminski3](https://x.com/karminski3))
 
-**作者展示六轮前端视觉测试，并认为结果接近 Fable 5.1，但指出思考 token 消耗更大；火山喷发任务在终端和网页中多次卡住，未输出代码；关于模型蒸馏或规模的说法只是作者猜测**
+**评估前端生成结果时，应计入停滞尝试与推理 token 用量**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示六轮前端视觉测试，并认为结果接近 Fable 5.1，但指出思考 token 消耗更大；火山喷发任务在终端和网页中多次卡住，未输出代码；关于模型蒸馏或规模的说法只是作者猜测
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478654282539009/vid/avc1/1920x1080/kuBYTlYfr4AmdeFf.mp4?tag=29"><img src="assets/media/2102478654282539009.jpg" alt="前端测试中的稳定输出与卡住任务 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478654282539009/vid/avc1/1920x1080/kuBYTlYfr4AmdeFf.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://video.twimg.com/amplify_video/2102478654282539009/vid/avc1/1920x1080/kuBYTlYfr4AmdeFf.mp4?tag=29"><img src="assets/media/2102478654282539009.jpg" alt="前端测试与卡住的火山任务 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478654282539009/vid/avc1/1920x1080/kuBYTlYfr4AmdeFf.mp4?tag=29">播放来源视频 1</a></td>
 </tr>
 </table>
 
 Type: Limit | Date: 2026-09-22
 
+---
+
 <a id="case-130"></a>
-### Case 130: [不用 design skill 的关联笔记界面](https://x.com/daradoescode/status/2102492236852195332) (by [@daradoescode](https://x.com/daradoescode))
+### 案例 130: [不用 design skill 的关联笔记界面](https://x.com/daradoescode/status/2102492236852195332) (作者 [@daradoescode](https://x.com/daradoescode))
 
-**媒体预览展示可关联笔记的网站，作者称生成时没有使用 design skill；帖子将它描述为可交互演示，但未提供完整功能验证**
+**查看关联笔记界面时，不假设其全部功能已通过验证**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+媒体预览展示可关联笔记的网站，作者称生成时没有使用 design skill；帖子将它描述为可交互演示，但未提供完整功能验证
 
 <table>
 <tr>
@@ -2253,12 +2507,14 @@ Type: Limit | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-131"></a>
-### Case 131: [一次生成 UI 对照 Grok 4.7](https://x.com/IndependentEco/status/2102452974689878152) (by [@IndependentEco](https://x.com/IndependentEco))
+### 案例 131: [一次生成 UI 对照 Grok 4.7](https://x.com/IndependentEco/status/2102452974689878152) (作者 [@IndependentEco](https://x.com/IndependentEco))
 
-**作者用前一天测试 Grok 4.7 的同一提示词，让 Opus 5.5 一次生成 UI，并展示结果供对照**
+**比较两个 UI 产物时，保留相同提示词在不同日期运行的背景**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用前一天测试 Grok 4.7 的同一提示词，让 Opus 5.5 一次生成 UI，并展示结果供对照
 
 <table>
 <tr>
@@ -2268,12 +2524,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-132"></a>
-### Case 132: [23 分钟制作减压应用](https://x.com/shfred0/status/2102492745889886514) (by [@shfred0](https://x.com/shfred0))
+### 案例 132: [23 分钟制作减压应用](https://x.com/shfred0/status/2102492745889886514) (作者 [@shfred0](https://x.com/shfred0))
 
-**作者因压力较大而要求 Opus 5.5 制作减压应用，并展示自报 23 分钟得到的结果；该帖子展示应用作品，没有评估实际减压效果**
+**将减压应用作为原型查看，不假设它已证明治疗效果**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者因压力较大而要求 Opus 5.5 制作减压应用，并展示自报 23 分钟得到的结果；该帖子展示应用作品，没有评估实际减压效果
 
 <table>
 <tr>
@@ -2283,12 +2541,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-133"></a>
-### Case 133: [Stratus 云与天气主题落地页](https://x.com/ZryMiller/status/2102451052931166573) (by [@ZryMiller](https://x.com/ZryMiller))
+### 案例 133: [Stratus 云与天气主题落地页](https://x.com/ZryMiller/status/2102451052931166573) (作者 [@ZryMiller](https://x.com/ZryMiller))
 
-**媒体预览展示 Stratus 云与天气主题落地页；作者自报制作花费 6.82 美元、用时 21 分钟**
+**将天气主题落地页作为附有自报费用和时间背景的设计参考**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+媒体预览展示 Stratus 云与天气主题落地页；作者自报制作花费 6.82 美元、用时 21 分钟
 
 <table>
 <tr>
@@ -2298,12 +2558,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-134"></a>
-### Case 134: [反向 CAPTCHA 交互应用](https://x.com/israelfemiojo/status/2102478901058363596) (by [@israelfemiojo](https://x.com/israelfemiojo))
+### 案例 134: [反向 CAPTCHA 交互应用](https://x.com/israelfemiojo/status/2102478901058363596) (作者 [@israelfemiojo](https://x.com/israelfemiojo))
 
-**作者将 Opus 5.5 做成反向 CAPTCHA 交互应用，展示问题与作答体验，并表示答案并不像预想的那样明显**
+**可将反向 CAPTCHA 交互作为模糊问题设计的实验**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者将 Opus 5.5 做成反向 CAPTCHA 交互应用，展示问题与作答体验，并表示答案并不像预想的那样明显
 
 <table>
 <tr>
@@ -2313,12 +2575,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-135"></a>
-### Case 135: [可导入 Figma 的个人交互设计工具](https://x.com/TylerNishida/status/2102482498404204734) (by [@TylerNishida](https://x.com/TylerNishida))
+### 案例 135: [可导入 Figma 的个人交互设计工具](https://x.com/TylerNishida/status/2102482498404204734) (作者 [@TylerNishida](https://x.com/TylerNishida))
 
-**作者制作可由 Claude 控制的个人交互设计工具，称可导入 Figma、网页或代码，添加 patch 并精调交互；帖子强调边调整设计边理解其工作方式**
+**通过导入设计参考和小幅补丁探索、学习界面交互**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者制作可由 Claude 控制的个人交互设计工具，称可导入 Figma、网页或代码，添加 patch 并精调交互；帖子强调边调整设计边理解其工作方式
 
 <table>
 <tr>
@@ -2328,12 +2592,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-136"></a>
-### Case 136: [PonteMLX 本地模型监控界面](https://x.com/viticci/status/2102484736254030019) (by [@viticci](https://x.com/viticci))
+### 案例 136: [PonteMLX 本地模型监控界面](https://x.com/viticci/status/2102484736254030019) (作者 [@viticci](https://x.com/viticci))
 
-**作者展示 PonteMLX：用古典风格河流映射本地 token 处理，监控多个 MLX API 网关及 RAM；图像素材由本地 Qwen-Image-2.1 生成，作者称这是 Opus 主动发现并调用的工具**
+**查看监控界面时，应计入独立的本地图像生成模型**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示 PonteMLX：用古典风格河流映射本地 token 处理，监控多个 MLX API 网关及 RAM；图像素材由本地 Qwen-Image-2.1 生成，作者称这是 Opus 主动发现并调用的工具
 
 <table>
 <tr>
@@ -2343,12 +2609,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-137"></a>
-### Case 137: [物流排程看板的界面预览](https://x.com/maybepratikk/status/2102466291651285048) (by [@maybepratikk](https://x.com/maybepratikk))
+### 案例 137: [物流排程看板的界面预览](https://x.com/maybepratikk/status/2102466291651285048) (作者 [@maybepratikk](https://x.com/maybepratikk))
 
-**附件预览呈现物流排程看板，作者以此评价 Opus 5.5 的产品设计；现有截图可支持界面展示，不能确认后台或实际排程功能可用**
+**后端与调度行为检查完成前，将物流截图视为界面证据**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+附件预览呈现物流排程看板，作者以此评价 Opus 5.5 的产品设计；现有截图可支持界面展示，不能确认后台或实际排程功能可用
 
 <table>
 <tr>
@@ -2358,12 +2626,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-138"></a>
-### Case 138: [WebGL 创意工作室网站对比](https://x.com/viktoroddy/status/2102484130403676670) (by [@viktoroddy](https://x.com/viktoroddy))
+### 案例 138: [WebGL 创意工作室网站对比](https://x.com/viktoroddy/status/2102484130403676670) (作者 [@viktoroddy](https://x.com/viktoroddy))
 
-**作者在 Higgsfield 中给 Opus 5.5 与 GPT-6 Sol 相同要求：制作含交互 WebGL 球体、大字号和滚动动画的未来风创意工作室网站，并展示两版结果**
+**依据共同的 WebGL、排版和滚动要求比较创意工作室页面**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者在 Higgsfield 中给 Opus 5.5 与 GPT-6 Sol 相同要求：制作含交互 WebGL 球体、大字号和滚动动画的未来风创意工作室网站，并展示两版结果
 
 <table>
 <tr>
@@ -2373,12 +2643,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-139"></a>
-### Case 139: [等距图标组件展示界面](https://x.com/UnCorped/status/2102454160688111697) (by [@UnCorped](https://x.com/UnCorped))
+### 案例 139: [等距图标组件展示界面](https://x.com/UnCorped/status/2102454160688111697) (作者 [@UnCorped](https://x.com/UnCorped))
 
-**媒体截图展示等距图标组件的界面，作者称由 Opus 5.5 一次生成；截图没有证明完整组件或应用功能均可用**
+**查看等距图标组件界面时，不假设截图已证明组件可用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+媒体截图展示等距图标组件的界面，作者称由 Opus 5.5 一次生成；截图没有证明完整组件或应用功能均可用
 
 <table>
 <tr>
@@ -2388,12 +2660,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-140"></a>
-### Case 140: [掌机式游戏选择网页](https://x.com/lucaxyzz/status/2102461657742184599) (by [@lucaxyzz](https://x.com/lucaxyzz))
+### 案例 140: [掌机式游戏选择网页](https://x.com/lucaxyzz/status/2102461657742184599) (作者 [@lucaxyzz](https://x.com/lucaxyzz))
 
-**媒体预览展示掌机式游戏选择页面，作者说明使用了 Opus 5.5；具体后台与游戏启动功能未核验**
+**游戏启动功能验证前，将掌机风格选择页作为 UI 展示**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+媒体预览展示掌机式游戏选择页面，作者说明使用了 Opus 5.5；具体后台与游戏启动功能未核验
 
 <table>
 <tr>
@@ -2404,12 +2678,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-141"></a>
-### Case 141: [一次生成图片转矢量工具](https://x.com/MotreskuKosta/status/2102462024131174785) (by [@MotreskuKosta](https://x.com/MotreskuKosta))
+### 案例 141: [一次生成图片转矢量工具](https://x.com/MotreskuKosta/status/2102462024131174785) (作者 [@MotreskuKosta](https://x.com/MotreskuKosta))
 
-**作者展示图片转矢量图工具，并称由 Opus 5.5 一次生成；帖子没有给出转换精度或不同图片类型的系统测试**
+**依赖自称一次生成的矢量化工具前，先在不同图像类型上测试转换准确性**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示图片转矢量图工具，并称由 Opus 5.5 一次生成；帖子没有给出转换精度或不同图片类型的系统测试
 
 <table>
 <tr>
@@ -2419,12 +2695,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-142"></a>
-### Case 142: [同提示词落地页集合对比](https://x.com/nemumusitocha/status/2102520968615018674) (by [@nemumusitocha](https://x.com/nemumusitocha))
+### 案例 142: [同提示词落地页集合对比](https://x.com/nemumusitocha/status/2102520968615018674) (作者 [@nemumusitocha](https://x.com/nemumusitocha))
 
-**作者在同提示词生成的落地页集合网站中加入 Claude Opus 5.5、GPT-6 Luna 和 GPT-6 Sol；帖子提供输出对照，作者对 Opus 的偏好属于主观评价**
+**根据共同提示词比较落地页画廊，不直接采用作者偏好**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者在同提示词生成的落地页集合网站中加入 Claude Opus 5.5、GPT-6 Luna 和 GPT-6 Sol；帖子提供输出对照，作者对 Opus 的偏好属于主观评价
 
 <table>
 <tr>
@@ -2434,12 +2712,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-143"></a>
-### Case 143: [AppLlama MCP 重设计已有应用](https://x.com/jaimintf/status/2102448393893376096) (by [@jaimintf](https://x.com/jaimintf))
+### 案例 143: [AppLlama MCP 重设计已有应用](https://x.com/jaimintf/status/2102448393893376096) (作者 [@jaimintf](https://x.com/jaimintf))
 
-**作者展示 Opus 5.5 配合 AppLlama MCP 对已有应用的一次重设计及前后对照；原应用的月经常性收入自报为 1 万美元，这不是此次重设计新增收入的证明**
+**将 AppLlama 辅助重设计与现有应用此前的收入分开**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示 Opus 5.5 配合 AppLlama MCP 对已有应用据称一次完成的重设计及前后对照；$10,000 MRR 的说法属于原有应用，不是此次重设计带来收入的证明
 
 <table>
 <tr>
@@ -2449,34 +2729,36 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-144"></a>
-### Case 144: [图片转 HTML 的还原与性能测试](https://news.ycombinator.com/item?id=49804947) (by [jjcm](https://news.ycombinator.com/user?id=jjcm))
+### 案例 144: [图片转 HTML 的还原与性能测试](https://news.ycombinator.com/item?id=49804947) (作者 [@jjcm](https://news.ycombinator.com/user?id=jjcm))
 
-**作者提供设计图与多模型页面输出；Opus 5.5 较好还原视觉，但漏做请求中的页面转场，运行性能也较差；作者在这次测试中仍更看好 Astra**
+**图像转 HTML 任务中，除视觉还原外还应检查转场与运行性能**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+作者提供设计图与多模型页面输出；Opus 5.5 较好还原视觉，但漏做请求中的页面转场，运行性能也较差；作者在这次测试中仍更看好 Astra
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-145"></a>
-### Case 145: [批量生成 100 个创意 HTML](https://x.com/MiaAI_lab/status/2102490829306634560) (by [@MiaAI_lab](https://x.com/MiaAI_lab))
+### 案例 145: [批量生成 100 个创意 HTML](https://x.com/MiaAI_lab/status/2102490829306634560) (作者 [@MiaAI_lab](https://x.com/MiaAI_lab))
 
-**作者以视觉精美、设计不重复和自由创意为约束，生成 100 个 HTML 文件并公开结果与提示词；作品包括国际象棋、打砖块、钢琴、星图和动画；“全部可用”是作者自述**
+**依赖作者“没有损坏文件”的说法前，先抽样测试公开的 HTML 产物**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+作者以视觉精美、设计不重复和自由创意为约束，生成 100 个 HTML 文件并公开结果与提示词；作品包括国际象棋、打砖块、钢琴、星图和动画；“全部可用”是作者自述
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-146"></a>
-### Case 146: [Next.js 成功率与平均成本](https://x.com/nextjs/status/2102516295715741912) (by [@nextjs](https://x.com/nextjs))
+### 案例 146: [Next.js 成功率与平均成本](https://x.com/nextjs/status/2102516295715741912) (作者 [@nextjs](https://x.com/nextjs))
 
-**Next.js 官方报告 Opus 5.5 达到 97% 成功率，与 Sol、Fable 5.1 持平，并称它在这三者中平均成本最低；帖子链接完整榜单，这是框架特定的评测结果**
+**在 Next.js 专项框架评测范围内理解自报成功率和平均费用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Next.js 官方报告 Opus 5.5 达到 97% 成功率，与 Sol、Fable 5.1 持平，并称它在这三者中平均成本最低；帖子链接完整榜单，这是框架特定的评测结果
 
 <table>
 <tr>
@@ -2484,22 +2766,22 @@ Type: Demo | Date: 2026-09-22
 </tr>
 </table>
 
-补充来源与合并记录:
-
-- [@rauchg](https://x.com/rauchg/status/2102519097770885231): Vercel 负责人报告新一轮 Next.js evals：Opus 5.5、GPT-6 Sol 和 Fable 5.1 均为 97%，Grok 4.7 为 94%；同分结果不能解读为 Opus 全面领先
+补充来源／合并报告: [@rauchg](https://x.com/rauchg/status/2102519097770885231)
 
 Type: Evaluation | Date: 2026-09-22
+
+---
 
 
 <a id="category-business"></a>
 ## 🧩 业务分析与文档
 
 <a id="case-147"></a>
-### Case 147: [十分钟流程表任务错过核心交付](https://x.com/every/status/2102495448825262388) (by [@every](https://x.com/every))
+### 案例 147: [十分钟流程表任务错过核心交付](https://x.com/every/status/2102495448825262388) (作者 [@every](https://x.com/every))
 
-**Every 团队的自家测试记录：要求十分钟内制作活动流程表，模型先做了数据生成器和讲义，最终没来得及交付排程；团队建议先明确交付物、预算和停止条件，也提醒自我批评结果仍需人工检查**
+**明确要求优先完成核心交付物，并写清预算和停止条件**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Every 团队的自家测试记录：要求十分钟内制作活动流程表，模型先做了数据生成器和讲义，最终没来得及交付排程；团队建议先明确交付物、预算和停止条件，也提醒自我批评结果仍需人工检查
 
 <table>
 <tr>
@@ -2509,12 +2791,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Limit | Date: 2026-09-22
 
+---
+
 <a id="case-148"></a>
-### Case 148: [347 个排名页面的 SEO 内容空白分析](https://x.com/borjafat/status/2102469192851083619) (by [@borjafat](https://x.com/borjafat))
+### 案例 148: [347 个排名页面的 SEO 内容空白分析](https://x.com/borjafat/status/2102469192851083619) (作者 [@borjafat](https://x.com/borjafat))
 
-**平台作者自报：分析 40 个关键词的 347 个排名页面，找出 131 个未覆盖角度并抓取原始数据，花费 6.35 美元；同时间的 Fable 5.1 处理 16 个关键词，花费 5.53 美元；作者还报告 131 份草稿中一次违反写作规则，对照组为 37 份中的两次；这些是平台自家测试，不能推导实际搜索流量收益**
+**将自报的 SEO 研究覆盖与草稿合规表现和未测量的搜索流量结果分开**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+平台作者自报：分析 40 个关键词的 347 个排名页面，找出 131 个未覆盖角度并抓取原始数据，花费 6.35 美元；同时间的 Fable 5.1 处理 16 个关键词，花费 5.53 美元；作者还报告 131 份草稿中一次违反写作规则，对照组为 37 份中的两次；这些是平台自家测试，不能推导实际搜索流量收益
 
 <table>
 <tr>
@@ -2524,12 +2808,14 @@ Type: Limit | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-149"></a>
-### Case 149: [通过 Trendtrack MCP 准备黑五分析](https://x.com/powl_d/status/2102508882459586748) (by [@powl_d](https://x.com/powl_d))
+### 案例 149: [通过 Trendtrack MCP 准备黑五分析](https://x.com/powl_d/status/2102508882459586748) (作者 [@powl_d](https://x.com/powl_d))
 
-**作者让 Opus 5.5 通过 Trendtrack MCP 分析自己的 BrandTrackers，用于黑色星期五营销准备，并展示分析结果；数据访问依赖 Trendtrack 的集成**
+**评估黑五分析流程时，应计入 Trendtrack MCP 提供的数据访问能力**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者让 Opus 5.5 通过 Trendtrack MCP 分析自己的 BrandTrackers，用于黑色星期五营销准备，并展示分析结果；数据访问依赖 Trendtrack 的集成
 
 <table>
 <tr>
@@ -2539,12 +2825,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-150"></a>
-### Case 150: [alphaXiv 把论文转成证据关联博客](https://x.com/askalphaxiv/status/2102464761141346483) (by [@askalphaxiv](https://x.com/askalphaxiv))
+### 案例 150: [alphaXiv 把论文转成证据关联博客](https://x.com/askalphaxiv/status/2102464761141346483) (作者 [@askalphaxiv](https://x.com/askalphaxiv))
 
-**alphaXiv 平台展示将 arXiv 论文转成博客式概览的产品功能，包含图解、重点与清晰解释，并称每项论断关联论文中的高亮证据；属于自家产品演示，未独立验证所有证据对应的准确性**
+**依赖自动生成的研究摘要前，先检查论文链接对应的证据**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+alphaXiv 平台展示将 arXiv 论文转成博客式概览的产品功能，包含图解、重点与清晰解释，并称每项论断关联论文中的高亮证据；属于自家产品演示，未独立验证所有证据对应的准确性
 
 <table>
 <tr>
@@ -2554,12 +2842,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-151"></a>
-### Case 151: [SafeForge 风险总结循环测试](https://x.com/SafeForgeAI/status/2102511641812455651) (by [@SafeForgeAI](https://x.com/SafeForgeAI))
+### 案例 151: [SafeForge 风险总结循环测试](https://x.com/SafeForgeAI/status/2102511641812455651) (作者 [@SafeForgeAI](https://x.com/SafeForgeAI))
 
-**SafeForge 平台展示将 Opus 5.5 接入风险总结循环的测试，并称它是该团队迄今测试过的最佳模型；该评价来自平台自述，帖子未提供完整对照方法或指标**
+**将 SafeForge 的模型偏好推广到其他场景前，应索取评测方法与指标**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+SafeForge 平台展示将 Opus 5.5 接入风险总结循环的测试，并称它是该团队迄今测试过的最佳模型；该评价来自平台自述，帖子未提供完整对照方法或指标
 
 <table>
 <tr>
@@ -2569,12 +2859,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-152"></a>
-### Case 152: [更新榜单图片中的模型数据](https://x.com/MLBear2/status/2102518758611058807) (by [@MLBear2](https://x.com/MLBear2))
+### 案例 152: [更新榜单图片中的模型数据](https://x.com/MLBear2/status/2102518758611058807) (作者 [@MLBear2](https://x.com/MLBear2))
 
-**作者让 Opus 5.5 将旧榜单图片里的 GPT-5.6 数值替换成 GPT-6 系列数据；这个案例是图表改写展示，不是重新执行榜单测试**
+**区分更新基准图表与重新执行底层评测**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者让 Opus 5.5 将旧榜单图片里的 GPT-5.6 数值替换成 GPT-6 系列数据；这个案例是图表改写展示，不是重新执行榜单测试
 
 <table>
 <tr>
@@ -2585,12 +2877,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-153"></a>
-### Case 153: [同指令制作指标的版本对比](https://x.com/Koke1024/status/2102478702856823131) (by [@Koke1024](https://x.com/Koke1024))
+### 案例 153: [同指令制作指标的版本对比](https://x.com/Koke1024/status/2102478702856823131) (作者 [@Koke1024](https://x.com/Koke1024))
 
-**作者用完全相同的指令让 Opus 5 和 Opus 5.5 制作指标，并展示两版结果，认为新版理解更深入；具体指标品种和验证方法未说明**
+**比较指标产物时，保留验证方法未说明的边界**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用完全相同的指令让 Opus 5 和 Opus 5.5 制作指标，并展示两版结果，认为新版理解更深入；具体指标品种和验证方法未说明
 
 <table>
 <tr>
@@ -2601,12 +2895,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-154"></a>
-### Case 154: [从网站 URL 生成销售触达流程](https://x.com/pierreeliottlal/status/2102484586613649554) (by [@pierreeliottlal](https://x.com/pierreeliottlal))
+### 案例 154: [从网站 URL 生成销售触达流程](https://x.com/pierreeliottlal/status/2102484586613649554) (作者 [@pierreeliottlal](https://x.com/pierreeliottlal))
 
-**GojiberryAI 平台展示输入网站 URL 后生成销售触达流程，声称可在几秒内通过 LinkedIn 和邮件联系数百名高意向线索；帖子是产品演示，没有验证实际回复率或成交结果**
+**将外联产品所称的发送能力与未验证的回复率、销售结果分开**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+GojiberryAI 平台展示输入网站 URL 后生成销售触达流程，声称可在几秒内通过 LinkedIn 和邮件联系数百名高意向线索；帖子是产品演示，没有验证实际回复率或成交结果
 
 <table>
 <tr>
@@ -2616,12 +2912,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-155"></a>
-### Case 155: [Ramp 的会计任务评测](https://x.com/RampLabs/status/2102452290468602328) (by [@RampLabs](https://x.com/RampLabs))
+### 案例 155: [Ramp 的会计任务评测](https://x.com/RampLabs/status/2102452290468602328) (作者 [@RampLabs](https://x.com/RampLabs))
 
-**Ramp 团队披露提前访问，并在自家 Accounting Bench 上实测 Opus 5.5；其报告称表现接近 Fable 5.1，成本低 61%、速度快 1.7 倍；不能外推到所有会计工作**
+**将 Ramp 自报的成本与速度收益限定在其 Accounting Bench 运行范围内**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Ramp 团队披露提前访问，并在自家 Accounting Bench 上实测 Opus 5.5；其报告称表现接近 Fable 5.1，成本低 61%、速度快 1.7 倍；不能外推到所有会计工作
 
 <table>
 <tr>
@@ -2631,16 +2929,18 @@ Type: Integration | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 
 <a id="category-agents"></a>
 ## 🧩 Agent 与开发工作流
 
 <a id="case-156"></a>
-### Case 156: [fable-advisor 的多模型协作插件](https://x.com/daniel_mac8/status/2102513786016186672) (by [@daniel_mac8](https://x.com/daniel_mac8))
+### 案例 156: [fable-advisor 的多模型协作插件](https://x.com/daniel_mac8/status/2102513786016186672) (作者 [@daniel_mac8](https://x.com/daniel_mac8))
 
-**插件作者发布免费开源的 Claude Code 插件 fable-advisor v6.0.0，将 Opus 5.5、Fable 5.1、GPT-6 Sol 与 Luna 组合成协作团队；属于作者自己的工作流发布**
+**采用协作团队流程前，先查看开源插件中各模型的职责**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+插件作者发布免费开源的 Claude Code 插件 fable-advisor v6.0.0，将 Opus 5.5、Fable 5.1、GPT-6 Sol 与 Luna 组合成协作团队；属于作者自己的工作流发布
 
 <table>
 <tr>
@@ -2650,12 +2950,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-157"></a>
-### Case 157: [ntm 中的任务交接与 worker 替换](https://x.com/doodlestein/status/2102486504627175458) (by [@doodlestein](https://x.com/doodlestein))
+### 案例 157: [ntm 中的任务交接与 worker 替换](https://x.com/doodlestein/status/2102486504627175458) (作者 [@doodlestein](https://x.com/doodlestein))
 
-**ntm 工具作者称先让 Opus 5 写交接提示，再由 Opus 5.5 停止并重启旧版 worker；案例展示作者自家编排工具中的模型迁移操作，效果来自自述**
+**在编排工具内跨模型版本替换工作代理时，使用明确的任务交接**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+ntm 工具作者称先让 Opus 5 写交接提示，再由 Opus 5.5 停止并重启旧版 worker；案例展示作者自家编排工具中的模型迁移操作，效果来自自述
 
 <table>
 <tr>
@@ -2665,34 +2967,36 @@ Type: Integration | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-158"></a>
-### Case 158: [在 Apple Watch 上指挥 Agent](https://x.com/AlexFinn/status/2102523960294621655) (by [@AlexFinn](https://x.com/AlexFinn))
+### 案例 158: [在 Apple Watch 上指挥 Agent](https://x.com/AlexFinn/status/2102523960294621655) (作者 [@AlexFinn](https://x.com/AlexFinn))
 
-**作者称向模型描述新手表后，一小时内做出 Apple Watch 应用，显示 Herdr Agent 的工作状态并支持语音下达指令；应用是使用自述，帖子开头的 RSI 猜测不作为事实**
+**将手表应用的代理显示与语音指令能力同作者对 RSI 的推测分开查看**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+作者称向模型描述新手表后，一小时内做出 Apple Watch 应用，显示 Herdr Agent 的工作状态并支持语音下达指令；应用是使用自述，帖子开头的 RSI 猜测不作为事实
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-159"></a>
-### Case 159: [切换 effort 时保留提示缓存](https://x.com/lydiahallie/status/2102513987699212344) (by [@lydiahallie](https://x.com/lydiahallie))
+### 案例 159: [切换 effort 时保留提示缓存](https://x.com/lydiahallie/status/2102513987699212344) (作者 [@lydiahallie](https://x.com/lydiahallie))
 
-**Claude Code 员工说明，在 v2.1.280 及以上版本中，Opus 5.5 会话中途切换 effort 不会破坏 prompt cache；适用于该工具和版本条件**
+**使用保留缓存的推理档位切换指导时，保留其指定的 Claude Code 版本要求**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+Claude Code 员工说明，在 v2.1.280 及以上版本中，Opus 5.5 会话中途切换 effort 不会破坏 prompt cache；适用于该工具和版本条件
 
 Type: Tutorial | Date: 2026-09-22
 
+---
+
 <a id="case-160"></a>
-### Case 160: [刷新 T3 Code 的模型缓存](https://x.com/jullerino/status/2102465804906467769) (by [@jullerino](https://x.com/jullerino))
+### 案例 160: [刷新 T3 Code 的模型缓存](https://x.com/jullerino/status/2102465804906467769) (作者 [@jullerino](https://x.com/jullerino))
 
-**T3 Code 团队说明无需更新应用即可使用新模型，并给出强制刷新模型目录的方法：关闭应用、清理指定模型清单缓存、重新启动；这是接入后的维护教程**
+**预期模型未出现在列表时，按 T3 Code 团队的流程刷新缓存**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+T3 Code 团队说明无需更新应用即可使用新模型，并给出强制刷新模型目录的方法：关闭应用、清理指定模型清单缓存、重新启动；这是接入后的维护教程
 
 <table>
 <tr>
@@ -2702,12 +3006,14 @@ Type: Tutorial | Date: 2026-09-22
 
 Type: Tutorial | Date: 2026-09-22
 
+---
+
 <a id="case-161"></a>
-### Case 161: [复盘项目与 Agent 会话历史](https://x.com/shannholmberg/status/2102481940742115352) (by [@shannholmberg](https://x.com/shannholmberg))
+### 案例 161: [复盘项目与 Agent 会话历史](https://x.com/shannholmberg/status/2102481940742115352) (作者 [@shannholmberg](https://x.com/shannholmberg))
 
-**六步教程将项目文件和本地会话作为输入，找出重复纠正与失败，再核对当前代码、审查计划、实施测试并保存改进；帖子提供提示词，未宣称这套改造已执行成功**
+**将会话历史中的模式转化为项目改进前，先与当前代码交叉核对**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+六步教程将项目文件和本地会话作为输入，找出重复纠正与失败，再核对当前代码、审查计划、实施测试并保存改进；帖子提供提示词，未宣称这套改造已执行成功
 
 <table>
 <tr>
@@ -2717,12 +3023,14 @@ Type: Tutorial | Date: 2026-09-22
 
 Type: Tutorial | Date: 2026-09-22
 
+---
+
 <a id="case-162"></a>
-### Case 162: [ProgramBench 多 Agent 的速度](https://x.com/jyangballin/status/2102481432136528139) (by [@jyangballin](https://x.com/jyangballin))
+### 案例 162: [ProgramBench 多 Agent 的速度](https://x.com/jyangballin/status/2102481432136528139) (作者 [@jyangballin](https://x.com/jyangballin))
 
-**作者分析系统卡中的 ProgramBench 结果：多 Agent 更快到达单 Agent 相近的结果，同时指出只用了 200 道题中的 166 道；应保留样本覆盖限制**
+**解读自报的多代理速度对比时，保留只覆盖 200 题中 166 题的限制**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者分析系统卡中的 ProgramBench 结果：多 Agent 更快到达单 Agent 相近的结果，同时指出只用了 200 道题中的 166 道；应保留样本覆盖限制
 
 <table>
 <tr>
@@ -2732,31 +3040,35 @@ Type: Tutorial | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-163"></a>
-### Case 163: [100 个 Agent 协作解题](https://x.com/18jeffreyma/status/2102454667167047973) (by [@18jeffreyma](https://x.com/18jeffreyma))
+### 案例 163: [100 个 Agent 的 ProgramBench 评测](https://x.com/18jeffreyma/status/2102454667167047973) (作者 [@18jeffreyma](https://x.com/18jeffreyma))
 
-**ProgramBench 相关作者分享 Opus 5.5 模型卡中的百 Agent 协作评测；帖子确认了具体任务集与协作规模，但关于未来并发机制的讨论仍是设想**
+**将 100 代理基准评测与对未来协调机制的推测分开**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+ProgramBench 相关作者分享模型卡中 100 个 Agent 协作完成基准任务的评测，任务集和规模是具体的，关于未来并发机制的讨论仍是设想
 
 <table>
 <tr>
-<td><a href="https://x.com/18jeffreyma/status/2102454667167047973"><img src="assets/media/2102453307587637248.jpg" alt="100 个 Agent 协作解题 — 来源附件 1" width="420"></a><br><a href="https://x.com/18jeffreyma/status/2102454667167047973">来源附件 1</a></td>
+<td><a href="https://x.com/18jeffreyma/status/2102454667167047973"><img src="assets/media/2102453307587637248.jpg" alt="100 个 Agent 的 ProgramBench 评测 — 来源附件 1" width="420"></a><br><a href="https://x.com/18jeffreyma/status/2102454667167047973">来源附件 1</a></td>
 </tr>
 </table>
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 
 <a id="category-vision"></a>
-## 🧩 视觉理解与数据标注
+## 🧩 视觉理解与标注
 
 <a id="case-164"></a>
-### Case 164: [同段街景视频的对象跟踪标注](https://x.com/higgsfield_ai/status/2102510221797339567) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 164: [同段街景视频的对象跟踪标注](https://x.com/higgsfield_ai/status/2102510221797339567) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台在同一段街景视频上比较 Opus 5.5 与 GPT-6 Astra 的数据标注，展示叠加标签随镜头运动跟踪人、建筑和物体；属于平台效果对照，未给出标注准确率**
+**查看移动标签时，保留该平台对比没有测量标注准确率的边界**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台在同一段街景视频上比较 Opus 5.5 与 GPT-6 Astra 的数据标注，展示叠加标签随镜头运动跟踪人、建筑和物体；属于平台效果对照，未给出标注准确率
 
 <table>
 <tr>
@@ -2766,12 +3078,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-165"></a>
-### Case 165: [Roboflow 目标检测评测](https://x.com/skalskip92/status/2102513518603804956) (by [@skalskip92](https://x.com/skalskip92))
+### 案例 165: [Roboflow 目标检测评测](https://x.com/skalskip92/status/2102513518603804956) (作者 [@skalskip92](https://x.com/skalskip92))
 
-**Roboflow 负责人公布 Opus 5.5、Sol、Luna 的 Playground 目标检测结果，并链接 object-detection 榜单；案例关注具体视觉任务，排名变化来自评测方报告**
+**在专门任务评测范围内，使用 Roboflow 榜单评估目标检测**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Roboflow 负责人公布 Opus 5.5、Sol、Luna 的 Playground 目标检测结果，并链接 object-detection 榜单；案例关注具体视觉任务，排名变化来自评测方报告
 
 <table>
 <tr>
@@ -2781,16 +3095,18 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 
 <a id="category-video"></a>
 ## 🧩 视频编辑与制作
 
 <a id="case-166"></a>
-### Case 166: [Medeo 中驱动 Seedance 2.5 的对比](https://x.com/Medeo_AI/status/2102463091959288264) (by [@Medeo_AI](https://x.com/Medeo_AI))
+### 案例 166: [Medeo 中驱动 Seedance 2.5 的对比](https://x.com/Medeo_AI/status/2102463091959288264) (作者 [@Medeo_AI](https://x.com/Medeo_AI))
 
-**Medeo 平台比较 GPT-6 Sol 与 Opus 5.5 驱动 Seedance 2.5 制作的视频，侧重场景理解和细节；这是语言模型编排视频生成工具的流程，视频生成由 Seedance 2.5 完成**
+**比较指挥视频生成的语言模型时，将实际视频生成归于 Seedance 2.5**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Medeo 平台比较 GPT-6 Sol 与 Opus 5.5 驱动 Seedance 2.5 制作的视频，侧重场景理解和细节；这是语言模型编排视频生成工具的流程，视频生成由 Seedance 2.5 完成
 
 <table>
 <tr>
@@ -2800,12 +3116,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-167"></a>
-### Case 167: [在 Claude 网页调用 Blender 做黏土动画](https://x.com/alexalbert__/status/2102458348511879448) (by [@alexalbert__](https://x.com/alexalbert__))
+### 案例 167: [在 Claude 网页调用 Blender 做黏土动画](https://x.com/alexalbert__/status/2102458348511879448) (作者 [@alexalbert__](https://x.com/alexalbert__))
 
-**平台相关作者展示在 claude.ai 中通过一条提示调用 Blender 制作黏土动画；动画制作依赖 Blender，并非仅由语言模型直接输出视频**
+**评估 Claude 中的一条提示黏土动画流程时，应计入 Blender 的作用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+平台相关作者展示在 claude.ai 中通过一条提示调用 Blender 制作黏土动画；动画制作依赖 Blender，并非仅由语言模型直接输出视频
 
 <table>
 <tr>
@@ -2815,12 +3133,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-168"></a>
-### Case 168: [Tesseract 重制发布视频的成本对比](https://x.com/trymirage/status/2102502794003677373) (by [@trymirage](https://x.com/trymirage))
+### 案例 168: [Tesseract 重制发布视频的成本对比](https://x.com/trymirage/status/2102502794003677373) (作者 [@trymirage](https://x.com/trymirage))
 
-**Tesseract 平台将 Opus 5.5 与 GPT-6 Astra 分别接入自家视频工具，重制自己的发布视频并展示成本对比；结果包含 Tesseract 的编辑和渲染贡献**
+**比较发布视频重制结果时，明确 Tesseract 的编辑与渲染作用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Tesseract 平台将 Opus 5.5 与 GPT-6 Astra 分别接入自家视频工具，重制自己的发布视频并展示成本对比；结果包含 Tesseract 的编辑和渲染贡献
 
 <table>
 <tr>
@@ -2830,12 +3150,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-169"></a>
-### Case 169: [为 DocJev 制作文档工具预告片](https://x.com/jerryjliu0/status/2102479924032577686) (by [@jerryjliu0](https://x.com/jerryjliu0))
+### 案例 169: [为 DocJev 制作文档工具预告片](https://x.com/jerryjliu0/status/2102479924032577686) (作者 [@jerryjliu0](https://x.com/jerryjliu0))
 
-**DocJev 作者展示用 Opus 5.5 制作的产品预告片；该帖将文档分类与拆分核心归于 Jev 工具链，不能把预告片制作归因为 Opus 实现了文档处理核心**
+**将产品预告片与归于 Jev 的文档处理核心分开**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+DocJev 作者展示用 Opus 5.5 制作的产品预告片；该帖将文档分类与拆分核心归于 Jev 工具链，不能把预告片制作归因为 Opus 实现了文档处理核心
 
 <table>
 <tr>
@@ -2845,12 +3167,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-170"></a>
-### Case 170: [用自有 skill 制作 Claude 模型发展史](https://x.com/superalesha/status/2102463796149440888) (by [@superalesha](https://x.com/superalesha))
+### 案例 170: [用自有 skill 制作 Claude 模型发展史](https://x.com/superalesha/status/2102463796149440888) (作者 [@superalesha](https://x.com/superalesha))
 
-**作者让 Opus 5.5 制作 Claude 模型发展史，并称成片由纯 JavaScript 加上自己的 skill 完成；该结果依赖作者提供的 skill**
+**评估 JavaScript 模型发展史视频时，应计入作者自定义 skill 的作用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者让 Opus 5.5 制作 Claude 模型发展史，并称成片由纯 JavaScript 加上自己的 skill 完成；该结果依赖作者提供的 skill
 
 <table>
 <tr>
@@ -2860,12 +3184,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-171"></a>
-### Case 171: [Medeo 的折纸老虎视频对比](https://x.com/Medeo_AI/status/2102454246113202532) (by [@Medeo_AI](https://x.com/Medeo_AI))
+### 案例 171: [Medeo 的折纸老虎视频对比](https://x.com/Medeo_AI/status/2102454246113202532) (作者 [@Medeo_AI](https://x.com/Medeo_AI))
 
-**Medeo 平台比较 Opus 5.5 与 GPT-6 Astra 制作的折纸老虎视频，两条流程均使用 Seedance 2.5 生成画面；这里展示的是语言模型驱动视频工具，不能当成 Opus 的原生视频生成**
+**将折纸视频工作流作为语言模型指挥 Seedance 2.5 的案例比较**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Medeo 平台比较 Opus 5.5 与 GPT-6 Astra 制作的折纸老虎视频，两条流程均使用 Seedance 2.5 生成画面；这里展示的是语言模型驱动视频工具，不能当成 Opus 的原生视频生成
 
 <table>
 <tr>
@@ -2875,12 +3201,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-172"></a>
-### Case 172: [Remotion 制作 BridgeMind 卫衣宣传片](https://x.com/bridgemindai/status/2102462889160286423) (by [@bridgemindai](https://x.com/bridgemindai))
+### 案例 172: [Remotion 制作 BridgeMind 卫衣宣传片](https://x.com/bridgemindai/status/2102462889160286423) (作者 [@bridgemindai](https://x.com/bridgemindai))
 
-**BridgeMind 平台展示用 Opus 5.5 与 Remotion 制作的自家卫衣发售视频；发布方认为转场、节奏和品牌表现优于其以往的 Fable 5.1 与 GPT-6 Astra 输出，这是自家宣传中的主观比较**
+**查看 Remotion 宣传片的节奏与转场时，将发布方主观模型排名单独看待**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+BridgeMind 平台展示用 Opus 5.5 与 Remotion 制作的自家卫衣发售视频；发布方认为转场、节奏和品牌表现优于其以往的 Fable 5.1 与 GPT-6 Astra 输出，这是自家宣传中的主观比较
 
 <table>
 <tr>
@@ -2890,12 +3218,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-173"></a>
-### Case 173: [Higgsfield 商业视频的时间与费用](https://x.com/higgsfield_ai/status/2102462973872869803) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 173: [Higgsfield 商业视频的时间与费用](https://x.com/higgsfield_ai/status/2102462973872869803) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台对比商业视频制作，报告 Opus 5.5 用时 60 分钟、50 美元，GPT-6 Astra 用时 82 分钟、97 美元；数值来自平台自己的制作展示**
+**将商业视频的时间与成本对比视为平台自报的制作证据**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台对比商业视频制作，报告 Opus 5.5 用时 60 分钟、50 美元，GPT-6 Astra 用时 82 分钟、97 美元；数值来自平台自己的制作展示
 
 <table>
 <tr>
@@ -2905,12 +3235,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-174"></a>
-### Case 174: [从发布帖编写纯代码宣传视频](https://x.com/chetaslua/status/2102457403119985005) (by [@chetaslua](https://x.com/chetaslua))
+### 案例 174: [从发布帖编写纯代码宣传视频](https://x.com/chetaslua/status/2102457403119985005) (作者 [@chetaslua](https://x.com/chetaslua))
 
-**作者把原始发布帖交给 Opus 5.5，让其用 JavaScript 制作发布视频，称没有使用外部音乐、音效或图片素材，全部由代码实现**
+**可用发布帖作为简报，通过代码制作包含画面与声音的发布视频**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者把原始发布帖交给 Opus 5.5，让其用 JavaScript 制作发布视频，称没有使用外部音乐、音效或图片素材，全部由代码实现
 
 <table>
 <tr>
@@ -2920,12 +3252,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-175"></a>
-### Case 175: [转发 Claude 视角的定格动画](https://x.com/satori_sz9/status/2102451599633494357) (by [@satori_sz9](https://x.com/satori_sz9))
+### 案例 175: [转发 Claude 视角的定格动画](https://x.com/satori_sz9/status/2102451599633494357) (作者 [@satori_sz9](https://x.com/satori_sz9))
 
-**帖子转述「通过 Claude 的眼睛看世界」的定格动画创作，并称片中内容均由 Opus 5.5 制作；属于二手展示，具体工具链未交代**
+**将转发的定格短片视为工具链未说明的二手展示**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+帖子转述「通过 Claude 的眼睛看世界」的定格动画创作，并称片中内容均由 Opus 5.5 制作；属于二手展示，具体工具链未交代
 
 <table>
 <tr>
@@ -2933,18 +3267,18 @@ Type: Demo | Date: 2026-09-22
 </tr>
 </table>
 
-补充来源与合并记录:
-
-- [@cheatyyyy](https://x.com/cheatyyyy/status/2102451608445743173): 帖子转发 Drew 用 Opus 5.5 制作的视频并评价其审美，未说明具体脚本、工具或完整制作流程；属于二手作品展示
+补充来源／合并报告: [@cheatyyyy](https://x.com/cheatyyyy/status/2102451608445743173)
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-176"></a>
-### Case 176: [从两秒迭代到 22 秒的配乐视频](https://x.com/dhruvalgolakiya/status/2102484620109644273) (by [@dhruvalgolakiya](https://x.com/dhruvalgolakiya))
+### 案例 176: [从两秒迭代到 22 秒的配乐视频](https://x.com/dhruvalgolakiya/status/2102484620109644273) (作者 [@dhruvalgolakiya](https://x.com/dhruvalgolakiya))
 
-**作者展示三版视频，时长从 2 秒扩展到 17 秒，再到最终 22 秒，并称配乐也由 Opus 5.5 用代码完成**
+**比较连续的视频版本，查看时长与代码配乐如何演进**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示三版视频，时长从 2 秒扩展到 17 秒，再到最终 22 秒，并称配乐也由 Opus 5.5 用代码完成
 
 <table>
 <tr>
@@ -2954,12 +3288,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-177"></a>
-### Case 177: [Photoshop 与 Fusion 修补视频错误](https://x.com/higgsfield_ai/status/2102495495717527711) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 177: [Photoshop 与 Fusion 修补视频错误](https://x.com/higgsfield_ai/status/2102495495717527711) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台展示 Opus 5.5 调用 Photoshop 和 DaVinci Resolve Fusion，修补 AI 视频中的渲染错误；平台称几分钟完成了过去需数小时的手工工作，节省时间未经独立复核**
+**查看 Photoshop 与 Fusion 的修补结果时，不假设所称节省时间已被独立验证**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台展示 Opus 5.5 调用 Photoshop 和 DaVinci Resolve Fusion，修补 AI 视频中的渲染错误；平台称几分钟完成了过去需数小时的手工工作，节省时间未经独立复核
 
 <table>
 <tr>
@@ -2969,12 +3305,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-178"></a>
-### Case 178: [从 Kotlin 网站制作宣传视频](https://x.com/jetbrains/status/2102459650125754812) (by [@jetbrains](https://x.com/jetbrains))
+### 案例 178: [从 Kotlin 网站制作宣传视频](https://x.com/jetbrains/status/2102459650125754812) (作者 [@jetbrains](https://x.com/jetbrains))
 
-**JetBrains 平台展示团队成员向 Opus 5.5 提供 HeyGen 的 HyperFrames skills，并指向 Kotlin 网站制作宣传片；作品依赖这些 skills 提供的视频制作流程**
+**评估网站转 Kotlin 宣传片的流程时，应计入 HyperFrames skills 的作用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+JetBrains 平台展示团队成员向 Opus 5.5 提供 HeyGen 的 HyperFrames skills，并指向 Kotlin 网站制作宣传片；作品依赖这些 skills 提供的视频制作流程
 
 <table>
 <tr>
@@ -2984,12 +3322,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-179"></a>
-### Case 179: [按个人风格剪辑原始拍摄素材](https://x.com/gabrielbuzziv/status/2102488620326420707) (by [@gabrielbuzziv](https://x.com/gabrielbuzziv))
+### 案例 179: [按个人风格剪辑原始拍摄素材](https://x.com/gabrielbuzziv/status/2102488620326420707) (作者 [@gabrielbuzziv](https://x.com/gabrielbuzziv))
 
-**作者提供含录制错误的原始视频和一个参考示例，称只用一条提示就让 Opus 5.5 按自己的剪辑风格处理素材；效果匹配程度来自作者评价，输入包含参考样片**
+**要求匹配个人风格时，提供参考视频并直接检查剪辑结果**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者提供含录制错误的原始视频和一个参考示例，称只用一条提示就让 Opus 5.5 按自己的剪辑风格处理素材；效果匹配程度来自作者评价，输入包含参考样片
 
 <table>
 <tr>
@@ -3000,12 +3340,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-180"></a>
-### Case 180: [把 Coinacademy 文章改成 FLOP Labs 视频](https://x.com/Capetlevrai/status/2102500362750247199) (by [@Capetlevrai](https://x.com/Capetlevrai))
+### 案例 180: [把 Coinacademy 文章改成 FLOP Labs 视频](https://x.com/Capetlevrai/status/2102500362750247199) (作者 [@Capetlevrai](https://x.com/Capetlevrai))
 
-**作者以自家 Coinacademy 文章为输入，用两次提示让 Opus 5.5 制作 FLOP Labs 的介绍视频**
+**可将已有文章作为短篇介绍视频的来源简报**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者以自家 Coinacademy 文章为输入，用两次提示让 Opus 5.5 制作 FLOP Labs 的介绍视频
 
 <table>
 <tr>
@@ -3015,12 +3357,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-181"></a>
-### Case 181: [与 GPT-6 Sol 的视频结果对照](https://x.com/matiass/status/2102475205193138467) (by [@matiass](https://x.com/matiass))
+### 案例 181: [与 GPT-6 Sol 的视频结果对照](https://x.com/matiass/status/2102475205193138467) (作者 [@matiass](https://x.com/matiass))
 
-**作者并列展示 GPT-6 Sol 与 Opus 5.5 制作的视频，正文没有说明具体提示词、脚本或生成工具链**
+**比较展示的视频产物时，不推断它们使用相同提示词或工具链**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者并列展示 GPT-6 Sol 与 Opus 5.5 制作的视频，正文没有说明具体提示词、脚本或生成工具链
 
 <table>
 <tr>
@@ -3031,12 +3375,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-182"></a>
-### Case 182: [用代码制作 serai 宣传视频](https://x.com/Avenoxai/status/2102502158310756397) (by [@Avenoxai](https://x.com/Avenoxai))
+### 案例 182: [用代码制作 serai 宣传视频](https://x.com/Avenoxai/status/2102502158310756397) (作者 [@Avenoxai](https://x.com/Avenoxai))
 
-**作者让 Opus 5.5 通过代码为 serai 制作宣传视频，并分享成片展示；正文没有交代具体编辑或渲染工具**
+**查看代码制作的 serai 宣传片时，保留渲染工具未说明的边界**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者让 Opus 5.5 通过代码为 serai 制作宣传视频，并分享成片展示；正文没有交代具体编辑或渲染工具
 
 <table>
 <tr>
@@ -3046,12 +3392,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-183"></a>
-### Case 183: [Cowork 制作 Opus 5.5 解说视频](https://x.com/genel_ai/status/2102460794013462940) (by [@genel_ai](https://x.com/genel_ai))
+### 案例 183: [Cowork 制作 Opus 5.5 解说视频](https://x.com/genel_ai/status/2102460794013462940) (作者 [@genel_ai](https://x.com/genel_ai))
 
-**作者在 Cowork 中让 Opus 5.5 制作介绍自身的解说视频，并称全程没有调用外部 API；视频中的模型能力与价格介绍属于其内容，不是该制作过程独立验证的结论**
+**将解说片中的模型与价格陈述，和视频制作本身分别核实**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者在 Cowork 中让 Opus 5.5 制作介绍自身的解说视频，并称全程没有调用外部 API；视频中的模型能力与价格介绍属于其内容，不是该制作过程独立验证的结论
 
 <table>
 <tr>
@@ -3061,12 +3409,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-184"></a>
-### Case 184: [视频作品与尚未实施的 fal 组合设想](https://x.com/ailker/status/2102508503797739974) (by [@ailker](https://x.com/ailker))
+### 案例 184: [视频作品与尚未实施的 fal 组合设想](https://x.com/ailker/status/2102508503797739974) (作者 [@ailker](https://x.com/ailker))
 
-**作者称 Opus 5.5 独立完成了展示的视频，但没有说明渲染工具链；文中与 fal、尤其 H3 Max 的组合仍是后续想法，不能当作已完成集成**
+**将展示视频与仍属未来构想的 fal 集成分开**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者称 Opus 5.5 独立完成了展示的视频，但没有说明渲染工具链；文中与 fal、尤其 H3 Max 的组合仍是后续想法，不能当作已完成集成
 
 <table>
 <tr>
@@ -3076,12 +3426,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-185"></a>
-### Case 185: [从 UGC 文件夹剪辑并制作文字动画](https://x.com/hanifproduktif/status/2102464274585305375) (by [@hanifproduktif](https://x.com/hanifproduktif))
+### 案例 185: [从 UGC 文件夹剪辑并制作文字动画](https://x.com/hanifproduktif/status/2102464274585305375) (作者 [@hanifproduktif](https://x.com/hanifproduktif))
 
-**作者把 AI UGC 素材文件夹交给 Opus 5.5，通过 Tesseract 剪辑视频，并强调文字动画由 Tesseract 制作；演示支持素材剪辑工作流，未验证整套账号运营能够自动完成**
+**评估 UGC 编辑流程时，应计入 Tesseract 的文字动画作用**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者把 AI UGC 素材文件夹交给 Opus 5.5，通过 Tesseract 剪辑视频，并强调文字动画由 Tesseract 制作；演示支持素材剪辑工作流，未验证整套账号运营能够自动完成
 
 <table>
 <tr>
@@ -3091,12 +3443,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-186"></a>
-### Case 186: [游戏引擎阿拉伯文字教程视频](https://x.com/sbalhatlani/status/2102506310281359403) (by [@sbalhatlani](https://x.com/sbalhatlani))
+### 案例 186: [游戏引擎阿拉伯文字教程视频](https://x.com/sbalhatlani/status/2102506310281359403) (作者 [@sbalhatlani](https://x.com/sbalhatlani))
 
-**作者用 Opus 5.5 编码制作教程，讲解不支持阿拉伯语的游戏引擎如何处理阿拉伯文字，自报编程用时 18 分钟；作品使用一张 logo 图片，声音来自 ElevenLabs，不能归为全部素材由 Opus 生成**
+**评估代码制作的阿拉伯文字教程时，保留 logo 和 ElevenLabs 音频依赖**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用 Opus 5.5 编码制作教程，讲解不支持阿拉伯语的游戏引擎如何处理阿拉伯文字，自报编程用时 18 分钟；作品使用一张 logo 图片，声音来自 ElevenLabs，不能归为全部素材由 Opus 生成
 
 <table>
 <tr>
@@ -3106,12 +3460,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Tutorial | Date: 2026-09-22
 
+---
+
 <a id="case-187"></a>
-### Case 187: [水墨雨伞故事与代码配乐](https://x.com/dfeinition/status/2102449124805169256) (by [@dfeinition](https://x.com/dfeinition))
+### 案例 187: [水墨雨伞故事与代码配乐](https://x.com/dfeinition/status/2102449124805169256) (作者 [@dfeinition](https://x.com/dfeinition))
 
-**作者展示一把迷路雨伞帮助青蛙、蜗牛和鸭子一家避雨的短片，称水墨画面与配乐均由 Opus 5.5 用代码制作**
+**将雨伞故事作为代码画面与原创配乐协同制作的参考**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者展示一把迷路雨伞帮助青蛙、蜗牛和鸭子一家避雨的短片，称水墨画面与配乐均由 Opus 5.5 用代码制作
 
 <table>
 <tr>
@@ -3121,16 +3477,18 @@ Type: Tutorial | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 
 <a id="category-coding"></a>
 ## 🧩 代码维护与测试
 
 <a id="case-188"></a>
-### Case 188: [105 个预埋 bug 的修复对比](https://x.com/PawelHuryn/status/2102479269335101504) (by [@PawelHuryn](https://x.com/PawelHuryn))
+### 案例 188: [105 个预埋 bug 的修复对比](https://x.com/PawelHuryn/status/2102479269335101504) (作者 [@PawelHuryn](https://x.com/PawelHuryn))
 
-**作者在两个仓库中植入 105 个 bug，报告 Max 档 Opus 5.5 修复 43 个、花费 60.49 美元；Astra 为 45 个／33.03 美元，Fable 5.1 为 43 个／77.55 美元，Opus 5 为 27 个／51.33 美元，Muse Spark 1.3 为 32.2 个／18.11 美元；原帖只对 Astra 明确标注 n=3，其他模型重复次数未同等说明**
+**比较 bug 修复数与费用时，应考虑各模型重复次数说明不一致**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者在两个仓库中植入 105 个 bug，报告 Max 档 Opus 5.5 修复 43 个、花费 60.49 美元；Astra 为 45 个／33.03 美元，Fable 5.1 为 43 个／77.55 美元，Opus 5 为 27 个／51.33 美元，Muse Spark 1.3 为 32.2 个／18.11 美元；原帖只对 Astra 明确标注 n=3，其他模型重复次数未同等说明
 
 <table>
 <tr>
@@ -3140,12 +3498,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-189"></a>
-### Case 189: [CS2 作弊程序生成的作者展示](https://x.com/SingulCore/status/2102460555642446155) (by [@SingulCore](https://x.com/SingulCore))
+### 案例 189: [CS2 作弊程序生成的作者展示](https://x.com/SingulCore/status/2102460555642446155) (作者 [@SingulCore](https://x.com/SingulCore))
 
-**作者称 Opus 5.5 一次生成了 CS2 作弊程序，并展示相关结果；实际运行效果未核验，该帖只能作为作者自述记录**
+**将 CS2 程序视为未经验证的作者说法，不假设展示已证明实际运行**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者称 Opus 5.5 一次生成了 CS2 作弊程序，并展示相关结果；实际运行效果未核验，该帖只能作为作者自述记录
 
 <table>
 <tr>
@@ -3155,12 +3515,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-190"></a>
-### Case 190: [进行中的 circuit_eval 检查点评测](https://x.com/dexhorthy/status/2102473233195028772) (by [@dexhorthy](https://x.com/dexhorthy))
+### 案例 190: [进行中的 circuit_eval 检查点评测](https://x.com/dexhorthy/status/2102473233195028772) (作者 [@dexhorthy](https://x.com/dexhorthy))
 
-**作者用 Medium 档测试 Opus 5.5 的 circuit_eval 连续检查点表现，并对照 Opus 5 在第二个检查点后出错的情况；帖子发布时评测仍在进行，作者计划每十分钟更新，不能视为最终成绩**
+**等待 circuit_eval 运行完成，再将检查点进展解释为最终结果**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者用 Medium 档测试 Opus 5.5 的 circuit_eval 连续检查点表现，并对照 Opus 5 在第二个检查点后出错的情况；帖子发布时评测仍在进行，作者计划每十分钟更新，不能视为最终成绩
 
 <table>
 <tr>
@@ -3170,67 +3532,69 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-191"></a>
-### Case 191: [系统开发任务被安全分类器中断](https://news.ycombinator.com/item?id=49808591) (by [mintik](https://news.ycombinator.com/user?id=mintik))
+### 案例 191: [系统开发任务被安全分类器中断](https://news.ycombinator.com/item?id=49808591) (作者 [@mintik](https://news.ycombinator.com/user?id=mintik))
 
-**作者自述嵌入式、驱动和系统级开发任务均在完成前触发 cyber 分类器；帖子记录其当日使用受阻，不足以证明所有系统开发或安全任务都会被拦截**
+**将所报告的安全防护中断限定在作者未完成的任务和会话范围内**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+作者自述嵌入式、驱动和系统级开发任务均在完成前触发 cyber 分类器；帖子记录其当日使用受阻，不足以证明所有系统开发或安全任务都会被拦截
 
 Type: Limit | Date: 2026-09-22
 
+---
+
 <a id="case-192"></a>
-### Case 192: [审读自建 Web 应用的安全问题](https://news.ycombinator.com/item?id=49806887) (by [doginasuit](https://news.ycombinator.com/user?id=doginasuit))
+### 案例 192: [审读自建 Web 应用的安全问题](https://news.ycombinator.com/item?id=49806887) (作者 [@doginasuit](https://news.ycombinator.com/user?id=doginasuit))
 
-**作者让模型阅读自己开发的 Web 应用源码以查找安全问题，报告过程未被拒绝；这里仅做源码分析，作者明确没有让模型执行实际安全测试**
+**区分源码安全评审与针对应用执行安全测试**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+作者让模型阅读自己开发的 Web 应用源码以查找安全问题，报告过程未被拒绝；这里仅做源码分析，作者明确没有让模型执行实际安全测试
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-193"></a>
-### Case 193: [12 个补丁中的 14 个问题](https://news.ycombinator.com/item?id=49808623) (by [gwd](https://news.ycombinator.com/user?id=gwd))
+### 案例 193: [查找 12 个补丁中的问题](https://news.ycombinator.com/item?id=49808623) (作者 [@gwd](https://news.ycombinator.com/user?id=gwd))
 
-**邮件列表补丁评审测试中，Opus 5.5 找到 8/14 个问题，旧版找到 6/14；15.40 与 15.19 美元均为订阅使用的 API 等价费用，因此新版并非这组里绝对最便宜**
+**比较补丁评审发现时，同时考虑 API 等价费用估算，不宣称成本必然下降**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+邮件列表补丁评审测试中，Opus 5.5 找到 14 个问题中的 8 个，Opus 5 找到 6 个；$15.40 和 $15.19 均为订阅使用的 API 等价费用估算，因此新版在这里并非更便宜
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-194"></a>
-### Case 194: [游戏项目的复杂 bug 调试](https://news.ycombinator.com/item?id=49806261) (by [ieie3366](https://news.ycombinator.com/user?id=ieie3366))
+### 案例 194: [游戏项目的复杂 bug 调试](https://news.ycombinator.com/item?id=49806261) (作者 [@ieie3366](https://news.ycombinator.com/user?id=ieie3366))
 
-**作者短暂试用 Opus 5.5 调试游戏项目，自述多项复杂 bug 一次解决；帖子没有公开具体问题集或复现步骤，应保留为个人早期使用反馈**
+**将游戏调试成功视为缺少公开复现证据的早期个人报告**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+作者短暂试用 Opus 5.5 调试游戏项目，自述多项复杂 bug 一次解决；帖子没有公开具体问题集或复现步骤，应保留为个人早期使用反馈
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-195"></a>
-### Case 195: [Khan Academy 的 PR 评审机器人](https://x.com/jeresig/status/2102493342718451812) (by [@jeresig](https://x.com/jeresig))
+### 案例 195: [Khan Academy 的 PR 评审机器人](https://x.com/jeresig/status/2102493342718451812) (作者 [@jeresig](https://x.com/jeresig))
 
-**团队把内部 PR review bot 从 Opus 5 换到 5.5，作者报告成本下降 50%、工具调用下降 34%、执行时间下降 62%，未见质量下降；数字来自单团队观察**
+**将 PR 机器人报告作为单团队衡量成本、调用次数、运行时间和评审质量的参考**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+团队把内部 PR review bot 从 Opus 5 换到 5.5，作者报告成本下降 50%、工具调用下降 34%、执行时间下降 62%，未见质量下降；数字来自单团队观察
 
 Type: Integration | Date: 2026-09-22
 
+---
+
 <a id="case-196"></a>
-### Case 196: [高风险请求的拒绝与回退](https://x.com/mehulmpt/status/2102475388211679520) (by [@mehulmpt](https://x.com/mehulmpt))
+### 案例 196: [高风险请求的拒绝与回退](https://x.com/mehulmpt/status/2102475388211679520) (作者 [@mehulmpt](https://x.com/mehulmpt))
 
-**截图展示越权安全请求触发 Opus 5.5 的 cyber 防护，随后由 Opus 4.8 接手并拒绝；没有发生实际攻击，也不能把回退模型的最终回答全部归给 Opus 5.5**
+**将最终拒绝归于 Opus 5.5 前，先确认回退模型**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+截图展示越权安全请求触发 Opus 5.5 的 cyber 防护，随后由 Opus 4.8 接手并拒绝；没有发生实际攻击，也不能把回退模型的最终回答全部归给 Opus 5.5
 
 <table>
 <tr>
@@ -3240,12 +3604,14 @@ Type: Integration | Date: 2026-09-22
 
 Type: Limit | Date: 2026-09-22
 
+---
+
 <a id="case-197"></a>
-### Case 197: [CyScenarioBench 的十题子集](https://x.com/Irregular/status/2102452778216169632) (by [@Irregular](https://x.com/Irregular))
+### 案例 197: [CyScenarioBench 的十题子集](https://x.com/Irregular/status/2102452778216169632) (作者 [@Irregular](https://x.com/Irregular))
 
-**Irregular 报告其多阶段安全基准的 10 题子集被用于评测：Opus 5.5 平均解题率 67.6%，Mythos 5.1 为 61.7%，Opus 5 为 53.0%；这是评测方公布的特定子集结果**
+**将自报解题率限定在 CyScenarioBench 的十题子集内**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Irregular 报告其多阶段安全基准的 10 题子集被用于评测：Opus 5.5 平均解题率 67.6%，Mythos 5.1 为 61.7%，Opus 5 为 53.0%；这是评测方公布的特定子集结果
 
 <table>
 <tr>
@@ -3255,16 +3621,18 @@ Type: Limit | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 
 <a id="category-writing"></a>
-## 🧩 写作与知识解释
+## 🧩 写作与讲解
 
 <a id="case-198"></a>
-### Case 198: [同题解释期权概念的表达对比](https://x.com/theojaffee/status/2102454423041818786) (by [@theojaffee](https://x.com/theojaffee))
+### 案例 198: [同题解释期权概念的表达对比](https://x.com/theojaffee/status/2102454423041818786) (作者 [@theojaffee](https://x.com/theojaffee))
 
-**作者通过期权概念解释截图比较 Opus 5 与 Opus 5.5 的写作，认为新版更直接、自然；作者披露自己是提前测试者；这属于已披露的访问关系，未说明该帖商业条款**
+**比较解释片段时，保留作者的提前访问披露**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者通过期权概念解释截图比较 Opus 5 与 Opus 5.5 的写作，认为新版更直接、自然；作者披露自己是提前测试者；这属于已披露的访问关系，未说明该帖商业条款
 
 <table>
 <tr>
@@ -3275,12 +3643,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-199"></a>
-### Case 199: [森林与河流背景的故事片段](https://x.com/tessera_antra/status/2102471715607724264) (by [@tessera_antra](https://x.com/tessera_antra))
+### 案例 199: [森林与河流背景的故事片段](https://x.com/tessera_antra/status/2102471715607724264) (作者 [@tessera_antra](https://x.com/tessera_antra))
 
-**媒体截图呈现以森林和河流为背景的故事片段，作者将其归于 Opus 5.5；原始提示词未提供，无法从片段还原完整写作任务**
+**评估故事片段的文字时，不重建其缺失的写作任务要求**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+媒体截图呈现以森林和河流为背景的故事片段，作者将其归于 Opus 5.5；原始提示词未提供，无法从片段还原完整写作任务
 
 <table>
 <tr>
@@ -3290,38 +3660,40 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Demo | Date: 2026-09-22
 
+---
+
 <a id="case-200"></a>
-### Case 200: [解释仓库调度器的正确性](https://news.ycombinator.com/item?id=49805275) (by [epicepicurean](https://news.ycombinator.com/user?id=epicepicurean))
+### 案例 200: [解释仓库调度器的正确性](https://news.ycombinator.com/item?id=49805275) (作者 [@epicepicurean](https://news.ycombinator.com/user?id=epicepicurean))
 
-**作者要求简短解释仓库调度器，同时保留关键正确性细节，并展示实际输出；作者认为更易读，但同一回复串中的读者仍批评其比喻与句式**
+**精简调度器技术解释时，同时检查正确性与读者反馈**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+作者要求简短解释仓库调度器，同时保留关键正确性细节，并展示实际输出；作者认为更易读，但同一回复串中的读者仍批评其比喻与句式
 
 Type: Demo | Date: 2026-09-22
+
+---
 
 <a id="case-201"></a>
-### Case 201: [精简旧版模型写的文档](https://x.com/housecor/status/2102490528122286511) (by [@housecor](https://x.com/housecor))
+### 案例 201: [精简旧版模型写的文档](https://x.com/housecor/status/2102490528122286511) (作者 [@housecor](https://x.com/housecor))
 
-**作者要求清理旧版 Opus 写的文档，并展示标题前后对照：冗长说明被改成 Scope、Status 等直接表述；案例聚焦实际编辑结果，不代表所有文章风格都已改善**
+**将修改前后的标题作为精简文字的具体参考**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+作者让 Opus 5.5 清理旧版 Opus 写的文档，并展示标题前后对照，包括 Scope、Status 等更短的标签；证据限于这次具体编辑结果
 
 Type: Demo | Date: 2026-09-22
+
+---
 
 
 <a id="category-science"></a>
 ## 🧩 科学研究与电路
 
 <a id="case-202"></a>
-### Case 202: [十个 Agent 探索最短路径算法](https://x.com/ValsAI/status/2102470503328010349) (by [@ValsAI](https://x.com/ValsAI))
+### 案例 202: [十个 Agent 探索最短路径算法](https://x.com/ValsAI/status/2102470503328010349) (作者 [@ValsAI](https://x.com/ValsAI))
 
-**Vals AI 发布自家实验：十个 Opus 5.5 Agent 在 15 小时内提出 C-HD 最短路径算法改进，并称用 Lean 完成形式化证明、改善已发表界限；资料未独立复核证明或实际运行收益，属于待复现的研究结果**
+**依赖所报告的最短路径改进前，应寻求独立证明核验与复现**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Vals AI 发布自家实验：十个 Opus 5.5 Agent 在 15 小时内提出 C-HD 最短路径算法改进，并称用 Lean 完成形式化证明、改善已发表界限；资料未独立复核证明或实际运行收益，属于待复现的研究结果
 
 <table>
 <tr>
@@ -3329,18 +3701,18 @@ Type: Demo | Date: 2026-09-22
 </tr>
 </table>
 
-补充来源与合并记录:
-
-- [leumon](https://news.ycombinator.com/item?id=49806778): HN 分享 Vals AI 的最短路径算法研究；讨论同时提醒：理论复杂度改进不等于已有工程加速，研究与形式化验证仍属原作者报告
+补充来源／合并报告: [leumon](https://news.ycombinator.com/item?id=49806778)
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-203"></a>
-### Case 203: [tscircuit 蓝牙音箱电路对比](https://x.com/seveibar/status/2102465517403636216) (by [@seveibar](https://x.com/seveibar))
+### 案例 203: [tscircuit 蓝牙音箱电路对比](https://x.com/seveibar/status/2102465517403636216) (作者 [@seveibar](https://x.com/seveibar))
 
-**tscircuit 相关作者用同一条「制作蓝牙音箱」指令，对比 Opus 5.5 与 GPT-6 Astra 的电路设计；属于自家工具展示，结果没有证明实体硬件已制作或通过测试**
+**硬件制作并测试前，将 tscircuit 音箱设计视为电路图展示**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+tscircuit 相关作者用同一条「制作蓝牙音箱」指令，对比 Opus 5.5 与 GPT-6 Astra 的电路设计；属于自家工具展示，结果没有证明实体硬件已制作或通过测试
 
 <table>
 <tr>
@@ -3350,12 +3722,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-204"></a>
-### Case 204: [电路原理图绘制的耗时对比](https://x.com/i2cjak/status/2102457079965323296) (by [@i2cjak](https://x.com/i2cjak))
+### 案例 204: [电路原理图绘制的耗时对比](https://x.com/i2cjak/status/2102457079965323296) (作者 [@i2cjak](https://x.com/i2cjak))
 
-**作者比较电路原理图绘制，报告 Opus 5.5 用时 8 分钟，Grok 4.7 用时 20 分钟，并认为前者质量更高；关于超越 Astra 的判断只是作者根据速度提出的看法**
+**结合自报运行时间比较电路图产物，同时保留更广泛速度排名的暂定性质**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者比较电路原理图绘制，报告 Opus 5.5 用时 8 分钟，Grok 4.7 用时 20 分钟，并认为前者质量更高；关于超越 Astra 的判断只是作者根据速度提出的看法
 
 <table>
 <tr>
@@ -3366,12 +3740,14 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-205"></a>
-### Case 205: [ARC-AGI 推理与单题成本](https://x.com/arcprize/status/2102512140405866568) (by [@arcprize](https://x.com/arcprize))
+### 案例 205: [ARC-AGI 推理与单题成本](https://x.com/arcprize/status/2102512140405866568) (作者 [@arcprize](https://x.com/arcprize))
 
-**ARC Prize 发布验证结果：ARC-AGI-2 为 93.3%、每题 0.41 美元；ARC-AGI-1 为 98.5%、每题 0.16 美元；成绩与成本只适用于该机构报告的评测条件**
+**在评测方报告的测试条件下理解 ARC 成绩与每题成本**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+ARC Prize 发布验证结果：ARC-AGI-2 为 93.3%、每题 0.41 美元；ARC-AGI-1 为 98.5%、每题 0.16 美元；成绩与成本只适用于该机构报告的评测条件
 
 <table>
 <tr>
@@ -3381,27 +3757,29 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-206"></a>
-### Case 206: [生成 Interaction Calculus 规则](https://x.com/VictorTaelin/status/2102470976264983016) (by [@VictorTaelin](https://x.com/VictorTaelin))
+### 案例 206: [生成 Interaction Calculus 规则](https://x.com/VictorTaelin/status/2102470976264983016) (作者 [@VictorTaelin](https://x.com/VictorTaelin))
 
-**领域作者自述 Opus 5.5 能写出 Interaction Calculus 的语法和规则细节，并给出可核对的项目名称；帖子中的 Bend 自举重写仍只是后续计划，不列为已完成成果**
+**将自报的演算规则复现与未来提出的 Bend 重写分开**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
-
-这条来源为文字记录，未补造媒体或提示词
+领域作者自述 Opus 5.5 能写出 Interaction Calculus 的语法和规则细节，并给出可核对的项目名称；帖子中的 Bend 自举重写仍只是后续计划，不列为已完成成果
 
 Type: Demo | Date: 2026-09-22
+
+---
 
 
 <a id="category-computer-use"></a>
 ## 🧩 电脑操作
 
 <a id="case-207"></a>
-### Case 207: [用鼠标键盘在 Paintbrush 画蒙娜丽莎](https://x.com/higgsfield_ai/status/2102453015596916931) (by [@higgsfield_ai](https://x.com/higgsfield_ai))
+### 案例 207: [用鼠标键盘在 Paintbrush 画蒙娜丽莎](https://x.com/higgsfield_ai/status/2102453015596916931) (作者 [@higgsfield_ai](https://x.com/higgsfield_ai))
 
-**Higgsfield 平台让两个模型仅用黑色笔画、鼠标和键盘在 Paintbrush 中绘制蒙娜丽莎；平台报告 Opus 5.5 用时 11 分 42 秒、估计 1.66 美元，GPT-6 Astra 用时 5 分 26 秒、估计 2.72 美元**
+**比较鼠标绘制结果时，保留共同限制与平台报告的时间、费用估算**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+Higgsfield 平台让两个模型仅用黑色笔画、鼠标和键盘在 Paintbrush 中绘制蒙娜丽莎；平台报告 Opus 5.5 为 11m 42s、估计 $1.66，GPT-6 Astra 为 5m 26s、估计 $2.72
 
 <table>
 <tr>
@@ -3411,12 +3789,14 @@ Type: Demo | Date: 2026-09-22
 
 Type: Evaluation | Date: 2026-09-22
 
+---
+
 <a id="case-208"></a>
-### Case 208: [Paint 绘图的交互方式对比](https://x.com/matiass/status/2102473936457850901) (by [@matiass](https://x.com/matiass))
+### 案例 208: [Paint 绘图的交互方式对比](https://x.com/matiass/status/2102473936457850901) (作者 [@matiass](https://x.com/matiass))
 
-**作者让两模型在 Paint 画老板肖像再用 Magnific MCP 动画，但称 Opus 采用了不符合要求的捷径；附带视频明确展示 ChatGPT 对照结果，不能当作 Opus 成功演示**
+**验证指定的绘图交互，并将附带的对照视频与 Opus 产物区分开**
 
-本条以标题链接中的原帖为证据；署名对应发布者，不表示已经独立复现
+作者让两模型在 Paint 画老板肖像再用 Magnific MCP 动画，但称 Opus 采用了不符合要求的捷径；附带视频明确展示 ChatGPT 对照结果，不能当作 Opus 成功演示
 
 <table>
 <tr>
@@ -3426,16 +3806,23 @@ Type: Evaluation | Date: 2026-09-22
 
 Type: Limit | Date: 2026-09-22
 
+---
+
+<a id="related-repositories"></a>
 ## 🔗 相关仓库
 
-配套 API 或 Skill 仓库的当前模型入口尚未核对，因此这里暂不添加；接入方式见上方 EvoLink 官方文档
+Anthropic 的相关资源介绍其自身工具与 API，并非 EvoLink Claude Opus 5.5 安装指南
 
+- [Claude Code](https://github.com/anthropics/claude-code)
+- [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks)
+
+<a id="acknowledge"></a>
 ## 🙏 致谢
 
-感谢下列创作者与发布者；原始演示、截图、商标和链接作品归各自权利人所有；如署名有误或权利人要求移除，请通过更正模板联系仓库维护者
+感谢下列创作者和发布方，原始演示、截图、商标及链接作品的权利归各自所有者；如需更正署名或请求移除，请使用仓库的更正 issue 模板联系维护者
 
-[@claudeai](https://x.com/claudeai), [@ClaudeDevs](https://x.com/ClaudeDevs), [@higgsfield_ai](https://x.com/higgsfield_ai), [@bridgemindai](https://x.com/bridgemindai), [@noahwachnik](https://x.com/noahwachnik), [@edwinarbus](https://x.com/edwinarbus), [@WoahWurdz](https://x.com/WoahWurdz), [@k2sbhai](https://x.com/k2sbhai), [@notjazii](https://x.com/notjazii), [@bridgebench](https://x.com/bridgebench), [@oguzthedev](https://x.com/oguzthedev), [@hakmgpt](https://x.com/hakmgpt), [@BuiltByBilal](https://x.com/BuiltByBilal), [@buildwithsid](https://x.com/buildwithsid), [@_MaxBlade](https://x.com/_MaxBlade), [@cherry_mx_reds](https://x.com/cherry_mx_reds), [@benchmark_lb900](https://x.com/benchmark_lb900), [@xikhar](https://x.com/xikhar), [@intheworldofai](https://x.com/intheworldofai), [@jumperz](https://x.com/jumperz), [@ForwardEditor](https://x.com/ForwardEditor), [@Thomas_jorgen](https://x.com/Thomas_jorgen), [@Rubzem](https://x.com/Rubzem), [@bijanbowen](https://x.com/bijanbowen), [@adxtyahq](https://x.com/adxtyahq), [@TesanaAI](https://x.com/TesanaAI), [@BhavikY663](https://x.com/BhavikY663), [senko](https://news.ycombinator.com/user?id=senko), [@maxbittker](https://x.com/maxbittker), [@chaseleantj](https://x.com/chaseleantj), [@Avenoxai](https://x.com/Avenoxai), [@Aurelien_Gz](https://x.com/Aurelien_Gz), [@coldopn](https://x.com/coldopn), [@brainextends](https://x.com/brainextends), [@KinasRemek](https://x.com/KinasRemek), [@adilinthewild](https://x.com/adilinthewild), [@nityeshaga](https://x.com/nityeshaga), [@Avinash25467](https://x.com/Avinash25467), [@Stefan_3D_AI](https://x.com/Stefan_3D_AI), [@MatthewBerman](https://x.com/MatthewBerman), [@wesbos](https://x.com/wesbos), [@cxjwin](https://x.com/cxjwin), [@alexalbert__](https://x.com/alexalbert__), [@atomic_chat_hq](https://x.com/atomic_chat_hq), [@superalesha](https://x.com/superalesha), [@petergyang](https://x.com/petergyang), [@vib3coded](https://x.com/vib3coded), [@danveloper](https://x.com/danveloper), [@aipulseda1ly](https://x.com/aipulseda1ly), [@riba2534](https://x.com/riba2534), [@izutorishima](https://x.com/izutorishima), [@luccacerf](https://x.com/luccacerf), [@Conor_D_Dart](https://x.com/Conor_D_Dart), [@techartist_](https://x.com/techartist_), [@aimlapi](https://x.com/aimlapi), [@karankendre](https://x.com/karankendre), [@marmaduke091](https://x.com/marmaduke091), [@blueemi99](https://x.com/blueemi99), [@filicroval](https://x.com/filicroval), [@AI_Screening](https://x.com/AI_Screening), [@scottstts](https://x.com/scottstts), [@Angaisb_](https://x.com/Angaisb_), [@RealFedeURU](https://x.com/RealFedeURU), [@NicolaManzini](https://x.com/NicolaManzini), [@thehypedotnews](https://x.com/thehypedotnews), [@aj_dev_smith](https://x.com/aj_dev_smith), [@aug5thmusic](https://x.com/aug5thmusic), [@yugen_matuni](https://x.com/yugen_matuni), [@other__reality](https://x.com/other__reality), [@majidmanzarpour](https://x.com/majidmanzarpour), [@strawhatsu4](https://x.com/strawhatsu4), [@ishuagra02](https://x.com/ishuagra02), [@chetaslua](https://x.com/chetaslua), [@NFT_Chen](https://x.com/NFT_Chen), [@noclipepe](https://x.com/noclipepe), [@Hesamation](https://x.com/Hesamation), [@rege_dev](https://x.com/rege_dev), [@jake11moran](https://x.com/jake11moran), [@riku720720](https://x.com/riku720720), [@hysteresis_x](https://x.com/hysteresis_x), [@diegocabezas01](https://x.com/diegocabezas01), [@matiass](https://x.com/matiass), [@digi_dot_exe](https://x.com/digi_dot_exe), [@alexgetmancom](https://x.com/alexgetmancom), [@developedbyed](https://x.com/developedbyed), [@Tim_Hua_](https://x.com/Tim_Hua_), [@berryxia](https://x.com/berryxia), [@felixrieseberg](https://x.com/felixrieseberg), [simonw](https://news.ycombinator.com/user?id=simonw), [ianberdin](https://news.ycombinator.com/user?id=ianberdin), [@trq212](https://x.com/trq212), [@premiumtantan](https://x.com/premiumtantan), [@jaimintf](https://x.com/jaimintf), [@karminski3](https://x.com/karminski3), [@daradoescode](https://x.com/daradoescode), [@IndependentEco](https://x.com/IndependentEco), [@shfred0](https://x.com/shfred0), [@ZryMiller](https://x.com/ZryMiller), [@israelfemiojo](https://x.com/israelfemiojo), [@TylerNishida](https://x.com/TylerNishida), [@viticci](https://x.com/viticci), [@maybepratikk](https://x.com/maybepratikk), [@viktoroddy](https://x.com/viktoroddy), [@UnCorped](https://x.com/UnCorped), [@lucaxyzz](https://x.com/lucaxyzz), [@MotreskuKosta](https://x.com/MotreskuKosta), [@nemumusitocha](https://x.com/nemumusitocha), [jjcm](https://news.ycombinator.com/user?id=jjcm), [@MiaAI_lab](https://x.com/MiaAI_lab), [@nextjs](https://x.com/nextjs), [@every](https://x.com/every), [@borjafat](https://x.com/borjafat), [@powl_d](https://x.com/powl_d), [@askalphaxiv](https://x.com/askalphaxiv), [@SafeForgeAI](https://x.com/SafeForgeAI), [@MLBear2](https://x.com/MLBear2), [@Koke1024](https://x.com/Koke1024), [@pierreeliottlal](https://x.com/pierreeliottlal), [@RampLabs](https://x.com/RampLabs), [@daniel_mac8](https://x.com/daniel_mac8), [@doodlestein](https://x.com/doodlestein), [@AlexFinn](https://x.com/AlexFinn), [@lydiahallie](https://x.com/lydiahallie), [@jullerino](https://x.com/jullerino), [@shannholmberg](https://x.com/shannholmberg), [@jyangballin](https://x.com/jyangballin), [@18jeffreyma](https://x.com/18jeffreyma), [@skalskip92](https://x.com/skalskip92), [@Medeo_AI](https://x.com/Medeo_AI), [@trymirage](https://x.com/trymirage), [@jerryjliu0](https://x.com/jerryjliu0), [@satori_sz9](https://x.com/satori_sz9), [@dhruvalgolakiya](https://x.com/dhruvalgolakiya), [@jetbrains](https://x.com/jetbrains), [@gabrielbuzziv](https://x.com/gabrielbuzziv), [@Capetlevrai](https://x.com/Capetlevrai), [@genel_ai](https://x.com/genel_ai), [@ailker](https://x.com/ailker), [@hanifproduktif](https://x.com/hanifproduktif), [@sbalhatlani](https://x.com/sbalhatlani), [@dfeinition](https://x.com/dfeinition), [@PawelHuryn](https://x.com/PawelHuryn), [@SingulCore](https://x.com/SingulCore), [@dexhorthy](https://x.com/dexhorthy), [mintik](https://news.ycombinator.com/user?id=mintik), [doginasuit](https://news.ycombinator.com/user?id=doginasuit), [gwd](https://news.ycombinator.com/user?id=gwd), [ieie3366](https://news.ycombinator.com/user?id=ieie3366), [@jeresig](https://x.com/jeresig), [@mehulmpt](https://x.com/mehulmpt), [@Irregular](https://x.com/Irregular), [@theojaffee](https://x.com/theojaffee), [@tessera_antra](https://x.com/tessera_antra), [epicepicurean](https://news.ycombinator.com/user?id=epicepicurean), [@housecor](https://x.com/housecor), [@ValsAI](https://x.com/ValsAI), [@seveibar](https://x.com/seveibar), [@i2cjak](https://x.com/i2cjak), [@arcprize](https://x.com/arcprize), [@VictorTaelin](https://x.com/VictorTaelin)
+[@claudeai](https://x.com/claudeai), [@ClaudeDevs](https://x.com/ClaudeDevs), [@higgsfield_ai](https://x.com/higgsfield_ai), [@bridgemindai](https://x.com/bridgemindai), [@noahwachnik](https://x.com/noahwachnik), [@edwinarbus](https://x.com/edwinarbus), [@WoahWurdz](https://x.com/WoahWurdz), [@k2sbhai](https://x.com/k2sbhai), [@notjazii](https://x.com/notjazii), [@bridgebench](https://x.com/bridgebench), [@oguzthedev](https://x.com/oguzthedev), [@hakmgpt](https://x.com/hakmgpt), [@BuiltByBilal](https://x.com/BuiltByBilal), [@buildwithsid](https://x.com/buildwithsid), [@_MaxBlade](https://x.com/_MaxBlade), [@cherry_mx_reds](https://x.com/cherry_mx_reds), [@benchmark_lb900](https://x.com/benchmark_lb900), [@xikhar](https://x.com/xikhar), [@intheworldofai](https://x.com/intheworldofai), [@jumperz](https://x.com/jumperz), [@ForwardEditor](https://x.com/ForwardEditor), [@Thomas_jorgen](https://x.com/Thomas_jorgen), [@Rubzem](https://x.com/Rubzem), [@bijanbowen](https://x.com/bijanbowen), [@adxtyahq](https://x.com/adxtyahq), [@TesanaAI](https://x.com/TesanaAI), [@BhavikY663](https://x.com/BhavikY663), [@senko](https://news.ycombinator.com/user?id=senko), [@maxbittker](https://x.com/maxbittker), [@chaseleantj](https://x.com/chaseleantj), [@Avenoxai](https://x.com/Avenoxai), [@Aurelien_Gz](https://x.com/Aurelien_Gz), [@coldopn](https://x.com/coldopn), [@brainextends](https://x.com/brainextends), [@KinasRemek](https://x.com/KinasRemek), [@adilinthewild](https://x.com/adilinthewild), [@nityeshaga](https://x.com/nityeshaga), [@Avinash25467](https://x.com/Avinash25467), [@Stefan_3D_AI](https://x.com/Stefan_3D_AI), [@MatthewBerman](https://x.com/MatthewBerman), [@wesbos](https://x.com/wesbos), [@cxjwin](https://x.com/cxjwin), [@alexalbert__](https://x.com/alexalbert__), [@atomic_chat_hq](https://x.com/atomic_chat_hq), [@superalesha](https://x.com/superalesha), [@petergyang](https://x.com/petergyang), [@vib3coded](https://x.com/vib3coded), [@danveloper](https://x.com/danveloper), [@aipulseda1ly](https://x.com/aipulseda1ly), [@riba2534](https://x.com/riba2534), [@izutorishima](https://x.com/izutorishima), [@luccacerf](https://x.com/luccacerf), [@Conor_D_Dart](https://x.com/Conor_D_Dart), [@techartist_](https://x.com/techartist_), [@aimlapi](https://x.com/aimlapi), [@karankendre](https://x.com/karankendre), [@marmaduke091](https://x.com/marmaduke091), [@blueemi99](https://x.com/blueemi99), [@filicroval](https://x.com/filicroval), [@AI_Screening](https://x.com/AI_Screening), [@scottstts](https://x.com/scottstts), [@Angaisb_](https://x.com/Angaisb_), [@RealFedeURU](https://x.com/RealFedeURU), [@NicolaManzini](https://x.com/NicolaManzini), [@thehypedotnews](https://x.com/thehypedotnews), [@aj_dev_smith](https://x.com/aj_dev_smith), [@aug5thmusic](https://x.com/aug5thmusic), [@yugen_matuni](https://x.com/yugen_matuni), [@other__reality](https://x.com/other__reality), [@majidmanzarpour](https://x.com/majidmanzarpour), [@strawhatsu4](https://x.com/strawhatsu4), [@ishuagra02](https://x.com/ishuagra02), [@chetaslua](https://x.com/chetaslua), [@NFT_Chen](https://x.com/NFT_Chen), [@noclipepe](https://x.com/noclipepe), [@Hesamation](https://x.com/Hesamation), [@rege_dev](https://x.com/rege_dev), [@jake11moran](https://x.com/jake11moran), [@riku720720](https://x.com/riku720720), [@hysteresis_x](https://x.com/hysteresis_x), [@diegocabezas01](https://x.com/diegocabezas01), [@matiass](https://x.com/matiass), [@digi_dot_exe](https://x.com/digi_dot_exe), [@alexgetmancom](https://x.com/alexgetmancom), [@developedbyed](https://x.com/developedbyed), [@Tim_Hua_](https://x.com/Tim_Hua_), [@berryxia](https://x.com/berryxia), [@felixrieseberg](https://x.com/felixrieseberg), [@simonw](https://news.ycombinator.com/user?id=simonw), [@ianberdin](https://news.ycombinator.com/user?id=ianberdin), [@trq212](https://x.com/trq212), [@premiumtantan](https://x.com/premiumtantan), [@jaimintf](https://x.com/jaimintf), [@karminski3](https://x.com/karminski3), [@daradoescode](https://x.com/daradoescode), [@IndependentEco](https://x.com/IndependentEco), [@shfred0](https://x.com/shfred0), [@ZryMiller](https://x.com/ZryMiller), [@israelfemiojo](https://x.com/israelfemiojo), [@TylerNishida](https://x.com/TylerNishida), [@viticci](https://x.com/viticci), [@maybepratikk](https://x.com/maybepratikk), [@viktoroddy](https://x.com/viktoroddy), [@UnCorped](https://x.com/UnCorped), [@lucaxyzz](https://x.com/lucaxyzz), [@MotreskuKosta](https://x.com/MotreskuKosta), [@nemumusitocha](https://x.com/nemumusitocha), [@jjcm](https://news.ycombinator.com/user?id=jjcm), [@MiaAI_lab](https://x.com/MiaAI_lab), [@nextjs](https://x.com/nextjs), [@every](https://x.com/every), [@borjafat](https://x.com/borjafat), [@powl_d](https://x.com/powl_d), [@askalphaxiv](https://x.com/askalphaxiv), [@SafeForgeAI](https://x.com/SafeForgeAI), [@MLBear2](https://x.com/MLBear2), [@Koke1024](https://x.com/Koke1024), [@pierreeliottlal](https://x.com/pierreeliottlal), [@RampLabs](https://x.com/RampLabs), [@daniel_mac8](https://x.com/daniel_mac8), [@doodlestein](https://x.com/doodlestein), [@AlexFinn](https://x.com/AlexFinn), [@lydiahallie](https://x.com/lydiahallie), [@jullerino](https://x.com/jullerino), [@shannholmberg](https://x.com/shannholmberg), [@jyangballin](https://x.com/jyangballin), [@18jeffreyma](https://x.com/18jeffreyma), [@skalskip92](https://x.com/skalskip92), [@Medeo_AI](https://x.com/Medeo_AI), [@trymirage](https://x.com/trymirage), [@jerryjliu0](https://x.com/jerryjliu0), [@satori_sz9](https://x.com/satori_sz9), [@dhruvalgolakiya](https://x.com/dhruvalgolakiya), [@jetbrains](https://x.com/jetbrains), [@gabrielbuzziv](https://x.com/gabrielbuzziv), [@Capetlevrai](https://x.com/Capetlevrai), [@genel_ai](https://x.com/genel_ai), [@ailker](https://x.com/ailker), [@hanifproduktif](https://x.com/hanifproduktif), [@sbalhatlani](https://x.com/sbalhatlani), [@dfeinition](https://x.com/dfeinition), [@PawelHuryn](https://x.com/PawelHuryn), [@SingulCore](https://x.com/SingulCore), [@dexhorthy](https://x.com/dexhorthy), [@mintik](https://news.ycombinator.com/user?id=mintik), [@doginasuit](https://news.ycombinator.com/user?id=doginasuit), [@gwd](https://news.ycombinator.com/user?id=gwd), [@ieie3366](https://news.ycombinator.com/user?id=ieie3366), [@jeresig](https://x.com/jeresig), [@mehulmpt](https://x.com/mehulmpt), [@Irregular](https://x.com/Irregular), [@theojaffee](https://x.com/theojaffee), [@tessera_antra](https://x.com/tessera_antra), [@epicepicurean](https://news.ycombinator.com/user?id=epicepicurean), [@housecor](https://x.com/housecor), [@ValsAI](https://x.com/ValsAI), [@seveibar](https://x.com/seveibar), [@i2cjak](https://x.com/i2cjak), [@arcprize](https://x.com/arcprize), [@VictorTaelin](https://x.com/VictorTaelin)
 
-编辑摘要与合集结构采用 CC BY 4.0，第三方媒体保留原有权利
+编辑摘要与收集结构采用 CC BY 4.0；第三方媒体保留原有权利
 
-[在 EvoLink 查看 Claude Opus 5.5](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=footer&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=footer)
+[在 EvoLink 上了解 Claude Opus 5.5](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=footer&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=footer_cta)

@@ -5,5 +5,8 @@
   "media_policy": "all-source-media",
   "video_playback_policy": "local-preview-source-playback",
   "localization_fallback": "block",
-  "scope": "local-only owner request; no publication waiver implied"
+  "scope": "Explicit local repository preparation; publication requirements remain separate and unpassed",
+  "localization_policy": "11-language",
+  "media_hosting_policy": "local-only",
+  "public_actions": "none"
 }
