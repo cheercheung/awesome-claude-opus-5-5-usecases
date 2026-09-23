@@ -1774,7 +1774,7 @@ The author tests voice-leading error detection in ten four-part chorale excerpts
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.jpg" alt="Reported perfect music-error score — Source attachment 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Source attachment 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="Reported perfect music-error score — Source attachment 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Source attachment 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ The T3 Code team says no app update is needed and explains how to force a model-
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.jpg" alt="Refreshing T3 Code’s model cache — Source attachment 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Source attachment 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="Refreshing T3 Code’s model cache — Source attachment 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Source attachment 1</a></td>
 </tr>
 </table>
 
@@ -3333,7 +3333,7 @@ The author provides raw footage containing recording mistakes and a reference ex
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.jpg" alt="Editing raw footage to match a personal style — Source attachment 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Source attachment 1</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="Editing raw footage to match a personal style — Source attachment 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Source attachment 1</a></td>
 <td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="Editing raw footage to match a personal style — Source attachment 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">Play source video 2</a></td>
 </tr>
 </table>
@@ -3492,7 +3492,7 @@ The author reports Max-effort fixes and costs across two repositories: Opus 5.5,
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.jpg" alt="Repairing 105 planted bugs across two repositories — Source attachment 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Source attachment 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="Repairing 105 planted bugs across two repositories — Source attachment 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Source attachment 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ Irregular reports that a ten-challenge subset of its multi-stage cyber benchmark
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.jpg" alt="A ten-challenge CyScenarioBench subset — Source attachment 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Source attachment 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="A ten-challenge CyScenarioBench subset — Source attachment 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Source attachment 1</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ The screenshot shows a story passage set around a forest and river, attributed b
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.jpg" alt="A story excerpt set around a forest and river — Source attachment 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Source attachment 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="A story excerpt set around a forest and river — Source attachment 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Source attachment 1</a></td>
 </tr>
 </table>
 

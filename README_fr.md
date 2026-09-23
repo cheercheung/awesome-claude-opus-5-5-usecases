@@ -1774,7 +1774,7 @@ L’auteur teste la détection d’erreurs de conduite des voix sur dix extraits
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.jpg" alt="Un score parfait annoncé en détection d’erreurs musicales — Pièce jointe de la source 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Pièce jointe de la source 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="Un score parfait annoncé en détection d’erreurs musicales — Pièce jointe de la source 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Pièce jointe de la source 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ L’équipe T3 Code indique qu’aucune mise à jour de l’application n’est 
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.jpg" alt="Actualiser le cache des modèles de T3 Code — Pièce jointe de la source 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Pièce jointe de la source 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="Actualiser le cache des modèles de T3 Code — Pièce jointe de la source 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Pièce jointe de la source 1</a></td>
 </tr>
 </table>
 
@@ -3333,7 +3333,7 @@ L’auteur fournit des rushes contenant des erreurs d’enregistrement et un exe
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.jpg" alt="Monter des rushes selon un style personnel — Pièce jointe de la source 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Pièce jointe de la source 1</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="Monter des rushes selon un style personnel — Pièce jointe de la source 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Pièce jointe de la source 1</a></td>
 <td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="Monter des rushes selon un style personnel — Pièce jointe de la source 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">Lire la vidéo source 2</a></td>
 </tr>
 </table>
@@ -3492,7 +3492,7 @@ L’auteur rapporte les corrections avec l’effort Max et les coûts dans deux 
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.jpg" alt="Corriger 105 bugs introduits dans deux dépôts — Pièce jointe de la source 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Pièce jointe de la source 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="Corriger 105 bugs introduits dans deux dépôts — Pièce jointe de la source 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Pièce jointe de la source 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ Irregular rapporte qu’un sous-ensemble de dix défis de son benchmark cyber à
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.jpg" alt="Un sous-ensemble de dix défis CyScenarioBench — Pièce jointe de la source 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Pièce jointe de la source 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="Un sous-ensemble de dix défis CyScenarioBench — Pièce jointe de la source 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Pièce jointe de la source 1</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ La capture montre un passage narratif situé autour d’une forêt et d’une ri
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.jpg" alt="Un extrait de récit autour d’une forêt et d’une rivière — Pièce jointe de la source 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Pièce jointe de la source 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="Un extrait de récit autour d’une forêt et d’une rivière — Pièce jointe de la source 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Pièce jointe de la source 1</a></td>
 </tr>
 </table>
 

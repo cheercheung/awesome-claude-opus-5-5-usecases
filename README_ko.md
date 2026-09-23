@@ -1774,7 +1774,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.jpg" alt="음악 오류 탐지 만점 보고 — 원문 첨부 자료 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">원문 첨부 자료 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="음악 오류 탐지 만점 보고 — 원문 첨부 자료 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">원문 첨부 자료 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ T3 Code 팀은 앱 업데이트가 필요 없다고 밝히고 모델 목록을 �
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.jpg" alt="T3 Code 모델 캐시 새로고침 — 원문 첨부 자료 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">원문 첨부 자료 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="T3 Code 모델 캐시 새로고침 — 원문 첨부 자료 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">원문 첨부 자료 1</a></td>
 </tr>
 </table>
 
@@ -3333,7 +3333,7 @@ Type: Integration | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.jpg" alt="개인 스타일에 맞춰 원본 촬영분 편집 — 원문 첨부 자료 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">원문 첨부 자료 1</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="개인 스타일에 맞춰 원본 촬영분 편집 — 원문 첨부 자료 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">원문 첨부 자료 1</a></td>
 <td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="개인 스타일에 맞춰 원본 촬영분 편집 — 원문 첨부 자료 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">원본 영상 재생 2</a></td>
 </tr>
 </table>
@@ -3492,7 +3492,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.jpg" alt="두 저장소에 심은 버그 105개 수정 — 원문 첨부 자료 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">원문 첨부 자료 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="두 저장소에 심은 버그 105개 수정 — 원문 첨부 자료 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">원문 첨부 자료 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ Irregular는 자사의 다단계 사이버 벤치마크 중 과제 열 개의 �
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.jpg" alt="CyScenarioBench 과제 열 개의 부분집합 — 원문 첨부 자료 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">원문 첨부 자료 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="CyScenarioBench 과제 열 개의 부분집합 — 원문 첨부 자료 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">원문 첨부 자료 1</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.jpg" alt="숲과 강을 배경으로 한 이야기 발췌 — 원문 첨부 자료 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">원문 첨부 자료 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="숲과 강을 배경으로 한 이야기 발췌 — 원문 첨부 자료 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">원문 첨부 자료 1</a></td>
 </tr>
 </table>
 

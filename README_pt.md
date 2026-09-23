@@ -1774,7 +1774,7 @@ O autor testa a detecção de erros de condução de vozes em dez trechos de cor
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.jpg" alt="Pontuação perfeita relatada em erros musicais — Anexo da fonte 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Anexo da fonte 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="Pontuação perfeita relatada em erros musicais — Anexo da fonte 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Anexo da fonte 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ A equipe T3 Code diz que não é preciso atualizar o aplicativo e explica como f
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.jpg" alt="Atualizar o cache de modelos do T3 Code — Anexo da fonte 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Anexo da fonte 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="Atualizar o cache de modelos do T3 Code — Anexo da fonte 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Anexo da fonte 1</a></td>
 </tr>
 </table>
 
@@ -3333,7 +3333,7 @@ O autor fornece filmagens brutas com erros de gravação e um exemplo de referê
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.jpg" alt="Editar filmagens brutas para combinar com um estilo pessoal — Anexo da fonte 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Anexo da fonte 1</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="Editar filmagens brutas para combinar com um estilo pessoal — Anexo da fonte 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Anexo da fonte 1</a></td>
 <td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="Editar filmagens brutas para combinar com um estilo pessoal — Anexo da fonte 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">Reproduzir vídeo da fonte 2</a></td>
 </tr>
 </table>
@@ -3492,7 +3492,7 @@ O autor relata correções com esforço Max e custos em dois repositórios: Opus
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.jpg" alt="Corrigir 105 bugs inseridos em dois repositórios — Anexo da fonte 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Anexo da fonte 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="Corrigir 105 bugs inseridos em dois repositórios — Anexo da fonte 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Anexo da fonte 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ A Irregular relata que um subconjunto de dez desafios de seu benchmark cibernét
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.jpg" alt="Um subconjunto de dez desafios do CyScenarioBench — Anexo da fonte 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Anexo da fonte 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="Um subconjunto de dez desafios do CyScenarioBench — Anexo da fonte 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Anexo da fonte 1</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ A captura mostra um trecho de história ambientado em uma floresta e um rio, atr
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.jpg" alt="Um trecho de história ambientado em floresta e rio — Anexo da fonte 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Anexo da fonte 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="Um trecho de história ambientado em floresta e rio — Anexo da fonte 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Anexo da fonte 1</a></td>
 </tr>
 </table>
 

@@ -1774,7 +1774,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.jpg" alt="音乐错误检测满分自报 — 来源附件 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">来源附件 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="音乐错误检测满分自报 — 来源附件 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ T3 Code 团队说明无需更新应用即可使用新模型，并给出强制刷
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.jpg" alt="刷新 T3 Code 的模型缓存 — 来源附件 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">来源附件 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="刷新 T3 Code 的模型缓存 — 来源附件 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3333,7 +3333,7 @@ Type: Integration | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.jpg" alt="按个人风格剪辑原始拍摄素材 — 来源附件 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">来源附件 1</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="按个人风格剪辑原始拍摄素材 — 来源附件 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">来源附件 1</a></td>
 <td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="按个人风格剪辑原始拍摄素材 — 来源附件 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">播放来源视频 2</a></td>
 </tr>
 </table>
@@ -3492,7 +3492,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.jpg" alt="105 个预埋 bug 的修复对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">来源附件 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="105 个预埋 bug 的修复对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ Irregular 报告其多阶段安全基准的 10 题子集被用于评测：Opus 5
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.jpg" alt="CyScenarioBench 的十题子集 — 来源附件 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">来源附件 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="CyScenarioBench 的十题子集 — 来源附件 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.jpg" alt="森林与河流背景的故事片段 — 来源附件 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">来源附件 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="森林与河流背景的故事片段 — 来源附件 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">来源附件 1</a></td>
 </tr>
 </table>
 

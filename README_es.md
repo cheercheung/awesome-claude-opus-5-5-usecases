@@ -1774,7 +1774,7 @@ El autor prueba la detección de errores de conducción de voces en diez fragmen
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.jpg" alt="Puntuación perfecta declarada al detectar errores musicales — Archivo adjunto de la fuente 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Archivo adjunto de la fuente 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="Puntuación perfecta declarada al detectar errores musicales — Archivo adjunto de la fuente 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Archivo adjunto de la fuente 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ El equipo de T3 Code dice que no hace falta actualizar la aplicación y explica 
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.jpg" alt="Actualizar la caché de modelos de T3 Code — Archivo adjunto de la fuente 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Archivo adjunto de la fuente 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="Actualizar la caché de modelos de T3 Code — Archivo adjunto de la fuente 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Archivo adjunto de la fuente 1</a></td>
 </tr>
 </table>
 
@@ -3333,7 +3333,7 @@ El autor aporta material bruto con errores de grabación y un ejemplo de referen
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.jpg" alt="Editar material bruto para igualar un estilo personal — Archivo adjunto de la fuente 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Archivo adjunto de la fuente 1</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="Editar material bruto para igualar un estilo personal — Archivo adjunto de la fuente 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Archivo adjunto de la fuente 1</a></td>
 <td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="Editar material bruto para igualar un estilo personal — Archivo adjunto de la fuente 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">Reproducir vídeo de la fuente 2</a></td>
 </tr>
 </table>
@@ -3492,7 +3492,7 @@ El autor informa de correcciones con esfuerzo Max y costes en dos repositorios: 
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.jpg" alt="Reparación de 105 errores introducidos en dos repositorios — Archivo adjunto de la fuente 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Archivo adjunto de la fuente 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="Reparación de 105 errores introducidos en dos repositorios — Archivo adjunto de la fuente 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Archivo adjunto de la fuente 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ Irregular informa de que un subconjunto de diez retos de su benchmark cibernéti
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.jpg" alt="Subconjunto de diez retos de CyScenarioBench — Archivo adjunto de la fuente 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Archivo adjunto de la fuente 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="Subconjunto de diez retos de CyScenarioBench — Archivo adjunto de la fuente 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Archivo adjunto de la fuente 1</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ La captura muestra un pasaje narrativo ambientado en un bosque y un río, atribu
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.jpg" alt="Fragmento de relato ambientado en un bosque y un río — Archivo adjunto de la fuente 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Archivo adjunto de la fuente 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="Fragmento de relato ambientado en un bosque y un río — Archivo adjunto de la fuente 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Archivo adjunto de la fuente 1</a></td>
 </tr>
 </table>
 

@@ -1774,7 +1774,7 @@ Yazar, on adet dört partili koral kesitinde ses yürütme hatası tespitini tes
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.jpg" alt="Bildirilen kusursuz müzik hatası puanı — Kaynak eki 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Kaynak eki 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="Bildirilen kusursuz müzik hatası puanı — Kaynak eki 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ T3 Code ekibi uygulama güncellemesi gerekmediğini söylüyor ve model listesin
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.jpg" alt="T3 Code model önbelleğini yenilemek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Kaynak eki 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="T3 Code model önbelleğini yenilemek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3333,7 +3333,7 @@ Yazar, kayıt hataları içeren ham görüntülerle bir referans örneği sağl�
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.jpg" alt="Ham görüntüleri kişisel stile göre düzenlemek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Kaynak eki 1</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="Ham görüntüleri kişisel stile göre düzenlemek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Kaynak eki 1</a></td>
 <td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="Ham görüntüleri kişisel stile göre düzenlemek — Kaynak eki 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">Kaynak videoyu oynat 2</a></td>
 </tr>
 </table>
@@ -3492,7 +3492,7 @@ Yazar, iki depoya yerleştirilmiş 105 hata içinden Max çaba düzeyinde düzel
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.jpg" alt="İki depoya yerleştirilmiş 105 hatayı düzeltmek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Kaynak eki 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="İki depoya yerleştirilmiş 105 hatayı düzeltmek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ Irregular, çok aşamalı siber kıyaslamasının on görevlik alt kümesinde Op
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.jpg" alt="On görevlik CyScenarioBench alt kümesi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Kaynak eki 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="On görevlik CyScenarioBench alt kümesi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ Ekran görüntüsü, yazarın Opus 5.5’e atfettiği, orman ve nehir çevresind
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.jpg" alt="Orman ve nehir çevresinde geçen öykü kesiti — Kaynak eki 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Kaynak eki 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="Orman ve nehir çevresinde geçen öykü kesiti — Kaynak eki 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Kaynak eki 1</a></td>
 </tr>
 </table>
 

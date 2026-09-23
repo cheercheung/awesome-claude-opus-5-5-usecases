@@ -1774,7 +1774,7 @@ Der Autor testet die Erkennung von Stimmführungsfehlern in zehn vierstimmigen C
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.jpg" alt="Angeblich perfekte Musikfehler-Erkennung — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="Angeblich perfekte Musikfehler-Erkennung — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ Das T3-Code-Team erklärt, dass kein App-Update nötig ist, und beschreibt eine 
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.jpg" alt="Den Modellcache von T3 Code erneuern — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="Den Modellcache von T3 Code erneuern — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3333,7 +3333,7 @@ Der Autor liefert Rohmaterial mit Aufnahmefehlern und ein Referenzbeispiel und b
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.jpg" alt="Rohmaterial passend zum persönlichen Stil schneiden — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="Rohmaterial passend zum persönlichen Stil schneiden — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Anhang der Quelle 1</a></td>
 <td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="Rohmaterial passend zum persönlichen Stil schneiden — Anhang der Quelle 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">Quellvideo abspielen 2</a></td>
 </tr>
 </table>
@@ -3492,7 +3492,7 @@ Der Autor nennt Behebungen und Kosten mit Max-Aufwand über zwei Repositories: O
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.jpg" alt="105 eingebaute Fehler in zwei Repositories beheben — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="105 eingebaute Fehler in zwei Repositories beheben — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ Irregular meldet für eine Teilmenge seines mehrstufigen Cyber-Benchmarks mit ze
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.jpg" alt="Eine CyScenarioBench-Teilmenge mit zehn Aufgaben — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="Eine CyScenarioBench-Teilmenge mit zehn Aufgaben — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ Der Screenshot zeigt eine Passage einer Geschichte rund um einen Wald und einen 
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.jpg" alt="Ein Geschichtenauszug rund um Wald und Fluss — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="Ein Geschichtenauszug rund um Wald und Fluss — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 

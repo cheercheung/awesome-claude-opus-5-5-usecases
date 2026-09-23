@@ -1774,7 +1774,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.jpg" alt="Заявленный идеальный результат поиска музыкальных ошибок — Вложение источника 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Вложение источника 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="Заявленный идеальный результат поиска музыкальных ошибок — Вложение источника 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Вложение источника 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ Type: Tutorial | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.jpg" alt="Обновление кэша моделей T3 Code — Вложение источника 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Вложение источника 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="Обновление кэша моделей T3 Code — Вложение источника 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Вложение источника 1</a></td>
 </tr>
 </table>
 
@@ -3333,7 +3333,7 @@ Type: Integration | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.jpg" alt="Монтаж исходных кадров в личном стиле — Вложение источника 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Вложение источника 1</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="Монтаж исходных кадров в личном стиле — Вложение источника 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Вложение источника 1</a></td>
 <td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="Монтаж исходных кадров в личном стиле — Вложение источника 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">Воспроизвести исходное видео 2</a></td>
 </tr>
 </table>
@@ -3492,7 +3492,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.jpg" alt="Исправление 105 внесённых ошибок в двух репозиториях — Вложение источника 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Вложение источника 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="Исправление 105 внесённых ошибок в двух репозиториях — Вложение источника 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Вложение источника 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ Irregular сообщает, что подмножество из десяти з
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.jpg" alt="Подмножество CyScenarioBench из десяти задач — Вложение источника 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Вложение источника 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="Подмножество CyScenarioBench из десяти задач — Вложение источника 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Вложение источника 1</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.jpg" alt="Фрагмент рассказа о лесе и реке — Вложение источника 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Вложение источника 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="Фрагмент рассказа о лесе и реке — Вложение источника 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Вложение источника 1</a></td>
 </tr>
 </table>
 

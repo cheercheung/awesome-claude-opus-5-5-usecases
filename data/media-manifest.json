@@ -830,7 +830,7 @@
   {
     "id": "2102450889969807360",
     "url": "https://pbs.twimg.com/media/HS1n8fZasAAkLhn.png",
-    "path": "assets/media/2102450889969807360.jpg",
+    "path": "assets/media/2102450889969807360.png",
     "bytes": 30053,
     "sha256": "ef8a4c459cdbfac22c5f811c3f2757dd9b748f53a1236a92d8d2df947c1e40f3",
     "magic": "png",
@@ -1532,7 +1532,7 @@
   {
     "id": "2102465677584109568",
     "url": "https://pbs.twimg.com/media/HS11ZPjaEAAJj5U.png",
-    "path": "assets/media/2102465677584109568.jpg",
+    "path": "assets/media/2102465677584109568.png",
     "bytes": 92359,
     "sha256": "eb852b8b6c0ea1f435745b307172795a75fe9df2a366245e5438a37976a04162",
     "magic": "png",
@@ -1703,7 +1703,7 @@
   {
     "id": "2102488059660906496",
     "url": "https://pbs.twimg.com/media/HS2JwDSWsAAu5jR.png",
-    "path": "assets/media/2102488059660906496.jpg",
+    "path": "assets/media/2102488059660906496.png",
     "bytes": 66140,
     "sha256": "cee463d3c26eb54e866be5b18899db7eb494ff8d95b1dea75bd46308f4d74bf4",
     "magic": "png",
@@ -1802,7 +1802,7 @@
   {
     "id": "2102479170957611008",
     "url": "https://pbs.twimg.com/media/HS2BqqSWEAAjvYd.png",
-    "path": "assets/media/2102479170957611008.jpg",
+    "path": "assets/media/2102479170957611008.png",
     "bytes": 366727,
     "sha256": "193efebaeeb1570ea181b7ae50a296295309d55c46b142888fa5fc0a0ed03120",
     "magic": "png",
@@ -1838,7 +1838,7 @@
   {
     "id": "2102452264283611137",
     "url": "https://pbs.twimg.com/media/HS1pMfHXIAEUMQX.png",
-    "path": "assets/media/2102452264283611137.jpg",
+    "path": "assets/media/2102452264283611137.png",
     "bytes": 28288,
     "sha256": "aa88ade2111ffb4210a6846051ee80ce382b1743ca40725fe3418ebf4bffae22",
     "magic": "png",
@@ -1865,7 +1865,7 @@
   {
     "id": "2102467233276665856",
     "url": "https://pbs.twimg.com/media/HS12zy9aoAA8ZLy.png",
-    "path": "assets/media/2102467233276665856.jpg",
+    "path": "assets/media/2102467233276665856.png",
     "bytes": 184944,
     "sha256": "11d4a0817246d33682a140cc1e9d278228f5a4e7c47a0259dd33bd1f7e49d8e5",
     "magic": "png",

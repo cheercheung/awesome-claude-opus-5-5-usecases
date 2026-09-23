@@ -14,7 +14,8 @@ def fetch(m):
   if r.returncode:return {'id':m['id'],'url':u,'status':'failed','error':r.stderr[-220:]}
   temp.replace(target);status='downloaded'
  b=target.read_bytes();magic='jpeg' if b[:3]==b'\xff\xd8\xff' else 'png' if b[:8]==b'\x89PNG\r\n\x1a\n' else 'webp' if b[:4]==b'RIFF' and b[8:12]==b'WEBP' else 'unknown'
+ if magic!='unknown' and target.suffix.lower() not in {'jpeg':{'.jpg','.jpeg'},'png':{'.png'},'webp':{'.webp'}}[magic]:status='mismatched-extension'
  return {'id':m['id'],'url':u,'path':m['local_preview'],'bytes':len(b),'sha256':hashlib.sha256(b).hexdigest(),'magic':magic,'status':status if magic!='unknown' else 'invalid-image'}
 with concurrent.futures.ThreadPoolExecutor(max_workers=8) as ex:rows=list(ex.map(fetch,ms))
-(R/'data/media-manifest.json').write_text(json.dumps(rows,indent=2)+'\n');bad=[r for r in rows if r['status'] in ['failed','invalid-image']]
+(R/'data/media-manifest.json').write_text(json.dumps(rows,indent=2)+'\n');bad=[r for r in rows if r['status'] in ['failed','invalid-image','mismatched-extension']]
 print(json.dumps({'expected':len(ms),'checked':len(rows),'failures':len(bad),'bytes':sum(r.get('bytes',0) for r in rows),'errors':bad[:5]}));raise SystemExit(bool(bad))

@@ -1774,7 +1774,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.jpg" alt="音楽の誤り検出で満点との報告 — 出典の添付素材 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">出典の添付素材 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="音楽の誤り検出で満点との報告 — 出典の添付素材 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">出典の添付素材 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ T3 Code チームはアプリ更新なしで新モデルが使えると案内し
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.jpg" alt="T3 Code のモデルキャッシュを更新 — 出典の添付素材 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">出典の添付素材 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="T3 Code のモデルキャッシュを更新 — 出典の添付素材 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">出典の添付素材 1</a></td>
 </tr>
 </table>
 
@@ -3333,7 +3333,7 @@ Type: Integration | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.jpg" alt="参考例に合わせて生の撮影素材を編集 — 出典の添付素材 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">出典の添付素材 1</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="参考例に合わせて生の撮影素材を編集 — 出典の添付素材 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">出典の添付素材 1</a></td>
 <td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="参考例に合わせて生の撮影素材を編集 — 出典の添付素材 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">出典の動画を再生 2</a></td>
 </tr>
 </table>
@@ -3492,7 +3492,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.jpg" alt="2つのリポジトリに埋めた105件のバグの修正比較 — 出典の添付素材 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">出典の添付素材 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="2つのリポジトリに埋めた105件のバグの修正比較 — 出典の添付素材 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">出典の添付素材 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ Irregular は多段階のサイバーベンチマーク CyScenarioBench の10課
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.jpg" alt="CyScenarioBench の10課題を評価 — 出典の添付素材 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">出典の添付素材 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="CyScenarioBench の10課題を評価 — 出典の添付素材 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">出典の添付素材 1</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.jpg" alt="森と川を背景にした物語の一節 — 出典の添付素材 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">出典の添付素材 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="森と川を背景にした物語の一節 — 出典の添付素材 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">出典の添付素材 1</a></td>
 </tr>
 </table>
 

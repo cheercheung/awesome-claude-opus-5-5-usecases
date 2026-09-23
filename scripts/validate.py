@@ -31,6 +31,7 @@ def main():
             check(p.is_file(),f'missing media {p.name}')
             if p.is_file():check(sha(p)==record.get('sha256')==m.get('local_sha256'),f'media bytes changed {p.name}')
             check(record.get('url')==m['poster_url'],f'preview origin differs {m["id"]}')
+            check(p.suffix.lower() in {'jpeg':{'.jpg','.jpeg'},'png':{'.png'},'webp':{'.webp'}}.get(record.get('magic'),set()),f'media extension/content mismatch {m["id"]}')
             check(m['source_url']==(m['video_url'] if m['kind']=='video' else m['poster_url']),f'source media URL differs {m["id"]}')
     actual=sorted(p.name for p in ROOT.glob('README*.md'));check(actual==sorted(mdfile(l) for l in LANGS),'README language set must be exactly 11')
     banners=load('data/banner-manifest.json');check({b['locale'] for b in banners}==set(LANGS),'cover language set')

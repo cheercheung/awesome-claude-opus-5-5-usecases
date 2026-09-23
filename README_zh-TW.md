@@ -1774,7 +1774,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.jpg" alt="自述滿分的音樂錯誤檢測 — 來源附件 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">來源附件 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="自述滿分的音樂錯誤檢測 — 來源附件 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">來源附件 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ T3 Code 團隊表示不需更新應用程式，並說明強制重新整理模型
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.jpg" alt="重新整理 T3 Code 模型快取 — 來源附件 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">來源附件 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="重新整理 T3 Code 模型快取 — 來源附件 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">來源附件 1</a></td>
 </tr>
 </table>
 
@@ -3333,7 +3333,7 @@ Type: Integration | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.jpg" alt="依個人風格剪輯原始素材 — 來源附件 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">來源附件 1</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="依個人風格剪輯原始素材 — 來源附件 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">來源附件 1</a></td>
 <td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="依個人風格剪輯原始素材 — 來源附件 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">播放來源影片 2</a></td>
 </tr>
 </table>
@@ -3492,7 +3492,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.jpg" alt="修復兩個倉庫中植入的 105 個錯誤 — 來源附件 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">來源附件 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="修復兩個倉庫中植入的 105 個錯誤 — 來源附件 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">來源附件 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ Irregular 報告在其多階段網路安全基準的十項挑戰子集中，Opus
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.jpg" alt="CyScenarioBench 十項挑戰子集 — 來源附件 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">來源附件 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="CyScenarioBench 十項挑戰子集 — 來源附件 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">來源附件 1</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.jpg" alt="森林與河流背景的故事摘錄 — 來源附件 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">來源附件 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="森林與河流背景的故事摘錄 — 來源附件 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">來源附件 1</a></td>
 </tr>
 </table>
 
