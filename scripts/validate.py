@@ -121,7 +121,7 @@ def main():
         stats[lang]={'cases':len(headings),'visuals':len(rendered)}
     for entry in load('data/utm-matrix.json'):
         q=urllib.parse.parse_qs(urllib.parse.urlparse(entry['url']).query);medium,content=SLOTS[entry['placement']]
-        check(q=={'utm_source':['github'],'utm_medium':[medium],'utm_campaign':[ROOT.name],'utm_content':[content]},f'UTM slot differs {entry["placement"]}')
+        check(q=={'utm_source':['github'],'utm_medium':[medium],'utm_campaign':[json.loads((ROOT/'data/presentation.json').read_text())['repository_slug']],'utm_content':[content]},f'UTM slot differs {entry["placement"]}')
     check(not (ROOT/'preview').exists(),'unsolicited standalone website remains')
     for f in ['LICENSE','NOTICE.md','CONTRIBUTING.md','CODE_OF_CONDUCT.md','SECURITY.md','.github/PULL_REQUEST_TEMPLATE.md','docs/maintenance.md','docs/update-log.md']:
         check((ROOT/f).is_file() and (ROOT/f).stat().st_size>30,f'missing baseline {f}')

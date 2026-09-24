@@ -37,7 +37,7 @@ def main():
         if url not in verified_urls or not url.startswith(hosted['public_base_url']+'/'+hosted['prefix']+'/'):
             raise ValueError('Unverified or non-R2 presentation URL')
         return url
-    urls={slot:target+'?'+urlencode({'utm_source':'github','utm_medium':medium,'utm_campaign':ROOT.name,'utm_content':content}) for slot,(target,medium,content) in SLOTS.items()}
+    urls={slot:target+'?'+urlencode({'utm_source':'github','utm_medium':medium,'utm_campaign':read_json(ROOT/'data/presentation.json')['repository_slug'],'utm_content':content}) for slot,(target,medium,content) in SLOTS.items()}
     badges='\n'.join(f'[![{name}]({badge("https://img.shields.io/badge/"+quote(name,safe="")+"-"+color)})]({filename(lang)})' for lang,name,color in LANGS)
     selected=[args.locale] if args.locale else [x[0] for x in LANGS]
     for lang in selected:

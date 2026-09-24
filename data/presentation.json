@@ -8,5 +8,6 @@
   "scope": "R2 hosting explicitly requested; Git repository remains local and is not pushed",
   "localization_policy": "11-language",
   "media_hosting_policy": "R2-hosted",
-  "public_actions": "r2-media-upload-only"
+  "public_actions": "r2-media-upload-only",
+  "repository_slug": "awesome-claude-opus-5-5-usecases"
 }
