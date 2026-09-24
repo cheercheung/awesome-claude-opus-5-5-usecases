@@ -15,3 +15,7 @@ Reworked the English collection into one reader-action takeaway plus complete so
 The completed local revision contains all 11 README languages, 11 PNG covers, the required four-column Menu and section navigation, complete source notes, separators and a generated curated Markdown index. Source review narrowed case 69 from an unsupported per-run cost unit to the costs actually reported. Local checks are passing; remote publication requirements remain unexecuted.
 
 Six source PNG images were renamed from incorrect .jpg cache filenames to .png without altering their bytes. All README/data references and MIME-consistency validation were updated.
+
+## 2026-09-24 — R2 hosting correction
+
+Migrated all 154 videos, extracted posters, original images, covers and badges to the configured R2 namespace. README display/playback now requires verified R2 URLs with no source-CDN fallback. Source URLs and attribution remain unchanged as provenance. R2 upload/readback and default handoff verification are complete; Git was not pushed.

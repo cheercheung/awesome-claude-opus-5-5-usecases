@@ -1,23 +1,23 @@
 <div align="center">
-<a href="https://evolink.ai/claude-opus-5-5?utm_source=github&amp;utm_medium=banner&amp;utm_campaign=awesome-claude-opus-5-5-usecases&amp;utm_content=readme_banner"><img src="images/zh.png" alt="Claude Opus 5.5 使用案例" width="760"></a>
+<a href="https://evolink.ai/claude-opus-5-5?utm_source=github&amp;utm_medium=banner&amp;utm_campaign=awesome-claude-opus-5-5-usecases&amp;utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/images/zh-e4720d8dd943.png" alt="Claude Opus 5.5 使用案例" width="760"></a>
 
 # Claude Opus 5.5 使用案例
 有来源依据的工作流、演示、对比与局限
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![EvoLink](https://img.shields.io/badge/EvoLink-173f46)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=top_badge)
+[![License: CC BY 4.0](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/01-632a4166db12.svg)](LICENSE)
+[![EvoLink](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/02-9c3762f5257a.svg)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=top_badge)
 
-[![English](https://img.shields.io/badge/English-111111)](README.md)
-[![Español](https://img.shields.io/badge/Espa%C3%B1ol-ffb703)](README_es.md)
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-2a9d8f)](README_pt.md)
-[![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-52b788)](README_ja.md)
-[![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-4ea8de)](README_ko.md)
-[![Deutsch](https://img.shields.io/badge/Deutsch-f4a261)](README_de.md)
-[![Français](https://img.shields.io/badge/Fran%C3%A7ais-e76f51)](README_fr.md)
-[![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-d62828)](README_tr.md)
-[![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-8338ec)](README_zh-TW.md)
-[![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-ef476f)](README_zh-CN.md)
-[![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-577590)](README_ru.md)
+[![English](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/03-10c9c5e9bda1.svg)](README.md)
+[![Español](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/04-a181c1d535f0.svg)](README_es.md)
+[![Português](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/05-ac70b838f049.svg)](README_pt.md)
+[![日本語](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/06-31ba71b87ecf.svg)](README_ja.md)
+[![한국어](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/07-edc23bf20eba.svg)](README_ko.md)
+[![Deutsch](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/08-0eacdeaa81bd.svg)](README_de.md)
+[![Français](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/09-29c9bacd0821.svg)](README_fr.md)
+[![Türkçe](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/10-1178dd208b61.svg)](README_tr.md)
+[![繁體中文](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/11-3d5c3f5925b5.svg)](README_zh-TW.md)
+[![简体中文](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/12-796941d82393.svg)](README_zh-CN.md)
+[![Русский](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/13-d555473f9d29.svg)](README_ru.md)
 
 </div>
 
@@ -274,7 +274,7 @@ Claude 官方账号将 Kevin Ngo 的西瓜故事短片列为 Opus 5.5 的早期�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102467313874178048/vid/avc1/1080x1080/jvnZ3SyyxxajVatp.mp4?tag=29"><img src="assets/media/2102467313874178048.jpg" alt="官方转发的西瓜故事短片 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102467313874178048/vid/avc1/1080x1080/jvnZ3SyyxxajVatp.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102467313874178048-e3b144c313ac.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102467313874178048-de941bbeca1a.jpg" alt="官方转发的西瓜故事短片 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102467313874178048-e3b144c313ac.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -306,7 +306,7 @@ Higgsfield 展示 Opus 5.5 与 GPT-6 Astra 制作的武士游戏对照，属于�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102470161328685056/vid/avc1/1122x1080/mkbbA1dMknaGX6nL.mp4?tag=29"><img src="assets/media/2102470161328685056.jpg" alt="武士游戏对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102470161328685056/vid/avc1/1122x1080/mkbbA1dMknaGX6nL.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102470161328685056-fd2a5ee107ab.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102470161328685056-aa92e77fdad6.jpg" alt="武士游戏对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102470161328685056-fd2a5ee107ab.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -325,7 +325,7 @@ BridgeMind 平台展示一次生成的 Mario Kart 游戏，包含可操作的马
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102451221483180032/vid/avc1/2098x1080/vHjQ8jI6WsTR-TPn.mp4?tag=29"><img src="assets/media/2102451221483180032.jpg" alt="一次生成 Mario Kart 游戏 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102451221483180032/vid/avc1/2098x1080/vHjQ8jI6WsTR-TPn.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451221483180032-b1eb7ce40beb.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102451221483180032-98f5cd64f96d.jpg" alt="一次生成 Mario Kart 游戏 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451221483180032-b1eb7ce40beb.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -342,7 +342,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102469320001404928/vid/avc1/1920x1080/BwKBu8kazrg4aJph.mp4?tag=29"><img src="assets/media/2102469320001404928.jpg" alt="浏览器中的 Minecraft 克隆 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102469320001404928/vid/avc1/1920x1080/BwKBu8kazrg4aJph.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102469320001404928-d106426800c4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102469320001404928-fc722a97e06c.jpg" alt="浏览器中的 Minecraft 克隆 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102469320001404928-d106426800c4.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -359,7 +359,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102461665086418944/vid/avc1/1350x1080/86T-JaewbcqfYnRH.mp4?tag=29"><img src="assets/media/2102461665086418944.jpg" alt="单个 HTML 的机械主题游戏 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102461665086418944/vid/avc1/1350x1080/86T-JaewbcqfYnRH.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461665086418944-a20e243224fc.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102461665086418944-ce3192637a9c.jpg" alt="单个 HTML 的机械主题游戏 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461665086418944-a20e243224fc.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -376,7 +376,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102487713282686976/vid/avc1/1462x1128/3fIlU8ItZxe_bOOQ.mp4?tag=29"><img src="assets/media/2102487713282686976.jpg" alt="Roblox 动漫角色大乱斗 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102487713282686976/vid/avc1/1462x1128/3fIlU8ItZxe_bOOQ.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487713282686976-503a60760211.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102487713282686976-3606f07dad57.jpg" alt="Roblox 动漫角色大乱斗 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487713282686976-503a60760211.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -393,7 +393,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102487804651720704/vid/avc1/1080x1920/R6XVPJWDvtaZ_lkN.mp4?tag=29"><img src="assets/media/2102487804651720704.jpg" alt="蜘蛛侠游戏的三模型对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102487804651720704/vid/avc1/1080x1920/R6XVPJWDvtaZ_lkN.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487804651720704-ace771d2cfd4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102487804651720704-4afcbbd5f4c3.jpg" alt="蜘蛛侠游戏的三模型对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487804651720704-ace771d2cfd4.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -410,7 +410,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102479783800279040/vid/avc1/1920x1080/7VsGtlHe2S5BRExC.mp4?tag=29"><img src="assets/media/2102479783800279040.jpg" alt="带水物理的 Minecraft 克隆 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102479783800279040/vid/avc1/1920x1080/7VsGtlHe2S5BRExC.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479783800279040-8702c22fb2da.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102479783800279040-1b239ef36b36.jpg" alt="带水物理的 Minecraft 克隆 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479783800279040-8702c22fb2da.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -427,7 +427,7 @@ BridgeBench 平台以相同提示词和任务比较 Opus 5.5 与 GPT-6 Sol；媒
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102468957806501888/vid/avc1/1920x1080/CiEVMPgTSp380Wzs.mp4?tag=29"><img src="assets/media/2102468957806501888.jpg" alt="DEAD SIGNAL 第一人称场景 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102468957806501888/vid/avc1/1920x1080/CiEVMPgTSp380Wzs.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468957806501888-174f6fac93dc.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102468957806501888-0b7859a5ca4f.jpg" alt="DEAD SIGNAL 第一人称场景 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468957806501888-174f6fac93dc.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -444,7 +444,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102475876294160385/vid/avc1/1880x1080/FNaYj1IdK9WsC2fz.mp4?tag=29"><img src="assets/media/2102475876294160385.jpg" alt="纯代码养蜂游戏 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102475876294160385/vid/avc1/1880x1080/FNaYj1IdK9WsC2fz.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475876294160385-de693a0f1887.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102475876294160385-723222661176.jpg" alt="纯代码养蜂游戏 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475876294160385-de693a0f1887.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -461,7 +461,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102452906083377152/vid/avc1/1080x1098/S7n7jTgko7JLgc7r.mp4?tag=29"><img src="assets/media/2102452906083377152.jpg" alt="贪吃蛇游戏演示 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102452906083377152/vid/avc1/1080x1098/S7n7jTgko7JLgc7r.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452906083377152-022ae703ae00.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102452906083377152-b3f0dd1f6a3b.jpg" alt="贪吃蛇游戏演示 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452906083377152-022ae703ae00.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -478,7 +478,7 @@ Higgsfield 平台展示 Opus 5.5 与 GPT-6 Sol 的 3D 游戏开发效果对比�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102496880412565504/vid/avc1/1080x1080/ILPIm5Y_fCgPCVC4.mp4?tag=29"><img src="assets/media/2102496880412565504.jpg" alt="3D 游戏效果对比 Sol — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102496880412565504/vid/avc1/1080x1080/ILPIm5Y_fCgPCVC4.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102496880412565504-56b7214e2954.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102496880412565504-7c0f40c9690c.jpg" alt="3D 游戏效果对比 Sol — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102496880412565504-56b7214e2954.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -495,7 +495,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/BuiltByBilal/status/2102527003845075348"><img src="assets/media/2102525959085981696.jpg" alt="多人台球与观战系统 — 来源附件 1" width="420"></a><br><a href="https://x.com/BuiltByBilal/status/2102527003845075348">来源附件 1</a></td>
+<td><a href="https://x.com/BuiltByBilal/status/2102527003845075348"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102525959085981696-a3fecfa8b630.jpg" alt="多人台球与观战系统 — 来源附件 1" width="420"></a><br><a href="https://x.com/BuiltByBilal/status/2102527003845075348">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -512,7 +512,7 @@ Higgsfield 平台展示通过其 API 构建的游戏，画面包括水面反射�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102450921905283072/vid/avc1/1920x1080/_-dvpneN6xcP95tv.mp4?tag=29"><img src="assets/media/2102450921905283072.jpg" alt="Higgsfield API 构建街机游戏 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102450921905283072/vid/avc1/1920x1080/_-dvpneN6xcP95tv.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450921905283072-9b06ddee55b4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102450921905283072-2af3447a60ba.jpg" alt="Higgsfield API 构建街机游戏 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450921905283072-9b06ddee55b4.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -529,7 +529,7 @@ Type: Integration | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102459530349285376/vid/avc1/1804x1080/ws15ni5PzUk8TyOH.mp4?tag=29"><img src="assets/media/2102459530349285376.jpg" alt="Minecraft 浏览器游戏复现 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102459530349285376/vid/avc1/1804x1080/ws15ni5PzUk8TyOH.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102459530349285376-f6bc0d41db12.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102459530349285376-455778396563.jpg" alt="Minecraft 浏览器游戏复现 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102459530349285376-f6bc0d41db12.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -546,7 +546,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102513139124244480/vid/avc1/2560x1440/Unl1aBGvaAUEW4EJ.mp4?tag=29"><img src="assets/media/2102513139124244480.jpg" alt="让直播观众加入割草游戏 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102513139124244480/vid/avc1/2560x1440/Unl1aBGvaAUEW4EJ.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513139124244480-e0487a1e0c6d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102513139124244480-4a44a66c9375.jpg" alt="让直播观众加入割草游戏 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513139124244480-e0487a1e0c6d.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -563,7 +563,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102448437837090816/vid/avc1/1594x1080/G91X4KGDDEhMKyo_.mp4?tag=29"><img src="assets/media/2102448437837090816.jpg" alt="带最终 Boss 的涂鸦射击 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102448437837090816/vid/avc1/1594x1080/G91X4KGDDEhMKyo_.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448437837090816-70abffa4132b.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102448437837090816-47261be257a5.jpg" alt="带最终 Boss 的涂鸦射击 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448437837090816-70abffa4132b.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -580,7 +580,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102451787743797248/vid/avc1/1282x1220/s0orpWFvxMJ57pcP.mp4?tag=29"><img src="assets/media/2102451787743797248.jpg" alt="Medium 档制作 Mario 游戏 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102451787743797248/vid/avc1/1282x1220/s0orpWFvxMJ57pcP.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451787743797248-7734f2cf1cc6.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102451787743797248-e5e06b52fde2.jpg" alt="Medium 档制作 Mario 游戏 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451787743797248-7734f2cf1cc6.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -597,7 +597,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102468763182575616/vid/avc1/720x1188/KiitEAn5eNR9s9wu.mp4?tag=29"><img src="assets/media/2102468763182575616.jpg" alt="卡丁车竞速画面对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102468763182575616/vid/avc1/720x1188/KiitEAn5eNR9s9wu.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468763182575616-824232762fef.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102468763182575616-5d5763c2c988.jpg" alt="卡丁车竞速画面对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468763182575616-824232762fef.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -614,7 +614,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102527771725504513/vid/avc1/1920x1080/RigEMEuahUcyTy2v.mp4?tag=29"><img src="assets/media/2102527771725504513.jpg" alt="同提示词游戏对比 GPT-6 Sol — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102527771725504513/vid/avc1/1920x1080/RigEMEuahUcyTy2v.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102527771725504513-1ab8bfe36fe2.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102527771725504513-1182c64e4117.jpg" alt="同提示词游戏对比 GPT-6 Sol — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102527771725504513-1ab8bfe36fe2.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -631,7 +631,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102452659550822400/vid/avc1/1920x1080/UfYLBlAiXrFx66sd.mp4?tag=29"><img src="assets/media/2102452659550822400.jpg" alt="一次生成贪吃蛇 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102452659550822400/vid/avc1/1920x1080/UfYLBlAiXrFx66sd.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452659550822400-86cdf1551768.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102452659550822400-32b280e48662.jpg" alt="一次生成贪吃蛇 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452659550822400-86cdf1551768.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -648,7 +648,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102480184016277504/vid/avc1/1920x1080/ScvFpMg0vzzzA4OU.mp4?tag=29"><img src="assets/media/2102480184016277504.jpg" alt="Three.js 僵尸射击玩法 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102480184016277504/vid/avc1/1920x1080/ScvFpMg0vzzzA4OU.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102480184016277504-4e0bd58b5800.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102480184016277504-100a3b1bacc9.jpg" alt="Three.js 僵尸射击玩法 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102480184016277504-4e0bd58b5800.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -665,7 +665,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102485332616732672/vid/avc1/1920x1080/QPii18NhEh8uwx6v.mp4?tag=29"><img src="assets/media/2102485332616732672.jpg" alt="两轮打磨的雪地游戏 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102485332616732672/vid/avc1/1920x1080/QPii18NhEh8uwx6v.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102485332616732672-89c7efa85811.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102485332616732672-901847138563.jpg" alt="两轮打磨的雪地游戏 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102485332616732672-89c7efa85811.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -682,7 +682,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102500851658924032/vid/avc1/1280x720/Gs6hGCiAUu3e5ge9.mp4?tag=29"><img src="assets/media/2102500851658924032.jpg" alt="游戏扩展与预告片剪辑 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102500851658924032/vid/avc1/1280x720/Gs6hGCiAUu3e5ge9.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500851658924032-2a5c54e47023.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102500851658924032-fa62d50b37c8.jpg" alt="游戏扩展与预告片剪辑 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500851658924032-2a5c54e47023.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -699,7 +699,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102458314160508928/vid/avc1/1920x1080/skP96ftk2mI0b20S.mp4?tag=29"><img src="assets/media/2102458314160508928.jpg" alt="Tesana 多人生存岛 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102458314160508928/vid/avc1/1920x1080/skP96ftk2mI0b20S.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102458314160508928-bad9bf9658f0.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102458314160508928-143dd869884e.jpg" alt="Tesana 多人生存岛 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102458314160508928-bad9bf9658f0.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -716,7 +716,7 @@ Higgsfield 平台展示 Opus 5.5 与 GPT-6 Sol 在 Unreal Engine 中制作 3D �
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102533127096934400/vid/avc1/1080x1080/E40DuI3LXeGg8JA0.mp4?tag=29"><img src="assets/media/2102533127096934400.jpg" alt="Unreal Engine 游戏制作对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102533127096934400/vid/avc1/1080x1080/E40DuI3LXeGg8JA0.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102533127096934400-d51dbcaf821f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102533127096934400-4a62bfebc554.jpg" alt="Unreal Engine 游戏制作对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102533127096934400-d51dbcaf821f.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -733,7 +733,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102457033413038080/vid/avc1/1916x1080/J47BET3d55HKTEdm.mp4?tag=29"><img src="assets/media/2102457033413038080.jpg" alt="Tesana 黑暗幻想 RPG — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102457033413038080/vid/avc1/1916x1080/J47BET3d55HKTEdm.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457033413038080-05af196bf59e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102457033413038080-56a6f03ce93c.jpg" alt="Tesana 黑暗幻想 RPG — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457033413038080-05af196bf59e.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -750,7 +750,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102531852363853824/vid/avc1/1920x1080/b-13Hr4nmh5HcvFi.mp4?tag=29"><img src="assets/media/2102531852363853824.jpg" alt="会触发格斗的吉他商店 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102531852363853824/vid/avc1/1920x1080/b-13Hr4nmh5HcvFi.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102531852363853824-b97c14189612.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102531852363853824-335848c0a7a0.jpg" alt="会触发格斗的吉他商店 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102531852363853824-b97c14189612.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -767,7 +767,7 @@ Higgsfield 平台展示手绘风国际象棋及走法分析，作为其自营推
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102534281038049280/vid/avc1/1440x1080/pSUEup1s_OPfPNsJ.mp4?tag=29"><img src="assets/media/2102534281038049280.jpg" alt="手绘风国际象棋与分析 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102534281038049280/vid/avc1/1440x1080/pSUEup1s_OPfPNsJ.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102534281038049280-0f5e15669173.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102534281038049280-a14bcd38c11f.jpg" alt="手绘风国际象棋与分析 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102534281038049280-0f5e15669173.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -784,7 +784,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102455572750848000/vid/avc1/1816x1140/WWAmC5uDhH_y2oPd.mp4?tag=29"><img src="assets/media/2102455572750848000.jpg" alt="飞行模拟器对比 Kimi K3 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102455572750848000/vid/avc1/1816x1140/WWAmC5uDhH_y2oPd.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102455572750848000-1717161dafad.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102455572750848000-9ab2fc834610.jpg" alt="飞行模拟器对比 Kimi K3 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102455572750848000-1717161dafad.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -801,7 +801,7 @@ Tesana 平台自营推广展示用一次提示生成的幻想世界，包含玩�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102494178517393408/vid/avc1/1908x1080/Gl7GChOzmYEfvQL1.mp4?tag=29"><img src="assets/media/2102494178517393408.jpg" alt="Tesana 单提示词幻想世界 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102494178517393408/vid/avc1/1908x1080/Gl7GChOzmYEfvQL1.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102494178517393408-6a6488ca58b0.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102494178517393408-5052177205c1.jpg" alt="Tesana 单提示词幻想世界 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102494178517393408-6a6488ca58b0.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -818,11 +818,11 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102487312605282304/vid/avc1/1894x908/nC1fTviIGjTjFt0O.mp4?tag=29"><img src="assets/media/2102487312605282304.jpg" alt="十分钟内构建弓箭游戏 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102487312605282304/vid/avc1/1894x908/nC1fTviIGjTjFt0O.mp4?tag=29">播放来源视频 1</a></td>
-<td><a href="https://x.com/BhavikY663/status/2102488215445983290"><img src="assets/media/2102487727585554432.jpg" alt="十分钟内构建弓箭游戏 — 来源附件 2" width="420"></a><br><a href="https://x.com/BhavikY663/status/2102488215445983290">来源附件 2</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487312605282304-0540b3e48310.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102487312605282304-3a37e66ae533.jpg" alt="十分钟内构建弓箭游戏 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487312605282304-0540b3e48310.mp4">播放来源视频 1</a></td>
+<td><a href="https://x.com/BhavikY663/status/2102488215445983290"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102487727585554432-05bd5f75dd52.jpg" alt="十分钟内构建弓箭游戏 — 来源附件 2" width="420"></a><br><a href="https://x.com/BhavikY663/status/2102488215445983290">来源附件 2</a></td>
 </tr>
 <tr>
-<td><a href="https://x.com/BhavikY663/status/2102488215445983290"><img src="assets/media/2102487773165096960.jpg" alt="十分钟内构建弓箭游戏 — 来源附件 3" width="420"></a><br><a href="https://x.com/BhavikY663/status/2102488215445983290">来源附件 3</a></td>
+<td><a href="https://x.com/BhavikY663/status/2102488215445983290"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102487773165096960-d70f4e56d313.jpg" alt="十分钟内构建弓箭游戏 — 来源附件 3" width="420"></a><br><a href="https://x.com/BhavikY663/status/2102488215445983290">来源附件 3</a></td>
 </tr>
 </table>
 
@@ -850,7 +850,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/maxbittker/status/2102451744030490912"><img src="assets/media/2102451439486251008.jpg" alt="Runescape Bench 的得分与费用 — 来源附件 1" width="420"></a><br><a href="https://x.com/maxbittker/status/2102451744030490912">来源附件 1</a></td>
+<td><a href="https://x.com/maxbittker/status/2102451744030490912"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102451439486251008-c02df2a390b7.jpg" alt="Runescape Bench 的得分与费用 — 来源附件 1" width="420"></a><br><a href="https://x.com/maxbittker/status/2102451744030490912">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -871,7 +871,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102479905212473344/vid/avc1/1920x1080/wayY24Um6q4mzTVd.mp4?tag=29"><img src="assets/media/2102479905212473344.jpg" alt="可喂鱼的珊瑚礁壁纸 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102479905212473344/vid/avc1/1920x1080/wayY24Um6q4mzTVd.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479905212473344-33e677c7d39d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102479905212473344-b4028d04f4aa.jpg" alt="可喂鱼的珊瑚礁壁纸 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479905212473344-33e677c7d39d.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -888,7 +888,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102500422355185664/vid/avc1/1920x1080/BOGmZuGWcsfynubs.mp4?tag=29"><img src="assets/media/2102500422355185664.jpg" alt="直播制作的水体模拟 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102500422355185664/vid/avc1/1920x1080/BOGmZuGWcsfynubs.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500422355185664-3a53a26e5881.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102500422355185664-f058290c67cb.jpg" alt="直播制作的水体模拟 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500422355185664-3a53a26e5881.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -905,7 +905,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102479821364142080/vid/avc1/1080x1724/aFlEwHrgDcqZeJzL.mp4?tag=29"><img src="assets/media/2102479821364142080.jpg" alt="根据视频复现 3D 水体 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102479821364142080/vid/avc1/1080x1724/aFlEwHrgDcqZeJzL.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479821364142080-e48a23196714.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102479821364142080-beebfaea5b49.jpg" alt="根据视频复现 3D 水体 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479821364142080-e48a23196714.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -922,7 +922,7 @@ Higgsfield 平台展示可逐层查看骨骼、肌肉与肌腱，通过摄像头
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102516830602694656/vid/avc1/1920x1440/YWdHkhGrtKK9F20r.mp4?tag=29"><img src="assets/media/2102516830602694656.jpg" alt="逐层探索手部解剖 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102516830602694656/vid/avc1/1920x1440/YWdHkhGrtKK9F20r.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102516830602694656-e98c9635968a.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102516830602694656-640fabd06f6f.jpg" alt="逐层探索手部解剖 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102516830602694656-e98c9635968a.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -939,7 +939,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102474210299834368/vid/avc1/1920x1080/dVDcRcsC2R5sj_3g.mp4?tag=29"><img src="assets/media/2102474210299834368.jpg" alt="Kilo Code 摸草模拟器 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102474210299834368/vid/avc1/1920x1080/dVDcRcsC2R5sj_3g.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474210299834368-3a7bb4bd18c2.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102474210299834368-5f09f4e6f2e2.jpg" alt="Kilo Code 摸草模拟器 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474210299834368-3a7bb4bd18c2.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -956,7 +956,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102461645201268736/vid/avc1/1920x1080/IJV3a2Tr4NH_pPlV.mp4?tag=29"><img src="assets/media/2102461645201268736.jpg" alt="投石机草图转 3D 模拟 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102461645201268736/vid/avc1/1920x1080/IJV3a2Tr4NH_pPlV.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461645201268736-5a45606bda32.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102461645201268736-e2926e359843.jpg" alt="投石机草图转 3D 模拟 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461645201268736-5a45606bda32.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -973,7 +973,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102508620118212609/vid/avc1/1920x1080/ptCi9V6eXBAAb2B3.mp4?tag=29"><img src="assets/media/2102508620118212609.jpg" alt="轨道与摆杆物理装置 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102508620118212609/vid/avc1/1920x1080/ptCi9V6eXBAAb2B3.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508620118212609-a3e2ba6ce6ff.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102508620118212609-53fb61465348.jpg" alt="轨道与摆杆物理装置 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508620118212609-a3e2ba6ce6ff.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -990,7 +990,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102483220801658880/vid/avc1/1440x1080/HR14txAqdWLnyA-2.mp4?tag=29"><img src="assets/media/2102483220801658880.jpg" alt="不同重力下的脸部变化 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102483220801658880/vid/avc1/1440x1080/HR14txAqdWLnyA-2.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483220801658880-284a1cbb0121.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102483220801658880-77083dbb754c.jpg" alt="不同重力下的脸部变化 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483220801658880-284a1cbb0121.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1007,7 +1007,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102476824601407488/vid/avc1/1920x1080/3t-p0tA2b-YRsSXd.mp4?tag=29"><img src="assets/media/2102476824601407488.jpg" alt="用互联网页解释 Web — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102476824601407488/vid/avc1/1920x1080/3t-p0tA2b-YRsSXd.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476824601407488-7e3106feb19e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102476824601407488-143466875e56.jpg" alt="用互联网页解释 Web — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476824601407488-7e3106feb19e.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1024,7 +1024,7 @@ Higgsfield 平台展示可拆解检查的人眼 3D 教学网页，并与 GPT-6 S
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102535899762565120/vid/avc1/1080x1280/3_-03uTkO43CbydA.mp4?tag=29"><img src="assets/media/2102535899762565120.jpg" alt="可拆解的人眼 3D 教学页 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102535899762565120/vid/avc1/1080x1280/3_-03uTkO43CbydA.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102535899762565120-50f1ef9682d8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102535899762565120-5bbd7a1f22bc.jpg" alt="可拆解的人眼 3D 教学页 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102535899762565120-50f1ef9682d8.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1041,7 +1041,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102475078688739328/vid/avc1/2008x1080/4EGSlryQgo6_260X.mp4?tag=29"><img src="assets/media/2102475078688739328.jpg" alt="未完成的宇宙尺度交互展示 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102475078688739328/vid/avc1/2008x1080/4EGSlryQgo6_260X.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475078688739328-406527becd6a.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102475078688739328-3b23c8be692c.jpg" alt="未完成的宇宙尺度交互展示 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475078688739328-406527becd6a.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1062,7 +1062,7 @@ Type: Limit | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102468034124464128/vid/avc1/1920x1080/izS4XbbTNf-6MAFA.mp4?tag=29"><img src="assets/media/2102468034124464128.jpg" alt="Blender 十秒镜头双模型测试 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102468034124464128/vid/avc1/1920x1080/izS4XbbTNf-6MAFA.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468034124464128-ea542d881c70.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102468034124464128-ac9a283059bb.jpg" alt="Blender 十秒镜头双模型测试 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468034124464128-ea542d881c70.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1081,7 +1081,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102483408551366656/vid/avc1/1762x1080/n91fsKuWg74fQd7p.mp4?tag=29"><img src="assets/media/2102483408551366656.jpg" alt="用 Jev 在 Unreal Engine 中制作旧金山 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102483408551366656/vid/avc1/1762x1080/n91fsKuWg74fQd7p.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483408551366656-850313cb26e2.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102483408551366656-dbd57d11ffb0.jpg" alt="用 Jev 在 Unreal Engine 中制作旧金山 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483408551366656-850313cb26e2.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1098,7 +1098,7 @@ Type: Integration | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102448609593827328/vid/avc1/1274x1080/FIwyxONx4h1KlfUi.mp4?tag=29"><img src="assets/media/2102448609593827328.jpg" alt="500 种器械的健身房布局 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102448609593827328/vid/avc1/1274x1080/FIwyxONx4h1KlfUi.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448609593827328-837c030992d9.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102448609593827328-bff977f194e4.jpg" alt="500 种器械的健身房布局 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448609593827328-837c030992d9.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1115,7 +1115,7 @@ BridgeBench 平台用同一提示比较四模型生成 3D 火箭发射的结果�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102476699703074816/vid/avc1/1920x1080/ekb2NrYtPP9nDxy3.mp4?tag=29"><img src="assets/media/2102476699703074816.jpg" alt="四模型火箭发射测试 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102476699703074816/vid/avc1/1920x1080/ekb2NrYtPP9nDxy3.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476699703074816-d98e76448f64.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102476699703074816-9fb2b75a16f9.jpg" alt="四模型火箭发射测试 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476699703074816-d98e76448f64.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1132,7 +1132,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102460068092600320/vid/avc1/1670x1080/xBvUSubY7iPB6sJr.mp4?tag=29"><img src="assets/media/2102460068092600320.jpg" alt="骑自行车的鹈鹕作品 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102460068092600320/vid/avc1/1670x1080/xBvUSubY7iPB6sJr.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102460068092600320-c8280c40d319.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102460068092600320-108c82ae14f8.jpg" alt="骑自行车的鹈鹕作品 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102460068092600320-c8280c40d319.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1149,7 +1149,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102465460545675264/vid/avc1/960x680/pI_d-60Nkkemn0zI.mp4?tag=29"><img src="assets/media/2102465460545675264.jpg" alt="重建 1906 年地震前的 Market Street — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102465460545675264/vid/avc1/960x680/pI_d-60Nkkemn0zI.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102465460545675264-7d2d137bf064.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102465460545675264-6236d0095c15.jpg" alt="重建 1906 年地震前的 Market Street — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102465460545675264-7d2d137bf064.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1166,7 +1166,7 @@ Atomic Chat 平台展示 Blender 中鹈鹕骑自行车的循环动画，用相�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102492119449337856/vid/avc1/1920x1080/n-Z8m5l6RxxMmkfP.mp4?tag=29"><img src="assets/media/2102492119449337856.jpg" alt="Blender 鹈鹕循环动画对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102492119449337856/vid/avc1/1920x1080/n-Z8m5l6RxxMmkfP.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492119449337856-7250e7e92af4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102492119449337856-51934cd8d58a.jpg" alt="Blender 鹈鹕循环动画对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492119449337856-7250e7e92af4.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1183,7 +1183,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102487325448028160/vid/avc1/1920x1080/CDO-KMFHFe-hxSjE.mp4?tag=29"><img src="assets/media/2102487325448028160.jpg" alt="Blender 作品展示 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102487325448028160/vid/avc1/1920x1080/CDO-KMFHFe-hxSjE.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487325448028160-9cefeb6bf2a8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102487325448028160-f2f8653bf89e.jpg" alt="Blender 作品展示 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487325448028160-9cefeb6bf2a8.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1200,7 +1200,7 @@ Higgsfield 平台称用 15 分钟完成 Blender 风车的建模、绑定、贴�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102453598559055873/vid/avc1/1080x1920/etmIb_DtBCpTHJau.mp4?tag=29"><img src="assets/media/2102453598559055873.jpg" alt="Blender 风车制作流程 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102453598559055873/vid/avc1/1080x1920/etmIb_DtBCpTHJau.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453598559055873-f41e364c0d58.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102453598559055873-1b648ff8c2a2.jpg" alt="Blender 风车制作流程 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453598559055873-f41e364c0d58.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1217,7 +1217,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102458011956711424/vid/avc1/1920x1080/bMcVm_7sVQqBZJhx.mp4?tag=16"><img src="assets/media/2102458011956711424.jpg" alt="纯代码金门大桥场景 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102458011956711424/vid/avc1/1920x1080/bMcVm_7sVQqBZJhx.mp4?tag=16">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102458011956711424-0b09adc09172.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102458011956711424-88b5379b03eb.jpg" alt="纯代码金门大桥场景 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102458011956711424-0b09adc09172.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1234,7 +1234,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102450190217101312/vid/avc1/1920x720/1Db-WwJfI-4dKA9c.mp4?tag=29"><img src="assets/media/2102450190217101312.jpg" alt="火山岛、水下生态与极光 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102450190217101312/vid/avc1/1920x720/1Db-WwJfI-4dKA9c.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450190217101312-3ccecb49ce19.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102450190217101312-2636c5f2e005.jpg" alt="火山岛、水下生态与极光 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450190217101312-3ccecb49ce19.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1251,7 +1251,7 @@ Higgsfield 平台称一次运行 39 分钟、使用 5.5 million token，分析�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102449110007869440/vid/avc1/1440x1440/se7-EmGCUFGrGNLZ.mp4?tag=29"><img src="assets/media/2102449110007869440.jpg" alt="外骨骼关节的 Blender 重设计 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102449110007869440/vid/avc1/1440x1440/se7-EmGCUFGrGNLZ.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449110007869440-4b2d3e6edd30.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102449110007869440-f83288892d8a.jpg" alt="外骨骼关节的 Blender 重设计 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449110007869440-4b2d3e6edd30.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1268,7 +1268,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102482850184404992/vid/avc1/1278x846/aXQLGXAKHJXAxSMZ.mp4?tag=29"><img src="assets/media/2102482850184404992.jpg" alt="Cowork 中的 Solarpunk 城市 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102482850184404992/vid/avc1/1278x846/aXQLGXAKHJXAxSMZ.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102482850184404992-5ae2268221be.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102482850184404992-bbc30d4adac6.jpg" alt="Cowork 中的 Solarpunk 城市 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102482850184404992-5ae2268221be.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1285,7 +1285,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102464915155922944/vid/avc1/1280x1264/7LenXze_nG883sGq.mp4?tag=29"><img src="assets/media/2102464915155922944.jpg" alt="Three.js 纽约街区 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102464915155922944/vid/avc1/1280x1264/7LenXze_nG883sGq.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464915155922944-ef7219b3ebf4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102464915155922944-97fbc201ef17.jpg" alt="Three.js 纽约街区 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464915155922944-ef7219b3ebf4.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1302,12 +1302,12 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="assets/media/2102469906495418368.jpg" alt="另一则鹈鹕骑车作品 — 来源附件 1" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">来源附件 1</a></td>
-<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="assets/media/2102469984912031744.jpg" alt="另一则鹈鹕骑车作品 — 来源附件 2" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">来源附件 2</a></td>
+<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102469906495418368-3deb7cb0b52e.jpg" alt="另一则鹈鹕骑车作品 — 来源附件 1" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">来源附件 1</a></td>
+<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102469984912031744-0b1bb548db45.jpg" alt="另一则鹈鹕骑车作品 — 来源附件 2" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">来源附件 2</a></td>
 </tr>
 <tr>
-<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="assets/media/2102470026892820480.jpg" alt="另一则鹈鹕骑车作品 — 来源附件 3" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">来源附件 3</a></td>
-<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="assets/media/2102470058585067520.jpg" alt="另一则鹈鹕骑车作品 — 来源附件 4" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">来源附件 4</a></td>
+<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102470026892820480-d1f98d4259de.jpg" alt="另一则鹈鹕骑车作品 — 来源附件 3" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">来源附件 3</a></td>
+<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102470058585067520-513aa4b97657.jpg" alt="另一则鹈鹕骑车作品 — 来源附件 4" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">来源附件 4</a></td>
 </tr>
 </table>
 
@@ -1324,7 +1324,7 @@ Higgsfield 平台展示 Blender 新干线模型，并声称包含 5,112 个对�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102506945357979648/vid/avc1/1920x1440/pKPWeGfkqx5z0Hxd.mp4?tag=29"><img src="assets/media/2102506945357979648.jpg" alt="Blender 新干线车厢模型 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102506945357979648/vid/avc1/1920x1440/pKPWeGfkqx5z0Hxd.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102506945357979648-18aefe0aa10e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102506945357979648-69b1530a1d51.jpg" alt="Blender 新干线车厢模型 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102506945357979648-18aefe0aa10e.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1341,8 +1341,8 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/izutorishima/status/2102456991109230759"><img src="assets/media/2102456615215792128.jpg" alt="图片转低多边形 3D — 来源附件 1" width="420"></a><br><a href="https://x.com/izutorishima/status/2102456991109230759">来源附件 1</a></td>
-<td><a href="https://x.com/izutorishima/status/2102456991109230759"><img src="assets/media/2102456711672217600.jpg" alt="图片转低多边形 3D — 来源附件 2" width="420"></a><br><a href="https://x.com/izutorishima/status/2102456991109230759">来源附件 2</a></td>
+<td><a href="https://x.com/izutorishima/status/2102456991109230759"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102456615215792128-fa0fb4fa6b1f.jpg" alt="图片转低多边形 3D — 来源附件 1" width="420"></a><br><a href="https://x.com/izutorishima/status/2102456991109230759">来源附件 1</a></td>
+<td><a href="https://x.com/izutorishima/status/2102456991109230759"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102456711672217600-d18c9e6318c9.jpg" alt="图片转低多边形 3D — 来源附件 2" width="420"></a><br><a href="https://x.com/izutorishima/status/2102456991109230759">来源附件 2</a></td>
 </tr>
 </table>
 
@@ -1359,7 +1359,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478453639421952/vid/avc1/1966x1080/pxlt3gYx7N7PQdxD.mp4?tag=29"><img src="assets/media/2102478453639421952.jpg" alt="Tripo P2、JEF 与 MCP 角色制作流程 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478453639421952/vid/avc1/1966x1080/pxlt3gYx7N7PQdxD.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478453639421952-ff6f0ccc7aa6.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478453639421952-a27c2c1df97c.jpg" alt="Tripo P2、JEF 与 MCP 角色制作流程 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478453639421952-ff6f0ccc7aa6.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1376,7 +1376,7 @@ Higgsfield 平台展示把一张住宅照片和平面图转为 Blender 模型，
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102498661171429376/vid/avc1/1600x1280/seuoIgoK393CRt-K.mp4?tag=29"><img src="assets/media/2102498661171429376.jpg" alt="住宅照片与平面图转 3D — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102498661171429376/vid/avc1/1600x1280/seuoIgoK393CRt-K.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102498661171429376-ad35cd7efec1.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102498661171429376-c71a747b8fcb.jpg" alt="住宅照片与平面图转 3D — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102498661171429376-ad35cd7efec1.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1393,7 +1393,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102456712338841601/vid/avc1/1920x1080/Mqtjs0t7WsA_el7k.mp4?tag=29"><img src="assets/media/2102456712338841601.jpg" alt="瓶中船生成测试 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102456712338841601/vid/avc1/1920x1080/Mqtjs0t7WsA_el7k.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102456712338841601-7e39c98f235d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102456712338841601-fae0f4a2d8a6.jpg" alt="瓶中船生成测试 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102456712338841601-7e39c98f235d.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1410,7 +1410,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102502715033313280/vid/avc1/1920x1080/c2cjexCnCmSQm-yJ.mp4?tag=29"><img src="assets/media/2102502715033313280.jpg" alt="DeLorean 与钟楼闪电动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102502715033313280/vid/avc1/1920x1080/c2cjexCnCmSQm-yJ.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502715033313280-ced59818dd9d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102502715033313280-9d983b889b77.jpg" alt="DeLorean 与钟楼闪电动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502715033313280-ced59818dd9d.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1427,7 +1427,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102503194777759744/vid/avc1/1920x1272/t8cX-iwpsjQXi2oC.mp4?tag=29"><img src="assets/media/2102503194777759744.jpg" alt="从草图到成屋的四阶段展示 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102503194777759744/vid/avc1/1920x1272/t8cX-iwpsjQXi2oC.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102503194777759744-6ae55324db7d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102503194777759744-3e063e2ae74c.jpg" alt="从草图到成屋的四阶段展示 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102503194777759744-6ae55324db7d.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1444,7 +1444,7 @@ AI/ML API 平台比较 Opus 5.5 与 GPT-6 Sol 的 3D 生成效果，自报成本
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102515321844232193/vid/avc1/1874x1364/STEuP1iOH7NVNKYR.mp4?tag=29"><img src="assets/media/2102515321844232193.jpg" alt="3D 效果与自报成本对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102515321844232193/vid/avc1/1874x1364/STEuP1iOH7NVNKYR.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102515321844232193-ec4313ede390.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102515321844232193-70cba8867b45.jpg" alt="3D 效果与自报成本对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102515321844232193-ec4313ede390.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1463,7 +1463,7 @@ Higgsfield 平台展示将绘画扩展成 Blender 与 Unreal Engine 场景，并
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102513304363245568/vid/avc1/1920x1080/32m28m3tVmuYDyYa.mp4?tag=29"><img src="assets/media/2102513304363245568.jpg" alt="绘画扩展为可换视角的场景 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102513304363245568/vid/avc1/1920x1080/32m28m3tVmuYDyYa.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513304363245568-0d513bbc63df.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102513304363245568-b0744aa7760b.jpg" alt="绘画扩展为可换视角的场景 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513304363245568-0d513bbc63df.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1480,7 +1480,7 @@ Higgsfield 平台展示家具布局模拟器，用来尝试不同的 3D 家具�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102510447375380480/vid/avc1/1920x1080/r_KkI2cXkrStcbZG.mp4?tag=29"><img src="assets/media/2102510447375380480.jpg" alt="3D 家具布局模拟 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102510447375380480/vid/avc1/1920x1080/r_KkI2cXkrStcbZG.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102510447375380480-0665f3213016.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102510447375380480-41e761bac960.jpg" alt="3D 家具布局模拟 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102510447375380480-0665f3213016.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1497,7 +1497,7 @@ Higgsfield 平台展示将炭笔画转为 Blender 3D 场景，并保留原画笔
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102519117756641280/vid/avc1/1080x1080/fHf50hAmOIOh3Csf.mp4?tag=29"><img src="assets/media/2102519117756641280.jpg" alt="保留笔触的炭笔画 3D 化 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102519117756641280/vid/avc1/1080x1080/fHf50hAmOIOh3Csf.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102519117756641280-18c6b6ba94c1.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102519117756641280-6b365764621c.jpg" alt="保留笔触的炭笔画 3D 化 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102519117756641280-18c6b6ba94c1.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1514,7 +1514,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102474431834861568/vid/avc1/1894x996/PeiaAtcPEK-ztlms.mp4?tag=29"><img src="assets/media/2102474431834861568.jpg" alt="多人漫游地中海港口 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102474431834861568/vid/avc1/1894x996/PeiaAtcPEK-ztlms.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474431834861568-987310b45055.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102474431834861568-9e43e6c8b3ad.jpg" alt="多人漫游地中海港口 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474431834861568-987310b45055.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1531,7 +1531,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102505788438638592/vid/avc1/1920x1080/KQ4HsCHWj7vOKXdU.mp4?tag=29"><img src="assets/media/2102505788438638592.jpg" alt="3D 控制器演示 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102505788438638592/vid/avc1/1920x1080/KQ4HsCHWj7vOKXdU.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102505788438638592-8ebd82136860.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102505788438638592-ab5bfce8f36d.jpg" alt="3D 控制器演示 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102505788438638592-8ebd82136860.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1548,8 +1548,8 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/notjazii/status/2102499296512025026"><img src="assets/media/2102497478377631744.jpg" alt="Minecraft 风格寺院花园 — 来源附件 1" width="420"></a><br><a href="https://x.com/notjazii/status/2102499296512025026">来源附件 1</a></td>
-<td><a href="https://x.com/notjazii/status/2102499296512025026"><img src="assets/media/2102497493460377600.jpg" alt="Minecraft 风格寺院花园 — 来源附件 2" width="420"></a><br><a href="https://x.com/notjazii/status/2102499296512025026">来源附件 2</a></td>
+<td><a href="https://x.com/notjazii/status/2102499296512025026"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102497478377631744-6e93c1781592.jpg" alt="Minecraft 风格寺院花园 — 来源附件 1" width="420"></a><br><a href="https://x.com/notjazii/status/2102499296512025026">来源附件 1</a></td>
+<td><a href="https://x.com/notjazii/status/2102499296512025026"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102497493460377600-27e29e58efb9.jpg" alt="Minecraft 风格寺院花园 — 来源附件 2" width="420"></a><br><a href="https://x.com/notjazii/status/2102499296512025026">来源附件 2</a></td>
 </tr>
 </table>
 
@@ -1566,7 +1566,7 @@ Higgsfield 平台展示 Blender 章鱼建模与动画；“AAA 品质”是平�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102526840716115968/vid/avc1/1920x1440/zrQ_fyK4adTJQLrn.mp4?tag=29"><img src="assets/media/2102526840716115968.jpg" alt="Blender 章鱼模型与动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102526840716115968/vid/avc1/1920x1440/zrQ_fyK4adTJQLrn.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102526840716115968-df2c3e2ee349.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102526840716115968-111bc6890ac2.jpg" alt="Blender 章鱼模型与动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102526840716115968-df2c3e2ee349.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1583,7 +1583,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102456980002492416/vid/avc1/1280x1264/YftIx9f6m4YFCTa5.mp4?tag=29"><img src="assets/media/2102456980002492416.jpg" alt="纽约场景与旧版同题对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102456980002492416/vid/avc1/1280x1264/YftIx9f6m4YFCTa5.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102456980002492416-f9a2d732c87d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102456980002492416-7c945f6bbd8a.jpg" alt="纽约场景与旧版同题对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102456980002492416-f9a2d732c87d.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1600,7 +1600,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102518351289622528/vid/avc1/1920x1080/P8S3nlCVnsFVI0vs.mp4?tag=16"><img src="assets/media/2102518351289622528.jpg" alt="跨场景飞行观光体验 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102518351289622528/vid/avc1/1920x1080/P8S3nlCVnsFVI0vs.mp4?tag=16">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102518351289622528-e9f5f82a52b5.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102518351289622528-93a5a0ecf8b6.jpg" alt="跨场景飞行观光体验 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102518351289622528-e9f5f82a52b5.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1617,7 +1617,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102511211120050176/vid/avc1/1920x1080/UUUe7w_J2OYfiPoO.mp4?tag=29"><img src="assets/media/2102511211120050176.jpg" alt="体素风 Claude 动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102511211120050176/vid/avc1/1920x1080/UUUe7w_J2OYfiPoO.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102511211120050176-f70ef317190f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102511211120050176-5af2eea59b4a.jpg" alt="体素风 Claude 动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102511211120050176-f70ef317190f.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1634,7 +1634,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102453086815977473/vid/avc1/1920x1080/wupTL8Gxhx3utDGe.mp4?tag=29"><img src="assets/media/2102453086815977473.jpg" alt="体素鹈鹕对比 Fable 与 Astra — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102453086815977473/vid/avc1/1920x1080/wupTL8Gxhx3utDGe.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453086815977473-edaa6d456bc7.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102453086815977473-edf197365f8c.jpg" alt="体素鹈鹕对比 Fable 与 Astra — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453086815977473-edaa6d456bc7.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1651,7 +1651,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478330444537856/vid/avc1/1080x1124/eWLVlkoMKO-TcX0A.mp4?tag=29"><img src="assets/media/2102478330444537856.jpg" alt="赛车模型对比 GPT-6 Sol — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478330444537856/vid/avc1/1080x1124/eWLVlkoMKO-TcX0A.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478330444537856-9c6c30da2bb8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478330444537856-77532ae29bfd.jpg" alt="赛车模型对比 GPT-6 Sol — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478330444537856-9c6c30da2bb8.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1668,7 +1668,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102497141625077760/vid/avc1/1720x1080/rlUQfawdxn-0LaNB.mp4?tag=29"><img src="assets/media/2102497141625077760.jpg" alt="GPU 加速的猫毛发模拟 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102497141625077760/vid/avc1/1720x1080/rlUQfawdxn-0LaNB.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102497141625077760-b8ea7fefbba4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102497141625077760-13e441db599e.jpg" alt="GPU 加速的猫毛发模拟 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102497141625077760-b8ea7fefbba4.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1685,7 +1685,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/Angaisb_/status/2102493141668643084"><img src="assets/media/2102492962525421568.jpg" alt="Minecraft 体素建造对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102493141668643084">来源附件 1</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102493141668643084"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102492962525421568-c209b9fef82e.jpg" alt="Minecraft 体素建造对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102493141668643084">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -1702,7 +1702,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102449320985563136/vid/avc1/1920x1080/ZZO0I4KgdOZWir2-.mp4?tag=29"><img src="assets/media/2102449320985563136.jpg" alt="三模型火箭飞船测试 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102449320985563136/vid/avc1/1920x1080/ZZO0I4KgdOZWir2-.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449320985563136-e852390fbf43.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102449320985563136-e9fa6dd1e06d.jpg" alt="三模型火箭飞船测试 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449320985563136-e852390fbf43.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1719,7 +1719,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102471601002315776/vid/avc1/1972x1080/8OCjJwPyEIRAOUcj.mp4?tag=29"><img src="assets/media/2102471601002315776.jpg" alt="Three.js 对照 Opus 5 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102471601002315776/vid/avc1/1972x1080/8OCjJwPyEIRAOUcj.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102471601002315776-e4676d22f2f8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102471601002315776-b8be2b846862.jpg" alt="Three.js 对照 Opus 5 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102471601002315776-e4676d22f2f8.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1736,7 +1736,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102527016691990528/vid/avc1/1920x1080/WeNBWMBq_Z_sV9vi.mp4?tag=29"><img src="assets/media/2102527016691990528.jpg" alt="Three.js 末日短片对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102527016691990528/vid/avc1/1920x1080/WeNBWMBq_Z_sV9vi.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102527016691990528-e47c04568a38.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102527016691990528-34c45139c67d.jpg" alt="Three.js 末日短片对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102527016691990528-e47c04568a38.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1757,7 +1757,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102504223527346176/vid/avc1/1426x1080/nuY1-hmqdxLHqig8.mp4?tag=29"><img src="assets/media/2102504223527346176.jpg" alt="JavaScript 合成 Bass 音乐 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102504223527346176/vid/avc1/1426x1080/nuY1-hmqdxLHqig8.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102504223527346176-b49c0bbfa41c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102504223527346176-d336e3f6d68a.jpg" alt="JavaScript 合成 Bass 音乐 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102504223527346176-b49c0bbfa41c.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1774,7 +1774,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="音乐错误检测满分自报 — 来源附件 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">来源附件 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102450889969807360-ef8a4c459cdb.png" alt="音乐错误检测满分自报 — 来源附件 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -1791,7 +1791,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/yugen_matuni/status/2102529143128916052"><img src="assets/media/2102528972081000448.jpg" alt="音效生成工作流 — 来源附件 1" width="420"></a><br><a href="https://x.com/yugen_matuni/status/2102529143128916052">来源附件 1</a></td>
+<td><a href="https://x.com/yugen_matuni/status/2102529143128916052"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102528972081000448-9855cd290c23.jpg" alt="音效生成工作流 — 来源附件 1" width="420"></a><br><a href="https://x.com/yugen_matuni/status/2102529143128916052">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -1812,8 +1812,8 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/Angaisb_/status/2102476249671082365"><img src="assets/media/2102475949145006080.jpg" alt="Pocket Color 掌机图形对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102476249671082365">来源附件 1</a></td>
-<td><a href="https://x.com/Angaisb_/status/2102476249671082365"><img src="assets/media/2102476048852041728.jpg" alt="Pocket Color 掌机图形对比 — 来源附件 2" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102476249671082365">来源附件 2</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102476249671082365"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102475949145006080-a20358b59166.jpg" alt="Pocket Color 掌机图形对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102476249671082365">来源附件 1</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102476249671082365"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102476048852041728-7322754058fc.jpg" alt="Pocket Color 掌机图形对比 — 来源附件 2" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102476249671082365">来源附件 2</a></td>
 </tr>
 </table>
 
@@ -1830,7 +1830,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102471444336611328/vid/avc1/1080x1080/Gq062pYx-yV3Tde7.mp4?tag=29"><img src="assets/media/2102471444336611328.jpg" alt="18 分 31 秒的 Sweet Tooth 动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102471444336611328/vid/avc1/1080x1080/Gq062pYx-yV3Tde7.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102471444336611328-ae380abfa790.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102471444336611328-68e87f01ac31.jpg" alt="18 分 31 秒的 Sweet Tooth 动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102471444336611328-ae380abfa790.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1847,7 +1847,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102514085137154048/vid/avc1/1280x720/k7-vfCveNwGQnk1v.mp4?tag=14"><img src="assets/media/2102514085137154048.jpg" alt="Claude 与 AGI 主题卡通 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102514085137154048/vid/avc1/1280x720/k7-vfCveNwGQnk1v.mp4?tag=14">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102514085137154048-a191b116e9dc.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102514085137154048-8ea48aa0a169.jpg" alt="Claude 与 AGI 主题卡通 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102514085137154048-a191b116e9dc.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1864,7 +1864,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102476231740399616/vid/avc1/1080x890/8wOPIn__IAkbl9ho.mp4?tag=29"><img src="assets/media/2102476231740399616.jpg" alt="纯代码像素巫师动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102476231740399616/vid/avc1/1080x890/8wOPIn__IAkbl9ho.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476231740399616-5d7eaa2266da.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102476231740399616-75fb363f4125.jpg" alt="纯代码像素巫师动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476231740399616-5d7eaa2266da.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1881,7 +1881,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102457077390299136/vid/avc1/1280x720/0GdMBFz95r0KPjMG.mp4?tag=14"><img src="assets/media/2102457077390299136.jpg" alt="逐帧编写 JavaScript 动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102457077390299136/vid/avc1/1280x720/0GdMBFz95r0KPjMG.mp4?tag=14">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457077390299136-c314c14b219e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102457077390299136-5a380013be65.jpg" alt="逐帧编写 JavaScript 动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457077390299136-c314c14b219e.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1898,7 +1898,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102451356917276672/vid/avc1/1920x1080/opEdMmhd6w5w7QAk.mp4?tag=29"><img src="assets/media/2102451356917276672.jpg" alt="Nintendo Switch 的 SVG 动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102451356917276672/vid/avc1/1920x1080/opEdMmhd6w5w7QAk.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451356917276672-fceeb9f3f482.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102451356917276672-0b6035883a24.jpg" alt="Nintendo Switch 的 SVG 动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451356917276672-fceeb9f3f482.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1915,7 +1915,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478162211098624/vid/avc1/2560x1440/ULtHTYX5psqpaEXw.mp4?tag=29"><img src="assets/media/2102478162211098624.jpg" alt="用代码描绘思考难题的过程 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478162211098624/vid/avc1/2560x1440/ULtHTYX5psqpaEXw.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478162211098624-b1cf0af1bb97.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478162211098624-85d2e9aa3b86.jpg" alt="用代码描绘思考难题的过程 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478162211098624-b1cf0af1bb97.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1932,7 +1932,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102447519674585088/vid/avc1/1280x720/a443IPw1hdNfSqS6.mp4?tag=29"><img src="assets/media/2102447519674585088.jpg" alt="鹈鹕骑车循环动画的转发 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102447519674585088/vid/avc1/1280x720/a443IPw1hdNfSqS6.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102447519674585088-d2b41dfd4c83.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102447519674585088-7e5d2fa5ee88.jpg" alt="鹈鹕骑车循环动画的转发 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102447519674585088-d2b41dfd4c83.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1949,8 +1949,8 @@ BridgeMind 平台用同一条「绘制 PS5 手柄 SVG」提示词，对比 Opus 
 
 <table>
 <tr>
-<td><a href="https://x.com/bridgemindai/status/2102484711389966509"><img src="assets/media/2102483972462645248.jpg" alt="PS5 手柄 SVG 同题对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/bridgemindai/status/2102484711389966509">来源附件 1</a></td>
-<td><a href="https://x.com/bridgemindai/status/2102484711389966509"><img src="assets/media/2102483976820535296.jpg" alt="PS5 手柄 SVG 同题对比 — 来源附件 2" width="420"></a><br><a href="https://x.com/bridgemindai/status/2102484711389966509">来源附件 2</a></td>
+<td><a href="https://x.com/bridgemindai/status/2102484711389966509"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102483972462645248-2052ea716f8e.jpg" alt="PS5 手柄 SVG 同题对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/bridgemindai/status/2102484711389966509">来源附件 1</a></td>
+<td><a href="https://x.com/bridgemindai/status/2102484711389966509"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102483976820535296-75059c262e54.jpg" alt="PS5 手柄 SVG 同题对比 — 来源附件 2" width="420"></a><br><a href="https://x.com/bridgemindai/status/2102484711389966509">来源附件 2</a></td>
 </tr>
 </table>
 
@@ -1967,7 +1967,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102488109971808257/vid/avc1/2520x1080/l6D9gSC-gLs1C6nD.mp4?tag=29"><img src="assets/media/2102488109971808257.jpg" alt="Devin 中的水面与粒子视觉对照 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488109971808257/vid/avc1/2520x1080/l6D9gSC-gLs1C6nD.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102488109971808257-3ae5c53d6ce3.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102488109971808257-efaad1370661.jpg" alt="Devin 中的水面与粒子视觉对照 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102488109971808257-3ae5c53d6ce3.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -1984,7 +1984,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102493087381487616/vid/avc1/1920x1080/dMwClUvawHddh2E2.mp4?tag=29"><img src="assets/media/2102493087381487616.jpg" alt="Oktoberfest 主题动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102493087381487616/vid/avc1/1920x1080/dMwClUvawHddh2E2.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102493087381487616-3aa3714b9b52.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102493087381487616-a962e740b5ee.jpg" alt="Oktoberfest 主题动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102493087381487616-3aa3714b9b52.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2001,7 +2001,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102480439512539136/vid/avc1/1978x1080/ZRgMTxPF2khbJMCd.mp4?tag=29"><img src="assets/media/2102480439512539136.jpg" alt="用 JavaScript 同时编写音乐与画面 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102480439512539136/vid/avc1/1978x1080/ZRgMTxPF2khbJMCd.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102480439512539136-031caab75f51.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102480439512539136-ed09218bd4a9.jpg" alt="用 JavaScript 同时编写音乐与画面 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102480439512539136-031caab75f51.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2018,7 +2018,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102501285840986112/vid/avc1/2560x1440/KNGdkncQUsYij81R.mp4?tag=29"><img src="assets/media/2102501285840986112.jpg" alt="不依赖素材的 JavaScript 交互动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102501285840986112/vid/avc1/2560x1440/KNGdkncQUsYij81R.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102501285840986112-6fba73025abe.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102501285840986112-01211c9dfd9b.jpg" alt="不依赖素材的 JavaScript 交互动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102501285840986112-6fba73025abe.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2035,7 +2035,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102464017474420737/vid/avc1/1080x1920/qRNa8HcyewqSs2zH.mp4?tag=29"><img src="assets/media/2102464017474420737.jpg" alt="同参考动画的三模型对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102464017474420737/vid/avc1/1080x1920/qRNa8HcyewqSs2zH.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464017474420737-0905c0e3730d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102464017474420737-93e2fa1ce782.jpg" alt="同参考动画的三模型对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464017474420737-0905c0e3730d.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2052,7 +2052,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/marmaduke091/status/2102453079836622940"><img src="assets/media/2102452368553947136.jpg" alt="334 行 SVG 绘制 Xbox 手柄 — 来源附件 1" width="420"></a><br><a href="https://x.com/marmaduke091/status/2102453079836622940">来源附件 1</a></td>
+<td><a href="https://x.com/marmaduke091/status/2102453079836622940"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102452368553947136-3739975a8c2b.jpg" alt="334 行 SVG 绘制 Xbox 手柄 — 来源附件 1" width="420"></a><br><a href="https://x.com/marmaduke091/status/2102453079836622940">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -2069,7 +2069,7 @@ Higgsfield 平台展示 Opus 5.5 根据参考，在 TouchDesigner 中复现自�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102454552201252864/vid/avc1/1440x1080/Oq9kWrdMjMJzv9ZV.mp4?tag=29"><img src="assets/media/2102454552201252864.jpg" alt="TouchDesigner 复现参考特效 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102454552201252864/vid/avc1/1440x1080/Oq9kWrdMjMJzv9ZV.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102454552201252864-65753b430197.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102454552201252864-e81cf7400b32.jpg" alt="TouchDesigner 复现参考特效 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102454552201252864-65753b430197.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2086,7 +2086,7 @@ Type: Integration | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102452953382526976/vid/avc1/2560x1440/oie__f-0w5_JJKX6.mp4?tag=29"><img src="assets/media/2102452953382526976.jpg" alt="Game Boy 掌机视觉测试 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102452953382526976/vid/avc1/2560x1440/oie__f-0w5_JJKX6.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452953382526976-3e81d47639ac.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102452953382526976-320fef79c304.jpg" alt="Game Boy 掌机视觉测试 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452953382526976-3e81d47639ac.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2103,7 +2103,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102437792425070592/vid/avc1/1080x1080/nwtcZBGstdeV9nO_.mp4?tag=29"><img src="assets/media/2102437792425070592.jpg" alt="JavaScript 动画作品展示 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102437792425070592/vid/avc1/1080x1080/nwtcZBGstdeV9nO_.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102437792425070592-264fb1338eb8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102437792425070592-a3e755ff7366.jpg" alt="JavaScript 动画作品展示 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102437792425070592-264fb1338eb8.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2122,7 +2122,7 @@ CoAnimator 开发者展示用 Opus 5.5 经少量提示制作的动画，包含�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102496943482286080/vid/avc1/1920x1080/gcnHTMNfXRqMH5wy.mp4?tag=29"><img src="assets/media/2102496943482286080.jpg" alt="CoAnimator 的动画与声音编排 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102496943482286080/vid/avc1/1920x1080/gcnHTMNfXRqMH5wy.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102496943482286080-711fe6558b4f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102496943482286080-e34b3acc50ec.jpg" alt="CoAnimator 的动画与声音编排 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102496943482286080-711fe6558b4f.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2139,7 +2139,7 @@ HyperFrames／HeyGen 相关人员展示 Opus 5.5 配合 HyperFrames 制作的 3D
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102493076757581824/vid/avc1/1440x1080/UkSCNUOeVyj1wQtD.mp4?tag=29"><img src="assets/media/2102493076757581824.jpg" alt="HyperFrames 的 3D 镜头与文字特效 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102493076757581824/vid/avc1/1440x1080/UkSCNUOeVyj1wQtD.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102493076757581824-cbeb65185064.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102493076757581824-d1ee3e9a61be.jpg" alt="HyperFrames 的 3D 镜头与文字特效 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102493076757581824-cbeb65185064.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2156,7 +2156,7 @@ Type: Integration | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102513096682336256/vid/avc1/1920x1080/mxQynDez08ynbTQy.mp4?tag=29"><img src="assets/media/2102513096682336256.jpg" alt="五分钟内生成像素动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102513096682336256/vid/avc1/1920x1080/mxQynDez08ynbTQy.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513096682336256-9699b7fb695f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102513096682336256-e3bc64c44418.jpg" alt="五分钟内生成像素动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513096682336256-9699b7fb695f.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2173,12 +2173,12 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="assets/media/2102474519168368640.jpg" alt="使用 PNG 素材的手柄 SVG — 来源附件 1" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">来源附件 1</a></td>
-<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="assets/media/2102474519168290816.jpg" alt="使用 PNG 素材的手柄 SVG — 来源附件 2" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">来源附件 2</a></td>
+<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474519168368640-263f1846e7ed.jpg" alt="使用 PNG 素材的手柄 SVG — 来源附件 1" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">来源附件 1</a></td>
+<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474519168290816-04bcb7e2dbc8.jpg" alt="使用 PNG 素材的手柄 SVG — 来源附件 2" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">来源附件 2</a></td>
 </tr>
 <tr>
-<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="assets/media/2102474519063449600.jpg" alt="使用 PNG 素材的手柄 SVG — 来源附件 3" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">来源附件 3</a></td>
-<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="assets/media/2102474519151566848.jpg" alt="使用 PNG 素材的手柄 SVG — 来源附件 4" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">来源附件 4</a></td>
+<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474519063449600-db6f3682d506.jpg" alt="使用 PNG 素材的手柄 SVG — 来源附件 3" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">来源附件 3</a></td>
+<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474519151566848-ba7bc83ebd9e.jpg" alt="使用 PNG 素材的手柄 SVG — 来源附件 4" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">来源附件 4</a></td>
 </tr>
 </table>
 
@@ -2195,7 +2195,7 @@ Higgsfield 平台展示根据参考复现 ChronoVolume 特效的结果，自报�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102508274126077952/vid/avc1/1440x1080/WjLhj_tjguPEOgdc.mp4?tag=29"><img src="assets/media/2102508274126077952.jpg" alt="从参考复现 ChronoVolume 特效 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102508274126077952/vid/avc1/1440x1080/WjLhj_tjguPEOgdc.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508274126077952-257fe5e10faf.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102508274126077952-a4cf668d79b5.jpg" alt="从参考复现 ChronoVolume 特效 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508274126077952-257fe5e10faf.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2212,8 +2212,8 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/Angaisb_/status/2102509807802716649"><img src="assets/media/2102509732317495296.jpg" alt="同一句提示词生成喷泉 — 来源附件 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102509807802716649">来源附件 1</a></td>
-<td><a href="https://x.com/Angaisb_/status/2102509807802716649"><img src="assets/media/2102509758758490113.jpg" alt="同一句提示词生成喷泉 — 来源附件 2" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102509807802716649">来源附件 2</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102509807802716649"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102509732317495296-d0215c776c0f.jpg" alt="同一句提示词生成喷泉 — 来源附件 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102509807802716649">来源附件 1</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102509807802716649"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102509758758490113-a6052d4441ae.jpg" alt="同一句提示词生成喷泉 — 来源附件 2" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102509807802716649">来源附件 2</a></td>
 </tr>
 </table>
 
@@ -2230,7 +2230,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/diegocabezas01/status/2102463433731903630"><img src="assets/media/2102463391097049088.jpg" alt="用 SVG 绘制蒙娜丽莎 — 来源附件 1" width="420"></a><br><a href="https://x.com/diegocabezas01/status/2102463433731903630">来源附件 1</a></td>
+<td><a href="https://x.com/diegocabezas01/status/2102463433731903630"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102463391097049088-f03897c34218.jpg" alt="用 SVG 绘制蒙娜丽莎 — 来源附件 1" width="420"></a><br><a href="https://x.com/diegocabezas01/status/2102463433731903630">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -2247,7 +2247,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/notjazii/status/2102469004271173877"><img src="assets/media/2102468991013052416.jpg" alt="与 Sol、Luna 的 SVG 同题比较 — 来源附件 1" width="420"></a><br><a href="https://x.com/notjazii/status/2102469004271173877">来源附件 1</a></td>
+<td><a href="https://x.com/notjazii/status/2102469004271173877"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468991013052416-7891e04498d5.jpg" alt="与 Sol、Luna 的 SVG 同题比较 — 来源附件 1" width="420"></a><br><a href="https://x.com/notjazii/status/2102469004271173877">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -2264,7 +2264,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/matiass/status/2102474745845260663"><img src="assets/media/2102474315266478081.jpg" alt="用脚本在 Paint 中画人物照片 — 来源附件 1" width="420"></a><br><a href="https://x.com/matiass/status/2102474745845260663">来源附件 1</a></td>
+<td><a href="https://x.com/matiass/status/2102474745845260663"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474315266478081-b28a478a377d.jpg" alt="用脚本在 Paint 中画人物照片 — 来源附件 1" width="420"></a><br><a href="https://x.com/matiass/status/2102474745845260663">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -2281,7 +2281,7 @@ Type: Limit | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102484064368459776/vid/avc1/1080x1350/mvxYEPFm2mYe6x9g.mp4?tag=29"><img src="assets/media/2102484064368459776.jpg" alt="把 Claude 自画像画成小太阳 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102484064368459776/vid/avc1/1080x1350/mvxYEPFm2mYe6x9g.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484064368459776-84570d4fa542.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102484064368459776-762f9a497ca1.jpg" alt="把 Claude 自画像画成小太阳 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484064368459776-84570d4fa542.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2298,7 +2298,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/alexgetmancom/status/2102451293419970767"><img src="assets/media/2102451001743556608.jpg" alt="鹈鹕图形测试 — 来源附件 1" width="420"></a><br><a href="https://x.com/alexgetmancom/status/2102451293419970767">来源附件 1</a></td>
+<td><a href="https://x.com/alexgetmancom/status/2102451293419970767"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102451001743556608-2e5d19bf8978.jpg" alt="鹈鹕图形测试 — 来源附件 1" width="420"></a><br><a href="https://x.com/alexgetmancom/status/2102451293419970767">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -2315,7 +2315,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102521319891902465/vid/avc1/1440x1440/498lOSHSsdi1ZQWa.mp4?tag=29"><img src="assets/media/2102521319891902465.jpg" alt="像素场景中的喷泉与蝙蝠眼睛 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102521319891902465/vid/avc1/1440x1440/498lOSHSsdi1ZQWa.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102521319891902465-675854f35964.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102521319891902465-14186af457af.jpg" alt="像素场景中的喷泉与蝙蝠眼睛 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102521319891902465-675854f35964.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2332,12 +2332,12 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="assets/media/2102468933852987392.jpg" alt="绘制旧金山 — 来源附件 1" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">来源附件 1</a></td>
-<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="assets/media/2102468933857247232.jpg" alt="绘制旧金山 — 来源附件 2" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">来源附件 2</a></td>
+<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468933852987392-50138bb6d4b1.jpg" alt="绘制旧金山 — 来源附件 1" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">来源附件 1</a></td>
+<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468933857247232-384ae7a7a821.jpg" alt="绘制旧金山 — 来源附件 2" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">来源附件 2</a></td>
 </tr>
 <tr>
-<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="assets/media/2102468933853040640.jpg" alt="绘制旧金山 — 来源附件 3" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">来源附件 3</a></td>
-<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="assets/media/2102468933857275904.jpg" alt="绘制旧金山 — 来源附件 4" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">来源附件 4</a></td>
+<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468933853040640-c2ae35671c85.jpg" alt="绘制旧金山 — 来源附件 3" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">来源附件 3</a></td>
+<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468933857275904-6034d9616b1d.jpg" alt="绘制旧金山 — 来源附件 4" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">来源附件 4</a></td>
 </tr>
 </table>
 
@@ -2354,7 +2354,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102448528585027584/vid/avc1/1920x1080/DbWdeQtKg_iM4I6g.mp4?tag=29"><img src="assets/media/2102448528585027584.jpg" alt="鹈鹕骑车动画对比 Grok 4.7 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102448528585027584/vid/avc1/1920x1080/DbWdeQtKg_iM4I6g.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448528585027584-9fb0efb620af.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102448528585027584-0d95e52c5245.jpg" alt="鹈鹕骑车动画对比 Grok 4.7 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448528585027584-9fb0efb620af.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2371,7 +2371,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/felixrieseberg/status/2102450683069014053"><img src="assets/media/2102450516685148160.jpg" alt="一句 subtle art 提示的艺术生成器 — 来源附件 1" width="420"></a><br><a href="https://x.com/felixrieseberg/status/2102450683069014053">来源附件 1</a></td>
+<td><a href="https://x.com/felixrieseberg/status/2102450683069014053"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102450516685148160-66bdd38a067f.jpg" alt="一句 subtle art 提示的艺术生成器 — 来源附件 1" width="420"></a><br><a href="https://x.com/felixrieseberg/status/2102450683069014053">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -2388,7 +2388,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102518834376646657/vid/avc1/1920x1080/jwrTaybpDvFZzH2e.mp4?tag=29"><img src="assets/media/2102518834376646657.jpg" alt="John Wick 主题重制动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102518834376646657/vid/avc1/1920x1080/jwrTaybpDvFZzH2e.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102518834376646657-30d4a7e06ac7.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102518834376646657-8d7fad65e82a.jpg" alt="John Wick 主题重制动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102518834376646657-30d4a7e06ac7.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2433,7 +2433,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102477300990357504/vid/avc1/2544x1440/ezh0f1hyTASXR8MP.mp4?tag=29"><img src="assets/media/2102477300990357504.jpg" alt="个人网站多版本迭代与预告片 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102477300990357504/vid/avc1/2544x1440/ezh0f1hyTASXR8MP.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102477300990357504-a6658da0da40.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102477300990357504-67b682ed0af3.jpg" alt="个人网站多版本迭代与预告片 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102477300990357504-a6658da0da40.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2450,7 +2450,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102474090955337728/vid/avc1/1920x1080/fsU_iKeBZJ80xn-k.mp4?tag=29"><img src="assets/media/2102474090955337728.jpg" alt="八张参考图迭代矿石图鉴网页 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102474090955337728/vid/avc1/1920x1080/fsU_iKeBZJ80xn-k.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474090955337728-b9c2c018e6de.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102474090955337728-f3a13cb21ecc.jpg" alt="八张参考图迭代矿石图鉴网页 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474090955337728-b9c2c018e6de.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2467,7 +2467,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102464950794964992/vid/avc1/1620x1080/yResf3p2DfeNEkw1.mp4?tag=29"><img src="assets/media/2102464950794964992.jpg" alt="同目标重设计已有应用 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102464950794964992/vid/avc1/1620x1080/yResf3p2DfeNEkw1.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464950794964992-c128a01b3941.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102464950794964992-8b59dd4536aa.jpg" alt="同目标重设计已有应用 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464950794964992-c128a01b3941.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2484,7 +2484,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478654282539009/vid/avc1/1920x1080/kuBYTlYfr4AmdeFf.mp4?tag=29"><img src="assets/media/2102478654282539009.jpg" alt="前端测试与卡住的火山任务 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478654282539009/vid/avc1/1920x1080/kuBYTlYfr4AmdeFf.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478654282539009-8e8fa6ce9e05.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478654282539009-6e3eed32566b.jpg" alt="前端测试与卡住的火山任务 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478654282539009-8e8fa6ce9e05.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2501,7 +2501,7 @@ Type: Limit | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102492187921461248/vid/avc1/1724x1080/_NqeeUvnhh9umkaX.mp4?tag=29"><img src="assets/media/2102492187921461248.jpg" alt="不用 design skill 的关联笔记界面 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102492187921461248/vid/avc1/1724x1080/_NqeeUvnhh9umkaX.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492187921461248-0afbc7be7c49.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102492187921461248-26a14e895e5c.jpg" alt="不用 design skill 的关联笔记界面 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492187921461248-0afbc7be7c49.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2518,7 +2518,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102452884184985600/vid/avc1/1342x642/w1K5MGEb-6RXb0AP.mp4?tag=29"><img src="assets/media/2102452884184985600.jpg" alt="一次生成 UI 对照 Grok 4.7 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102452884184985600/vid/avc1/1342x642/w1K5MGEb-6RXb0AP.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452884184985600-95fbfa7a59ad.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102452884184985600-97b3043c1423.jpg" alt="一次生成 UI 对照 Grok 4.7 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452884184985600-95fbfa7a59ad.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2535,7 +2535,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102492618080862208/vid/avc1/1180x2148/-sNEDlWTuxHCzcfW.mp4?tag=29"><img src="assets/media/2102492618080862208.jpg" alt="23 分钟制作减压应用 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102492618080862208/vid/avc1/1180x2148/-sNEDlWTuxHCzcfW.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492618080862208-2705e743d4ad.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102492618080862208-fd2210846e2d.jpg" alt="23 分钟制作减压应用 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492618080862208-2705e743d4ad.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2552,7 +2552,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102450880029270016/vid/avc1/1914x1008/FcVRUSW6L-hSRCzj.mp4?tag=29"><img src="assets/media/2102450880029270016.jpg" alt="Stratus 云与天气主题落地页 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102450880029270016/vid/avc1/1914x1008/FcVRUSW6L-hSRCzj.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450880029270016-8585b3c21b8f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102450880029270016-519a0ad0fe89.jpg" alt="Stratus 云与天气主题落地页 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450880029270016-8585b3c21b8f.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2569,7 +2569,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478762767966208/vid/avc1/1920x1014/PPj5_DsN5KMOYPOg.mp4?tag=29"><img src="assets/media/2102478762767966208.jpg" alt="反向 CAPTCHA 交互应用 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478762767966208/vid/avc1/1920x1014/PPj5_DsN5KMOYPOg.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478762767966208-6e477870f60d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478762767966208-5480453a8f7f.jpg" alt="反向 CAPTCHA 交互应用 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478762767966208-6e477870f60d.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2586,7 +2586,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102481797837959168/vid/avc1/1962x1080/zjb0diBt84FMOCyh.mp4?tag=29"><img src="assets/media/2102481797837959168.jpg" alt="可导入 Figma 的个人交互设计工具 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102481797837959168/vid/avc1/1962x1080/zjb0diBt84FMOCyh.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102481797837959168-c9c7f427e5eb.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102481797837959168-1e1d20a38ddb.jpg" alt="可导入 Figma 的个人交互设计工具 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102481797837959168-c9c7f427e5eb.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2603,7 +2603,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102484562265649152/vid/avc1/1440x1080/sDJnj_e-5jWf5deA.mp4?tag=29"><img src="assets/media/2102484562265649152.jpg" alt="PonteMLX 本地模型监控界面 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102484562265649152/vid/avc1/1440x1080/sDJnj_e-5jWf5deA.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484562265649152-59a65a1b442d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102484562265649152-61f3f5f6052f.jpg" alt="PonteMLX 本地模型监控界面 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484562265649152-59a65a1b442d.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2620,7 +2620,7 @@ Type: Integration | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/maybepratikk/status/2102466291651285048"><img src="assets/media/2102466179403251712.jpg" alt="物流排程看板的界面预览 — 来源附件 1" width="420"></a><br><a href="https://x.com/maybepratikk/status/2102466291651285048">来源附件 1</a></td>
+<td><a href="https://x.com/maybepratikk/status/2102466291651285048"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102466179403251712-af5ba107a536.jpg" alt="物流排程看板的界面预览 — 来源附件 1" width="420"></a><br><a href="https://x.com/maybepratikk/status/2102466291651285048">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -2637,7 +2637,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102483951554326529/vid/avc1/1080x1080/n9TFDfJ9CF_oWydJ.mp4?tag=29"><img src="assets/media/2102483951554326529.jpg" alt="WebGL 创意工作室网站对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102483951554326529/vid/avc1/1080x1080/n9TFDfJ9CF_oWydJ.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483951554326529-75cec63c3fd7.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102483951554326529-02b37efdacc9.jpg" alt="WebGL 创意工作室网站对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483951554326529-75cec63c3fd7.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2654,7 +2654,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102454121718841345/vid/avc1/1536x1080/XnDAxOmZ0zZALnyT.mp4?tag=29"><img src="assets/media/2102454121718841345.jpg" alt="等距图标组件展示界面 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102454121718841345/vid/avc1/1536x1080/XnDAxOmZ0zZALnyT.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102454121718841345-54b5dc0e6075.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102454121718841345-621bda684e5b.jpg" alt="等距图标组件展示界面 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102454121718841345-54b5dc0e6075.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2671,8 +2671,8 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/lucaxyzz/status/2102461657742184599"><img src="assets/media/2102461483259166720.jpg" alt="掌机式游戏选择网页 — 来源附件 1" width="420"></a><br><a href="https://x.com/lucaxyzz/status/2102461657742184599">来源附件 1</a></td>
-<td><a href="https://x.com/lucaxyzz/status/2102461657742184599"><img src="assets/media/2102461629518790656.jpg" alt="掌机式游戏选择网页 — 来源附件 2" width="420"></a><br><a href="https://x.com/lucaxyzz/status/2102461657742184599">来源附件 2</a></td>
+<td><a href="https://x.com/lucaxyzz/status/2102461657742184599"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102461483259166720-dcb6b094b13d.jpg" alt="掌机式游戏选择网页 — 来源附件 1" width="420"></a><br><a href="https://x.com/lucaxyzz/status/2102461657742184599">来源附件 1</a></td>
+<td><a href="https://x.com/lucaxyzz/status/2102461657742184599"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102461629518790656-5dd8b49141f4.jpg" alt="掌机式游戏选择网页 — 来源附件 2" width="420"></a><br><a href="https://x.com/lucaxyzz/status/2102461657742184599">来源附件 2</a></td>
 </tr>
 </table>
 
@@ -2689,7 +2689,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102461494135001088/vid/avc1/1728x1080/0tIldR5gYAfmAtxd.mp4?tag=29"><img src="assets/media/2102461494135001088.jpg" alt="一次生成图片转矢量工具 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102461494135001088/vid/avc1/1728x1080/0tIldR5gYAfmAtxd.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461494135001088-220c914e20c3.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102461494135001088-9d2de05d7ce1.jpg" alt="一次生成图片转矢量工具 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461494135001088-220c914e20c3.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2706,7 +2706,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102520323765886976/vid/avc1/1920x1080/VJhYV-dTg3srTtAD.mp4?tag=29"><img src="assets/media/2102520323765886976.jpg" alt="同提示词落地页集合对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102520323765886976/vid/avc1/1920x1080/VJhYV-dTg3srTtAD.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102520323765886976-e34f0b367d25.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102520323765886976-7bc6a6fd403b.jpg" alt="同提示词落地页集合对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102520323765886976-e34f0b367d25.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2723,7 +2723,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102444702700277760/vid/avc1/1440x1080/aDOvO9CEMeaqR6P6.mp4?tag=29"><img src="assets/media/2102444702700277760.jpg" alt="AppLlama MCP 重设计已有应用 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102444702700277760/vid/avc1/1440x1080/aDOvO9CEMeaqR6P6.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102444702700277760-d48572ee0e0c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102444702700277760-b4642f91b349.jpg" alt="AppLlama MCP 重设计已有应用 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102444702700277760-d48572ee0e0c.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2762,7 +2762,7 @@ Next.js 官方报告 Opus 5.5 达到 97% 成功率，与 Sol、Fable 5.1 持平�
 
 <table>
 <tr>
-<td><a href="https://x.com/nextjs/status/2102516295715741912"><img src="assets/media/2102516292175699968.jpg" alt="Next.js 成功率与平均成本 — 来源附件 1" width="420"></a><br><a href="https://x.com/nextjs/status/2102516295715741912">来源附件 1</a></td>
+<td><a href="https://x.com/nextjs/status/2102516295715741912"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102516292175699968-87547b839f2f.jpg" alt="Next.js 成功率与平均成本 — 来源附件 1" width="420"></a><br><a href="https://x.com/nextjs/status/2102516295715741912">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -2785,7 +2785,7 @@ Every 团队的自家测试记录：要求十分钟内制作活动流程表，�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102495426385735680/vid/avc1/1080x1080/9L_EhW2wJzGhRpZb.mp4?tag=16"><img src="assets/media/2102495426385735680.jpg" alt="十分钟流程表任务错过核心交付 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102495426385735680/vid/avc1/1080x1080/9L_EhW2wJzGhRpZb.mp4?tag=16">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102495426385735680-e23b76543395.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102495426385735680-a56e687728ef.jpg" alt="十分钟流程表任务错过核心交付 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102495426385735680-e23b76543395.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2802,7 +2802,7 @@ Type: Limit | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102467411047763968/vid/avc1/1920x1080/InJdRf0w3jiN_Q6i.mp4?tag=29"><img src="assets/media/2102467411047763968.jpg" alt="347 个排名页面的 SEO 内容空白分析 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102467411047763968/vid/avc1/1920x1080/InJdRf0w3jiN_Q6i.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102467411047763968-e821b0c77a6c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102467411047763968-8060f44896b5.jpg" alt="347 个排名页面的 SEO 内容空白分析 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102467411047763968-e821b0c77a6c.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2819,7 +2819,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/powl_d/status/2102508882459586748"><img src="assets/media/2102508763538472961.jpg" alt="通过 Trendtrack MCP 准备黑五分析 — 来源附件 1" width="420"></a><br><a href="https://x.com/powl_d/status/2102508882459586748">来源附件 1</a></td>
+<td><a href="https://x.com/powl_d/status/2102508882459586748"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102508763538472961-2a37ef4f2c64.jpg" alt="通过 Trendtrack MCP 准备黑五分析 — 来源附件 1" width="420"></a><br><a href="https://x.com/powl_d/status/2102508882459586748">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -2836,7 +2836,7 @@ alphaXiv 平台展示将 arXiv 论文转成博客式概览的产品功能，包�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102464303865692160/vid/avc1/1920x1080/2k7r15kiseysNXtI.mp4?tag=29"><img src="assets/media/2102464303865692160.jpg" alt="alphaXiv 把论文转成证据关联博客 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102464303865692160/vid/avc1/1920x1080/2k7r15kiseysNXtI.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464303865692160-b21931bec340.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102464303865692160-59afb65c0c51.jpg" alt="alphaXiv 把论文转成证据关联博客 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464303865692160-b21931bec340.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2853,7 +2853,7 @@ SafeForge 平台展示将 Opus 5.5 接入风险总结循环的测试，并称它
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102511392284921856/vid/avc1/1920x1080/cB3HoPVJXOBUyRyc.mp4?tag=29"><img src="assets/media/2102511392284921856.jpg" alt="SafeForge 风险总结循环测试 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102511392284921856/vid/avc1/1920x1080/cB3HoPVJXOBUyRyc.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102511392284921856-5faca0cc6f69.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102511392284921856-1e633eee9cfa.jpg" alt="SafeForge 风险总结循环测试 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102511392284921856-5faca0cc6f69.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2870,8 +2870,8 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/MLBear2/status/2102518758611058807"><img src="assets/media/2102518741309562881.jpg" alt="更新榜单图片中的模型数据 — 来源附件 1" width="420"></a><br><a href="https://x.com/MLBear2/status/2102518758611058807">来源附件 1</a></td>
-<td><a href="https://x.com/MLBear2/status/2102518758611058807"><img src="assets/media/2102518741234057216.jpg" alt="更新榜单图片中的模型数据 — 来源附件 2" width="420"></a><br><a href="https://x.com/MLBear2/status/2102518758611058807">来源附件 2</a></td>
+<td><a href="https://x.com/MLBear2/status/2102518758611058807"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102518741309562881-37ec04ac6824.jpg" alt="更新榜单图片中的模型数据 — 来源附件 1" width="420"></a><br><a href="https://x.com/MLBear2/status/2102518758611058807">来源附件 1</a></td>
+<td><a href="https://x.com/MLBear2/status/2102518758611058807"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102518741234057216-5396dbf48e6a.jpg" alt="更新榜单图片中的模型数据 — 来源附件 2" width="420"></a><br><a href="https://x.com/MLBear2/status/2102518758611058807">来源附件 2</a></td>
 </tr>
 </table>
 
@@ -2888,8 +2888,8 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/tweet_video/HS2AWprbYAA2fZM.mp4"><img src="assets/media/2102477727685369856.jpg" alt="同指令制作指标的版本对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/tweet_video/HS2AWprbYAA2fZM.mp4">播放来源视频 1</a></td>
-<td><a href="https://video.twimg.com/tweet_video/HS2A31iaQAAoTSo.mp4"><img src="assets/media/2102478297804455936.jpg" alt="同指令制作指标的版本对比 — 来源附件 2" width="420"></a><br><a href="https://video.twimg.com/tweet_video/HS2A31iaQAAoTSo.mp4">播放来源视频 2</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102477727685369856-0a12e4ca4f59.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102477727685369856-e1d52de30f45.jpg" alt="同指令制作指标的版本对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102477727685369856-0a12e4ca4f59.mp4">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478297804455936-f494527729af.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478297804455936-41afec4bef68.jpg" alt="同指令制作指标的版本对比 — 来源附件 2" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478297804455936-f494527729af.mp4">播放来源视频 2</a></td>
 </tr>
 </table>
 
@@ -2906,7 +2906,7 @@ GojiberryAI 平台展示输入网站 URL 后生成销售触达流程，声称可
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102484142977912832/vid/avc1/1920x1080/nx4U1bH4pHeHSJPL.mp4?tag=29"><img src="assets/media/2102484142977912832.jpg" alt="从网站 URL 生成销售触达流程 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102484142977912832/vid/avc1/1920x1080/nx4U1bH4pHeHSJPL.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484142977912832-8d3c875b8a2c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102484142977912832-78ae60e3150f.jpg" alt="从网站 URL 生成销售触达流程 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484142977912832-8d3c875b8a2c.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2923,7 +2923,7 @@ Ramp 团队披露提前访问，并在自家 Accounting Bench 上实测 Opus 5.5
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102451438685147136/vid/avc1/1920x1080/L_8bTlIp6I26lNOA.mp4?tag=29"><img src="assets/media/2102451438685147136.jpg" alt="Ramp 的会计任务评测 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102451438685147136/vid/avc1/1920x1080/L_8bTlIp6I26lNOA.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451438685147136-d7f9fc977848.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102451438685147136-8ba0b4483e31.jpg" alt="Ramp 的会计任务评测 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451438685147136-d7f9fc977848.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2944,7 +2944,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102513660312576000/vid/avc1/1920x1080/5tx7z_kvB7V8VB1G.mp4?tag=29"><img src="assets/media/2102513660312576000.jpg" alt="fable-advisor 的多模型协作插件 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102513660312576000/vid/avc1/1920x1080/5tx7z_kvB7V8VB1G.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513660312576000-bc5f7f9a556d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102513660312576000-72bcb10d231f.jpg" alt="fable-advisor 的多模型协作插件 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513660312576000-bc5f7f9a556d.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -2961,7 +2961,7 @@ ntm 工具作者称先让 Opus 5 写交接提示，再由 Opus 5.5 停止并重�
 
 <table>
 <tr>
-<td><a href="https://x.com/doodlestein/status/2102486504627175458"><img src="assets/media/2102486491125415936.jpg" alt="ntm 中的任务交接与 worker 替换 — 来源附件 1" width="420"></a><br><a href="https://x.com/doodlestein/status/2102486504627175458">来源附件 1</a></td>
+<td><a href="https://x.com/doodlestein/status/2102486504627175458"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102486491125415936-c45c4bc95597.jpg" alt="ntm 中的任务交接与 worker 替换 — 来源附件 1" width="420"></a><br><a href="https://x.com/doodlestein/status/2102486504627175458">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ T3 Code 团队说明无需更新应用即可使用新模型，并给出强制刷
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="刷新 T3 Code 的模型缓存 — 来源附件 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">来源附件 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102465677584109568-eb852b8b6c0e.png" alt="刷新 T3 Code 的模型缓存 — 来源附件 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3017,7 +3017,7 @@ Type: Tutorial | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/shannholmberg/status/2102481940742115352"><img src="assets/media/2102481936803565568.jpg" alt="复盘项目与 Agent 会话历史 — 来源附件 1" width="420"></a><br><a href="https://x.com/shannholmberg/status/2102481940742115352">来源附件 1</a></td>
+<td><a href="https://x.com/shannholmberg/status/2102481940742115352"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102481936803565568-d1d132d1581c.jpg" alt="复盘项目与 Agent 会话历史 — 来源附件 1" width="420"></a><br><a href="https://x.com/shannholmberg/status/2102481940742115352">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3034,7 +3034,7 @@ Type: Tutorial | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/jyangballin/status/2102481432136528139"><img src="assets/media/2102481302985568257.jpg" alt="ProgramBench 多 Agent 的速度 — 来源附件 1" width="420"></a><br><a href="https://x.com/jyangballin/status/2102481432136528139">来源附件 1</a></td>
+<td><a href="https://x.com/jyangballin/status/2102481432136528139"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102481302985568257-f611e07df913.jpg" alt="ProgramBench 多 Agent 的速度 — 来源附件 1" width="420"></a><br><a href="https://x.com/jyangballin/status/2102481432136528139">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3051,7 +3051,7 @@ ProgramBench 相关作者分享模型卡中 100 个 Agent 协作完成基准任�
 
 <table>
 <tr>
-<td><a href="https://x.com/18jeffreyma/status/2102454667167047973"><img src="assets/media/2102453307587637248.jpg" alt="100 个 Agent 的 ProgramBench 评测 — 来源附件 1" width="420"></a><br><a href="https://x.com/18jeffreyma/status/2102454667167047973">来源附件 1</a></td>
+<td><a href="https://x.com/18jeffreyma/status/2102454667167047973"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102453307587637248-5ca530584072.jpg" alt="100 个 Agent 的 ProgramBench 评测 — 来源附件 1" width="420"></a><br><a href="https://x.com/18jeffreyma/status/2102454667167047973">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3072,7 +3072,7 @@ Higgsfield 平台在同一段街景视频上比较 Opus 5.5 与 GPT-6 Astra 的�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102509920876994560/vid/avc1/1080x1214/AxevMDaSTO83n2J1.mp4?tag=29"><img src="assets/media/2102509920876994560.jpg" alt="同段街景视频的对象跟踪标注 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102509920876994560/vid/avc1/1080x1214/AxevMDaSTO83n2J1.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102509920876994560-c4d4049d9448.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102509920876994560-30b2693eb0de.jpg" alt="同段街景视频的对象跟踪标注 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102509920876994560-c4d4049d9448.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3089,7 +3089,7 @@ Roboflow 负责人公布 Opus 5.5、Sol、Luna 的 Playground 目标检测结果
 
 <table>
 <tr>
-<td><a href="https://x.com/skalskip92/status/2102513518603804956"><img src="assets/media/2102513266056429568.jpg" alt="Roboflow 目标检测评测 — 来源附件 1" width="420"></a><br><a href="https://x.com/skalskip92/status/2102513518603804956">来源附件 1</a></td>
+<td><a href="https://x.com/skalskip92/status/2102513518603804956"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102513266056429568-d84d5330546b.jpg" alt="Roboflow 目标检测评测 — 来源附件 1" width="420"></a><br><a href="https://x.com/skalskip92/status/2102513518603804956">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3110,7 +3110,7 @@ Medeo 平台比较 GPT-6 Sol 与 Opus 5.5 驱动 Seedance 2.5 制作的视频，
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102462545898651648/vid/avc1/1920x1080/jolN96b6AOkt5meq.mp4?tag=29"><img src="assets/media/2102462545898651648.jpg" alt="Medeo 中驱动 Seedance 2.5 的对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102462545898651648/vid/avc1/1920x1080/jolN96b6AOkt5meq.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462545898651648-91263391e40c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102462545898651648-62d6ff20dd48.jpg" alt="Medeo 中驱动 Seedance 2.5 的对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462545898651648-91263391e40c.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3127,7 +3127,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102457816820916224/vid/avc1/1612x1080/pdOJXL6ne_LOROg3.mp4?tag=29"><img src="assets/media/2102457816820916224.jpg" alt="在 Claude 网页调用 Blender 做黏土动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102457816820916224/vid/avc1/1612x1080/pdOJXL6ne_LOROg3.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457816820916224-64d3e87b71c4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102457816820916224-772c7489aa79.jpg" alt="在 Claude 网页调用 Blender 做黏土动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457816820916224-64d3e87b71c4.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3144,7 +3144,7 @@ Tesseract 平台将 Opus 5.5 与 GPT-6 Astra 分别接入自家视频工具，�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102502084847214593/vid/avc1/1080x1350/AhutbNmQCpo4GAVF.mp4?tag=29"><img src="assets/media/2102502084847214593.jpg" alt="Tesseract 重制发布视频的成本对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102502084847214593/vid/avc1/1080x1350/AhutbNmQCpo4GAVF.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502084847214593-974ba4da3a76.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102502084847214593-1860585aa16c.jpg" alt="Tesseract 重制发布视频的成本对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502084847214593-974ba4da3a76.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3161,7 +3161,7 @@ DocJev 作者展示用 Opus 5.5 制作的产品预告片；该帖将文档分类
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102479606909636608/vid/avc1/1920x1080/5gQCdFvu4lD6i8Jc.mp4?tag=29"><img src="assets/media/2102479606909636608.jpg" alt="为 DocJev 制作文档工具预告片 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102479606909636608/vid/avc1/1920x1080/5gQCdFvu4lD6i8Jc.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479606909636608-28689bd75506.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102479606909636608-488349d9bd72.jpg" alt="为 DocJev 制作文档工具预告片 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479606909636608-28689bd75506.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3178,7 +3178,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102463260083814400/vid/avc1/1920x1080/pg3IA2gaSf3rm2K4.mp4?tag=29"><img src="assets/media/2102463260083814400.jpg" alt="用自有 skill 制作 Claude 模型发展史 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102463260083814400/vid/avc1/1920x1080/pg3IA2gaSf3rm2K4.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102463260083814400-fc2cedfa7a8b.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102463260083814400-b0382b94c973.jpg" alt="用自有 skill 制作 Claude 模型发展史 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102463260083814400-fc2cedfa7a8b.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3195,7 +3195,7 @@ Medeo 平台比较 Opus 5.5 与 GPT-6 Astra 制作的折纸老虎视频，两条
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102453529268916224/vid/avc1/1080x1920/uyyJj1GtKe23qKp7.mp4?tag=29"><img src="assets/media/2102453529268916224.jpg" alt="Medeo 的折纸老虎视频对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102453529268916224/vid/avc1/1080x1920/uyyJj1GtKe23qKp7.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453529268916224-6fc4b9c76f82.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102453529268916224-85b35323ddd5.jpg" alt="Medeo 的折纸老虎视频对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453529268916224-6fc4b9c76f82.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3212,7 +3212,7 @@ BridgeMind 平台展示用 Opus 5.5 与 Remotion 制作的自家卫衣发售视�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102462683245395968/vid/avc1/1920x1080/t7Y-1-9qzNJG68xK.mp4?tag=29"><img src="assets/media/2102462683245395968.jpg" alt="Remotion 制作 BridgeMind 卫衣宣传片 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102462683245395968/vid/avc1/1920x1080/t7Y-1-9qzNJG68xK.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462683245395968-ae153807b90e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102462683245395968-63b2b3622915.jpg" alt="Remotion 制作 BridgeMind 卫衣宣传片 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462683245395968-ae153807b90e.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3229,7 +3229,7 @@ Higgsfield 平台对比商业视频制作，报告 Opus 5.5 用时 60 分钟、5
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102462871104077824/vid/avc1/1440x1080/hm7aglnaoiLS8wmr.mp4?tag=29"><img src="assets/media/2102462871104077824.jpg" alt="Higgsfield 商业视频的时间与费用 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102462871104077824/vid/avc1/1440x1080/hm7aglnaoiLS8wmr.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462871104077824-7915acd655c9.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102462871104077824-ab0fcf1c98f4.jpg" alt="Higgsfield 商业视频的时间与费用 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462871104077824-7915acd655c9.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3246,7 +3246,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102457146210496512/vid/avc1/1920x1080/NQpCnFwIPnJ2aS_D.mp4?tag=29"><img src="assets/media/2102457146210496512.jpg" alt="从发布帖编写纯代码宣传视频 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102457146210496512/vid/avc1/1920x1080/NQpCnFwIPnJ2aS_D.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457146210496512-980b604f1f60.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102457146210496512-2ba13dacf7c5.jpg" alt="从发布帖编写纯代码宣传视频 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457146210496512-980b604f1f60.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3263,7 +3263,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102435379810885632/vid/avc1/1920x1080/UI5hS2e010VQ1Mz-.mp4?tag=29"><img src="assets/media/2102435379810885632.jpg" alt="转发 Claude 视角的定格动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102435379810885632/vid/avc1/1920x1080/UI5hS2e010VQ1Mz-.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102435379810885632-410e386a9641.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102435379810885632-24bea12ee74b.jpg" alt="转发 Claude 视角的定格动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102435379810885632-410e386a9641.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3282,7 +3282,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102484213086011392/vid/avc1/1280x720/Aex4aiDf_9SMKio-.mp4?tag=29"><img src="assets/media/2102484213086011392.jpg" alt="从两秒迭代到 22 秒的配乐视频 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102484213086011392/vid/avc1/1280x720/Aex4aiDf_9SMKio-.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484213086011392-4cc335e03531.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102484213086011392-b80e1beaa31b.jpg" alt="从两秒迭代到 22 秒的配乐视频 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484213086011392-4cc335e03531.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3299,7 +3299,7 @@ Higgsfield 平台展示 Opus 5.5 调用 Photoshop 和 DaVinci Resolve Fusion，�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102494820774363136/vid/avc1/1440x1080/jFAAPDTN7AKgd7Nw.mp4?tag=29"><img src="assets/media/2102494820774363136.jpg" alt="Photoshop 与 Fusion 修补视频错误 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102494820774363136/vid/avc1/1440x1080/jFAAPDTN7AKgd7Nw.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102494820774363136-155a5d1f59fa.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102494820774363136-eb585cfcb51a.jpg" alt="Photoshop 与 Fusion 修补视频错误 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102494820774363136-155a5d1f59fa.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3316,7 +3316,7 @@ JetBrains 平台展示团队成员向 Opus 5.5 提供 HeyGen 的 HyperFrames ski
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102459599177805825/vid/avc1/2560x1440/GuU5uKX8BRoP6VNe.mp4?tag=29"><img src="assets/media/2102459599177805825.jpg" alt="从 Kotlin 网站制作宣传视频 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102459599177805825/vid/avc1/2560x1440/GuU5uKX8BRoP6VNe.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102459599177805825-9c235c3bf079.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102459599177805825-41f2bff7779a.jpg" alt="从 Kotlin 网站制作宣传视频 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102459599177805825-9c235c3bf079.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3333,8 +3333,8 @@ Type: Integration | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="按个人风格剪辑原始拍摄素材 — 来源附件 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">来源附件 1</a></td>
-<td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="按个人风格剪辑原始拍摄素材 — 来源附件 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">播放来源视频 2</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102488059660906496-cee463d3c26e.png" alt="按个人风格剪辑原始拍摄素材 — 来源附件 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">来源附件 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102488072772296704-74246a4216f6.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102488072772296704-50a81776676b.jpg" alt="按个人风格剪辑原始拍摄素材 — 来源附件 2" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102488072772296704-74246a4216f6.mp4">播放来源视频 2</a></td>
 </tr>
 </table>
 
@@ -3351,7 +3351,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102500233066475520/vid/avc1/1920x1080/d_2ppJAb99CGBKqx.mp4?tag=29"><img src="assets/media/2102500233066475520.jpg" alt="把 Coinacademy 文章改成 FLOP Labs 视频 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102500233066475520/vid/avc1/1920x1080/d_2ppJAb99CGBKqx.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500233066475520-e3ba38b2fa5f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102500233066475520-c420607b92ab.jpg" alt="把 Coinacademy 文章改成 FLOP Labs 视频 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500233066475520-e3ba38b2fa5f.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3368,8 +3368,8 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102475075358179329/vid/avc1/768x1120/pkoQyt8wniSAoYu0.mp4?tag=29"><img src="assets/media/2102475075358179329.jpg" alt="与 GPT-6 Sol 的视频结果对照 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102475075358179329/vid/avc1/768x1120/pkoQyt8wniSAoYu0.mp4?tag=29">播放来源视频 1</a></td>
-<td><a href="https://video.twimg.com/amplify_video/2102475125475975170/vid/avc1/768x1152/ENQGTaDMF6hIc--N.mp4?tag=29"><img src="assets/media/2102475125475975170.jpg" alt="与 GPT-6 Sol 的视频结果对照 — 来源附件 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102475125475975170/vid/avc1/768x1152/ENQGTaDMF6hIc--N.mp4?tag=29">播放来源视频 2</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475075358179329-f63ccdb689c0.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102475075358179329-0561fc006437.jpg" alt="与 GPT-6 Sol 的视频结果对照 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475075358179329-f63ccdb689c0.mp4">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475125475975170-c2f54648f784.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102475125475975170-a68957ae14b9.jpg" alt="与 GPT-6 Sol 的视频结果对照 — 来源附件 2" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475125475975170-c2f54648f784.mp4">播放来源视频 2</a></td>
 </tr>
 </table>
 
@@ -3386,7 +3386,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102502065096290305/vid/avc1/1920x1080/yGFbK0Ul1CDLkqtk.mp4?tag=29"><img src="assets/media/2102502065096290305.jpg" alt="用代码制作 serai 宣传视频 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102502065096290305/vid/avc1/1920x1080/yGFbK0Ul1CDLkqtk.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502065096290305-e04aae88144c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102502065096290305-77f143547120.jpg" alt="用代码制作 serai 宣传视频 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502065096290305-e04aae88144c.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3403,7 +3403,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102460508414832640/vid/avc1/1920x1080/oOGZ-HTehBvBYBaW.mp4?tag=29"><img src="assets/media/2102460508414832640.jpg" alt="Cowork 制作 Opus 5.5 解说视频 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102460508414832640/vid/avc1/1920x1080/oOGZ-HTehBvBYBaW.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102460508414832640-d9b553d7eb26.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102460508414832640-43c560fa4b09.jpg" alt="Cowork 制作 Opus 5.5 解说视频 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102460508414832640-d9b553d7eb26.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3420,7 +3420,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102508473728589825/vid/avc1/1920x1080/-u02ZkO-xuxRe79O.mp4?tag=29"><img src="assets/media/2102508473728589825.jpg" alt="视频作品与尚未实施的 fal 组合设想 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102508473728589825/vid/avc1/1920x1080/-u02ZkO-xuxRe79O.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508473728589825-502fe9b6c571.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102508473728589825-11a14d6243dd.jpg" alt="视频作品与尚未实施的 fal 组合设想 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508473728589825-502fe9b6c571.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3437,7 +3437,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102463160775290880/vid/avc1/1080x1920/5zz0WuDBJNU2hELw.mp4?tag=29"><img src="assets/media/2102463160775290880.jpg" alt="从 UGC 文件夹剪辑并制作文字动画 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102463160775290880/vid/avc1/1080x1920/5zz0WuDBJNU2hELw.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102463160775290880-186a49fe81cd.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102463160775290880-26d19e54fa86.jpg" alt="从 UGC 文件夹剪辑并制作文字动画 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102463160775290880-186a49fe81cd.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3454,7 +3454,7 @@ Type: Integration | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102505852598902784/vid/avc1/1984x1080/Q9rUVdGaQJ5GaP7m.mp4?tag=29"><img src="assets/media/2102505852598902784.jpg" alt="游戏引擎阿拉伯文字教程视频 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102505852598902784/vid/avc1/1984x1080/Q9rUVdGaQJ5GaP7m.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102505852598902784-29111f3124b9.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102505852598902784-2a3b3b2c46d6.jpg" alt="游戏引擎阿拉伯文字教程视频 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102505852598902784-29111f3124b9.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3471,7 +3471,7 @@ Type: Tutorial | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102449035827355648/vid/avc1/1080x1080/t1oAbV8kqDBq6GUJ.mp4?tag=29"><img src="assets/media/2102449035827355648.jpg" alt="水墨雨伞故事与代码配乐 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102449035827355648/vid/avc1/1080x1080/t1oAbV8kqDBq6GUJ.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449035827355648-1fdb10ecf807.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102449035827355648-a72dce1ca470.jpg" alt="水墨雨伞故事与代码配乐 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449035827355648-1fdb10ecf807.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3492,7 +3492,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="105 个预埋 bug 的修复对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">来源附件 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102479170957611008-193efebaeeb1.png" alt="105 个预埋 bug 的修复对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3509,7 +3509,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/SingulCore/status/2102460555642446155"><img src="assets/media/2102460283251994624.jpg" alt="CS2 作弊程序生成的作者展示 — 来源附件 1" width="420"></a><br><a href="https://x.com/SingulCore/status/2102460555642446155">来源附件 1</a></td>
+<td><a href="https://x.com/SingulCore/status/2102460555642446155"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102460283251994624-d5b45811ea4a.jpg" alt="CS2 作弊程序生成的作者展示 — 来源附件 1" width="420"></a><br><a href="https://x.com/SingulCore/status/2102460555642446155">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3526,7 +3526,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/dexhorthy/status/2102473233195028772"><img src="assets/media/2102472512449675264.jpg" alt="进行中的 circuit_eval 检查点评测 — 来源附件 1" width="420"></a><br><a href="https://x.com/dexhorthy/status/2102473233195028772">来源附件 1</a></td>
+<td><a href="https://x.com/dexhorthy/status/2102473233195028772"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102472512449675264-02d6c9f7f63c.jpg" alt="进行中的 circuit_eval 检查点评测 — 来源附件 1" width="420"></a><br><a href="https://x.com/dexhorthy/status/2102473233195028772">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3598,7 +3598,7 @@ Type: Integration | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/mehulmpt/status/2102475388211679520"><img src="assets/media/2102475338391732224.jpg" alt="高风险请求的拒绝与回退 — 来源附件 1" width="420"></a><br><a href="https://x.com/mehulmpt/status/2102475388211679520">来源附件 1</a></td>
+<td><a href="https://x.com/mehulmpt/status/2102475388211679520"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102475338391732224-0d902a7c79ce.jpg" alt="高风险请求的拒绝与回退 — 来源附件 1" width="420"></a><br><a href="https://x.com/mehulmpt/status/2102475388211679520">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ Irregular 报告其多阶段安全基准的 10 题子集被用于评测：Opus 5
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="CyScenarioBench 的十题子集 — 来源附件 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">来源附件 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102452264283611137-aa88ade2111f.png" alt="CyScenarioBench 的十题子集 — 来源附件 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3636,8 +3636,8 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/theojaffee/status/2102454423041818786"><img src="assets/media/2102454276652249088.jpg" alt="同题解释期权概念的表达对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/theojaffee/status/2102454423041818786">来源附件 1</a></td>
-<td><a href="https://x.com/theojaffee/status/2102454423041818786"><img src="assets/media/2102454347389124608.jpg" alt="同题解释期权概念的表达对比 — 来源附件 2" width="420"></a><br><a href="https://x.com/theojaffee/status/2102454423041818786">来源附件 2</a></td>
+<td><a href="https://x.com/theojaffee/status/2102454423041818786"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102454276652249088-d2b939995ebf.jpg" alt="同题解释期权概念的表达对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/theojaffee/status/2102454423041818786">来源附件 1</a></td>
+<td><a href="https://x.com/theojaffee/status/2102454423041818786"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102454347389124608-0c98f22f6ed1.jpg" alt="同题解释期权概念的表达对比 — 来源附件 2" width="420"></a><br><a href="https://x.com/theojaffee/status/2102454423041818786">来源附件 2</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="森林与河流背景的故事片段 — 来源附件 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">来源附件 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102467233276665856-11d4a0817246.png" alt="森林与河流背景的故事片段 — 来源附件 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3697,7 +3697,7 @@ Vals AI 发布自家实验：十个 Opus 5.5 Agent 在 15 小时内提出 C-HD �
 
 <table>
 <tr>
-<td><a href="https://x.com/ValsAI/status/2102470503328010349"><img src="assets/media/2102469744129720320.jpg" alt="十个 Agent 探索最短路径算法 — 来源附件 1" width="420"></a><br><a href="https://x.com/ValsAI/status/2102470503328010349">来源附件 1</a></td>
+<td><a href="https://x.com/ValsAI/status/2102470503328010349"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102469744129720320-81c0a1f36a42.jpg" alt="十个 Agent 探索最短路径算法 — 来源附件 1" width="420"></a><br><a href="https://x.com/ValsAI/status/2102470503328010349">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3716,7 +3716,7 @@ tscircuit 相关作者用同一条「制作蓝牙音箱」指令，对比 Opus 5
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102465433534353408/vid/avc1/1920x1080/I6L8hU0QOvvrpm6f.mp4?tag=29"><img src="assets/media/2102465433534353408.jpg" alt="tscircuit 蓝牙音箱电路对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102465433534353408/vid/avc1/1920x1080/I6L8hU0QOvvrpm6f.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102465433534353408-3e8d2deb7070.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102465433534353408-8e51c42a8160.jpg" alt="tscircuit 蓝牙音箱电路对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102465433534353408-3e8d2deb7070.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3733,8 +3733,8 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://x.com/i2cjak/status/2102457079965323296"><img src="assets/media/2102456569476583425.jpg" alt="电路原理图绘制的耗时对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/i2cjak/status/2102457079965323296">来源附件 1</a></td>
-<td><a href="https://x.com/i2cjak/status/2102457079965323296"><img src="assets/media/2102456685293895680.jpg" alt="电路原理图绘制的耗时对比 — 来源附件 2" width="420"></a><br><a href="https://x.com/i2cjak/status/2102457079965323296">来源附件 2</a></td>
+<td><a href="https://x.com/i2cjak/status/2102457079965323296"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102456569476583425-ee267d0e315d.jpg" alt="电路原理图绘制的耗时对比 — 来源附件 1" width="420"></a><br><a href="https://x.com/i2cjak/status/2102457079965323296">来源附件 1</a></td>
+<td><a href="https://x.com/i2cjak/status/2102457079965323296"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102456685293895680-fffa2e2b1716.jpg" alt="电路原理图绘制的耗时对比 — 来源附件 2" width="420"></a><br><a href="https://x.com/i2cjak/status/2102457079965323296">来源附件 2</a></td>
 </tr>
 </table>
 
@@ -3751,7 +3751,7 @@ ARC Prize 发布验证结果：ARC-AGI-2 为 93.3%、每题 0.41 美元；ARC-AG
 
 <table>
 <tr>
-<td><a href="https://x.com/arcprize/status/2102512140405866568"><img src="assets/media/2102512138401062912.jpg" alt="ARC-AGI 推理与单题成本 — 来源附件 1" width="420"></a><br><a href="https://x.com/arcprize/status/2102512140405866568">来源附件 1</a></td>
+<td><a href="https://x.com/arcprize/status/2102512140405866568"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102512138401062912-ae5c29ac126c.jpg" alt="ARC-AGI 推理与单题成本 — 来源附件 1" width="420"></a><br><a href="https://x.com/arcprize/status/2102512140405866568">来源附件 1</a></td>
 </tr>
 </table>
 
@@ -3783,7 +3783,7 @@ Higgsfield 平台让两个模型仅用黑色笔画、鼠标和键盘在 Paintbru
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102449124222353408/vid/avc1/1920x1080/0cpuhTnY1SpS1WQM.mp4?tag=29"><img src="assets/media/2102449124222353408.jpg" alt="用鼠标键盘在 Paintbrush 画蒙娜丽莎 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102449124222353408/vid/avc1/1920x1080/0cpuhTnY1SpS1WQM.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449124222353408-baeb1ae932ad.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102449124222353408-286867985aa5.jpg" alt="用鼠标键盘在 Paintbrush 画蒙娜丽莎 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449124222353408-baeb1ae932ad.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 
@@ -3800,7 +3800,7 @@ Type: Evaluation | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102473647055044609/vid/avc1/1748x1080/LbfM6pvYm6ncoW9N.mp4?tag=29"><img src="assets/media/2102473647055044609.jpg" alt="Paint 绘图的交互方式对比 — 来源附件 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102473647055044609/vid/avc1/1748x1080/LbfM6pvYm6ncoW9N.mp4?tag=29">播放来源视频 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102473647055044609-5fec4b8982d2.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102473647055044609-ff074eb7b479.jpg" alt="Paint 绘图的交互方式对比 — 来源附件 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102473647055044609-5fec4b8982d2.mp4">播放来源视频 1</a></td>
 </tr>
 </table>
 

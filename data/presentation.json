@@ -3,10 +3,10 @@
   "acknowledge_layout": "inline-comma",
   "quick_start_position": "before-first-case",
   "media_policy": "all-source-media",
-  "video_playback_policy": "local-preview-source-playback",
+  "video_playback_policy": "r2-playable",
   "localization_fallback": "block",
-  "scope": "Explicit local repository preparation; publication requirements remain separate and unpassed",
+  "scope": "R2 hosting explicitly requested; Git repository remains local and is not pushed",
   "localization_policy": "11-language",
-  "media_hosting_policy": "local-only",
-  "public_actions": "none"
+  "media_hosting_policy": "R2-hosted",
+  "public_actions": "r2-media-upload-only"
 }

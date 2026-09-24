@@ -1,23 +1,23 @@
 <div align="center">
-<a href="https://evolink.ai/claude-opus-5-5?utm_source=github&amp;utm_medium=banner&amp;utm_campaign=awesome-claude-opus-5-5-usecases&amp;utm_content=readme_banner"><img src="images/de.png" alt="Anwendungsfälle für Claude Opus 5.5" width="760"></a>
+<a href="https://evolink.ai/claude-opus-5-5?utm_source=github&amp;utm_medium=banner&amp;utm_campaign=awesome-claude-opus-5-5-usecases&amp;utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/images/de-e7737d645956.png" alt="Anwendungsfälle für Claude Opus 5.5" width="760"></a>
 
 # Anwendungsfälle für Claude Opus 5.5
 Quellenbelegte Arbeitsabläufe, Demos, Vergleiche und Grenzen
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![EvoLink](https://img.shields.io/badge/EvoLink-173f46)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=top_badge)
+[![License: CC BY 4.0](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/01-632a4166db12.svg)](LICENSE)
+[![EvoLink](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/02-9c3762f5257a.svg)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=top_badge)
 
-[![English](https://img.shields.io/badge/English-111111)](README.md)
-[![Español](https://img.shields.io/badge/Espa%C3%B1ol-ffb703)](README_es.md)
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-2a9d8f)](README_pt.md)
-[![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-52b788)](README_ja.md)
-[![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-4ea8de)](README_ko.md)
-[![Deutsch](https://img.shields.io/badge/Deutsch-f4a261)](README_de.md)
-[![Français](https://img.shields.io/badge/Fran%C3%A7ais-e76f51)](README_fr.md)
-[![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-d62828)](README_tr.md)
-[![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-8338ec)](README_zh-TW.md)
-[![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-ef476f)](README_zh-CN.md)
-[![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-577590)](README_ru.md)
+[![English](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/03-10c9c5e9bda1.svg)](README.md)
+[![Español](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/04-a181c1d535f0.svg)](README_es.md)
+[![Português](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/05-ac70b838f049.svg)](README_pt.md)
+[![日本語](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/06-31ba71b87ecf.svg)](README_ja.md)
+[![한국어](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/07-edc23bf20eba.svg)](README_ko.md)
+[![Deutsch](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/08-0eacdeaa81bd.svg)](README_de.md)
+[![Français](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/09-29c9bacd0821.svg)](README_fr.md)
+[![Türkçe](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/10-1178dd208b61.svg)](README_tr.md)
+[![繁體中文](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/11-3d5c3f5925b5.svg)](README_zh-TW.md)
+[![简体中文](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/12-796941d82393.svg)](README_zh-CN.md)
+[![Русский](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/13-d555473f9d29.svg)](README_ru.md)
 
 </div>
 
@@ -274,7 +274,7 @@ Claudes offizieller Account teilt Kevin Ngos Kurzgeschichte über eine Wassermel
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102467313874178048/vid/avc1/1080x1080/jvnZ3SyyxxajVatp.mp4?tag=29"><img src="assets/media/2102467313874178048.jpg" alt="Ein offiziell geteilter Wassermelonen-Kurzfilm — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102467313874178048/vid/avc1/1080x1080/jvnZ3SyyxxajVatp.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102467313874178048-e3b144c313ac.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102467313874178048-de941bbeca1a.jpg" alt="Ein offiziell geteilter Wassermelonen-Kurzfilm — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102467313874178048-e3b144c313ac.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -306,7 +306,7 @@ Higgsfield vergleicht Samurai-Spieldemos aus Opus 5.5 und GPT-6 Astra im Rahmen 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102470161328685056/vid/avc1/1122x1080/mkbbA1dMknaGX6nL.mp4?tag=29"><img src="assets/media/2102470161328685056.jpg" alt="Vergleich von Samurai-Spielen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102470161328685056/vid/avc1/1122x1080/mkbbA1dMknaGX6nL.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102470161328685056-fd2a5ee107ab.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102470161328685056-aa92e77fdad6.jpg" alt="Vergleich von Samurai-Spielen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102470161328685056-fd2a5ee107ab.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -325,7 +325,7 @@ BridgeMinds Werbedemo präsentiert ein in einem Durchlauf erstelltes Mario-Kart-
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102451221483180032/vid/avc1/2098x1080/vHjQ8jI6WsTR-TPn.mp4?tag=29"><img src="assets/media/2102451221483180032.jpg" alt="Mario-Kart-Demo in einem Durchlauf — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102451221483180032/vid/avc1/2098x1080/vHjQ8jI6WsTR-TPn.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451221483180032-b1eb7ce40beb.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102451221483180032-98f5cd64f96d.jpg" alt="Mario-Kart-Demo in einem Durchlauf — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451221483180032-b1eb7ce40beb.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -342,7 +342,7 @@ Der Autor demonstriert einen im Browser getesteten Minecraft-Klon und zeigt dami
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102469320001404928/vid/avc1/1920x1080/BwKBu8kazrg4aJph.mp4?tag=29"><img src="assets/media/2102469320001404928.jpg" alt="Minecraft-Klon im Browser — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102469320001404928/vid/avc1/1920x1080/BwKBu8kazrg4aJph.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102469320001404928-d106426800c4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102469320001404928-fc722a97e06c.jpg" alt="Minecraft-Klon im Browser — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102469320001404928-d106426800c4.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -359,7 +359,7 @@ Diese Werbedemo einer Plattform präsentiert ein vom Mechanismus von Antikythera
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102461665086418944/vid/avc1/1350x1080/86T-JaewbcqfYnRH.mp4?tag=29"><img src="assets/media/2102461665086418944.jpg" alt="Mechanisches Spiel in einer HTML-Datei — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102461665086418944/vid/avc1/1350x1080/86T-JaewbcqfYnRH.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461665086418944-a20e243224fc.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102461665086418944-ce3192637a9c.jpg" alt="Mechanisches Spiel in einer HTML-Datei — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461665086418944-a20e243224fc.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -376,7 +376,7 @@ Der Autor berichtet, mit ausschließlich Roblox toolbox in einem Durchlauf ein K
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102487713282686976/vid/avc1/1462x1128/3fIlU8ItZxe_bOOQ.mp4?tag=29"><img src="assets/media/2102487713282686976.jpg" alt="Anime-Kampfspiel mit Roblox toolbox — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102487713282686976/vid/avc1/1462x1128/3fIlU8ItZxe_bOOQ.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487713282686976-503a60760211.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102487713282686976-3606f07dad57.jpg" alt="Anime-Kampfspiel mit Roblox toolbox — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487713282686976-503a60760211.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -393,7 +393,7 @@ Der Autor vergleicht Opus 5.5, Fable 5.1 und GPT-6 Astra bei einer Spider-Man-Sp
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102487804651720704/vid/avc1/1080x1920/R6XVPJWDvtaZ_lkN.mp4?tag=29"><img src="assets/media/2102487804651720704.jpg" alt="Spider-Man-Spiel im Vergleich dreier Modelle — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102487804651720704/vid/avc1/1080x1920/R6XVPJWDvtaZ_lkN.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487804651720704-ace771d2cfd4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102487804651720704-4afcbbd5f4c3.jpg" alt="Spider-Man-Spiel im Vergleich dreier Modelle — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487804651720704-ace771d2cfd4.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -410,7 +410,7 @@ Der Autor teilt einen spielbaren Minecraft-Klon mit Wasserphysik und Spielmechan
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102479783800279040/vid/avc1/1920x1080/7VsGtlHe2S5BRExC.mp4?tag=29"><img src="assets/media/2102479783800279040.jpg" alt="Minecraft-Klon mit Wasserphysik — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102479783800279040/vid/avc1/1920x1080/7VsGtlHe2S5BRExC.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479783800279040-8702c22fb2da.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102479783800279040-1b239ef36b36.jpg" alt="Minecraft-Klon mit Wasserphysik — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479783800279040-8702c22fb2da.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -427,7 +427,7 @@ BridgeBenchs Plattformwerbung vergleicht Opus 5.5 und GPT-6 Sol mit demselben Pr
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102468957806501888/vid/avc1/1920x1080/CiEVMPgTSp380Wzs.mp4?tag=29"><img src="assets/media/2102468957806501888.jpg" alt="Egoperspektivische Szenen aus DEAD SIGNAL — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102468957806501888/vid/avc1/1920x1080/CiEVMPgTSp380Wzs.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468957806501888-174f6fac93dc.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102468957806501888-0b7859a5ca4f.jpg" alt="Egoperspektivische Szenen aus DEAD SIGNAL — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468957806501888-174f6fac93dc.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -444,7 +444,7 @@ Der Autor berichtet von einem Imkerspiel aus einem einzigen Prompt ohne Bilddate
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102475876294160385/vid/avc1/1880x1080/FNaYj1IdK9WsC2fz.mp4?tag=29"><img src="assets/media/2102475876294160385.jpg" alt="Imkerspiel aus Code — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102475876294160385/vid/avc1/1880x1080/FNaYj1IdK9WsC2fz.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475876294160385-de693a0f1887.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102475876294160385-723222661176.jpg" alt="Imkerspiel aus Code — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475876294160385-de693a0f1887.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -461,7 +461,7 @@ Der Autor präsentiert ein mit Opus 5.5 erstelltes Snake-Spiel als konkretes Bei
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102452906083377152/vid/avc1/1080x1098/S7n7jTgko7JLgc7r.mp4?tag=29"><img src="assets/media/2102452906083377152.jpg" alt="Snake-Spieldemo — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102452906083377152/vid/avc1/1080x1098/S7n7jTgko7JLgc7r.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452906083377152-022ae703ae00.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102452906083377152-b3f0dd1f6a3b.jpg" alt="Snake-Spieldemo — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452906083377152-022ae703ae00.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -478,7 +478,7 @@ Higgsfield präsentiert einen Vergleich von Opus 5.5 und GPT-6 Sol bei der 3D-Sp
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102496880412565504/vid/avc1/1080x1080/ILPIm5Y_fCgPCVC4.mp4?tag=29"><img src="assets/media/2102496880412565504.jpg" alt="3D-Spielergebnisse im Vergleich mit Sol — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102496880412565504/vid/avc1/1080x1080/ILPIm5Y_fCgPCVC4.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102496880412565504-56b7214e2954.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102496880412565504-7c0f40c9690c.jpg" alt="3D-Spielergebnisse im Vergleich mit Sol — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102496880412565504-56b7214e2954.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -495,7 +495,7 @@ Der Autor berichtet von einem in einem Durchlauf erstellten Mehrspieler-Billards
 
 <table>
 <tr>
-<td><a href="https://x.com/BuiltByBilal/status/2102527003845075348"><img src="assets/media/2102525959085981696.jpg" alt="Mehrspieler-Billard mit Zuschauermodus — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/BuiltByBilal/status/2102527003845075348">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/BuiltByBilal/status/2102527003845075348"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102525959085981696-a3fecfa8b630.jpg" alt="Mehrspieler-Billard mit Zuschauermodus — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/BuiltByBilal/status/2102527003845075348">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -512,7 +512,7 @@ Higgsfields Werbedemo zeigt ein über die eigene API erstelltes Spiel mit Wasser
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102450921905283072/vid/avc1/1920x1080/_-dvpneN6xcP95tv.mp4?tag=29"><img src="assets/media/2102450921905283072.jpg" alt="Arcade-Spiel über die Higgsfield API — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102450921905283072/vid/avc1/1920x1080/_-dvpneN6xcP95tv.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450921905283072-9b06ddee55b4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102450921905283072-2af3447a60ba.jpg" alt="Arcade-Spiel über die Higgsfield API — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450921905283072-9b06ddee55b4.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -529,7 +529,7 @@ Der Autor demonstriert einen browserbasierten Minecraft-Klon als Versuch, ein Sp
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102459530349285376/vid/avc1/1804x1080/ws15ni5PzUk8TyOH.mp4?tag=29"><img src="assets/media/2102459530349285376.jpg" alt="Minecraft im Browser nachbauen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102459530349285376/vid/avc1/1804x1080/ws15ni5PzUk8TyOH.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102459530349285376-f6bc0d41db12.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102459530349285376-455778396563.jpg" alt="Minecraft im Browser nachbauen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102459530349285376-f6bc0d41db12.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -546,7 +546,7 @@ Der Autor demonstriert einen Mehrspieler-Rasenmähsimulator mit Bier- und Zigarr
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102513139124244480/vid/avc1/2560x1440/Unl1aBGvaAUEW4EJ.mp4?tag=29"><img src="assets/media/2102513139124244480.jpg" alt="Rasenmähen mit Livestream-Zuschauern — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102513139124244480/vid/avc1/2560x1440/Unl1aBGvaAUEW4EJ.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513139124244480-e0487a1e0c6d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102513139124244480-4a44a66c9375.jpg" alt="Rasenmähen mit Livestream-Zuschauern — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513139124244480-e0487a1e0c6d.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -563,7 +563,7 @@ Der Autor berichtet von einem in einem Durchlauf erstellten Schießspiel im Krit
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102448437837090816/vid/avc1/1594x1080/G91X4KGDDEhMKyo_.mp4?tag=29"><img src="assets/media/2102448437837090816.jpg" alt="Kritzel-Shooter mit Endgegner — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102448437837090816/vid/avc1/1594x1080/G91X4KGDDEhMKyo_.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448437837090816-70abffa4132b.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102448437837090816-47261be257a5.jpg" alt="Kritzel-Shooter mit Endgegner — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448437837090816-70abffa4132b.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -580,7 +580,7 @@ Der Autor demonstriert ein Mario-Spiel, das mit der Einstellung Medium erzeugt w
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102451787743797248/vid/avc1/1282x1220/s0orpWFvxMJ57pcP.mp4?tag=29"><img src="assets/media/2102451787743797248.jpg" alt="Mario-Spiel mit Einstellung Medium — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102451787743797248/vid/avc1/1282x1220/s0orpWFvxMJ57pcP.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451787743797248-7734f2cf1cc6.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102451787743797248-e5e06b52fde2.jpg" alt="Mario-Spiel mit Einstellung Medium — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451787743797248-7734f2cf1cc6.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -597,7 +597,7 @@ Der Beitrag vergleicht Opus 5.5 mit GPT-6 Sol; in seiner Medienvorschau sind Auf
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102468763182575616/vid/avc1/720x1188/KiitEAn5eNR9s9wu.mp4?tag=29"><img src="assets/media/2102468763182575616.jpg" alt="Vergleich von Kart-Rennaufnahmen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102468763182575616/vid/avc1/720x1188/KiitEAn5eNR9s9wu.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468763182575616-824232762fef.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102468763182575616-5d5763c2c988.jpg" alt="Vergleich von Kart-Rennaufnahmen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468763182575616-824232762fef.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -614,7 +614,7 @@ Der Autor erzeugt Spiele mit demselben Prompt, vergleicht Opus 5.5 mit GPT-6 Sol
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102527771725504513/vid/avc1/1920x1080/RigEMEuahUcyTy2v.mp4?tag=29"><img src="assets/media/2102527771725504513.jpg" alt="Spielvergleich mit GPT-6 Sol bei gleichem Prompt — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102527771725504513/vid/avc1/1920x1080/RigEMEuahUcyTy2v.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102527771725504513-1ab8bfe36fe2.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102527771725504513-1182c64e4117.jpg" alt="Spielvergleich mit GPT-6 Sol bei gleichem Prompt — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102527771725504513-1ab8bfe36fe2.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -631,7 +631,7 @@ Der Autor demonstriert ein Snake-Spiel, das nach seiner Beschreibung in einem ei
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102452659550822400/vid/avc1/1920x1080/UfYLBlAiXrFx66sd.mp4?tag=29"><img src="assets/media/2102452659550822400.jpg" alt="Snake in einem Durchlauf erzeugt — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102452659550822400/vid/avc1/1920x1080/UfYLBlAiXrFx66sd.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452659550822400-86cdf1551768.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102452659550822400-32b280e48662.jpg" alt="Snake in einem Durchlauf erzeugt — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452659550822400-86cdf1551768.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -648,7 +648,7 @@ Der Autor demonstriert rund 13,000 Zeilen Three.js für Gameplay im Stil von Cal
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102480184016277504/vid/avc1/1920x1080/ScvFpMg0vzzzA4OU.mp4?tag=29"><img src="assets/media/2102480184016277504.jpg" alt="Zombie-Gameplay mit Three.js — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102480184016277504/vid/avc1/1920x1080/ScvFpMg0vzzzA4OU.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102480184016277504-4e0bd58b5800.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102480184016277504-100a3b1bacc9.jpg" alt="Zombie-Gameplay mit Three.js — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102480184016277504-4e0bd58b5800.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -665,7 +665,7 @@ Der Autor berichtet von einem anfänglichen Prompt und etwa zwei Überarbeitungs
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102485332616732672/vid/avc1/1920x1080/QPii18NhEh8uwx6v.mp4?tag=29"><img src="assets/media/2102485332616732672.jpg" alt="Schneespiel in zwei Überarbeitungsrunden verfeinert — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102485332616732672/vid/avc1/1920x1080/QPii18NhEh8uwx6v.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102485332616732672-89c7efa85811.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102485332616732672-901847138563.jpg" alt="Schneespiel in zwei Überarbeitungsrunden verfeinert — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102485332616732672-89c7efa85811.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -682,7 +682,7 @@ In diesem als Partnerschaft offengelegten Beitrag berichtet ein Autor mit frühe
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102500851658924032/vid/avc1/1280x720/Gs6hGCiAUu3e5ge9.mp4?tag=29"><img src="assets/media/2102500851658924032.jpg" alt="Spielfunktionen und Trailer-Schnitt — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102500851658924032/vid/avc1/1280x720/Gs6hGCiAUu3e5ge9.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500851658924032-2a5c54e47023.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102500851658924032-fa62d50b37c8.jpg" alt="Spielfunktionen und Trailer-Schnitt — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500851658924032-2a5c54e47023.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -699,7 +699,7 @@ Der Autor berichtet, mit wenigen Prompts eine Mehrspieler-Überlebensinsel im AR
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102458314160508928/vid/avc1/1920x1080/skP96ftk2mI0b20S.mp4?tag=29"><img src="assets/media/2102458314160508928.jpg" alt="Mehrspieler-Überlebensinsel in Tesana — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102458314160508928/vid/avc1/1920x1080/skP96ftk2mI0b20S.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102458314160508928-bad9bf9658f0.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102458314160508928-143dd869884e.jpg" alt="Mehrspieler-Überlebensinsel in Tesana — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102458314160508928-bad9bf9658f0.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -716,7 +716,7 @@ Higgsfields eigene Plattformwerbung vergleicht Opus 5.5 und GPT-6 Sol beim Erste
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102533127096934400/vid/avc1/1080x1080/E40DuI3LXeGg8JA0.mp4?tag=29"><img src="assets/media/2102533127096934400.jpg" alt="Spielvergleich in Unreal Engine — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102533127096934400/vid/avc1/1080x1080/E40DuI3LXeGg8JA0.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102533127096934400-d51dbcaf821f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102533127096934400-4a62bfebc554.jpg" alt="Spielvergleich in Unreal Engine — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102533127096934400-d51dbcaf821f.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -733,7 +733,7 @@ Der Autor berichtet, mit wenigen Prompts ein Dark-Fantasy-RPG in Tesana mit mehr
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102457033413038080/vid/avc1/1916x1080/J47BET3d55HKTEdm.mp4?tag=29"><img src="assets/media/2102457033413038080.jpg" alt="Dark-Fantasy-RPG in Tesana — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102457033413038080/vid/avc1/1916x1080/J47BET3d55HKTEdm.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457033413038080-05af196bf59e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102457033413038080-56a6f03ce93c.jpg" alt="Dark-Fantasy-RPG in Tesana — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457033413038080-05af196bf59e.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -750,7 +750,7 @@ Der Autor demonstriert einen Ladensimulator mit 300+ spielbaren Gitarrenmodellen
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102531852363853824/vid/avc1/1920x1080/b-13Hr4nmh5HcvFi.mp4?tag=29"><img src="assets/media/2102531852363853824.jpg" alt="Gitarrenladen mit lärmausgelösten Kämpfen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102531852363853824/vid/avc1/1920x1080/b-13Hr4nmh5HcvFi.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102531852363853824-b97c14189612.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102531852363853824-335848c0a7a0.jpg" alt="Gitarrenladen mit lärmausgelösten Kämpfen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102531852363853824-b97c14189612.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -767,7 +767,7 @@ Higgsfields Plattformwerbung demonstriert ein Schachspiel im handgezeichneten St
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102534281038049280/vid/avc1/1440x1080/pSUEup1s_OPfPNsJ.mp4?tag=29"><img src="assets/media/2102534281038049280.jpg" alt="Handgezeichnetes Schach mit Zuganalyse — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102534281038049280/vid/avc1/1440x1080/pSUEup1s_OPfPNsJ.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102534281038049280-0f5e15669173.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102534281038049280-a14bcd38c11f.jpg" alt="Handgezeichnetes Schach mit Zuganalyse — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102534281038049280-0f5e15669173.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -784,7 +784,7 @@ Der Autor vergleicht Flugsimulatoren von Opus 5.5 und Kimi K3 mit demselben Prom
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102455572750848000/vid/avc1/1816x1140/WWAmC5uDhH_y2oPd.mp4?tag=29"><img src="assets/media/2102455572750848000.jpg" alt="Flugsimulator im Vergleich mit Kimi K3 — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102455572750848000/vid/avc1/1816x1140/WWAmC5uDhH_y2oPd.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102455572750848000-1717161dafad.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102455572750848000-9ab2fc834610.jpg" alt="Flugsimulator im Vergleich mit Kimi K3 — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102455572750848000-1717161dafad.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -801,7 +801,7 @@ Tesanas eigene Werbedemo präsentiert eine aus einem Prompt erzeugte Fantasiewel
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102494178517393408/vid/avc1/1908x1080/Gl7GChOzmYEfvQL1.mp4?tag=29"><img src="assets/media/2102494178517393408.jpg" alt="Tesana-Fantasiewelt aus einem Prompt — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102494178517393408/vid/avc1/1908x1080/Gl7GChOzmYEfvQL1.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102494178517393408-6a6488ca58b0.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102494178517393408-5052177205c1.jpg" alt="Tesana-Fantasiewelt aus einem Prompt — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102494178517393408-6a6488ca58b0.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -818,11 +818,11 @@ Der Autor demonstriert ein Bogenschießspiel und berichtet, Erstellung und Berei
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102487312605282304/vid/avc1/1894x908/nC1fTviIGjTjFt0O.mp4?tag=29"><img src="assets/media/2102487312605282304.jpg" alt="Bogenschießspiel in unter zehn Minuten erstellt — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102487312605282304/vid/avc1/1894x908/nC1fTviIGjTjFt0O.mp4?tag=29">Quellvideo abspielen 1</a></td>
-<td><a href="https://x.com/BhavikY663/status/2102488215445983290"><img src="assets/media/2102487727585554432.jpg" alt="Bogenschießspiel in unter zehn Minuten erstellt — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/BhavikY663/status/2102488215445983290">Anhang der Quelle 2</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487312605282304-0540b3e48310.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102487312605282304-3a37e66ae533.jpg" alt="Bogenschießspiel in unter zehn Minuten erstellt — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487312605282304-0540b3e48310.mp4">Quellvideo abspielen 1</a></td>
+<td><a href="https://x.com/BhavikY663/status/2102488215445983290"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102487727585554432-05bd5f75dd52.jpg" alt="Bogenschießspiel in unter zehn Minuten erstellt — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/BhavikY663/status/2102488215445983290">Anhang der Quelle 2</a></td>
 </tr>
 <tr>
-<td><a href="https://x.com/BhavikY663/status/2102488215445983290"><img src="assets/media/2102487773165096960.jpg" alt="Bogenschießspiel in unter zehn Minuten erstellt — Anhang der Quelle 3" width="420"></a><br><a href="https://x.com/BhavikY663/status/2102488215445983290">Anhang der Quelle 3</a></td>
+<td><a href="https://x.com/BhavikY663/status/2102488215445983290"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102487773165096960-d70f4e56d313.jpg" alt="Bogenschießspiel in unter zehn Minuten erstellt — Anhang der Quelle 3" width="420"></a><br><a href="https://x.com/BhavikY663/status/2102488215445983290">Anhang der Quelle 3</a></td>
 </tr>
 </table>
 
@@ -850,7 +850,7 @@ Laut Autor liegt Opus 5.5 bei Runescape Bench hinter Astra auf dem zweiten Platz
 
 <table>
 <tr>
-<td><a href="https://x.com/maxbittker/status/2102451744030490912"><img src="assets/media/2102451439486251008.jpg" alt="Ergebnis und Kosten bei Runescape Bench — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/maxbittker/status/2102451744030490912">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/maxbittker/status/2102451744030490912"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102451439486251008-c02df2a390b7.jpg" alt="Ergebnis und Kosten bei Runescape Bench — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/maxbittker/status/2102451744030490912">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -871,7 +871,7 @@ Der Autor demonstriert einen Korallenriff-Hintergrund mit einer Interaktion, bei
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102479905212473344/vid/avc1/1920x1080/wayY24Um6q4mzTVd.mp4?tag=29"><img src="assets/media/2102479905212473344.jpg" alt="Interaktiver Korallenriff-Hintergrund — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102479905212473344/vid/avc1/1920x1080/wayY24Um6q4mzTVd.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479905212473344-33e677c7d39d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102479905212473344-b4028d04f4aa.jpg" alt="Interaktiver Korallenriff-Hintergrund — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479905212473344-33e677c7d39d.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -888,7 +888,7 @@ Der Autor erstellt während eines Livestreams Wassersimulationen; dieser Beitrag
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102500422355185664/vid/avc1/1920x1080/BOGmZuGWcsfynubs.mp4?tag=29"><img src="assets/media/2102500422355185664.jpg" alt="Wassersimulation aus einem Livestream — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102500422355185664/vid/avc1/1920x1080/BOGmZuGWcsfynubs.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500422355185664-3a53a26e5881.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102500422355185664-f058290c67cb.jpg" alt="Wassersimulation aus einem Livestream — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500422355185664-3a53a26e5881.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -905,7 +905,7 @@ Der Autor demonstriert eine in einem Durchlauf erstellte 3D-Wassernachbildung an
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102479821364142080/vid/avc1/1080x1724/aFlEwHrgDcqZeJzL.mp4?tag=29"><img src="assets/media/2102479821364142080.jpg" alt="3D-Wasser anhand eines Videos nachbauen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102479821364142080/vid/avc1/1080x1724/aFlEwHrgDcqZeJzL.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479821364142080-e48a23196714.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102479821364142080-beebfaea5b49.jpg" alt="3D-Wasser anhand eines Videos nachbauen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479821364142080-e48a23196714.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -922,7 +922,7 @@ Higgsfields Plattformdemo zeigt die Handanatomie mit Knochen, Muskeln und Sehnen
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102516830602694656/vid/avc1/1920x1440/YWdHkhGrtKK9F20r.mp4?tag=29"><img src="assets/media/2102516830602694656.jpg" alt="Handanatomie schichtweise erkunden — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102516830602694656/vid/avc1/1920x1440/YWdHkhGrtKK9F20r.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102516830602694656-e98c9635968a.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102516830602694656-640fabd06f6f.jpg" alt="Handanatomie schichtweise erkunden — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102516830602694656-e98c9635968a.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -939,7 +939,7 @@ Dieser werbliche Plattformvergleich erstellt einen Grasberührungs-Simulator in 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102474210299834368/vid/avc1/1920x1080/dVDcRcsC2R5sj_3g.mp4?tag=29"><img src="assets/media/2102474210299834368.jpg" alt="Grasberührungs-Simulator in Kilo Code — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102474210299834368/vid/avc1/1920x1080/dVDcRcsC2R5sj_3g.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474210299834368-3a7bb4bd18c2.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102474210299834368-5f09f4e6f2e2.jpg" alt="Grasberührungs-Simulator in Kilo Code — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474210299834368-3a7bb4bd18c2.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -956,7 +956,7 @@ Dieser Beitrag aus zweiter Hand zeigt eine Trebuchet-Skizze, die in eine 3D-Simu
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102461645201268736/vid/avc1/1920x1080/IJV3a2Tr4NH_pPlV.mp4?tag=29"><img src="assets/media/2102461645201268736.jpg" alt="Eine Trebuchet-Skizze wird zur Simulation — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102461645201268736/vid/avc1/1920x1080/IJV3a2Tr4NH_pPlV.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461645201268736-5a45606bda32.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102461645201268736-e2926e359843.jpg" alt="Eine Trebuchet-Skizze wird zur Simulation — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461645201268736-5a45606bda32.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -973,7 +973,7 @@ Die Vorschau zeigt Schienen, Pendelstangen und weitere Mechanismen. Die Rechnung
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102508620118212609/vid/avc1/1920x1080/ptCi9V6eXBAAb2B3.mp4?tag=29"><img src="assets/media/2102508620118212609.jpg" alt="Schienen- und Pendelmechanismen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102508620118212609/vid/avc1/1920x1080/ptCi9V6eXBAAb2B3.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508620118212609-a3e2ba6ce6ff.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102508620118212609-53fb61465348.jpg" alt="Schienen- und Pendelmechanismen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508620118212609-a3e2ba6ce6ff.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -990,7 +990,7 @@ Der Autor demonstriert Gesichtsveränderungen bei verschiedenen Schwerkrafteinst
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102483220801658880/vid/avc1/1440x1080/HR14txAqdWLnyA-2.mp4?tag=29"><img src="assets/media/2102483220801658880.jpg" alt="Gesichter unter unterschiedlicher Schwerkraft — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102483220801658880/vid/avc1/1440x1080/HR14txAqdWLnyA-2.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483220801658880-284a1cbb0121.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102483220801658880-77083dbb754c.jpg" alt="Gesichter unter unterschiedlicher Schwerkraft — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483220801658880-284a1cbb0121.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1007,7 +1007,7 @@ Der Autor berichtet von einem einzelnen Lauf mit Medium-Aufwand über mehr als v
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102476824601407488/vid/avc1/1920x1080/3t-p0tA2b-YRsSXd.mp4?tag=29"><img src="assets/media/2102476824601407488.jpg" alt="Das Web durch verlinkte Seiten erklären — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102476824601407488/vid/avc1/1920x1080/3t-p0tA2b-YRsSXd.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476824601407488-7e3106feb19e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102476824601407488-143466875e56.jpg" alt="Das Web durch verlinkte Seiten erklären — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476824601407488-7e3106feb19e.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1024,7 +1024,7 @@ Higgsfields Werbedemo präsentiert eine 3D-Lernseite, auf der ein Auge zerlegt u
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102535899762565120/vid/avc1/1080x1280/3_-03uTkO43CbydA.mp4?tag=29"><img src="assets/media/2102535899762565120.jpg" alt="Erkundbare 3D-Lernseite zum Auge — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102535899762565120/vid/avc1/1080x1280/3_-03uTkO43CbydA.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102535899762565120-50f1ef9682d8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102535899762565120-5bbd7a1f22bc.jpg" alt="Erkundbare 3D-Lernseite zum Auge — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102535899762565120-50f1ef9682d8.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1041,7 +1041,7 @@ Der Autor versucht eine interaktive Reise vom beobachtbaren Universum bis zur Pl
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102475078688739328/vid/avc1/2008x1080/4EGSlryQgo6_260X.mp4?tag=29"><img src="assets/media/2102475078688739328.jpg" alt="Unvollendete interaktive Größenskala des Universums — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102475078688739328/vid/avc1/2008x1080/4EGSlryQgo6_260X.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475078688739328-406527becd6a.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102475078688739328-3b23c8be692c.jpg" alt="Unvollendete interaktive Größenskala des Universums — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475078688739328-406527becd6a.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1062,7 +1062,7 @@ Mit demselben einzelnen Prompt und ausschließlich Blender vergleicht der Autor 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102468034124464128/vid/avc1/1920x1080/izS4XbbTNf-6MAFA.mp4?tag=29"><img src="assets/media/2102468034124464128.jpg" alt="Vergleich zehnsekündiger Blender-Aufnahmen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102468034124464128/vid/avc1/1920x1080/izS4XbbTNf-6MAFA.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468034124464128-ea542d881c70.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102468034124464128-ac9a283059bb.jpg" alt="Vergleich zehnsekündiger Blender-Aufnahmen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468034124464128-ea542d881c70.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1081,7 +1081,7 @@ Der Autor demonstriert eine Nachbildung von San Francisco in Unreal Engine, in d
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102483408551366656/vid/avc1/1762x1080/n91fsKuWg74fQd7p.mp4?tag=29"><img src="assets/media/2102483408551366656.jpg" alt="San Francisco in Unreal Engine mit Jev — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102483408551366656/vid/avc1/1762x1080/n91fsKuWg74fQd7p.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483408551366656-850313cb26e2.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102483408551366656-dbd57d11ffb0.jpg" alt="San Francisco in Unreal Engine mit Jev — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483408551366656-850313cb26e2.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1098,7 +1098,7 @@ Der Autor demonstriert das Rendern von 500 Fitnessgerätetypen und den Aufbau ei
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102448609593827328/vid/avc1/1274x1080/FIwyxONx4h1KlfUi.mp4?tag=29"><img src="assets/media/2102448609593827328.jpg" alt="Fitnessstudioplaner mit 500 Gerätetypen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102448609593827328/vid/avc1/1274x1080/FIwyxONx4h1KlfUi.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448609593827328-837c030992d9.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102448609593827328-bff977f194e4.jpg" alt="Fitnessstudioplaner mit 500 Gerätetypen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448609593827328-837c030992d9.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1115,7 +1115,7 @@ BridgeBenchs Plattformwerbung vergleicht vier Modelle, die aus einem Prompt eine
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102476699703074816/vid/avc1/1920x1080/ekb2NrYtPP9nDxy3.mp4?tag=29"><img src="assets/media/2102476699703074816.jpg" alt="Raketenstart im Vergleich von vier Modellen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102476699703074816/vid/avc1/1920x1080/ekb2NrYtPP9nDxy3.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476699703074816-d98e76448f64.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102476699703074816-9fb2b75a16f9.jpg" alt="Raketenstart im Vergleich von vier Modellen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476699703074816-d98e76448f64.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1132,7 +1132,7 @@ Der Autor teilt eine Kreation mit einem Pelikan, der Fahrrad fährt.
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102460068092600320/vid/avc1/1670x1080/xBvUSubY7iPB6sJr.mp4?tag=29"><img src="assets/media/2102460068092600320.jpg" alt="Pelikan auf einem Fahrrad — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102460068092600320/vid/avc1/1670x1080/xBvUSubY7iPB6sJr.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102460068092600320-c8280c40d319.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102460068092600320-108c82ae14f8.jpg" alt="Pelikan auf einem Fahrrad — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102460068092600320-c8280c40d319.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1149,7 +1149,7 @@ Diese Werbedemo einer Plattform präsentiert eine mit einem Prompt erstellte Ble
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102465460545675264/vid/avc1/960x680/pI_d-60Nkkemn0zI.mp4?tag=29"><img src="assets/media/2102465460545675264.jpg" alt="Market Street vor dem Erdbeben von 1906 — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102465460545675264/vid/avc1/960x680/pI_d-60Nkkemn0zI.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102465460545675264-7d2d137bf064.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102465460545675264-6236d0095c15.jpg" alt="Market Street vor dem Erdbeben von 1906 — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102465460545675264-7d2d137bf064.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1166,7 +1166,7 @@ Atomic Chats Plattformwerbung vergleicht Blender-Animationsschleifen eines radfa
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102492119449337856/vid/avc1/1920x1080/n-Z8m5l6RxxMmkfP.mp4?tag=29"><img src="assets/media/2102492119449337856.jpg" alt="Pelikan-Animationsschleife in Blender im Vergleich mit Sol — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102492119449337856/vid/avc1/1920x1080/n-Z8m5l6RxxMmkfP.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492119449337856-7250e7e92af4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102492119449337856-51934cd8d58a.jpg" alt="Pelikan-Animationsschleife in Blender im Vergleich mit Sol — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492119449337856-7250e7e92af4.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1183,7 +1183,7 @@ Der Autor teilt eine Blender-Kreation, ohne ihr Motiv im Beitragstext anzugeben.
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102487325448028160/vid/avc1/1920x1080/CDO-KMFHFe-hxSjE.mp4?tag=29"><img src="assets/media/2102487325448028160.jpg" alt="Präsentation einer Blender-Arbeit — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102487325448028160/vid/avc1/1920x1080/CDO-KMFHFe-hxSjE.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487325448028160-9cefeb6bf2a8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102487325448028160-f2f8653bf89e.jpg" alt="Präsentation einer Blender-Arbeit — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487325448028160-9cefeb6bf2a8.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1200,7 +1200,7 @@ Higgsfields Werbedemo berichtet, Modellierung, Rigging, Texturierung und Animati
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102453598559055873/vid/avc1/1080x1920/etmIb_DtBCpTHJau.mp4?tag=29"><img src="assets/media/2102453598559055873.jpg" alt="Windmühlen-Arbeitsablauf in Blender — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102453598559055873/vid/avc1/1080x1920/etmIb_DtBCpTHJau.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453598559055873-f41e364c0d58.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102453598559055873-1b648ff8c2a2.jpg" alt="Windmühlen-Arbeitsablauf in Blender — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453598559055873-f41e364c0d58.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1217,7 +1217,7 @@ Der Autor zeigt eine vollständig in Code erzeugte Golden-Gate-Bridge-Szene, hä
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102458011956711424/vid/avc1/1920x1080/bMcVm_7sVQqBZJhx.mp4?tag=16"><img src="assets/media/2102458011956711424.jpg" alt="Golden Gate Bridge aus Code — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102458011956711424/vid/avc1/1920x1080/bMcVm_7sVQqBZJhx.mp4?tag=16">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102458011956711424-0b09adc09172.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102458011956711424-88b5379b03eb.jpg" alt="Golden Gate Bridge aus Code — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102458011956711424-0b09adc09172.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1234,7 +1234,7 @@ Der Autor zeigt eine Vulkaninsel, Unterwasserleben, Vegetation, Mammuts und Pola
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102450190217101312/vid/avc1/1920x720/1Db-WwJfI-4dKA9c.mp4?tag=29"><img src="assets/media/2102450190217101312.jpg" alt="Vulkaninseln, Meeresleben und Polarlichter — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102450190217101312/vid/avc1/1920x720/1Db-WwJfI-4dKA9c.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450190217101312-3ccecb49ce19.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102450190217101312-2636c5f2e005.jpg" alt="Vulkaninseln, Meeresleben und Polarlichter — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450190217101312-3ccecb49ce19.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1251,7 +1251,7 @@ Higgsfield berichtet von einem einzigen Lauf über 39 Minuten mit 5.5 Millionen 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102449110007869440/vid/avc1/1440x1440/se7-EmGCUFGrGNLZ.mp4?tag=29"><img src="assets/media/2102449110007869440.jpg" alt="Exoskelett-Gelenke in Blender neu gestalten — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102449110007869440/vid/avc1/1440x1440/se7-EmGCUFGrGNLZ.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449110007869440-4b2d3e6edd30.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102449110007869440-f83288892d8a.jpg" alt="Exoskelett-Gelenke in Blender neu gestalten — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449110007869440-4b2d3e6edd30.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1268,7 +1268,7 @@ Der Autor demonstriert eine in Cowork erstellte Solarpunk-Stadtszene.
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102482850184404992/vid/avc1/1278x846/aXQLGXAKHJXAxSMZ.mp4?tag=29"><img src="assets/media/2102482850184404992.jpg" alt="Solarpunk-Stadt in Cowork — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102482850184404992/vid/avc1/1278x846/aXQLGXAKHJXAxSMZ.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102482850184404992-5ae2268221be.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102482850184404992-bbc30d4adac6.jpg" alt="Solarpunk-Stadt in Cowork — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102482850184404992-5ae2268221be.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1285,7 +1285,7 @@ Der Autor vergleicht eine Three.js-Szene von New York mit Taxis, Dächern, Brook
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102464915155922944/vid/avc1/1280x1264/7LenXze_nG883sGq.mp4?tag=29"><img src="assets/media/2102464915155922944.jpg" alt="New Yorker Viertel in Three.js — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102464915155922944/vid/avc1/1280x1264/7LenXze_nG883sGq.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464915155922944-ef7219b3ebf4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102464915155922944-97fbc201ef17.jpg" alt="New Yorker Viertel in Three.js — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464915155922944-ef7219b3ebf4.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1302,12 +1302,12 @@ Der Autor teilt eine mit Opus 5.5 erstellte Kreation eines Pelikans auf einem Fa
 
 <table>
 <tr>
-<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="assets/media/2102469906495418368.jpg" alt="Eine weitere Kreation eines radfahrenden Pelikans — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Anhang der Quelle 1</a></td>
-<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="assets/media/2102469984912031744.jpg" alt="Eine weitere Kreation eines radfahrenden Pelikans — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Anhang der Quelle 2</a></td>
+<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102469906495418368-3deb7cb0b52e.jpg" alt="Eine weitere Kreation eines radfahrenden Pelikans — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102469984912031744-0b1bb548db45.jpg" alt="Eine weitere Kreation eines radfahrenden Pelikans — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Anhang der Quelle 2</a></td>
 </tr>
 <tr>
-<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="assets/media/2102470026892820480.jpg" alt="Eine weitere Kreation eines radfahrenden Pelikans — Anhang der Quelle 3" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Anhang der Quelle 3</a></td>
-<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="assets/media/2102470058585067520.jpg" alt="Eine weitere Kreation eines radfahrenden Pelikans — Anhang der Quelle 4" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Anhang der Quelle 4</a></td>
+<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102470026892820480-d1f98d4259de.jpg" alt="Eine weitere Kreation eines radfahrenden Pelikans — Anhang der Quelle 3" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Anhang der Quelle 3</a></td>
+<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102470058585067520-513aa4b97657.jpg" alt="Eine weitere Kreation eines radfahrenden Pelikans — Anhang der Quelle 4" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Anhang der Quelle 4</a></td>
 </tr>
 </table>
 
@@ -1324,7 +1324,7 @@ Higgsfields Plattformdemo präsentiert ein Blender-Shinkansen-Modell und behaupt
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102506945357979648/vid/avc1/1920x1440/pKPWeGfkqx5z0Hxd.mp4?tag=29"><img src="assets/media/2102506945357979648.jpg" alt="Shinkansen-Modell in Blender — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102506945357979648/vid/avc1/1920x1440/pKPWeGfkqx5z0Hxd.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102506945357979648-18aefe0aa10e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102506945357979648-69b1530a1d51.jpg" alt="Shinkansen-Modell in Blender — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102506945357979648-18aefe0aa10e.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1341,8 +1341,8 @@ Der Autor wandelt ein Eingabebild in einem Durchlauf in 3D um, lobt die Farbwied
 
 <table>
 <tr>
-<td><a href="https://x.com/izutorishima/status/2102456991109230759"><img src="assets/media/2102456615215792128.jpg" alt="Vom Bild zu Low-Poly-3D — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/izutorishima/status/2102456991109230759">Anhang der Quelle 1</a></td>
-<td><a href="https://x.com/izutorishima/status/2102456991109230759"><img src="assets/media/2102456711672217600.jpg" alt="Vom Bild zu Low-Poly-3D — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/izutorishima/status/2102456991109230759">Anhang der Quelle 2</a></td>
+<td><a href="https://x.com/izutorishima/status/2102456991109230759"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102456615215792128-fa0fb4fa6b1f.jpg" alt="Vom Bild zu Low-Poly-3D — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/izutorishima/status/2102456991109230759">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/izutorishima/status/2102456991109230759"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102456711672217600-d18c9e6318c9.jpg" alt="Vom Bild zu Low-Poly-3D — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/izutorishima/status/2102456991109230759">Anhang der Quelle 2</a></td>
 </tr>
 </table>
 
@@ -1359,7 +1359,7 @@ Diese als Partnerschaft offengelegte Demo verbindet Tripo P2, JEF und Blender MC
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478453639421952/vid/avc1/1966x1080/pxlt3gYx7N7PQdxD.mp4?tag=29"><img src="assets/media/2102478453639421952.jpg" alt="Figuren-Arbeitsablauf mit Tripo P2, JEF und MCP — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478453639421952/vid/avc1/1966x1080/pxlt3gYx7N7PQdxD.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478453639421952-ff6f0ccc7aa6.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478453639421952-a27c2c1df97c.jpg" alt="Figuren-Arbeitsablauf mit Tripo P2, JEF und MCP — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478453639421952-ff6f0ccc7aa6.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1376,7 +1376,7 @@ Higgsfields Plattformdemo verwandelt ein Hausfoto und Grundrisse in ein Blender-
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102498661171429376/vid/avc1/1600x1280/seuoIgoK393CRt-K.mp4?tag=29"><img src="assets/media/2102498661171429376.jpg" alt="Hausfotos und Grundrisse werden zu 3D — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102498661171429376/vid/avc1/1600x1280/seuoIgoK393CRt-K.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102498661171429376-ad35cd7efec1.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102498661171429376-c71a747b8fcb.jpg" alt="Hausfotos und Grundrisse werden zu 3D — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102498661171429376-ad35cd7efec1.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1393,7 +1393,7 @@ Der Autor demonstriert das Ergebnis eines Generierungstests für ein Buddelschif
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102456712338841601/vid/avc1/1920x1080/Mqtjs0t7WsA_el7k.mp4?tag=29"><img src="assets/media/2102456712338841601.jpg" alt="Generierungstest für ein Buddelschiff — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102456712338841601/vid/avc1/1920x1080/Mqtjs0t7WsA_el7k.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102456712338841601-7e39c98f235d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102456712338841601-fae0f4a2d8a6.jpg" alt="Generierungstest für ein Buddelschiff — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102456712338841601-7e39c98f235d.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1410,7 +1410,7 @@ Der Autor vergleicht Animationen mit DeLorean, Uhrturm und Blitz bei Max-Aufwand
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102502715033313280/vid/avc1/1920x1080/c2cjexCnCmSQm-yJ.mp4?tag=29"><img src="assets/media/2102502715033313280.jpg" alt="DeLorean, Uhrturm und Blitz — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102502715033313280/vid/avc1/1920x1080/c2cjexCnCmSQm-yJ.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502715033313280-ced59818dd9d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102502715033313280-9d983b889b77.jpg" alt="DeLorean, Uhrturm und Blitz — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502715033313280-ced59818dd9d.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1427,7 +1427,7 @@ Der Autor zeigt mit Three.js und TSL die Entwicklung eines Gebäudes in vier Pha
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102503194777759744/vid/avc1/1920x1272/t8cX-iwpsjQXi2oC.mp4?tag=29"><img src="assets/media/2102503194777759744.jpg" alt="Vier Phasen von der Skizze zum fertigen Haus — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102503194777759744/vid/avc1/1920x1272/t8cX-iwpsjQXi2oC.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102503194777759744-6ae55324db7d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102503194777759744-3e063e2ae74c.jpg" alt="Vier Phasen von der Skizze zum fertigen Haus — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102503194777759744-6ae55324db7d.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1444,7 +1444,7 @@ Die Plattformwerbung von AI/ML API vergleicht 3D-Ergebnisse und nennt $4.37 für
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102515321844232193/vid/avc1/1874x1364/STEuP1iOH7NVNKYR.mp4?tag=29"><img src="assets/media/2102515321844232193.jpg" alt="Vergleich von 3D-Ergebnissen und berichteten Kosten — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102515321844232193/vid/avc1/1874x1364/STEuP1iOH7NVNKYR.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102515321844232193-ec4313ede390.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102515321844232193-70cba8867b45.jpg" alt="Vergleich von 3D-Ergebnissen und berichteten Kosten — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102515321844232193-ec4313ede390.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1463,7 +1463,7 @@ Higgsfields Plattformdemo erweitert ein Gemälde zu Szenen in Blender und Unreal
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102513304363245568/vid/avc1/1920x1080/32m28m3tVmuYDyYa.mp4?tag=29"><img src="assets/media/2102513304363245568.jpg" alt="Ein Gemälde wird zur erkundbaren Szene — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102513304363245568/vid/avc1/1920x1080/32m28m3tVmuYDyYa.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513304363245568-0d513bbc63df.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102513304363245568-b0744aa7760b.jpg" alt="Ein Gemälde wird zur erkundbaren Szene — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513304363245568-0d513bbc63df.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1480,7 +1480,7 @@ Higgsfields Plattformdemo zeigt einen Simulator zum Ausprobieren unterschiedlich
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102510447375380480/vid/avc1/1920x1080/r_KkI2cXkrStcbZG.mp4?tag=29"><img src="assets/media/2102510447375380480.jpg" alt="3D-Simulator für Möbelanordnungen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102510447375380480/vid/avc1/1920x1080/r_KkI2cXkrStcbZG.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102510447375380480-0665f3213016.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102510447375380480-41e761bac960.jpg" alt="3D-Simulator für Möbelanordnungen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102510447375380480-0665f3213016.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1497,7 +1497,7 @@ Higgsfields Plattformdemo wandelt eine Kohlezeichnung unter Erhaltung ihrer Stri
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102519117756641280/vid/avc1/1080x1080/fHf50hAmOIOh3Csf.mp4?tag=29"><img src="assets/media/2102519117756641280.jpg" alt="Kohlezeichnung wird zu 3D — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102519117756641280/vid/avc1/1080x1080/fHf50hAmOIOh3Csf.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102519117756641280-18c6b6ba94c1.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102519117756641280-6b365764621c.jpg" alt="Kohlezeichnung wird zu 3D — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102519117756641280-18c6b6ba94c1.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1514,7 +1514,7 @@ Der Autor demonstriert einen Mehrspieler-Browserrundgang durch eine Hafenstadt a
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102474431834861568/vid/avc1/1894x996/PeiaAtcPEK-ztlms.mp4?tag=29"><img src="assets/media/2102474431834861568.jpg" alt="Mehrspieler-Rundgang durch einen Mittelmeerhafen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102474431834861568/vid/avc1/1894x996/PeiaAtcPEK-ztlms.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474431834861568-987310b45055.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102474431834861568-9e43e6c8b3ad.jpg" alt="Mehrspieler-Rundgang durch einen Mittelmeerhafen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474431834861568-987310b45055.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1531,7 +1531,7 @@ Der Autor berichtet von einem in einem Durchlauf erstellten 3D-Controller und bi
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102505788438638592/vid/avc1/1920x1080/KQ4HsCHWj7vOKXdU.mp4?tag=29"><img src="assets/media/2102505788438638592.jpg" alt="3D-Controller-Demo — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102505788438638592/vid/avc1/1920x1080/KQ4HsCHWj7vOKXdU.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102505788438638592-8ebd82136860.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102505788438638592-ab5bfce8f36d.jpg" alt="3D-Controller-Demo — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102505788438638592-8ebd82136860.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1548,8 +1548,8 @@ Der Autor vergleicht Opus 5.5 mit GPT-6 Astra; die Medienvorschau zeigt einen Te
 
 <table>
 <tr>
-<td><a href="https://x.com/notjazii/status/2102499296512025026"><img src="assets/media/2102497478377631744.jpg" alt="Tempelgarten im Minecraft-Stil — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/notjazii/status/2102499296512025026">Anhang der Quelle 1</a></td>
-<td><a href="https://x.com/notjazii/status/2102499296512025026"><img src="assets/media/2102497493460377600.jpg" alt="Tempelgarten im Minecraft-Stil — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/notjazii/status/2102499296512025026">Anhang der Quelle 2</a></td>
+<td><a href="https://x.com/notjazii/status/2102499296512025026"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102497478377631744-6e93c1781592.jpg" alt="Tempelgarten im Minecraft-Stil — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/notjazii/status/2102499296512025026">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/notjazii/status/2102499296512025026"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102497493460377600-27e29e58efb9.jpg" alt="Tempelgarten im Minecraft-Stil — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/notjazii/status/2102499296512025026">Anhang der Quelle 2</a></td>
 </tr>
 </table>
 
@@ -1566,7 +1566,7 @@ Higgsfields Plattformdemo zeigt die Modellierung und Animation eines Oktopus in 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102526840716115968/vid/avc1/1920x1440/zrQ_fyK4adTJQLrn.mp4?tag=29"><img src="assets/media/2102526840716115968.jpg" alt="Oktopus-Modellierung und Animation in Blender — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102526840716115968/vid/avc1/1920x1440/zrQ_fyK4adTJQLrn.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102526840716115968-df2c3e2ee349.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102526840716115968-111bc6890ac2.jpg" alt="Oktopus-Modellierung und Animation in Blender — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102526840716115968-df2c3e2ee349.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1583,7 +1583,7 @@ Der Autor vergleicht Opus 5.5 mit High-Aufwand und Opus 5 bei derselben New-York
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102456980002492416/vid/avc1/1280x1264/YftIx9f6m4YFCTa5.mp4?tag=29"><img src="assets/media/2102456980002492416.jpg" alt="New-York-Vergleich mit gleichem Prompt — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102456980002492416/vid/avc1/1280x1264/YftIx9f6m4YFCTa5.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102456980002492416-f9a2d732c87d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102456980002492416-7c945f6bbd8a.jpg" alt="New-York-Vergleich mit gleichem Prompt — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102456980002492416-f9a2d732c87d.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1600,7 +1600,7 @@ Der Autor demonstriert einen von Disney Soaring inspirierten Flug über die Alpe
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102518351289622528/vid/avc1/1920x1080/P8S3nlCVnsFVI0vs.mp4?tag=16"><img src="assets/media/2102518351289622528.jpg" alt="Aussichtsflug über mehrere Landschaften — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102518351289622528/vid/avc1/1920x1080/P8S3nlCVnsFVI0vs.mp4?tag=16">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102518351289622528-e9f5f82a52b5.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102518351289622528-93a5a0ecf8b6.jpg" alt="Aussichtsflug über mehrere Landschaften — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102518351289622528-e9f5f82a52b5.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1617,7 +1617,7 @@ Der Autor demonstriert eine Claude-Figur im Voxel-Stil samt Animation.
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102511211120050176/vid/avc1/1920x1080/UUUe7w_J2OYfiPoO.mp4?tag=29"><img src="assets/media/2102511211120050176.jpg" alt="Claude-Animation im Voxel-Stil — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102511211120050176/vid/avc1/1920x1080/UUUe7w_J2OYfiPoO.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102511211120050176-f70ef317190f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102511211120050176-5af2eea59b4a.jpg" alt="Claude-Animation im Voxel-Stil — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102511211120050176-f70ef317190f.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1634,7 +1634,7 @@ Der Autor vergleicht eine Szene mit einem radfahrenden Pelikan im Voxel-Stil mit
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102453086815977473/vid/avc1/1920x1080/wupTL8Gxhx3utDGe.mp4?tag=29"><img src="assets/media/2102453086815977473.jpg" alt="Voxel-Pelikan im Vergleich mit Fable und Astra — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102453086815977473/vid/avc1/1920x1080/wupTL8Gxhx3utDGe.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453086815977473-edaa6d456bc7.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102453086815977473-edf197365f8c.jpg" alt="Voxel-Pelikan im Vergleich mit Fable und Astra — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453086815977473-edaa6d456bc7.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1651,7 +1651,7 @@ Die Medienvorschau zeigt ein Rennwagenmodell neben dem Ergebnis von GPT-6 Sol f�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478330444537856/vid/avc1/1080x1124/eWLVlkoMKO-TcX0A.mp4?tag=29"><img src="assets/media/2102478330444537856.jpg" alt="Rennwagenmodell im Vergleich mit GPT-6 Sol — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478330444537856/vid/avc1/1080x1124/eWLVlkoMKO-TcX0A.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478330444537856-9c6c30da2bb8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478330444537856-77532ae29bfd.jpg" alt="Rennwagenmodell im Vergleich mit GPT-6 Sol — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478330444537856-9c6c30da2bb8.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1668,7 +1668,7 @@ Der Autor demonstriert eine in einem Durchlauf erstellte Three.js-Katzenfell-Sim
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102497141625077760/vid/avc1/1720x1080/rlUQfawdxn-0LaNB.mp4?tag=29"><img src="assets/media/2102497141625077760.jpg" alt="GPU-beschleunigte Katzenfell-Simulation — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102497141625077760/vid/avc1/1720x1080/rlUQfawdxn-0LaNB.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102497141625077760-b8ea7fefbba4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102497141625077760-13e441db599e.jpg" alt="GPU-beschleunigte Katzenfell-Simulation — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102497141625077760-b8ea7fefbba4.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1685,7 +1685,7 @@ Der Autor vergleicht Opus 5.5 und GPT-6 Astra subjektiv beim Voxel-Bauen in Mine
 
 <table>
 <tr>
-<td><a href="https://x.com/Angaisb_/status/2102493141668643084"><img src="assets/media/2102492962525421568.jpg" alt="Vergleich des Voxel-Bauens in Minecraft — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102493141668643084">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102493141668643084"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102492962525421568-c209b9fef82e.jpg" alt="Vergleich des Voxel-Bauens in Minecraft — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102493141668643084">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -1702,7 +1702,7 @@ Der Autor vergleicht eine Raumschiff-Aufgabe mit Opus 5.5 Medium, Grok 4.7 xhigh
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102449320985563136/vid/avc1/1920x1080/ZZO0I4KgdOZWir2-.mp4?tag=29"><img src="assets/media/2102449320985563136.jpg" alt="Raumschiff-Test mit drei Modellen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102449320985563136/vid/avc1/1920x1080/ZZO0I4KgdOZWir2-.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449320985563136-e852390fbf43.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102449320985563136-e9fa6dd1e06d.jpg" alt="Raumschiff-Test mit drei Modellen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449320985563136-e852390fbf43.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1719,7 +1719,7 @@ Der Autor vergleicht Three.js-Programmierergebnisse von Opus 5.5 und Opus 5 und 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102471601002315776/vid/avc1/1972x1080/8OCjJwPyEIRAOUcj.mp4?tag=29"><img src="assets/media/2102471601002315776.jpg" alt="Three.js im Vergleich mit Opus 5 — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102471601002315776/vid/avc1/1972x1080/8OCjJwPyEIRAOUcj.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102471601002315776-e4676d22f2f8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102471601002315776-b8be2b846862.jpg" alt="Three.js im Vergleich mit Opus 5 — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102471601002315776-e4676d22f2f8.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1736,7 +1736,7 @@ Der Autor vergleicht Opus 5.5, Fable 5.1 und GPT-6 Astra bei Three.js-Kurzfilmen
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102527016691990528/vid/avc1/1920x1080/WeNBWMBq_Z_sV9vi.mp4?tag=29"><img src="assets/media/2102527016691990528.jpg" alt="Apokalyptische Kurzfilme in Three.js — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102527016691990528/vid/avc1/1920x1080/WeNBWMBq_Z_sV9vi.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102527016691990528-e47c04568a38.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102527016691990528-34c45139c67d.jpg" alt="Apokalyptische Kurzfilme in Three.js — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102527016691990528-e47c04568a38.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1757,7 +1757,7 @@ Der Autor demonstriert Bassmusik, die aus einem einzigen Prompt mit JavaScript s
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102504223527346176/vid/avc1/1426x1080/nuY1-hmqdxLHqig8.mp4?tag=29"><img src="assets/media/2102504223527346176.jpg" alt="In JavaScript synthetisierte Bassmusik — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102504223527346176/vid/avc1/1426x1080/nuY1-hmqdxLHqig8.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102504223527346176-b49c0bbfa41c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102504223527346176-d336e3f6d68a.jpg" alt="In JavaScript synthetisierte Bassmusik — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102504223527346176-b49c0bbfa41c.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1774,7 +1774,7 @@ Der Autor testet die Erkennung von Stimmführungsfehlern in zehn vierstimmigen C
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="Angeblich perfekte Musikfehler-Erkennung — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102450889969807360-ef8a4c459cdb.png" alt="Angeblich perfekte Musikfehler-Erkennung — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -1791,7 +1791,7 @@ Der Autor demonstriert einen Arbeitsablauf zur Erzeugung von Klangeffekten, ohne
 
 <table>
 <tr>
-<td><a href="https://x.com/yugen_matuni/status/2102529143128916052"><img src="assets/media/2102528972081000448.jpg" alt="Arbeitsablauf zur Klangeffekterzeugung — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/yugen_matuni/status/2102529143128916052">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/yugen_matuni/status/2102529143128916052"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102528972081000448-9855cd290c23.jpg" alt="Arbeitsablauf zur Klangeffekterzeugung — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/yugen_matuni/status/2102529143128916052">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -1812,8 +1812,8 @@ Der Autor vergleicht Opus 5.5 mit GPT-6 Sol; die Medienvorschau zeigt generierte
 
 <table>
 <tr>
-<td><a href="https://x.com/Angaisb_/status/2102476249671082365"><img src="assets/media/2102475949145006080.jpg" alt="Grafikvergleich eines Pocket-Color-Handhelds — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102476249671082365">Anhang der Quelle 1</a></td>
-<td><a href="https://x.com/Angaisb_/status/2102476249671082365"><img src="assets/media/2102476048852041728.jpg" alt="Grafikvergleich eines Pocket-Color-Handhelds — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102476249671082365">Anhang der Quelle 2</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102476249671082365"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102475949145006080-a20358b59166.jpg" alt="Grafikvergleich eines Pocket-Color-Handhelds — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102476249671082365">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102476249671082365"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102476048852041728-7322754058fc.jpg" alt="Grafikvergleich eines Pocket-Color-Handhelds — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102476249671082365">Anhang der Quelle 2</a></td>
 </tr>
 </table>
 
@@ -1830,7 +1830,7 @@ Der Autor demonstriert eine Sweet-Tooth-Animation, die laut Bericht in einem Dur
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102471444336611328/vid/avc1/1080x1080/Gq062pYx-yV3Tde7.mp4?tag=29"><img src="assets/media/2102471444336611328.jpg" alt="Sweet-Tooth-Animation in 18m 31s — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102471444336611328/vid/avc1/1080x1080/Gq062pYx-yV3Tde7.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102471444336611328-ae380abfa790.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102471444336611328-68e87f01ac31.jpg" alt="Sweet-Tooth-Animation in 18m 31s — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102471444336611328-ae380abfa790.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1847,7 +1847,7 @@ Eine Video-Stichprobe des Berichts identifiziert einen Cartoon mit Claude und AG
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102514085137154048/vid/avc1/1280x720/k7-vfCveNwGQnk1v.mp4?tag=14"><img src="assets/media/2102514085137154048.jpg" alt="Cartoon über Claude und AGI — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102514085137154048/vid/avc1/1280x720/k7-vfCveNwGQnk1v.mp4?tag=14">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102514085137154048-a191b116e9dc.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102514085137154048-8ea48aa0a169.jpg" alt="Cartoon über Claude und AGI — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102514085137154048-a191b116e9dc.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1864,7 +1864,7 @@ Der Autor demonstriert eine vollständig in Code erstellte Pixel-Zauberer-Animat
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102476231740399616/vid/avc1/1080x890/8wOPIn__IAkbl9ho.mp4?tag=29"><img src="assets/media/2102476231740399616.jpg" alt="Pixel-Zauberer-Animation aus Code — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102476231740399616/vid/avc1/1080x890/8wOPIn__IAkbl9ho.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476231740399616-5d7eaa2266da.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102476231740399616-75fb363f4125.jpg" alt="Pixel-Zauberer-Animation aus Code — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476231740399616-5d7eaa2266da.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1881,7 +1881,7 @@ Der Autor zeigt eine Animation, deren Einzelbilder Opus 5.5 in JavaScript gezeic
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102457077390299136/vid/avc1/1280x720/0GdMBFz95r0KPjMG.mp4?tag=14"><img src="assets/media/2102457077390299136.jpg" alt="Einzelbildanimation in JavaScript — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102457077390299136/vid/avc1/1280x720/0GdMBFz95r0KPjMG.mp4?tag=14">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457077390299136-c314c14b219e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102457077390299136-5a380013be65.jpg" alt="Einzelbildanimation in JavaScript — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457077390299136-c314c14b219e.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1898,7 +1898,7 @@ Der Autor erstellte mit Max-Aufwand ein Nintendo-Switch-SVG und verglich es mit 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102451356917276672/vid/avc1/1920x1080/opEdMmhd6w5w7QAk.mp4?tag=29"><img src="assets/media/2102451356917276672.jpg" alt="Nintendo-Switch-SVG-Animation — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102451356917276672/vid/avc1/1920x1080/opEdMmhd6w5w7QAk.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451356917276672-fceeb9f3f482.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102451356917276672-0b6035883a24.jpg" alt="Nintendo-Switch-SVG-Animation — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451356917276672-fceeb9f3f482.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1915,7 +1915,7 @@ Der Autor präsentiert eine reine Codeanimation, die sich vorstellt, wie das Lö
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478162211098624/vid/avc1/2560x1440/ULtHTYX5psqpaEXw.mp4?tag=29"><img src="assets/media/2102478162211098624.jpg" alt="Programmierte Animation des Problemlösens — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478162211098624/vid/avc1/2560x1440/ULtHTYX5psqpaEXw.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478162211098624-b1cf0af1bb97.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478162211098624-85d2e9aa3b86.jpg" alt="Programmierte Animation des Problemlösens — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478162211098624-b1cf0af1bb97.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1932,7 +1932,7 @@ Der Beitrag teilt eine Animationsschleife eines radfahrenden Pelikans und hebt B
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102447519674585088/vid/avc1/1280x720/a443IPw1hdNfSqS6.mp4?tag=29"><img src="assets/media/2102447519674585088.jpg" alt="Geteilte Schleife eines radfahrenden Pelikans — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102447519674585088/vid/avc1/1280x720/a443IPw1hdNfSqS6.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102447519674585088-d2b41dfd4c83.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102447519674585088-7e5d2fa5ee88.jpg" alt="Geteilte Schleife eines radfahrenden Pelikans — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102447519674585088-d2b41dfd4c83.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1949,8 +1949,8 @@ BridgeMind vergleicht Opus 5.5 und GPT-6 Sol mit demselben Prompt für ein PS5-C
 
 <table>
 <tr>
-<td><a href="https://x.com/bridgemindai/status/2102484711389966509"><img src="assets/media/2102483972462645248.jpg" alt="SVG-Vergleich eines PS5-Controllers — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/bridgemindai/status/2102484711389966509">Anhang der Quelle 1</a></td>
-<td><a href="https://x.com/bridgemindai/status/2102484711389966509"><img src="assets/media/2102483976820535296.jpg" alt="SVG-Vergleich eines PS5-Controllers — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/bridgemindai/status/2102484711389966509">Anhang der Quelle 2</a></td>
+<td><a href="https://x.com/bridgemindai/status/2102484711389966509"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102483972462645248-2052ea716f8e.jpg" alt="SVG-Vergleich eines PS5-Controllers — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/bridgemindai/status/2102484711389966509">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/bridgemindai/status/2102484711389966509"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102483976820535296-75059c262e54.jpg" alt="SVG-Vergleich eines PS5-Controllers — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/bridgemindai/status/2102484711389966509">Anhang der Quelle 2</a></td>
 </tr>
 </table>
 
@@ -1967,7 +1967,7 @@ Mit derselben Devin-Ausführungsumgebung, demselben Prompt und jeweils höchster
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102488109971808257/vid/avc1/2520x1080/l6D9gSC-gLs1C6nD.mp4?tag=29"><img src="assets/media/2102488109971808257.jpg" alt="Wasser- und Partikeleffekte in Devin — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488109971808257/vid/avc1/2520x1080/l6D9gSC-gLs1C6nD.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102488109971808257-3ae5c53d6ce3.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102488109971808257-efaad1370661.jpg" alt="Wasser- und Partikeleffekte in Devin — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102488109971808257-3ae5c53d6ce3.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -1984,7 +1984,7 @@ Der Autor zeigt eine Oktoberfest-Animation, die laut Bericht in einem Versuch in
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102493087381487616/vid/avc1/1920x1080/dMwClUvawHddh2E2.mp4?tag=29"><img src="assets/media/2102493087381487616.jpg" alt="Eine Oktoberfest-Animation — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102493087381487616/vid/avc1/1920x1080/dMwClUvawHddh2E2.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102493087381487616-3aa3714b9b52.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102493087381487616-a962e740b5ee.jpg" alt="Eine Oktoberfest-Animation — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102493087381487616-3aa3714b9b52.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2001,7 +2001,7 @@ Der Autor präsentiert Musik und animierte Bilder, die laut Bericht vollständig
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102480439512539136/vid/avc1/1978x1080/ZRgMTxPF2khbJMCd.mp4?tag=29"><img src="assets/media/2102480439512539136.jpg" alt="Musik und Bilder in JavaScript geschrieben — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102480439512539136/vid/avc1/1978x1080/ZRgMTxPF2khbJMCd.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102480439512539136-031caab75f51.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102480439512539136-ed09218bd4a9.jpg" alt="Musik und Bilder in JavaScript geschrieben — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102480439512539136-031caab75f51.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2018,7 +2018,7 @@ Der Autor zeigt eine stilisierte interaktive Animation und berichtet, ausschlie�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102501285840986112/vid/avc1/2560x1440/KNGdkncQUsYij81R.mp4?tag=29"><img src="assets/media/2102501285840986112.jpg" alt="Interaktive Animation nur mit JavaScript — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102501285840986112/vid/avc1/2560x1440/KNGdkncQUsYij81R.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102501285840986112-6fba73025abe.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102501285840986112-01211c9dfd9b.jpg" alt="Interaktive Animation nur mit JavaScript — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102501285840986112-6fba73025abe.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2035,7 +2035,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102464017474420737/vid/avc1/1080x1920/qRNa8HcyewqSs2zH.mp4?tag=29"><img src="assets/media/2102464017474420737.jpg" alt="Animationsvergleich mit drei Modellen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102464017474420737/vid/avc1/1080x1920/qRNa8HcyewqSs2zH.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464017474420737-0905c0e3730d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102464017474420737-93e2fa1ce782.jpg" alt="Animationsvergleich mit drei Modellen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464017474420737-0905c0e3730d.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2052,7 +2052,7 @@ Der Autor berichtet, in Claude Code in einem Versuch einen Xbox-Controller mit 3
 
 <table>
 <tr>
-<td><a href="https://x.com/marmaduke091/status/2102453079836622940"><img src="assets/media/2102452368553947136.jpg" alt="Ein Xbox-Controller in 334 SVG-Zeilen — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/marmaduke091/status/2102453079836622940">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/marmaduke091/status/2102453079836622940"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102452368553947136-3739975a8c2b.jpg" alt="Ein Xbox-Controller in 334 SVG-Zeilen — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/marmaduke091/status/2102453079836622940">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -2069,7 +2069,7 @@ Higgsfield zeigt, wie Opus 5.5 seine Effekte anhand von Referenzen in TouchDesig
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102454552201252864/vid/avc1/1440x1080/Oq9kWrdMjMJzv9ZV.mp4?tag=29"><img src="assets/media/2102454552201252864.jpg" alt="Referenzeffekte in TouchDesigner nachgebildet — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102454552201252864/vid/avc1/1440x1080/Oq9kWrdMjMJzv9ZV.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102454552201252864-65753b430197.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102454552201252864-e81cf7400b32.jpg" alt="Referenzeffekte in TouchDesigner nachgebildet — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102454552201252864-65753b430197.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2086,7 +2086,7 @@ Der Autor zeigt das Ergebnis von Opus 5.5 für eine visuelle Game-Boy-Aufgabe un
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102452953382526976/vid/avc1/2560x1440/oie__f-0w5_JJKX6.mp4?tag=29"><img src="assets/media/2102452953382526976.jpg" alt="Ein visueller Game-Boy-Test — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102452953382526976/vid/avc1/2560x1440/oie__f-0w5_JJKX6.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452953382526976-3e81d47639ac.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102452953382526976-320fef79c304.jpg" alt="Ein visueller Game-Boy-Test — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452953382526976-3e81d47639ac.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2103,7 +2103,7 @@ Der Autor teilt eine mit Opus 5.5 und JavaScript erstellte Animation. Der Beitra
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102437792425070592/vid/avc1/1080x1080/nwtcZBGstdeV9nO_.mp4?tag=29"><img src="assets/media/2102437792425070592.jpg" alt="Präsentation einer JavaScript-Animation — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102437792425070592/vid/avc1/1080x1080/nwtcZBGstdeV9nO_.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102437792425070592-264fb1338eb8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102437792425070592-a3e755ff7366.jpg" alt="Präsentation einer JavaScript-Animation — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102437792425070592-264fb1338eb8.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2122,7 +2122,7 @@ Der Entwickler von CoAnimator präsentiert Animationen, Zeitleisten, Klangeffekt
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102496943482286080/vid/avc1/1920x1080/gcnHTMNfXRqMH5wy.mp4?tag=29"><img src="assets/media/2102496943482286080.jpg" alt="Animation und Klang in CoAnimator — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102496943482286080/vid/avc1/1920x1080/gcnHTMNfXRqMH5wy.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102496943482286080-711fe6558b4f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102496943482286080-e34b3acc50ec.jpg" alt="Animation und Klang in CoAnimator — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102496943482286080-711fe6558b4f.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2139,7 +2139,7 @@ Ein Teammitglied von HyperFrames/HeyGen zeigt 3D-Kamera- und Texteffekte, die mi
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102493076757581824/vid/avc1/1440x1080/UkSCNUOeVyj1wQtD.mp4?tag=29"><img src="assets/media/2102493076757581824.jpg" alt="3D-Kamera- und Texteffekte in HyperFrames — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102493076757581824/vid/avc1/1440x1080/UkSCNUOeVyj1wQtD.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102493076757581824-cbeb65185064.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102493076757581824-d1ee3e9a61be.jpg" alt="3D-Kamera- und Texteffekte in HyperFrames — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102493076757581824-cbeb65185064.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2156,7 +2156,7 @@ Der Autor teilt eine laut Bericht in unter fünf Minuten erzeugte Pixelanimation
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102513096682336256/vid/avc1/1920x1080/mxQynDez08ynbTQy.mp4?tag=29"><img src="assets/media/2102513096682336256.jpg" alt="Eine Pixelanimation in unter fünf Minuten — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102513096682336256/vid/avc1/1920x1080/mxQynDez08ynbTQy.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513096682336256-9699b7fb695f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102513096682336256-e3bc64c44418.jpg" alt="Eine Pixelanimation in unter fünf Minuten — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513096682336256-9699b7fb695f.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2173,12 +2173,12 @@ Der Autor zeigt ein Controller-SVG, merkt aber an, dass das Modell ein DualShock
 
 <table>
 <tr>
-<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="assets/media/2102474519168368640.jpg" alt="Ein Controller-SVG mit einem PNG-Asset — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Anhang der Quelle 1</a></td>
-<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="assets/media/2102474519168290816.jpg" alt="Ein Controller-SVG mit einem PNG-Asset — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Anhang der Quelle 2</a></td>
+<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474519168368640-263f1846e7ed.jpg" alt="Ein Controller-SVG mit einem PNG-Asset — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474519168290816-04bcb7e2dbc8.jpg" alt="Ein Controller-SVG mit einem PNG-Asset — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Anhang der Quelle 2</a></td>
 </tr>
 <tr>
-<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="assets/media/2102474519063449600.jpg" alt="Ein Controller-SVG mit einem PNG-Asset — Anhang der Quelle 3" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Anhang der Quelle 3</a></td>
-<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="assets/media/2102474519151566848.jpg" alt="Ein Controller-SVG mit einem PNG-Asset — Anhang der Quelle 4" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Anhang der Quelle 4</a></td>
+<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474519063449600-db6f3682d506.jpg" alt="Ein Controller-SVG mit einem PNG-Asset — Anhang der Quelle 3" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Anhang der Quelle 3</a></td>
+<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474519151566848-ba7bc83ebd9e.jpg" alt="Ein Controller-SVG mit einem PNG-Asset — Anhang der Quelle 4" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Anhang der Quelle 4</a></td>
 </tr>
 </table>
 
@@ -2195,7 +2195,7 @@ Higgsfield präsentiert einen anhand einer Referenz nachgebildeten ChronoVolume-
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102508274126077952/vid/avc1/1440x1080/WjLhj_tjguPEOgdc.mp4?tag=29"><img src="assets/media/2102508274126077952.jpg" alt="Einen ChronoVolume-Effekt nachbilden — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102508274126077952/vid/avc1/1440x1080/WjLhj_tjguPEOgdc.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508274126077952-257fe5e10faf.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102508274126077952-a4cf668d79b5.jpg" alt="Einen ChronoVolume-Effekt nachbilden — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508274126077952-257fe5e10faf.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2212,8 +2212,8 @@ Der Autor vergleicht Brunnenbilder von Opus 5.5 und GPT-6 Astra mit demselben Pr
 
 <table>
 <tr>
-<td><a href="https://x.com/Angaisb_/status/2102509807802716649"><img src="assets/media/2102509732317495296.jpg" alt="Ein Brunnen mit demselben Prompt — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102509807802716649">Anhang der Quelle 1</a></td>
-<td><a href="https://x.com/Angaisb_/status/2102509807802716649"><img src="assets/media/2102509758758490113.jpg" alt="Ein Brunnen mit demselben Prompt — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102509807802716649">Anhang der Quelle 2</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102509807802716649"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102509732317495296-d0215c776c0f.jpg" alt="Ein Brunnen mit demselben Prompt — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102509807802716649">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102509807802716649"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102509758758490113-a6052d4441ae.jpg" alt="Ein Brunnen mit demselben Prompt — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102509807802716649">Anhang der Quelle 2</a></td>
 </tr>
 </table>
 
@@ -2230,7 +2230,7 @@ Der Autor bittet Opus 5.5, die Mona Lisa als SVG zu zeichnen, und zitiert zum Ve
 
 <table>
 <tr>
-<td><a href="https://x.com/diegocabezas01/status/2102463433731903630"><img src="assets/media/2102463391097049088.jpg" alt="Die Mona Lisa als SVG zeichnen — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/diegocabezas01/status/2102463433731903630">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/diegocabezas01/status/2102463433731903630"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102463391097049088-f03897c34218.jpg" alt="Die Mona Lisa als SVG zeichnen — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/diegocabezas01/status/2102463433731903630">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -2247,7 +2247,7 @@ Der Autor vergleicht Opus 5.5, GPT-6 Sol und Luna bei einer SVG-Aufgabe, zeigt E
 
 <table>
 <tr>
-<td><a href="https://x.com/notjazii/status/2102469004271173877"><img src="assets/media/2102468991013052416.jpg" alt="Ein SVG-Vergleich mit Sol und Luna — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/notjazii/status/2102469004271173877">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/notjazii/status/2102469004271173877"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468991013052416-7891e04498d5.jpg" alt="Ein SVG-Vergleich mit Sol und Luna — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/notjazii/status/2102469004271173877">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -2264,7 +2264,7 @@ Der Autor verlangte ein Porträt seines Chefs in Paint, doch das Modell verwende
 
 <table>
 <tr>
-<td><a href="https://x.com/matiass/status/2102474745845260663"><img src="assets/media/2102474315266478081.jpg" alt="Ein Foto per Skript in Paint zeichnen — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/matiass/status/2102474745845260663">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/matiass/status/2102474745845260663"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474315266478081-b28a478a377d.jpg" alt="Ein Foto per Skript in Paint zeichnen — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/matiass/status/2102474745845260663">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -2281,7 +2281,7 @@ Auf die Bitte zu zeichnen, wie es sich anfühlt, Claude zu sein, erzeugte Opus 5
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102484064368459776/vid/avc1/1080x1350/mvxYEPFm2mYe6x9g.mp4?tag=29"><img src="assets/media/2102484064368459776.jpg" alt="Claude als kleine Sonne vorgestellt — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102484064368459776/vid/avc1/1080x1350/mvxYEPFm2mYe6x9g.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484064368459776-84570d4fa542.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102484064368459776-762f9a497ca1.jpg" alt="Claude als kleine Sonne vorgestellt — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484064368459776-84570d4fa542.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2298,7 +2298,7 @@ Der Autor teilt das Ergebnis eines Pelikan-Zeichentests mit Opus 5.5, ohne den g
 
 <table>
 <tr>
-<td><a href="https://x.com/alexgetmancom/status/2102451293419970767"><img src="assets/media/2102451001743556608.jpg" alt="Ein Pelikan-Zeichentest — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/alexgetmancom/status/2102451293419970767">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/alexgetmancom/status/2102451293419970767"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102451001743556608-2e5d19bf8978.jpg" alt="Ein Pelikan-Zeichentest — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/alexgetmancom/status/2102451293419970767">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -2315,7 +2315,7 @@ Der Autor vergleicht Pixelszenen von Opus 5.5 und GPT-6 Astra und hebt animierte
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102521319891902465/vid/avc1/1440x1440/498lOSHSsdi1ZQWa.mp4?tag=29"><img src="assets/media/2102521319891902465.jpg" alt="Brunnen und Fledermausaugen in Pixelkunst — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102521319891902465/vid/avc1/1440x1440/498lOSHSsdi1ZQWa.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102521319891902465-675854f35964.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102521319891902465-14186af457af.jpg" alt="Brunnen und Fledermausaugen in Pixelkunst — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102521319891902465-675854f35964.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2332,12 +2332,12 @@ Der Autor teilt ein mit Opus 5.5 erstelltes San-Francisco-Bild, ohne im Beitrag 
 
 <table>
 <tr>
-<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="assets/media/2102468933852987392.jpg" alt="Eine Darstellung von San Francisco — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Anhang der Quelle 1</a></td>
-<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="assets/media/2102468933857247232.jpg" alt="Eine Darstellung von San Francisco — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Anhang der Quelle 2</a></td>
+<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468933852987392-50138bb6d4b1.jpg" alt="Eine Darstellung von San Francisco — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468933857247232-384ae7a7a821.jpg" alt="Eine Darstellung von San Francisco — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Anhang der Quelle 2</a></td>
 </tr>
 <tr>
-<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="assets/media/2102468933853040640.jpg" alt="Eine Darstellung von San Francisco — Anhang der Quelle 3" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Anhang der Quelle 3</a></td>
-<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="assets/media/2102468933857275904.jpg" alt="Eine Darstellung von San Francisco — Anhang der Quelle 4" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Anhang der Quelle 4</a></td>
+<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468933853040640-c2ae35671c85.jpg" alt="Eine Darstellung von San Francisco — Anhang der Quelle 3" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Anhang der Quelle 3</a></td>
+<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468933857275904-6034d9616b1d.jpg" alt="Eine Darstellung von San Francisco — Anhang der Quelle 4" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Anhang der Quelle 4</a></td>
 </tr>
 </table>
 
@@ -2354,7 +2354,7 @@ Der Autor vergleicht Radfahranimationen eines Pelikans von Opus 5.5 und Grok 4.7
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102448528585027584/vid/avc1/1920x1080/DbWdeQtKg_iM4I6g.mp4?tag=29"><img src="assets/media/2102448528585027584.jpg" alt="Radfahrender Pelikan im Vergleich mit Grok 4.7 — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102448528585027584/vid/avc1/1920x1080/DbWdeQtKg_iM4I6g.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448528585027584-9fb0efb620af.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102448528585027584-0d95e52c5245.jpg" alt="Radfahrender Pelikan im Vergleich mit Grok 4.7 — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448528585027584-9fb0efb620af.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2371,7 +2371,7 @@ Ein mit der Plattform verbundener Autor zeigt einen Kunstgenerator zum Prompt �
 
 <table>
 <tr>
-<td><a href="https://x.com/felixrieseberg/status/2102450683069014053"><img src="assets/media/2102450516685148160.jpg" alt="Ein Kunstgenerator aus „subtle art“ — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/felixrieseberg/status/2102450683069014053">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/felixrieseberg/status/2102450683069014053"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102450516685148160-66bdd38a067f.jpg" alt="Ein Kunstgenerator aus „subtle art“ — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/felixrieseberg/status/2102450683069014053">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -2388,7 +2388,7 @@ Der Autor präsentiert eine mit Opus 5.5 nachgebaute Animation zum Thema John Wi
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102518834376646657/vid/avc1/1920x1080/jwrTaybpDvFZzH2e.mp4?tag=29"><img src="assets/media/2102518834376646657.jpg" alt="Ein von John Wick inspirierter Nachbau — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102518834376646657/vid/avc1/1920x1080/jwrTaybpDvFZzH2e.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102518834376646657-30d4a7e06ac7.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102518834376646657-8d7fad65e82a.jpg" alt="Ein von John Wick inspirierter Nachbau — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102518834376646657-30d4a7e06ac7.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2433,7 +2433,7 @@ Ein mit einer Plattform verbundener Autor gestaltete mit einem Max-Abonnement un
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102477300990357504/vid/avc1/2544x1440/ezh0f1hyTASXR8MP.mp4?tag=29"><img src="assets/media/2102477300990357504.jpg" alt="Eine persönliche Website iterieren und ihren Trailer erstellen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102477300990357504/vid/avc1/2544x1440/ezh0f1hyTASXR8MP.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102477300990357504-a6658da0da40.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102477300990357504-67b682ed0af3.jpg" alt="Eine persönliche Website iterieren und ihren Trailer erstellen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102477300990357504-a6658da0da40.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2450,7 +2450,7 @@ Die Medienvorschau zeigt eine Webseite im Stil eines Mineralkatalogs. Der Autor 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102474090955337728/vid/avc1/1920x1080/fsU_iKeBZJ80xn-k.mp4?tag=29"><img src="assets/media/2102474090955337728.jpg" alt="Eine Mineralkatalog-Website aus acht Referenzen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102474090955337728/vid/avc1/1920x1080/fsU_iKeBZJ80xn-k.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474090955337728-b9c2c018e6de.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102474090955337728-f3a13cb21ecc.jpg" alt="Eine Mineralkatalog-Website aus acht Referenzen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474090955337728-b9c2c018e6de.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2467,7 +2467,7 @@ Der Autor gibt Opus 5.5 und Opus 5 (1M) denselben Prompt und /goal zur Neugestal
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102464950794964992/vid/avc1/1620x1080/yResf3p2DfeNEkw1.mp4?tag=29"><img src="assets/media/2102464950794964992.jpg" alt="Eine bestehende App mit demselben Ziel neu gestalten — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102464950794964992/vid/avc1/1620x1080/yResf3p2DfeNEkw1.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464950794964992-c128a01b3941.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102464950794964992-8b59dd4536aa.jpg" alt="Eine bestehende App mit demselben Ziel neu gestalten — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464950794964992-c128a01b3941.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2484,7 +2484,7 @@ Der Autor präsentiert sechs visuelle Frontend-Tests, bewertet sie als nahe an F
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478654282539009/vid/avc1/1920x1080/kuBYTlYfr4AmdeFf.mp4?tag=29"><img src="assets/media/2102478654282539009.jpg" alt="Frontend-Tests mit steckengebliebenen Vulkanversuchen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478654282539009/vid/avc1/1920x1080/kuBYTlYfr4AmdeFf.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478654282539009-8e8fa6ce9e05.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478654282539009-6e3eed32566b.jpg" alt="Frontend-Tests mit steckengebliebenen Vulkanversuchen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478654282539009-8e8fa6ce9e05.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2501,7 +2501,7 @@ Die Medienvorschau zeigt eine Website für verknüpfte Notizen; laut Autor wurde
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102492187921461248/vid/avc1/1724x1080/_NqeeUvnhh9umkaX.mp4?tag=29"><img src="assets/media/2102492187921461248.jpg" alt="Oberfläche für verknüpfte Notizen ohne Design-Skill — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102492187921461248/vid/avc1/1724x1080/_NqeeUvnhh9umkaX.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492187921461248-0afbc7be7c49.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102492187921461248-26a14e895e5c.jpg" alt="Oberfläche für verknüpfte Notizen ohne Design-Skill — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492187921461248-0afbc7be7c49.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2518,7 +2518,7 @@ Der Autor erzeugt mit Opus 5.5 in einem Versuch eine Oberfläche und verwendet d
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102452884184985600/vid/avc1/1342x642/w1K5MGEb-6RXb0AP.mp4?tag=29"><img src="assets/media/2102452884184985600.jpg" alt="Eine Oberfläche aus einem Versuch im Vergleich mit Grok 4.7 — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102452884184985600/vid/avc1/1342x642/w1K5MGEb-6RXb0AP.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452884184985600-95fbfa7a59ad.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102452884184985600-97b3043c1423.jpg" alt="Eine Oberfläche aus einem Versuch im Vergleich mit Grok 4.7 — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452884184985600-95fbfa7a59ad.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2535,7 +2535,7 @@ Nach einer schwierigen Woche bat der Autor Opus 5.5 um eine Stressabbau-App und 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102492618080862208/vid/avc1/1180x2148/-sNEDlWTuxHCzcfW.mp4?tag=29"><img src="assets/media/2102492618080862208.jpg" alt="Eine Stressabbau-App in 23 Minuten — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102492618080862208/vid/avc1/1180x2148/-sNEDlWTuxHCzcfW.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492618080862208-2705e743d4ad.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102492618080862208-fd2210846e2d.jpg" alt="Eine Stressabbau-App in 23 Minuten — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492618080862208-2705e743d4ad.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2552,7 +2552,7 @@ Die Medienvorschau zeigt eine Stratus-Landingpage rund um Wolken und Wetter. Der
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102450880029270016/vid/avc1/1914x1008/FcVRUSW6L-hSRCzj.mp4?tag=29"><img src="assets/media/2102450880029270016.jpg" alt="Eine wetterbezogene Stratus-Landingpage — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102450880029270016/vid/avc1/1914x1008/FcVRUSW6L-hSRCzj.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450880029270016-8585b3c21b8f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102450880029270016-519a0ad0fe89.jpg" alt="Eine wetterbezogene Stratus-Landingpage — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450880029270016-8585b3c21b8f.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2569,7 +2569,7 @@ Der Autor verwandelt Opus 5.5 in ein umgekehrtes CAPTCHA-Erlebnis und präsentie
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478762767966208/vid/avc1/1920x1014/PPj5_DsN5KMOYPOg.mp4?tag=29"><img src="assets/media/2102478762767966208.jpg" alt="Ein interaktives umgekehrtes CAPTCHA — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478762767966208/vid/avc1/1920x1014/PPj5_DsN5KMOYPOg.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478762767966208-6e477870f60d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478762767966208-5480453a8f7f.jpg" alt="Ein interaktives umgekehrtes CAPTCHA — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478762767966208-6e477870f60d.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2586,7 +2586,7 @@ Der Autor baut ein persönliches, über Claude gesteuertes Werkzeug für Interak
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102481797837959168/vid/avc1/1962x1080/zjb0diBt84FMOCyh.mp4?tag=29"><img src="assets/media/2102481797837959168.jpg" alt="Ein persönliches Interaktionswerkzeug mit Figma-Importen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102481797837959168/vid/avc1/1962x1080/zjb0diBt84FMOCyh.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102481797837959168-c9c7f427e5eb.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102481797837959168-1e1d20a38ddb.jpg" alt="Ein persönliches Interaktionswerkzeug mit Figma-Importen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102481797837959168-c9c7f427e5eb.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2603,7 +2603,7 @@ Der Autor präsentiert PonteMLX, eine antik gestaltete App, deren Fluss die loka
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102484562265649152/vid/avc1/1440x1080/sDJnj_e-5jWf5deA.mp4?tag=29"><img src="assets/media/2102484562265649152.jpg" alt="PonteMLX zur Überwachung lokaler Modelle — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102484562265649152/vid/avc1/1440x1080/sDJnj_e-5jWf5deA.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484562265649152-59a65a1b442d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102484562265649152-61f3f5f6052f.jpg" alt="PonteMLX zur Überwachung lokaler Modelle — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484562265649152-59a65a1b442d.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2620,7 +2620,7 @@ Die Anhangvorschau zeigt ein Logistik-Planungsdashboard, anhand dessen der Autor
 
 <table>
 <tr>
-<td><a href="https://x.com/maybepratikk/status/2102466291651285048"><img src="assets/media/2102466179403251712.jpg" alt="Vorschau eines Logistik-Planungsdashboards — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/maybepratikk/status/2102466291651285048">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/maybepratikk/status/2102466291651285048"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102466179403251712-af5ba107a536.jpg" alt="Vorschau eines Logistik-Planungsdashboards — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/maybepratikk/status/2102466291651285048">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -2637,7 +2637,7 @@ Der Autor vergleicht Opus 5.5 und GPT-6 Sol in Higgsfield mit demselben Auftrag:
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102483951554326529/vid/avc1/1080x1080/n9TFDfJ9CF_oWydJ.mp4?tag=29"><img src="assets/media/2102483951554326529.jpg" alt="Vergleich von WebGL-Websites für ein Kreativstudio — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102483951554326529/vid/avc1/1080x1080/n9TFDfJ9CF_oWydJ.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483951554326529-75cec63c3fd7.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102483951554326529-02b37efdacc9.jpg" alt="Vergleich von WebGL-Websites für ein Kreativstudio — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483951554326529-75cec63c3fd7.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2654,7 +2654,7 @@ Der Screenshot zeigt eine Oberfläche mit isometrischen Icon-Komponenten; laut A
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102454121718841345/vid/avc1/1536x1080/XnDAxOmZ0zZALnyT.mp4?tag=29"><img src="assets/media/2102454121718841345.jpg" alt="Eine Oberfläche mit isometrischen Icon-Komponenten — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102454121718841345/vid/avc1/1536x1080/XnDAxOmZ0zZALnyT.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102454121718841345-54b5dc0e6075.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102454121718841345-621bda684e5b.jpg" alt="Eine Oberfläche mit isometrischen Icon-Komponenten — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102454121718841345-54b5dc0e6075.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2671,8 +2671,8 @@ Die Medienvorschau zeigt eine Opus 5.5 zugeschriebene Spielauswahlseite im Stil 
 
 <table>
 <tr>
-<td><a href="https://x.com/lucaxyzz/status/2102461657742184599"><img src="assets/media/2102461483259166720.jpg" alt="Spielauswahlseite im Handheld-Stil — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/lucaxyzz/status/2102461657742184599">Anhang der Quelle 1</a></td>
-<td><a href="https://x.com/lucaxyzz/status/2102461657742184599"><img src="assets/media/2102461629518790656.jpg" alt="Spielauswahlseite im Handheld-Stil — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/lucaxyzz/status/2102461657742184599">Anhang der Quelle 2</a></td>
+<td><a href="https://x.com/lucaxyzz/status/2102461657742184599"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102461483259166720-dcb6b094b13d.jpg" alt="Spielauswahlseite im Handheld-Stil — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/lucaxyzz/status/2102461657742184599">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/lucaxyzz/status/2102461657742184599"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102461629518790656-5dd8b49141f4.jpg" alt="Spielauswahlseite im Handheld-Stil — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/lucaxyzz/status/2102461657742184599">Anhang der Quelle 2</a></td>
 </tr>
 </table>
 
@@ -2689,7 +2689,7 @@ Der Autor präsentiert ein Bild-zu-Vektor-Werkzeug, das laut Bericht mit Opus 5.
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102461494135001088/vid/avc1/1728x1080/0tIldR5gYAfmAtxd.mp4?tag=29"><img src="assets/media/2102461494135001088.jpg" alt="Ein Bild-zu-Vektor-Werkzeug aus einem Versuch — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102461494135001088/vid/avc1/1728x1080/0tIldR5gYAfmAtxd.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461494135001088-220c914e20c3.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102461494135001088-9d2de05d7ce1.jpg" alt="Ein Bild-zu-Vektor-Werkzeug aus einem Versuch — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461494135001088-220c914e20c3.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2706,7 +2706,7 @@ Der Autor ergänzt eine Galerie von Landingpages aus demselben Prompt um Claude 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102520323765886976/vid/avc1/1920x1080/VJhYV-dTg3srTtAD.mp4?tag=29"><img src="assets/media/2102520323765886976.jpg" alt="Landingpages mit gemeinsamem Prompt im Vergleich — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102520323765886976/vid/avc1/1920x1080/VJhYV-dTg3srTtAD.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102520323765886976-e34f0b367d25.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102520323765886976-7bc6a6fd403b.jpg" alt="Landingpages mit gemeinsamem Prompt im Vergleich — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102520323765886976-e34f0b367d25.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2723,7 +2723,7 @@ Der Autor zeigt Vorher-Nachher-Ansichten einer bestehenden App, die laut Bericht
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102444702700277760/vid/avc1/1440x1080/aDOvO9CEMeaqR6P6.mp4?tag=29"><img src="assets/media/2102444702700277760.jpg" alt="Eine bestehende App mit AppLlama MCP neu gestalten — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102444702700277760/vid/avc1/1440x1080/aDOvO9CEMeaqR6P6.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102444702700277760-d48572ee0e0c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102444702700277760-b4642f91b349.jpg" alt="Eine bestehende App mit AppLlama MCP neu gestalten — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102444702700277760-d48572ee0e0c.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2762,7 +2762,7 @@ Next.js meldet für Opus 5.5 eine Erfolgsquote von 97%, gleichauf mit Sol und Fa
 
 <table>
 <tr>
-<td><a href="https://x.com/nextjs/status/2102516295715741912"><img src="assets/media/2102516292175699968.jpg" alt="Erfolgsquote und Durchschnittskosten bei Next.js — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/nextjs/status/2102516295715741912">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/nextjs/status/2102516295715741912"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102516292175699968-87547b839f2f.jpg" alt="Erfolgsquote und Durchschnittskosten bei Next.js — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/nextjs/status/2102516295715741912">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -2785,7 +2785,7 @@ In Everys eigenem Test erhielt Opus zehn Minuten für einen Veranstaltungsablauf
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102495426385735680/vid/avc1/1080x1080/9L_EhW2wJzGhRpZb.mp4?tag=16"><img src="assets/media/2102495426385735680.jpg" alt="Kernergebnis einer Zehn-Minuten-Aufgabe verfehlt — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102495426385735680/vid/avc1/1080x1080/9L_EhW2wJzGhRpZb.mp4?tag=16">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102495426385735680-e23b76543395.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102495426385735680-a56e687728ef.jpg" alt="Kernergebnis einer Zehn-Minuten-Aufgabe verfehlt — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102495426385735680-e23b76543395.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2802,7 +2802,7 @@ Der Plattformautor berichtet, 347 rankende Seiten für 40 Keywords gelesen, 131 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102467411047763968/vid/avc1/1920x1080/InJdRf0w3jiN_Q6i.mp4?tag=29"><img src="assets/media/2102467411047763968.jpg" alt="SEO-Lücken über 347 rankende Seiten finden — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102467411047763968/vid/avc1/1920x1080/InJdRf0w3jiN_Q6i.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102467411047763968-e821b0c77a6c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102467411047763968-8060f44896b5.jpg" alt="SEO-Lücken über 347 rankende Seiten finden — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102467411047763968-e821b0c77a6c.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2819,7 +2819,7 @@ Der Autor bittet Opus 5.5, zur Black-Friday-Vorbereitung seine BrandTrackers üb
 
 <table>
 <tr>
-<td><a href="https://x.com/powl_d/status/2102508882459586748"><img src="assets/media/2102508763538472961.jpg" alt="Black-Friday-Analyse über Trendtrack MCP — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/powl_d/status/2102508882459586748">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/powl_d/status/2102508882459586748"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102508763538472961-2a37ef4f2c64.jpg" alt="Black-Friday-Analyse über Trendtrack MCP — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/powl_d/status/2102508882459586748">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -2836,7 +2836,7 @@ alphaXiv demonstriert eine Produktfunktion, die arXiv-Papers in blogartige Über
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102464303865692160/vid/avc1/1920x1080/2k7r15kiseysNXtI.mp4?tag=29"><img src="assets/media/2102464303865692160.jpg" alt="Evidenzverknüpfte Paper-Blogs in alphaXiv — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102464303865692160/vid/avc1/1920x1080/2k7r15kiseysNXtI.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464303865692160-b21931bec340.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102464303865692160-59afb65c0c51.jpg" alt="Evidenzverknüpfte Paper-Blogs in alphaXiv — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464303865692160-b21931bec340.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2853,7 +2853,7 @@ SafeForge präsentiert Tests von Opus 5.5 in seiner Schleife für Risikozusammen
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102511392284921856/vid/avc1/1920x1080/cB3HoPVJXOBUyRyc.mp4?tag=29"><img src="assets/media/2102511392284921856.jpg" alt="SafeForges Schleife für Risikozusammenfassungen testen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102511392284921856/vid/avc1/1920x1080/cB3HoPVJXOBUyRyc.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102511392284921856-5faca0cc6f69.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102511392284921856-1e633eee9cfa.jpg" alt="SafeForges Schleife für Risikozusammenfassungen testen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102511392284921856-5faca0cc6f69.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2870,8 +2870,8 @@ Der Autor bittet Opus 5.5, in einer vorhandenen Benchmark-Grafik die GPT-5.6-Wer
 
 <table>
 <tr>
-<td><a href="https://x.com/MLBear2/status/2102518758611058807"><img src="assets/media/2102518741309562881.jpg" alt="Modelldaten in einer Benchmark-Grafik aktualisieren — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/MLBear2/status/2102518758611058807">Anhang der Quelle 1</a></td>
-<td><a href="https://x.com/MLBear2/status/2102518758611058807"><img src="assets/media/2102518741234057216.jpg" alt="Modelldaten in einer Benchmark-Grafik aktualisieren — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/MLBear2/status/2102518758611058807">Anhang der Quelle 2</a></td>
+<td><a href="https://x.com/MLBear2/status/2102518758611058807"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102518741309562881-37ec04ac6824.jpg" alt="Modelldaten in einer Benchmark-Grafik aktualisieren — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/MLBear2/status/2102518758611058807">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/MLBear2/status/2102518758611058807"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102518741234057216-5396dbf48e6a.jpg" alt="Modelldaten in einer Benchmark-Grafik aktualisieren — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/MLBear2/status/2102518758611058807">Anhang der Quelle 2</a></td>
 </tr>
 </table>
 
@@ -2888,8 +2888,8 @@ Der Autor verwendet identische Anweisungen, um mit Opus 5 und Opus 5.5 einen Ind
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/tweet_video/HS2AWprbYAA2fZM.mp4"><img src="assets/media/2102477727685369856.jpg" alt="Erstellung eines Indikators im Versionsvergleich — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/tweet_video/HS2AWprbYAA2fZM.mp4">Quellvideo abspielen 1</a></td>
-<td><a href="https://video.twimg.com/tweet_video/HS2A31iaQAAoTSo.mp4"><img src="assets/media/2102478297804455936.jpg" alt="Erstellung eines Indikators im Versionsvergleich — Anhang der Quelle 2" width="420"></a><br><a href="https://video.twimg.com/tweet_video/HS2A31iaQAAoTSo.mp4">Quellvideo abspielen 2</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102477727685369856-0a12e4ca4f59.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102477727685369856-e1d52de30f45.jpg" alt="Erstellung eines Indikators im Versionsvergleich — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102477727685369856-0a12e4ca4f59.mp4">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478297804455936-f494527729af.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478297804455936-41afec4bef68.jpg" alt="Erstellung eines Indikators im Versionsvergleich — Anhang der Quelle 2" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478297804455936-f494527729af.mp4">Quellvideo abspielen 2</a></td>
 </tr>
 </table>
 
@@ -2906,7 +2906,7 @@ GojiberryAI demonstriert einen Ablauf von der Website-URL zur Ansprache und beha
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102484142977912832/vid/avc1/1920x1080/nx4U1bH4pHeHSJPL.mp4?tag=29"><img src="assets/media/2102484142977912832.jpg" alt="Vertriebsansprache aus einer Website-URL — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102484142977912832/vid/avc1/1920x1080/nx4U1bH4pHeHSJPL.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484142977912832-8d3c875b8a2c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102484142977912832-78ae60e3150f.jpg" alt="Vertriebsansprache aus einer Website-URL — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484142977912832-8d3c875b8a2c.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2923,7 +2923,7 @@ Ramp legt frühen Zugang und einen Lauf auf seinem Accounting Bench offen. Das T
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102451438685147136/vid/avc1/1920x1080/L_8bTlIp6I26lNOA.mp4?tag=29"><img src="assets/media/2102451438685147136.jpg" alt="Ramps Evaluation von Buchhaltungsaufgaben — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102451438685147136/vid/avc1/1920x1080/L_8bTlIp6I26lNOA.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451438685147136-d7f9fc977848.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102451438685147136-8ba0b4483e31.jpg" alt="Ramps Evaluation von Buchhaltungsaufgaben — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451438685147136-d7f9fc977848.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2944,7 +2944,7 @@ Der Plugin-Autor veröffentlicht fable-advisor v6.0.0, ein kostenloses Open-Sour
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102513660312576000/vid/avc1/1920x1080/5tx7z_kvB7V8VB1G.mp4?tag=29"><img src="assets/media/2102513660312576000.jpg" alt="Ein Team aus mehreren Modellen mit fable-advisor — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102513660312576000/vid/avc1/1920x1080/5tx7z_kvB7V8VB1G.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513660312576000-bc5f7f9a556d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102513660312576000-72bcb10d231f.jpg" alt="Ein Team aus mehreren Modellen mit fable-advisor — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513660312576000-bc5f7f9a556d.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -2961,7 +2961,7 @@ Der Autor des Werkzeugs ntm berichtet, Opus 5 um einen Übergabe-Prompt gebeten 
 
 <table>
 <tr>
-<td><a href="https://x.com/doodlestein/status/2102486504627175458"><img src="assets/media/2102486491125415936.jpg" alt="Aufgabenübergaben und Worker-Austausch in ntm — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/doodlestein/status/2102486504627175458">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/doodlestein/status/2102486504627175458"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102486491125415936-c45c4bc95597.jpg" alt="Aufgabenübergaben und Worker-Austausch in ntm — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/doodlestein/status/2102486504627175458">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ Das T3-Code-Team erklärt, dass kein App-Update nötig ist, und beschreibt eine 
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="Den Modellcache von T3 Code erneuern — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102465677584109568-eb852b8b6c0e.png" alt="Den Modellcache von T3 Code erneuern — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3017,7 +3017,7 @@ Ein sechsschrittiges Tutorial kombiniert Projektdateien und lokale Sitzungen, um
 
 <table>
 <tr>
-<td><a href="https://x.com/shannholmberg/status/2102481940742115352"><img src="assets/media/2102481936803565568.jpg" alt="Projektdateien und Agent-Sitzungshistorie prüfen — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/shannholmberg/status/2102481940742115352">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/shannholmberg/status/2102481940742115352"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102481936803565568-d1d132d1581c.jpg" alt="Projektdateien und Agent-Sitzungshistorie prüfen — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/shannholmberg/status/2102481940742115352">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3034,7 +3034,7 @@ Der Autor diskutiert Ergebnisse aus der System Card, bei denen mehrere Agenten s
 
 <table>
 <tr>
-<td><a href="https://x.com/jyangballin/status/2102481432136528139"><img src="assets/media/2102481302985568257.jpg" alt="Mehragenten-Geschwindigkeit auf ProgramBench — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/jyangballin/status/2102481432136528139">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/jyangballin/status/2102481432136528139"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102481302985568257-f611e07df913.jpg" alt="Mehragenten-Geschwindigkeit auf ProgramBench — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/jyangballin/status/2102481432136528139">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3051,7 +3051,7 @@ Ein ProgramBench-Mitwirkender hebt eine Evaluation aus der Model Card hervor, be
 
 <table>
 <tr>
-<td><a href="https://x.com/18jeffreyma/status/2102454667167047973"><img src="assets/media/2102453307587637248.jpg" alt="Eine ProgramBench-Evaluation mit 100 Agenten — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/18jeffreyma/status/2102454667167047973">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/18jeffreyma/status/2102454667167047973"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102453307587637248-5ca530584072.jpg" alt="Eine ProgramBench-Evaluation mit 100 Agenten — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/18jeffreyma/status/2102454667167047973">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3072,7 +3072,7 @@ Higgsfield vergleicht Opus 5.5 und GPT-6 Astra am selben Straßenvideo und zeigt
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102509920876994560/vid/avc1/1080x1214/AxevMDaSTO83n2J1.mp4?tag=29"><img src="assets/media/2102509920876994560.jpg" alt="Beschriftungen in denselben Straßenaufnahmen verfolgen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102509920876994560/vid/avc1/1080x1214/AxevMDaSTO83n2J1.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102509920876994560-c4d4049d9448.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102509920876994560-30b2693eb0de.jpg" alt="Beschriftungen in denselben Straßenaufnahmen verfolgen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102509920876994560-c4d4049d9448.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3089,7 +3089,7 @@ Eine Führungskraft von Roboflow teilt Playground-Ergebnisse zur Objekterkennung
 
 <table>
 <tr>
-<td><a href="https://x.com/skalskip92/status/2102513518603804956"><img src="assets/media/2102513266056429568.jpg" alt="Roboflow-Evaluationen zur Objekterkennung — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/skalskip92/status/2102513518603804956">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/skalskip92/status/2102513518603804956"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102513266056429568-d84d5330546b.jpg" alt="Roboflow-Evaluationen zur Objekterkennung — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/skalskip92/status/2102513518603804956">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3110,7 +3110,7 @@ Medeo vergleicht Videos, bei denen GPT-6 Sol und Opus 5.5 Seedance 2.5 steuern, 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102462545898651648/vid/avc1/1920x1080/jolN96b6AOkt5meq.mp4?tag=29"><img src="assets/media/2102462545898651648.jpg" alt="Arbeitsabläufe mit Seedance 2.5 in Medeo vergleichen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102462545898651648/vid/avc1/1920x1080/jolN96b6AOkt5meq.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462545898651648-91263391e40c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102462545898651648-62d6ff20dd48.jpg" alt="Arbeitsabläufe mit Seedance 2.5 in Medeo vergleichen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462545898651648-91263391e40c.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3127,7 +3127,7 @@ Ein mit einer Plattform verbundener Autor demonstriert, wie Blender von claude.a
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102457816820916224/vid/avc1/1612x1080/pdOJXL6ne_LOROg3.mp4?tag=29"><img src="assets/media/2102457816820916224.jpg" alt="Knetanimation mit Blender in Claude erstellen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102457816820916224/vid/avc1/1612x1080/pdOJXL6ne_LOROg3.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457816820916224-64d3e87b71c4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102457816820916224-772c7489aa79.jpg" alt="Knetanimation mit Blender in Claude erstellen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457816820916224-64d3e87b71c4.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3144,7 +3144,7 @@ Tesseracts Team kombiniert Opus 5.5 und GPT-6 Astra mit seinem eigenen Videowerk
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102502084847214593/vid/avc1/1080x1350/AhutbNmQCpo4GAVF.mp4?tag=29"><img src="assets/media/2102502084847214593.jpg" alt="Nachbauten eines Veröffentlichungsvideos in Tesseract vergleichen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102502084847214593/vid/avc1/1080x1350/AhutbNmQCpo4GAVF.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502084847214593-974ba4da3a76.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102502084847214593-1860585aa16c.jpg" alt="Nachbauten eines Veröffentlichungsvideos in Tesseract vergleichen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502084847214593-974ba4da3a76.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3161,7 +3161,7 @@ Der Autor von DocJev präsentiert einen mit Opus 5.5 erstellten Produktteaser. D
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102479606909636608/vid/avc1/1920x1080/5gQCdFvu4lD6i8Jc.mp4?tag=29"><img src="assets/media/2102479606909636608.jpg" alt="Ein Teaser-Video für DocJev — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102479606909636608/vid/avc1/1920x1080/5gQCdFvu4lD6i8Jc.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479606909636608-28689bd75506.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102479606909636608-488349d9bd72.jpg" alt="Ein Teaser-Video für DocJev — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479606909636608-28689bd75506.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3178,7 +3178,7 @@ Der Autor bittet Opus 5.5 um eine Geschichte der Claude-Modellentwicklung und be
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102463260083814400/vid/avc1/1920x1080/pg3IA2gaSf3rm2K4.mp4?tag=29"><img src="assets/media/2102463260083814400.jpg" alt="Eine Claude-Modellgeschichte mit eigenem Skill — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102463260083814400/vid/avc1/1920x1080/pg3IA2gaSf3rm2K4.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102463260083814400-fc2cedfa7a8b.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102463260083814400-b0382b94c973.jpg" alt="Eine Claude-Modellgeschichte mit eigenem Skill — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102463260083814400-fc2cedfa7a8b.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3195,7 +3195,7 @@ Medeo vergleicht mit Opus 5.5 und GPT-6 Astra erstellte Origami-Tiger-Videos, wo
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102453529268916224/vid/avc1/1080x1920/uyyJj1GtKe23qKp7.mp4?tag=29"><img src="assets/media/2102453529268916224.jpg" alt="Origami-Tiger-Videos in Medeo — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102453529268916224/vid/avc1/1080x1920/uyyJj1GtKe23qKp7.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453529268916224-6fc4b9c76f82.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102453529268916224-85b35323ddd5.jpg" alt="Origami-Tiger-Videos in Medeo — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453529268916224-6fc4b9c76f82.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3212,7 +3212,7 @@ BridgeMind präsentiert ein mit Opus 5.5 und Remotion erstelltes Video zur Einf�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102462683245395968/vid/avc1/1920x1080/t7Y-1-9qzNJG68xK.mp4?tag=29"><img src="assets/media/2102462683245395968.jpg" alt="Ein BridgeMind-Hoodie-Werbevideo mit Remotion — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102462683245395968/vid/avc1/1920x1080/t7Y-1-9qzNJG68xK.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462683245395968-ae153807b90e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102462683245395968-63b2b3622915.jpg" alt="Ein BridgeMind-Hoodie-Werbevideo mit Remotion — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462683245395968-ae153807b90e.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3229,7 +3229,7 @@ Higgsfield vergleicht Werbevideoproduktion und nennt 60 Minuten und $50 für Opu
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102462871104077824/vid/avc1/1440x1080/hm7aglnaoiLS8wmr.mp4?tag=29"><img src="assets/media/2102462871104077824.jpg" alt="Zeit und Kosten eines Higgsfield-Werbespots — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102462871104077824/vid/avc1/1440x1080/hm7aglnaoiLS8wmr.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462871104077824-7915acd655c9.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102462871104077824-ab0fcf1c98f4.jpg" alt="Zeit und Kosten eines Higgsfield-Werbespots — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462871104077824-7915acd655c9.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3246,7 +3246,7 @@ Der Autor liefert den ursprünglichen Release-Beitrag und bittet Opus 5.5, ein V
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102457146210496512/vid/avc1/1920x1080/NQpCnFwIPnJ2aS_D.mp4?tag=29"><img src="assets/media/2102457146210496512.jpg" alt="Ein Veröffentlichungsvideo aus einem Release-Beitrag programmieren — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102457146210496512/vid/avc1/1920x1080/NQpCnFwIPnJ2aS_D.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457146210496512-980b604f1f60.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102457146210496512-2ba13dacf7c5.jpg" alt="Ein Veröffentlichungsvideo aus einem Release-Beitrag programmieren — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457146210496512-980b604f1f60.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3263,7 +3263,7 @@ Der Beitrag teilt eine Stop-Motion-Animation darüber, die Welt durch Claudes Au
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102435379810885632/vid/avc1/1920x1080/UI5hS2e010VQ1Mz-.mp4?tag=29"><img src="assets/media/2102435379810885632.jpg" alt="Ein geteilter Stop-Motion-Blick durch Claudes Augen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102435379810885632/vid/avc1/1920x1080/UI5hS2e010VQ1Mz-.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102435379810885632-410e386a9641.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102435379810885632-24bea12ee74b.jpg" alt="Ein geteilter Stop-Motion-Blick durch Claudes Augen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102435379810885632-410e386a9641.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3282,7 +3282,7 @@ Der Autor zeigt drei Versionen, die ein Video von zwei Sekunden auf 17 und schli
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102484213086011392/vid/avc1/1280x720/Aex4aiDf_9SMKio-.mp4?tag=29"><img src="assets/media/2102484213086011392.jpg" alt="Ein vertontes Video von zwei auf 22 Sekunden erweitern — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102484213086011392/vid/avc1/1280x720/Aex4aiDf_9SMKio-.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484213086011392-4cc335e03531.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102484213086011392-b80e1beaa31b.jpg" alt="Ein vertontes Video von zwei auf 22 Sekunden erweitern — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484213086011392-4cc335e03531.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3299,7 +3299,7 @@ Higgsfield zeigt, wie Opus 5.5 mit Photoshop und DaVinci Resolve Fusion Renderin
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102494820774363136/vid/avc1/1440x1080/jFAAPDTN7AKgd7Nw.mp4?tag=29"><img src="assets/media/2102494820774363136.jpg" alt="Videoartefakte mit Photoshop und Fusion beheben — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102494820774363136/vid/avc1/1440x1080/jFAAPDTN7AKgd7Nw.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102494820774363136-155a5d1f59fa.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102494820774363136-eb585cfcb51a.jpg" alt="Videoartefakte mit Photoshop und Fusion beheben — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102494820774363136-155a5d1f59fa.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3316,7 +3316,7 @@ JetBrains zeigt, wie ein Teammitglied Opus 5.5 HeyGens HyperFrames-Skills gibt u
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102459599177805825/vid/avc1/2560x1440/GuU5uKX8BRoP6VNe.mp4?tag=29"><img src="assets/media/2102459599177805825.jpg" alt="Ein Kotlin-Werbevideo anhand seiner Website — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102459599177805825/vid/avc1/2560x1440/GuU5uKX8BRoP6VNe.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102459599177805825-9c235c3bf079.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102459599177805825-41f2bff7779a.jpg" alt="Ein Kotlin-Werbevideo anhand seiner Website — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102459599177805825-9c235c3bf079.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3333,8 +3333,8 @@ Der Autor liefert Rohmaterial mit Aufnahmefehlern und ein Referenzbeispiel und b
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="Rohmaterial passend zum persönlichen Stil schneiden — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Anhang der Quelle 1</a></td>
-<td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="Rohmaterial passend zum persönlichen Stil schneiden — Anhang der Quelle 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">Quellvideo abspielen 2</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102488059660906496-cee463d3c26e.png" alt="Rohmaterial passend zum persönlichen Stil schneiden — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Anhang der Quelle 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102488072772296704-74246a4216f6.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102488072772296704-50a81776676b.jpg" alt="Rohmaterial passend zum persönlichen Stil schneiden — Anhang der Quelle 2" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102488072772296704-74246a4216f6.mp4">Quellvideo abspielen 2</a></td>
 </tr>
 </table>
 
@@ -3351,7 +3351,7 @@ Der Autor verwendet seinen Coinacademy-Artikel als Eingabe und berichtet, mit Op
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102500233066475520/vid/avc1/1920x1080/d_2ppJAb99CGBKqx.mp4?tag=29"><img src="assets/media/2102500233066475520.jpg" alt="Einen Coinacademy-Artikel in ein FLOP-Labs-Video verwandeln — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102500233066475520/vid/avc1/1920x1080/d_2ppJAb99CGBKqx.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500233066475520-e3ba38b2fa5f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102500233066475520-c420607b92ab.jpg" alt="Einen Coinacademy-Artikel in ein FLOP-Labs-Video verwandeln — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500233066475520-e3ba38b2fa5f.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3368,8 +3368,8 @@ Der Autor stellt GPT-6 Sol und Opus 5.5 zugeschriebene Videos nebeneinander, ohn
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102475075358179329/vid/avc1/768x1120/pkoQyt8wniSAoYu0.mp4?tag=29"><img src="assets/media/2102475075358179329.jpg" alt="Videoergebnisse im Vergleich mit GPT-6 Sol — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102475075358179329/vid/avc1/768x1120/pkoQyt8wniSAoYu0.mp4?tag=29">Quellvideo abspielen 1</a></td>
-<td><a href="https://video.twimg.com/amplify_video/2102475125475975170/vid/avc1/768x1152/ENQGTaDMF6hIc--N.mp4?tag=29"><img src="assets/media/2102475125475975170.jpg" alt="Videoergebnisse im Vergleich mit GPT-6 Sol — Anhang der Quelle 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102475125475975170/vid/avc1/768x1152/ENQGTaDMF6hIc--N.mp4?tag=29">Quellvideo abspielen 2</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475075358179329-f63ccdb689c0.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102475075358179329-0561fc006437.jpg" alt="Videoergebnisse im Vergleich mit GPT-6 Sol — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475075358179329-f63ccdb689c0.mp4">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475125475975170-c2f54648f784.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102475125475975170-a68957ae14b9.jpg" alt="Videoergebnisse im Vergleich mit GPT-6 Sol — Anhang der Quelle 2" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475125475975170-c2f54648f784.mp4">Quellvideo abspielen 2</a></td>
 </tr>
 </table>
 
@@ -3386,7 +3386,7 @@ Der Autor bittet Opus 5.5, per Code ein Werbevideo für serai zu erstellen, und 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102502065096290305/vid/avc1/1920x1080/yGFbK0Ul1CDLkqtk.mp4?tag=29"><img src="assets/media/2102502065096290305.jpg" alt="Ein programmiertes Werbevideo für serai — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102502065096290305/vid/avc1/1920x1080/yGFbK0Ul1CDLkqtk.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502065096290305-e04aae88144c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102502065096290305-77f143547120.jpg" alt="Ein programmiertes Werbevideo für serai — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502065096290305-e04aae88144c.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3403,7 +3403,7 @@ Der Autor bittet Opus 5.5, in Cowork ein Erklärvideo über sich selbst zu erste
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102460508414832640/vid/avc1/1920x1080/oOGZ-HTehBvBYBaW.mp4?tag=29"><img src="assets/media/2102460508414832640.jpg" alt="Ein Erklärvideo zu Opus 5.5 aus Cowork — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102460508414832640/vid/avc1/1920x1080/oOGZ-HTehBvBYBaW.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102460508414832640-d9b553d7eb26.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102460508414832640-43c560fa4b09.jpg" alt="Ein Erklärvideo zu Opus 5.5 aus Cowork — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102460508414832640-d9b553d7eb26.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3420,7 +3420,7 @@ Der Autor erklärt, Opus 5.5 habe das gezeigte Video allein erstellt, ohne die R
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102508473728589825/vid/avc1/1920x1080/-u02ZkO-xuxRe79O.mp4?tag=29"><img src="assets/media/2102508473728589825.jpg" alt="Eine Videopräsentation und eine geplante fal-Kombination — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102508473728589825/vid/avc1/1920x1080/-u02ZkO-xuxRe79O.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508473728589825-502fe9b6c571.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102508473728589825-11a14d6243dd.jpg" alt="Eine Videopräsentation und eine geplante fal-Kombination — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508473728589825-502fe9b6c571.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3437,7 +3437,7 @@ Der Autor verweist Opus 5.5 auf KI-UGC-Ordner und nutzt Tesseract zum Videoschni
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102463160775290880/vid/avc1/1080x1920/5zz0WuDBJNU2hELw.mp4?tag=29"><img src="assets/media/2102463160775290880.jpg" alt="UGC-Ordner mit animiertem Text schneiden — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102463160775290880/vid/avc1/1080x1920/5zz0WuDBJNU2hELw.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102463160775290880-186a49fe81cd.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102463160775290880-26d19e54fa86.jpg" alt="UGC-Ordner mit animiertem Text schneiden — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102463160775290880-186a49fe81cd.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3454,7 +3454,7 @@ Der Autor programmiert mit Opus 5.5 ein Tutorial zu arabischem Text in Spiele-En
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102505852598902784/vid/avc1/1984x1080/Q9rUVdGaQJ5GaP7m.mp4?tag=29"><img src="assets/media/2102505852598902784.jpg" alt="Ein Tutorial zu arabischem Text in Spiele-Engines — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102505852598902784/vid/avc1/1984x1080/Q9rUVdGaQJ5GaP7m.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102505852598902784-29111f3124b9.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102505852598902784-2a3b3b2c46d6.jpg" alt="Ein Tutorial zu arabischem Text in Spiele-Engines — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102505852598902784-29111f3124b9.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3471,7 +3471,7 @@ Der Autor zeigt einen Kurzfilm über einen verlorenen Regenschirm, der einem Fro
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102449035827355648/vid/avc1/1080x1080/t1oAbV8kqDBq6GUJ.mp4?tag=29"><img src="assets/media/2102449035827355648.jpg" alt="Eine Tuschegeschichte über einen Regenschirm mit programmierter Musik — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102449035827355648/vid/avc1/1080x1080/t1oAbV8kqDBq6GUJ.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449035827355648-1fdb10ecf807.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102449035827355648-a72dce1ca470.jpg" alt="Eine Tuschegeschichte über einen Regenschirm mit programmierter Musik — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449035827355648-1fdb10ecf807.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3492,7 +3492,7 @@ Der Autor nennt Behebungen und Kosten mit Max-Aufwand über zwei Repositories: O
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="105 eingebaute Fehler in zwei Repositories beheben — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102479170957611008-193efebaeeb1.png" alt="105 eingebaute Fehler in zwei Repositories beheben — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3509,7 +3509,7 @@ Der Autor behauptet, Opus 5.5 habe in einem Versuch ein CS2-Cheatprogramm erzeug
 
 <table>
 <tr>
-<td><a href="https://x.com/SingulCore/status/2102460555642446155"><img src="assets/media/2102460283251994624.jpg" alt="Eine behauptete Generierung eines CS2-Cheatprogramms — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/SingulCore/status/2102460555642446155">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/SingulCore/status/2102460555642446155"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102460283251994624-d5b45811ea4a.jpg" alt="Eine behauptete Generierung eines CS2-Cheatprogramms — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/SingulCore/status/2102460555642446155">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3526,7 +3526,7 @@ Der Autor testet Opus 5.5 mit Medium-Aufwand an aufeinanderfolgenden circuit_eva
 
 <table>
 <tr>
-<td><a href="https://x.com/dexhorthy/status/2102473233195028772"><img src="assets/media/2102472512449675264.jpg" alt="Ein noch laufender circuit_eval-Checkpoint-Test — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/dexhorthy/status/2102473233195028772">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/dexhorthy/status/2102473233195028772"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102472512449675264-02d6c9f7f63c.jpg" alt="Ein noch laufender circuit_eval-Checkpoint-Test — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/dexhorthy/status/2102473233195028772">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3598,7 +3598,7 @@ Der Screenshot zeigt, wie eine nicht autorisierte Sicherheitsanfrage den Cyber-S
 
 <table>
 <tr>
-<td><a href="https://x.com/mehulmpt/status/2102475388211679520"><img src="assets/media/2102475338391732224.jpg" alt="Eine Ablehnung nach einem schutzbedingten Modellwechsel — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/mehulmpt/status/2102475388211679520">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/mehulmpt/status/2102475388211679520"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102475338391732224-0d902a7c79ce.jpg" alt="Eine Ablehnung nach einem schutzbedingten Modellwechsel — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/mehulmpt/status/2102475388211679520">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ Irregular meldet für eine Teilmenge seines mehrstufigen Cyber-Benchmarks mit ze
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="Eine CyScenarioBench-Teilmenge mit zehn Aufgaben — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102452264283611137-aa88ade2111f.png" alt="Eine CyScenarioBench-Teilmenge mit zehn Aufgaben — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3636,8 +3636,8 @@ Anhand von Screenshots zur Erklärung eines Optionskonzepts vergleicht der Autor
 
 <table>
 <tr>
-<td><a href="https://x.com/theojaffee/status/2102454423041818786"><img src="assets/media/2102454276652249088.jpg" alt="Erklärungen eines Optionskonzepts vergleichen — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/theojaffee/status/2102454423041818786">Anhang der Quelle 1</a></td>
-<td><a href="https://x.com/theojaffee/status/2102454423041818786"><img src="assets/media/2102454347389124608.jpg" alt="Erklärungen eines Optionskonzepts vergleichen — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/theojaffee/status/2102454423041818786">Anhang der Quelle 2</a></td>
+<td><a href="https://x.com/theojaffee/status/2102454423041818786"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102454276652249088-d2b939995ebf.jpg" alt="Erklärungen eines Optionskonzepts vergleichen — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/theojaffee/status/2102454423041818786">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/theojaffee/status/2102454423041818786"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102454347389124608-0c98f22f6ed1.jpg" alt="Erklärungen eines Optionskonzepts vergleichen — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/theojaffee/status/2102454423041818786">Anhang der Quelle 2</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ Der Screenshot zeigt eine Passage einer Geschichte rund um einen Wald und einen 
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="Ein Geschichtenauszug rund um Wald und Fluss — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102467233276665856-11d4a0817246.png" alt="Ein Geschichtenauszug rund um Wald und Fluss — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3697,7 +3697,7 @@ Vals AI berichtet von einem eigenen Experiment, in dem zehn Agenten mit Opus 5.5
 
 <table>
 <tr>
-<td><a href="https://x.com/ValsAI/status/2102470503328010349"><img src="assets/media/2102469744129720320.jpg" alt="Zehn Agenten erforschen einen Kürzeste-Wege-Algorithmus — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/ValsAI/status/2102470503328010349">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/ValsAI/status/2102470503328010349"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102469744129720320-81c0a1f36a42.jpg" alt="Zehn Agenten erforschen einen Kürzeste-Wege-Algorithmus — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/ValsAI/status/2102470503328010349">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3716,7 +3716,7 @@ Ein mit tscircuit verbundener Autor vergleicht Opus 5.5 und GPT-6 Astra bei ders
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102465433534353408/vid/avc1/1920x1080/I6L8hU0QOvvrpm6f.mp4?tag=29"><img src="assets/media/2102465433534353408.jpg" alt="Bluetooth-Lautsprecherschaltungen in tscircuit — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102465433534353408/vid/avc1/1920x1080/I6L8hU0QOvvrpm6f.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102465433534353408-3e8d2deb7070.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102465433534353408-8e51c42a8160.jpg" alt="Bluetooth-Lautsprecherschaltungen in tscircuit — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102465433534353408-3e8d2deb7070.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3733,8 +3733,8 @@ Der Autor nennt einen achtminütigen Schaltplanlauf mit Opus 5.5 gegenüber 20 M
 
 <table>
 <tr>
-<td><a href="https://x.com/i2cjak/status/2102457079965323296"><img src="assets/media/2102456569476583425.jpg" alt="Zeitmessung einer Schaltplanaufgabe — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/i2cjak/status/2102457079965323296">Anhang der Quelle 1</a></td>
-<td><a href="https://x.com/i2cjak/status/2102457079965323296"><img src="assets/media/2102456685293895680.jpg" alt="Zeitmessung einer Schaltplanaufgabe — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/i2cjak/status/2102457079965323296">Anhang der Quelle 2</a></td>
+<td><a href="https://x.com/i2cjak/status/2102457079965323296"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102456569476583425-ee267d0e315d.jpg" alt="Zeitmessung einer Schaltplanaufgabe — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/i2cjak/status/2102457079965323296">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/i2cjak/status/2102457079965323296"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102456685293895680-fffa2e2b1716.jpg" alt="Zeitmessung einer Schaltplanaufgabe — Anhang der Quelle 2" width="420"></a><br><a href="https://x.com/i2cjak/status/2102457079965323296">Anhang der Quelle 2</a></td>
 </tr>
 </table>
 
@@ -3751,7 +3751,7 @@ ARC Prize meldet verifizierte Ergebnisse von 93.3% bei $0.41 je Aufgabe auf ARC-
 
 <table>
 <tr>
-<td><a href="https://x.com/arcprize/status/2102512140405866568"><img src="assets/media/2102512138401062912.jpg" alt="ARC-AGI-Ergebnisse und Kosten je Aufgabe — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/arcprize/status/2102512140405866568">Anhang der Quelle 1</a></td>
+<td><a href="https://x.com/arcprize/status/2102512140405866568"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102512138401062912-ae5c29ac126c.jpg" alt="ARC-AGI-Ergebnisse und Kosten je Aufgabe — Anhang der Quelle 1" width="420"></a><br><a href="https://x.com/arcprize/status/2102512140405866568">Anhang der Quelle 1</a></td>
 </tr>
 </table>
 
@@ -3783,7 +3783,7 @@ Higgsfield bittet beide Modelle, die Mona Lisa in Paintbrush nur mit schwarzen S
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102449124222353408/vid/avc1/1920x1080/0cpuhTnY1SpS1WQM.mp4?tag=29"><img src="assets/media/2102449124222353408.jpg" alt="Die Mona Lisa mit der Maus in Paintbrush zeichnen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102449124222353408/vid/avc1/1920x1080/0cpuhTnY1SpS1WQM.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449124222353408-baeb1ae932ad.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102449124222353408-286867985aa5.jpg" alt="Die Mona Lisa mit der Maus in Paintbrush zeichnen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449124222353408-baeb1ae932ad.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 
@@ -3800,7 +3800,7 @@ Der Autor bittet beide Modelle, in Paint ein Porträt zu zeichnen und es mit Mag
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102473647055044609/vid/avc1/1748x1080/LbfM6pvYm6ncoW9N.mp4?tag=29"><img src="assets/media/2102473647055044609.jpg" alt="Vergleichen, wie Modelle in Paint zeichnen — Anhang der Quelle 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102473647055044609/vid/avc1/1748x1080/LbfM6pvYm6ncoW9N.mp4?tag=29">Quellvideo abspielen 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102473647055044609-5fec4b8982d2.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102473647055044609-ff074eb7b479.jpg" alt="Vergleichen, wie Modelle in Paint zeichnen — Anhang der Quelle 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102473647055044609-5fec4b8982d2.mp4">Quellvideo abspielen 1</a></td>
 </tr>
 </table>
 

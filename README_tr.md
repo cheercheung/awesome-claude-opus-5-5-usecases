@@ -1,23 +1,23 @@
 <div align="center">
-<a href="https://evolink.ai/claude-opus-5-5?utm_source=github&amp;utm_medium=banner&amp;utm_campaign=awesome-claude-opus-5-5-usecases&amp;utm_content=readme_banner"><img src="images/tr.png" alt="Claude Opus 5.5 Kullanım Örnekleri" width="760"></a>
+<a href="https://evolink.ai/claude-opus-5-5?utm_source=github&amp;utm_medium=banner&amp;utm_campaign=awesome-claude-opus-5-5-usecases&amp;utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/images/tr-627b946f888e.png" alt="Claude Opus 5.5 Kullanım Örnekleri" width="760"></a>
 
 # Claude Opus 5.5 Kullanım Örnekleri
 Kaynaklarla desteklenen iş akışları, demolar, karşılaştırmalar ve sınırlamalar
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![EvoLink](https://img.shields.io/badge/EvoLink-173f46)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=top_badge)
+[![License: CC BY 4.0](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/01-632a4166db12.svg)](LICENSE)
+[![EvoLink](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/02-9c3762f5257a.svg)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=top_badge)
 
-[![English](https://img.shields.io/badge/English-111111)](README.md)
-[![Español](https://img.shields.io/badge/Espa%C3%B1ol-ffb703)](README_es.md)
-[![Português](https://img.shields.io/badge/Portugu%C3%AAs-2a9d8f)](README_pt.md)
-[![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-52b788)](README_ja.md)
-[![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-4ea8de)](README_ko.md)
-[![Deutsch](https://img.shields.io/badge/Deutsch-f4a261)](README_de.md)
-[![Français](https://img.shields.io/badge/Fran%C3%A7ais-e76f51)](README_fr.md)
-[![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-d62828)](README_tr.md)
-[![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-8338ec)](README_zh-TW.md)
-[![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-ef476f)](README_zh-CN.md)
-[![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-577590)](README_ru.md)
+[![English](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/03-10c9c5e9bda1.svg)](README.md)
+[![Español](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/04-a181c1d535f0.svg)](README_es.md)
+[![Português](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/05-ac70b838f049.svg)](README_pt.md)
+[![日本語](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/06-31ba71b87ecf.svg)](README_ja.md)
+[![한국어](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/07-edc23bf20eba.svg)](README_ko.md)
+[![Deutsch](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/08-0eacdeaa81bd.svg)](README_de.md)
+[![Français](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/09-29c9bacd0821.svg)](README_fr.md)
+[![Türkçe](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/10-1178dd208b61.svg)](README_tr.md)
+[![繁體中文](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/11-3d5c3f5925b5.svg)](README_zh-TW.md)
+[![简体中文](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/12-796941d82393.svg)](README_zh-CN.md)
+[![Русский](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/badges/13-d555473f9d29.svg)](README_ru.md)
 
 </div>
 
@@ -274,7 +274,7 @@ Claude’un resmî hesabı, Kevin Ngo’nun bir karpuz hakkındaki kısa öyküs
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102467313874178048/vid/avc1/1080x1080/jvnZ3SyyxxajVatp.mp4?tag=29"><img src="assets/media/2102467313874178048.jpg" alt="Resmî hesapta paylaşılan karpuz kısa filmi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102467313874178048/vid/avc1/1080x1080/jvnZ3SyyxxajVatp.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102467313874178048-e3b144c313ac.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102467313874178048-de941bbeca1a.jpg" alt="Resmî hesapta paylaşılan karpuz kısa filmi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102467313874178048-e3b144c313ac.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -306,7 +306,7 @@ Higgsfield, kendi platformunun tanıtımı kapsamında Opus 5.5 ve GPT-6 Astra i
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102470161328685056/vid/avc1/1122x1080/mkbbA1dMknaGX6nL.mp4?tag=29"><img src="assets/media/2102470161328685056.jpg" alt="Samuray oyunu karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102470161328685056/vid/avc1/1122x1080/mkbbA1dMknaGX6nL.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102470161328685056-fd2a5ee107ab.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102470161328685056-aa92e77fdad6.jpg" alt="Samuray oyunu karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102470161328685056-fd2a5ee107ab.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -325,7 +325,7 @@ BridgeMind’ın tanıtım demosu, oynanabilir Mario ve Luigi karakterleri içer
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102451221483180032/vid/avc1/2098x1080/vHjQ8jI6WsTR-TPn.mp4?tag=29"><img src="assets/media/2102451221483180032.jpg" alt="Tek geçişte Mario Kart demosu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102451221483180032/vid/avc1/2098x1080/vHjQ8jI6WsTR-TPn.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451221483180032-b1eb7ce40beb.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102451221483180032-98f5cd64f96d.jpg" alt="Tek geçişte Mario Kart demosu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451221483180032-b1eb7ce40beb.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -342,7 +342,7 @@ Yazar, tarayıcıda test edilmiş bir Minecraft klonunu göstererek bu oyun üre
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102469320001404928/vid/avc1/1920x1080/BwKBu8kazrg4aJph.mp4?tag=29"><img src="assets/media/2102469320001404928.jpg" alt="Tarayıcıda Minecraft klonu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102469320001404928/vid/avc1/1920x1080/BwKBu8kazrg4aJph.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102469320001404928-d106426800c4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102469320001404928-fc722a97e06c.jpg" alt="Tarayıcıda Minecraft klonu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102469320001404928-d106426800c4.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -359,7 +359,7 @@ Platformun bu tanıtım demosu, Antikythera mekanizmasından esinlenen bir oyun 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102461665086418944/vid/avc1/1350x1080/86T-JaewbcqfYnRH.mp4?tag=29"><img src="assets/media/2102461665086418944.jpg" alt="Tek HTML dosyasında mekanik oyun — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102461665086418944/vid/avc1/1350x1080/86T-JaewbcqfYnRH.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461665086418944-a20e243224fc.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102461665086418944-ce3192637a9c.jpg" alt="Tek HTML dosyasında mekanik oyun — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461665086418944-a20e243224fc.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -376,7 +376,7 @@ Yazar, yalnızca Roblox toolbox kullanarak anime karakterlerinden oluşan bir d�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102487713282686976/vid/avc1/1462x1128/3fIlU8ItZxe_bOOQ.mp4?tag=29"><img src="assets/media/2102487713282686976.jpg" alt="Roblox toolbox ile anime dövüş oyunu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102487713282686976/vid/avc1/1462x1128/3fIlU8ItZxe_bOOQ.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487713282686976-503a60760211.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102487713282686976-3606f07dad57.jpg" alt="Roblox toolbox ile anime dövüş oyunu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487713282686976-503a60760211.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -393,7 +393,7 @@ Yazar, bir Spider-Man oyunu görevi üzerinde Opus 5.5, Fable 5.1 ve GPT-6 Astra
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102487804651720704/vid/avc1/1080x1920/R6XVPJWDvtaZ_lkN.mp4?tag=29"><img src="assets/media/2102487804651720704.jpg" alt="Üç modelle Spider-Man oyunu karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102487804651720704/vid/avc1/1080x1920/R6XVPJWDvtaZ_lkN.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487804651720704-ace771d2cfd4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102487804651720704-4afcbbd5f4c3.jpg" alt="Üç modelle Spider-Man oyunu karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487804651720704-ace771d2cfd4.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -410,7 +410,7 @@ Yazar, su fiziği ve oyun mekanikleri içeren oynanabilir bir Minecraft klonu pa
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102479783800279040/vid/avc1/1920x1080/7VsGtlHe2S5BRExC.mp4?tag=29"><img src="assets/media/2102479783800279040.jpg" alt="Su fiziği içeren Minecraft klonu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102479783800279040/vid/avc1/1920x1080/7VsGtlHe2S5BRExC.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479783800279040-8702c22fb2da.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102479783800279040-1b239ef36b36.jpg" alt="Su fiziği içeren Minecraft klonu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479783800279040-8702c22fb2da.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -427,7 +427,7 @@ BridgeBench’in platform tanıtımı, aynı istem ve görevle Opus 5.5 ile GPT-
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102468957806501888/vid/avc1/1920x1080/CiEVMPgTSp380Wzs.mp4?tag=29"><img src="assets/media/2102468957806501888.jpg" alt="DEAD SIGNAL birinci şahıs sahneleri — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102468957806501888/vid/avc1/1920x1080/CiEVMPgTSp380Wzs.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468957806501888-174f6fac93dc.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102468957806501888-0b7859a5ca4f.jpg" alt="DEAD SIGNAL birinci şahıs sahneleri — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468957806501888-174f6fac93dc.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -444,7 +444,7 @@ Yazar, görüntü varlık dosyası kullanmayan, tek istemle yapılmış bir arı
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102475876294160385/vid/avc1/1880x1080/FNaYj1IdK9WsC2fz.mp4?tag=29"><img src="assets/media/2102475876294160385.jpg" alt="Kodla oluşturulan arıcılık oyunu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102475876294160385/vid/avc1/1880x1080/FNaYj1IdK9WsC2fz.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475876294160385-de693a0f1887.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102475876294160385-723222661176.jpg" alt="Kodla oluşturulan arıcılık oyunu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475876294160385-de693a0f1887.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -461,7 +461,7 @@ Yazar, oyun oluşturmanın somut bir örneği olarak Opus 5.5 ile yapılmış bi
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102452906083377152/vid/avc1/1080x1098/S7n7jTgko7JLgc7r.mp4?tag=29"><img src="assets/media/2102452906083377152.jpg" alt="Snake oyunu demosu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102452906083377152/vid/avc1/1080x1098/S7n7jTgko7JLgc7r.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452906083377152-022ae703ae00.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102452906083377152-b3f0dd1f6a3b.jpg" alt="Snake oyunu demosu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452906083377152-022ae703ae00.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -478,7 +478,7 @@ Higgsfield, kendi platformunun tanıtımı kapsamında 3D oyun geliştirmede Opu
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102496880412565504/vid/avc1/1080x1080/ILPIm5Y_fCgPCVC4.mp4?tag=29"><img src="assets/media/2102496880412565504.jpg" alt="Sol ile karşılaştırılan 3D oyun çıktıları — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102496880412565504/vid/avc1/1080x1080/ILPIm5Y_fCgPCVC4.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102496880412565504-56b7214e2954.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102496880412565504-7c0f40c9690c.jpg" alt="Sol ile karşılaştırılan 3D oyun çıktıları — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102496880412565504-56b7214e2954.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -495,7 +495,7 @@ Yazar; 8-ball, 9-ball, snooker, 2v2, sesli sohbet, turnuvalar, derecelendirmeler
 
 <table>
 <tr>
-<td><a href="https://x.com/BuiltByBilal/status/2102527003845075348"><img src="assets/media/2102525959085981696.jpg" alt="Çok oyunculu bilardo ve izleyici modu — Kaynak eki 1" width="420"></a><br><a href="https://x.com/BuiltByBilal/status/2102527003845075348">Kaynak eki 1</a></td>
+<td><a href="https://x.com/BuiltByBilal/status/2102527003845075348"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102525959085981696-a3fecfa8b630.jpg" alt="Çok oyunculu bilardo ve izleyici modu — Kaynak eki 1" width="420"></a><br><a href="https://x.com/BuiltByBilal/status/2102527003845075348">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -512,7 +512,7 @@ Higgsfield’ın tanıtım demosu, kendi API’si üzerinden yapılmış, su yan
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102450921905283072/vid/avc1/1920x1080/_-dvpneN6xcP95tv.mp4?tag=29"><img src="assets/media/2102450921905283072.jpg" alt="Higgsfield API üzerinden arcade oyunu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102450921905283072/vid/avc1/1920x1080/_-dvpneN6xcP95tv.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450921905283072-9b06ddee55b4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102450921905283072-2af3447a60ba.jpg" alt="Higgsfield API üzerinden arcade oyunu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450921905283072-9b06ddee55b4.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -529,7 +529,7 @@ Yazar, bir oyunu yeniden oluşturma denemesi olarak tarayıcı tabanlı bir Mine
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102459530349285376/vid/avc1/1804x1080/ws15ni5PzUk8TyOH.mp4?tag=29"><img src="assets/media/2102459530349285376.jpg" alt="Minecraft’ı tarayıcıda yeniden oluşturmak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102459530349285376/vid/avc1/1804x1080/ws15ni5PzUk8TyOH.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102459530349285376-f6bc0d41db12.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102459530349285376-455778396563.jpg" alt="Minecraft’ı tarayıcıda yeniden oluşturmak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102459530349285376-f6bc0d41db12.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -546,7 +546,7 @@ Yazar, bira ve puro unsurları içeren çok oyunculu bir çim biçme simülatör
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102513139124244480/vid/avc1/2560x1440/Unl1aBGvaAUEW4EJ.mp4?tag=29"><img src="assets/media/2102513139124244480.jpg" alt="Canlı yayın izleyicileriyle çim biçme — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102513139124244480/vid/avc1/2560x1440/Unl1aBGvaAUEW4EJ.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513139124244480-e0487a1e0c6d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102513139124244480-4a44a66c9375.jpg" alt="Canlı yayın izleyicileriyle çim biçme — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513139124244480-e0487a1e0c6d.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -563,7 +563,7 @@ Yazar, son bölüm canavarı da içeren, tek geçişte yapılmış karalama tarz
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102448437837090816/vid/avc1/1594x1080/G91X4KGDDEhMKyo_.mp4?tag=29"><img src="assets/media/2102448437837090816.jpg" alt="Son bölüm canavarlı karalama nişancı oyunu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102448437837090816/vid/avc1/1594x1080/G91X4KGDDEhMKyo_.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448437837090816-70abffa4132b.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102448437837090816-47261be257a5.jpg" alt="Son bölüm canavarlı karalama nişancı oyunu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448437837090816-70abffa4132b.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -580,7 +580,7 @@ Yazar, Medium ayarı kullanılarak üretilmiş bir Mario oyunu gösteriyor.
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102451787743797248/vid/avc1/1282x1220/s0orpWFvxMJ57pcP.mp4?tag=29"><img src="assets/media/2102451787743797248.jpg" alt="Medium ayarında Mario oyunu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102451787743797248/vid/avc1/1282x1220/s0orpWFvxMJ57pcP.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451787743797248-7734f2cf1cc6.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102451787743797248-e5e06b52fde2.jpg" alt="Medium ayarında Mario oyunu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451787743797248-7734f2cf1cc6.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -597,7 +597,7 @@ Gönderi, Opus 5.5 ile GPT-6 Sol’u karşılaştırıyor; medya önizlemesinde 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102468763182575616/vid/avc1/720x1188/KiitEAn5eNR9s9wu.mp4?tag=29"><img src="assets/media/2102468763182575616.jpg" alt="Kart yarışı görüntülerinin karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102468763182575616/vid/avc1/720x1188/KiitEAn5eNR9s9wu.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468763182575616-824232762fef.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102468763182575616-5d5763c2c988.jpg" alt="Kart yarışı görüntülerinin karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468763182575616-824232762fef.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -614,7 +614,7 @@ Yazar, aynı istemle oyunlar üretiyor, Opus 5.5 ile GPT-6 Sol’u karşılaşt�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102527771725504513/vid/avc1/1920x1080/RigEMEuahUcyTy2v.mp4?tag=29"><img src="assets/media/2102527771725504513.jpg" alt="GPT-6 Sol ile aynı istemli oyun karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102527771725504513/vid/avc1/1920x1080/RigEMEuahUcyTy2v.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102527771725504513-1ab8bfe36fe2.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102527771725504513-1182c64e4117.jpg" alt="GPT-6 Sol ile aynı istemli oyun karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102527771725504513-1ab8bfe36fe2.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -631,7 +631,7 @@ Yazar, tek geçişte üretildiğini belirttiği bir Snake oyunu gösteriyor.
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102452659550822400/vid/avc1/1920x1080/UfYLBlAiXrFx66sd.mp4?tag=29"><img src="assets/media/2102452659550822400.jpg" alt="Tek geçişte üretilen Snake — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102452659550822400/vid/avc1/1920x1080/UfYLBlAiXrFx66sd.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452659550822400-86cdf1551768.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102452659550822400-32b280e48662.jpg" alt="Tek geçişte üretilen Snake — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452659550822400-86cdf1551768.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -648,7 +648,7 @@ Yazar, Call of Duty Zombies tarzı oynanış için yaklaşık 13,000 satır Thre
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102480184016277504/vid/avc1/1920x1080/ScvFpMg0vzzzA4OU.mp4?tag=29"><img src="assets/media/2102480184016277504.jpg" alt="Three.js ile zombi oynanışı — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102480184016277504/vid/avc1/1920x1080/ScvFpMg0vzzzA4OU.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102480184016277504-4e0bd58b5800.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102480184016277504-100a3b1bacc9.jpg" alt="Three.js ile zombi oynanışı — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102480184016277504-4e0bd58b5800.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -665,7 +665,7 @@ Yazar, bir kar oyunu için tek başlangıç istemi ve yaklaşık iki iyileştirm
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102485332616732672/vid/avc1/1920x1080/QPii18NhEh8uwx6v.mp4?tag=29"><img src="assets/media/2102485332616732672.jpg" alt="İki iyileştirme turundan geçen kar oyunu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102485332616732672/vid/avc1/1920x1080/QPii18NhEh8uwx6v.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102485332616732672-89c7efa85811.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102485332616732672-901847138563.jpg" alt="İki iyileştirme turundan geçen kar oyunu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102485332616732672-89c7efa85811.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -682,7 +682,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102500851658924032/vid/avc1/1280x720/Gs6hGCiAUu3e5ge9.mp4?tag=29"><img src="assets/media/2102500851658924032.jpg" alt="Oyun özellikleri ve fragman düzenleme — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102500851658924032/vid/avc1/1280x720/Gs6hGCiAUu3e5ge9.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500851658924032-2a5c54e47023.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102500851658924032-fa62d50b37c8.jpg" alt="Oyun özellikleri ve fragman düzenleme — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500851658924032-2a5c54e47023.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -699,7 +699,7 @@ Yazar, Tesana’da birkaç istemle ARK tarzında çok oyunculu bir hayatta kalma
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102458314160508928/vid/avc1/1920x1080/skP96ftk2mI0b20S.mp4?tag=29"><img src="assets/media/2102458314160508928.jpg" alt="Tesana’da çok oyunculu hayatta kalma adası — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102458314160508928/vid/avc1/1920x1080/skP96ftk2mI0b20S.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102458314160508928-bad9bf9658f0.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102458314160508928-143dd869884e.jpg" alt="Tesana’da çok oyunculu hayatta kalma adası — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102458314160508928-bad9bf9658f0.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -716,7 +716,7 @@ Higgsfield’ın kendi platform tanıtımı, Unreal Engine’de 3D oyun oluştur
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102533127096934400/vid/avc1/1080x1080/E40DuI3LXeGg8JA0.mp4?tag=29"><img src="assets/media/2102533127096934400.jpg" alt="Unreal Engine oyunu karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102533127096934400/vid/avc1/1080x1080/E40DuI3LXeGg8JA0.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102533127096934400-d51dbcaf821f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102533127096934400-4a62bfebc554.jpg" alt="Unreal Engine oyunu karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102533127096934400-d51dbcaf821f.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -733,7 +733,7 @@ Yazar, Tesana’da birkaç istemle birden fazla alan, görev ve seslendirilmiş 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102457033413038080/vid/avc1/1916x1080/J47BET3d55HKTEdm.mp4?tag=29"><img src="assets/media/2102457033413038080.jpg" alt="Tesana’da karanlık fantezi RPG — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102457033413038080/vid/avc1/1916x1080/J47BET3d55HKTEdm.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457033413038080-05af196bf59e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102457033413038080-56a6f03ce93c.jpg" alt="Tesana’da karanlık fantezi RPG — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457033413038080-05af196bf59e.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -750,7 +750,7 @@ Yazar, 300+ çalınabilir gitar modeli ve gürültünün tetiklediği kavgalar i
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102531852363853824/vid/avc1/1920x1080/b-13Hr4nmh5HcvFi.mp4?tag=29"><img src="assets/media/2102531852363853824.jpg" alt="Gürültünün kavgaları tetiklediği gitar dükkânı — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102531852363853824/vid/avc1/1920x1080/b-13Hr4nmh5HcvFi.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102531852363853824-b97c14189612.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102531852363853824-335848c0a7a0.jpg" alt="Gürültünün kavgaları tetiklediği gitar dükkânı — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102531852363853824-b97c14189612.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -767,7 +767,7 @@ Higgsfield’ın platform tanıtımı, hamle analizi içeren el çizimi tarzınd
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102534281038049280/vid/avc1/1440x1080/pSUEup1s_OPfPNsJ.mp4?tag=29"><img src="assets/media/2102534281038049280.jpg" alt="El çizimi satranç ve hamle analizi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102534281038049280/vid/avc1/1440x1080/pSUEup1s_OPfPNsJ.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102534281038049280-0f5e15669173.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102534281038049280-a14bcd38c11f.jpg" alt="El çizimi satranç ve hamle analizi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102534281038049280-0f5e15669173.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -784,7 +784,7 @@ Yazar, aynı istemi kullanarak Opus 5.5 ve Kimi K3 uçuş simülatörlerini kar�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102455572750848000/vid/avc1/1816x1140/WWAmC5uDhH_y2oPd.mp4?tag=29"><img src="assets/media/2102455572750848000.jpg" alt="Kimi K3 ile karşılaştırılan uçuş simülatörü — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102455572750848000/vid/avc1/1816x1140/WWAmC5uDhH_y2oPd.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102455572750848000-1717161dafad.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102455572750848000-9ab2fc834610.jpg" alt="Kimi K3 ile karşılaştırılan uçuş simülatörü — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102455572750848000-1717161dafad.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -801,7 +801,7 @@ Tesana’nın kendi tanıtım demosu, tek istemden üretilmiş; oynanış, siste
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102494178517393408/vid/avc1/1908x1080/Gl7GChOzmYEfvQL1.mp4?tag=29"><img src="assets/media/2102494178517393408.jpg" alt="Tesana’da tek istemle fantezi dünyası — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102494178517393408/vid/avc1/1908x1080/Gl7GChOzmYEfvQL1.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102494178517393408-6a6488ca58b0.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102494178517393408-5052177205c1.jpg" alt="Tesana’da tek istemle fantezi dünyası — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102494178517393408-6a6488ca58b0.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -818,11 +818,11 @@ Yazar bir okçuluk oyunu gösteriyor ve yapımını ve dağıtımını on dakika
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102487312605282304/vid/avc1/1894x908/nC1fTviIGjTjFt0O.mp4?tag=29"><img src="assets/media/2102487312605282304.jpg" alt="On dakikadan kısa sürede yapılan okçuluk oyunu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102487312605282304/vid/avc1/1894x908/nC1fTviIGjTjFt0O.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
-<td><a href="https://x.com/BhavikY663/status/2102488215445983290"><img src="assets/media/2102487727585554432.jpg" alt="On dakikadan kısa sürede yapılan okçuluk oyunu — Kaynak eki 2" width="420"></a><br><a href="https://x.com/BhavikY663/status/2102488215445983290">Kaynak eki 2</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487312605282304-0540b3e48310.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102487312605282304-3a37e66ae533.jpg" alt="On dakikadan kısa sürede yapılan okçuluk oyunu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487312605282304-0540b3e48310.mp4">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://x.com/BhavikY663/status/2102488215445983290"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102487727585554432-05bd5f75dd52.jpg" alt="On dakikadan kısa sürede yapılan okçuluk oyunu — Kaynak eki 2" width="420"></a><br><a href="https://x.com/BhavikY663/status/2102488215445983290">Kaynak eki 2</a></td>
 </tr>
 <tr>
-<td><a href="https://x.com/BhavikY663/status/2102488215445983290"><img src="assets/media/2102487773165096960.jpg" alt="On dakikadan kısa sürede yapılan okçuluk oyunu — Kaynak eki 3" width="420"></a><br><a href="https://x.com/BhavikY663/status/2102488215445983290">Kaynak eki 3</a></td>
+<td><a href="https://x.com/BhavikY663/status/2102488215445983290"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102487773165096960-d70f4e56d313.jpg" alt="On dakikadan kısa sürede yapılan okçuluk oyunu — Kaynak eki 3" width="420"></a><br><a href="https://x.com/BhavikY663/status/2102488215445983290">Kaynak eki 3</a></td>
 </tr>
 </table>
 
@@ -850,7 +850,7 @@ Yazar, Runescape Bench’te Opus 5.5’in Astra’nın ardından ikinci sırada 
 
 <table>
 <tr>
-<td><a href="https://x.com/maxbittker/status/2102451744030490912"><img src="assets/media/2102451439486251008.jpg" alt="Runescape Bench puanı ve maliyeti — Kaynak eki 1" width="420"></a><br><a href="https://x.com/maxbittker/status/2102451744030490912">Kaynak eki 1</a></td>
+<td><a href="https://x.com/maxbittker/status/2102451744030490912"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102451439486251008-c02df2a390b7.jpg" alt="Runescape Bench puanı ve maliyeti — Kaynak eki 1" width="420"></a><br><a href="https://x.com/maxbittker/status/2102451744030490912">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -871,7 +871,7 @@ Yazar, kullanıcıların balıkları beslemesini sağlayan etkileşime sahip bir
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102479905212473344/vid/avc1/1920x1080/wayY24Um6q4mzTVd.mp4?tag=29"><img src="assets/media/2102479905212473344.jpg" alt="Etkileşimli mercan resifi duvar kâğıdı — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102479905212473344/vid/avc1/1920x1080/wayY24Um6q4mzTVd.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479905212473344-33e677c7d39d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102479905212473344-b4028d04f4aa.jpg" alt="Etkileşimli mercan resifi duvar kâğıdı — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479905212473344-33e677c7d39d.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -888,7 +888,7 @@ Yazar canlı yayın sırasında su simülasyonları oluşturuyor; bu gönderi ü
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102500422355185664/vid/avc1/1920x1080/BOGmZuGWcsfynubs.mp4?tag=29"><img src="assets/media/2102500422355185664.jpg" alt="Canlı yayından su simülasyonu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102500422355185664/vid/avc1/1920x1080/BOGmZuGWcsfynubs.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500422355185664-3a53a26e5881.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102500422355185664-f058290c67cb.jpg" alt="Canlı yayından su simülasyonu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500422355185664-3a53a26e5881.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -905,7 +905,7 @@ Yazar, video referansından tek geçişte 3D suyu yeniden oluşturduğunu göste
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102479821364142080/vid/avc1/1080x1724/aFlEwHrgDcqZeJzL.mp4?tag=29"><img src="assets/media/2102479821364142080.jpg" alt="Videodan 3D suyu yeniden oluşturmak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102479821364142080/vid/avc1/1080x1724/aFlEwHrgDcqZeJzL.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479821364142080-e48a23196714.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102479821364142080-beebfaea5b49.jpg" alt="Videodan 3D suyu yeniden oluşturmak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479821364142080-e48a23196714.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -922,7 +922,7 @@ Higgsfield’ın platform demosu kemikler, kaslar ve tendonlardan oluşan katman
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102516830602694656/vid/avc1/1920x1440/YWdHkhGrtKK9F20r.mp4?tag=29"><img src="assets/media/2102516830602694656.jpg" alt="Katmanlı el anatomisi gezgini — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102516830602694656/vid/avc1/1920x1440/YWdHkhGrtKK9F20r.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102516830602694656-e98c9635968a.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102516830602694656-640fabd06f6f.jpg" alt="Katmanlı el anatomisi gezgini — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102516830602694656-e98c9635968a.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -939,7 +939,7 @@ Platformun bu tanıtım karşılaştırması, Kilo Code’da bir çimlere dokunm
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102474210299834368/vid/avc1/1920x1080/dVDcRcsC2R5sj_3g.mp4?tag=29"><img src="assets/media/2102474210299834368.jpg" alt="Kilo Code’da çimlere dokunma simülatörü — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102474210299834368/vid/avc1/1920x1080/dVDcRcsC2R5sj_3g.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474210299834368-3a7bb4bd18c2.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102474210299834368-5f09f4e6f2e2.jpg" alt="Kilo Code’da çimlere dokunma simülatörü — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474210299834368-3a7bb4bd18c2.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -956,7 +956,7 @@ Bu ikinci el gönderi, bir trebuşe çiziminin fizik, kontroller ve ses efektler
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102461645201268736/vid/avc1/1920x1080/IJV3a2Tr4NH_pPlV.mp4?tag=29"><img src="assets/media/2102461645201268736.jpg" alt="Trebuşe çiziminden simülasyona — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102461645201268736/vid/avc1/1920x1080/IJV3a2Tr4NH_pPlV.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461645201268736-5a45606bda32.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102461645201268736-e2926e359843.jpg" alt="Trebuşe çiziminden simülasyona — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461645201268736-5a45606bda32.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -973,7 +973,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102508620118212609/vid/avc1/1920x1080/ptCi9V6eXBAAb2B3.mp4?tag=29"><img src="assets/media/2102508620118212609.jpg" alt="Raylar ve sarkaç mekanizmaları — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102508620118212609/vid/avc1/1920x1080/ptCi9V6eXBAAb2B3.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508620118212609-a3e2ba6ce6ff.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102508620118212609-53fb61465348.jpg" alt="Raylar ve sarkaç mekanizmaları — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508620118212609-a3e2ba6ce6ff.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -990,7 +990,7 @@ Yazar, Higgsfield’da farklı yerçekimi ayarlarında yüzün değişimini gös
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102483220801658880/vid/avc1/1440x1080/HR14txAqdWLnyA-2.mp4?tag=29"><img src="assets/media/2102483220801658880.jpg" alt="Farklı yerçekimlerinde yüzler — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102483220801658880/vid/avc1/1440x1080/HR14txAqdWLnyA-2.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483220801658880-284a1cbb0121.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102483220801658880-77083dbb754c.jpg" alt="Farklı yerçekimlerinde yüzler — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483220801658880-284a1cbb0121.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1007,7 +1007,7 @@ Yazar, Web’in nasıl çalıştığını açıklayan bağlantılı HTML sayfala
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102476824601407488/vid/avc1/1920x1080/3t-p0tA2b-YRsSXd.mp4?tag=29"><img src="assets/media/2102476824601407488.jpg" alt="Bağlantılı sayfalarla Web’i açıklamak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102476824601407488/vid/avc1/1920x1080/3t-p0tA2b-YRsSXd.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476824601407488-7e3106feb19e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102476824601407488-143466875e56.jpg" alt="Bağlantılı sayfalarla Web’i açıklamak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476824601407488-7e3106feb19e.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1024,7 +1024,7 @@ Higgsfield’ın tanıtım demosu, bir gözün parçalarına ayrılıp inceleneb
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102535899762565120/vid/avc1/1080x1280/3_-03uTkO43CbydA.mp4?tag=29"><img src="assets/media/2102535899762565120.jpg" alt="Keşfedilebilir 3D göz öğrenme sayfası — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102535899762565120/vid/avc1/1080x1280/3_-03uTkO43CbydA.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102535899762565120-50f1ef9682d8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102535899762565120-5bbd7a1f22bc.jpg" alt="Keşfedilebilir 3D göz öğrenme sayfası — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102535899762565120-50f1ef9682d8.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1041,7 +1041,7 @@ Yazar, gözlemlenebilir evrenden Planck ölçeğine etkileşimli bir yolculuk de
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102475078688739328/vid/avc1/2008x1080/4EGSlryQgo6_260X.mp4?tag=29"><img src="assets/media/2102475078688739328.jpg" alt="Evrenin tamamlanmamış etkileşimli ölçeği — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102475078688739328/vid/avc1/2008x1080/4EGSlryQgo6_260X.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475078688739328-406527becd6a.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102475078688739328-3b23c8be692c.jpg" alt="Evrenin tamamlanmamış etkileşimli ölçeği — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475078688739328-406527becd6a.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1062,7 +1062,7 @@ Yazar, aynı tek istemi ve yalnızca Blender’ı kullanarak prosedürel on sani
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102468034124464128/vid/avc1/1920x1080/izS4XbbTNf-6MAFA.mp4?tag=29"><img src="assets/media/2102468034124464128.jpg" alt="On saniyelik Blender çekimi karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102468034124464128/vid/avc1/1920x1080/izS4XbbTNf-6MAFA.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468034124464128-ea542d881c70.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102468034124464128-ac9a283059bb.jpg" alt="On saniyelik Blender çekimi karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102468034124464128-ea542d881c70.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1081,7 +1081,7 @@ Yazar, insan, evcil hayvan ve araç davranışlarının Jev tarafından yönlend
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102483408551366656/vid/avc1/1762x1080/n91fsKuWg74fQd7p.mp4?tag=29"><img src="assets/media/2102483408551366656.jpg" alt="Jev ile Unreal Engine’de San Francisco — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102483408551366656/vid/avc1/1762x1080/n91fsKuWg74fQd7p.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483408551366656-850313cb26e2.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102483408551366656-dbd57d11ffb0.jpg" alt="Jev ile Unreal Engine’de San Francisco — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483408551366656-850313cb26e2.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1098,7 +1098,7 @@ Yazar, 500 tür fitness ekipmanını render ederek bunların etrafında bir spor
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102448609593827328/vid/avc1/1274x1080/FIwyxONx4h1KlfUi.mp4?tag=29"><img src="assets/media/2102448609593827328.jpg" alt="500 ekipman türüyle spor salonu planlayıcısı — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102448609593827328/vid/avc1/1274x1080/FIwyxONx4h1KlfUi.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448609593827328-837c030992d9.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102448609593827328-bff977f194e4.jpg" alt="500 ekipman türüyle spor salonu planlayıcısı — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448609593827328-837c030992d9.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1115,7 +1115,7 @@ BridgeBench’in platform tanıtımı, tek istemden 3D roket fırlatması ürete
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102476699703074816/vid/avc1/1920x1080/ekb2NrYtPP9nDxy3.mp4?tag=29"><img src="assets/media/2102476699703074816.jpg" alt="Dört modelli roket fırlatma karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102476699703074816/vid/avc1/1920x1080/ekb2NrYtPP9nDxy3.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476699703074816-d98e76448f64.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102476699703074816-9fb2b75a16f9.jpg" alt="Dört modelli roket fırlatma karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476699703074816-d98e76448f64.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1132,7 +1132,7 @@ Yazar, bisiklete binen bir pelikanı konu alan bir çalışma paylaşıyor.
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102460068092600320/vid/avc1/1670x1080/xBvUSubY7iPB6sJr.mp4?tag=29"><img src="assets/media/2102460068092600320.jpg" alt="Bisiklete binen pelikan — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102460068092600320/vid/avc1/1670x1080/xBvUSubY7iPB6sJr.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102460068092600320-c8280c40d319.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102460068092600320-108c82ae14f8.jpg" alt="Bisiklete binen pelikan — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102460068092600320-c8280c40d319.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1149,7 +1149,7 @@ Platformun bu tanıtım demosu, San Francisco’daki Market Street’in 1906 dep
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102465460545675264/vid/avc1/960x680/pI_d-60Nkkemn0zI.mp4?tag=29"><img src="assets/media/2102465460545675264.jpg" alt="1906 depreminden önce Market Street — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102465460545675264/vid/avc1/960x680/pI_d-60Nkkemn0zI.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102465460545675264-7d2d137bf064.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102465460545675264-6236d0095c15.jpg" alt="1906 depreminden önce Market Street — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102465460545675264-7d2d137bf064.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1166,7 +1166,7 @@ Atomic Chat’in platform tanıtımı, aynı istemi kullanarak bisiklete binen b
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102492119449337856/vid/avc1/1920x1080/n-Z8m5l6RxxMmkfP.mp4?tag=29"><img src="assets/media/2102492119449337856.jpg" alt="Sol ile karşılaştırılan döngüsel Blender pelikanı — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102492119449337856/vid/avc1/1920x1080/n-Z8m5l6RxxMmkfP.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492119449337856-7250e7e92af4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102492119449337856-51934cd8d58a.jpg" alt="Sol ile karşılaştırılan döngüsel Blender pelikanı — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492119449337856-7250e7e92af4.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1183,7 +1183,7 @@ Yazar, gönderi metninde konusunu belirtmeden bir Blender çalışması paylaş�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102487325448028160/vid/avc1/1920x1080/CDO-KMFHFe-hxSjE.mp4?tag=29"><img src="assets/media/2102487325448028160.jpg" alt="Blender çalışması gösterimi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102487325448028160/vid/avc1/1920x1080/CDO-KMFHFe-hxSjE.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487325448028160-9cefeb6bf2a8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102487325448028160-f2f8653bf89e.jpg" alt="Blender çalışması gösterimi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102487325448028160-9cefeb6bf2a8.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1200,7 +1200,7 @@ Higgsfield’ın tanıtım demosu, bir Blender yel değirmeninin modelleme, rig 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102453598559055873/vid/avc1/1080x1920/etmIb_DtBCpTHJau.mp4?tag=29"><img src="assets/media/2102453598559055873.jpg" alt="Blender yel değirmeni iş akışı — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102453598559055873/vid/avc1/1080x1920/etmIb_DtBCpTHJau.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453598559055873-f41e364c0d58.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102453598559055873-1b648ff8c2a2.jpg" alt="Blender yel değirmeni iş akışı — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453598559055873-f41e364c0d58.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1217,7 +1217,7 @@ Yazar, bütünüyle kodla üretilmiş bir Golden Gate Bridge sahnesi gösteriyor
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102458011956711424/vid/avc1/1920x1080/bMcVm_7sVQqBZJhx.mp4?tag=16"><img src="assets/media/2102458011956711424.jpg" alt="Kodla yapılan Golden Gate Bridge — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102458011956711424/vid/avc1/1920x1080/bMcVm_7sVQqBZJhx.mp4?tag=16">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102458011956711424-0b09adc09172.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102458011956711424-88b5379b03eb.jpg" alt="Kodla yapılan Golden Gate Bridge — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102458011956711424-0b09adc09172.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1234,7 +1234,7 @@ Yazar volkanik ada, sualtı yaşamı, bitki örtüsü, mamutlar ve kutup ışık
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102450190217101312/vid/avc1/1920x720/1Db-WwJfI-4dKA9c.mp4?tag=29"><img src="assets/media/2102450190217101312.jpg" alt="Volkanik adalar, deniz yaşamı ve kutup ışıkları — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102450190217101312/vid/avc1/1920x720/1Db-WwJfI-4dKA9c.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450190217101312-3ccecb49ce19.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102450190217101312-2636c5f2e005.jpg" alt="Volkanik adalar, deniz yaşamı ve kutup ışıkları — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450190217101312-3ccecb49ce19.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1251,7 +1251,7 @@ Higgsfield, dış iskeletin zayıflıklarını analiz etmek ve Blender 3D modeli
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102449110007869440/vid/avc1/1440x1440/se7-EmGCUFGrGNLZ.mp4?tag=29"><img src="assets/media/2102449110007869440.jpg" alt="Blender’da dış iskelet eklemlerini yeniden tasarlamak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102449110007869440/vid/avc1/1440x1440/se7-EmGCUFGrGNLZ.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449110007869440-4b2d3e6edd30.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102449110007869440-f83288892d8a.jpg" alt="Blender’da dış iskelet eklemlerini yeniden tasarlamak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449110007869440-4b2d3e6edd30.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1268,7 +1268,7 @@ Yazar, Cowork’te oluşturulmuş bir solarpunk şehir sahnesi gösteriyor.
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102482850184404992/vid/avc1/1278x846/aXQLGXAKHJXAxSMZ.mp4?tag=29"><img src="assets/media/2102482850184404992.jpg" alt="Cowork’te solarpunk şehir — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102482850184404992/vid/avc1/1278x846/aXQLGXAKHJXAxSMZ.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102482850184404992-5ae2268221be.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102482850184404992-bbc30d4adac6.jpg" alt="Cowork’te solarpunk şehir — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102482850184404992-5ae2268221be.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1285,7 +1285,7 @@ Yazar; taksiler, çatılar, Brooklyn Bridge ve Central Park içeren bir Three.js
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102464915155922944/vid/avc1/1280x1264/7LenXze_nG883sGq.mp4?tag=29"><img src="assets/media/2102464915155922944.jpg" alt="Three.js ile New York mahallesi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102464915155922944/vid/avc1/1280x1264/7LenXze_nG883sGq.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464915155922944-ef7219b3ebf4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102464915155922944-97fbc201ef17.jpg" alt="Three.js ile New York mahallesi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464915155922944-ef7219b3ebf4.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1302,12 +1302,12 @@ Yazar, Opus 5.5 ile yapılmış bisiklete binen bir pelikan çalışması payla�
 
 <table>
 <tr>
-<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="assets/media/2102469906495418368.jpg" alt="Başka bir bisikletli pelikan çalışması — Kaynak eki 1" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Kaynak eki 1</a></td>
-<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="assets/media/2102469984912031744.jpg" alt="Başka bir bisikletli pelikan çalışması — Kaynak eki 2" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Kaynak eki 2</a></td>
+<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102469906495418368-3deb7cb0b52e.jpg" alt="Başka bir bisikletli pelikan çalışması — Kaynak eki 1" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Kaynak eki 1</a></td>
+<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102469984912031744-0b1bb548db45.jpg" alt="Başka bir bisikletli pelikan çalışması — Kaynak eki 2" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Kaynak eki 2</a></td>
 </tr>
 <tr>
-<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="assets/media/2102470026892820480.jpg" alt="Başka bir bisikletli pelikan çalışması — Kaynak eki 3" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Kaynak eki 3</a></td>
-<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="assets/media/2102470058585067520.jpg" alt="Başka bir bisikletli pelikan çalışması — Kaynak eki 4" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Kaynak eki 4</a></td>
+<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102470026892820480-d1f98d4259de.jpg" alt="Başka bir bisikletli pelikan çalışması — Kaynak eki 3" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Kaynak eki 3</a></td>
+<td><a href="https://x.com/riba2534/status/2102470079254556793"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102470058585067520-513aa4b97657.jpg" alt="Başka bir bisikletli pelikan çalışması — Kaynak eki 4" width="420"></a><br><a href="https://x.com/riba2534/status/2102470079254556793">Kaynak eki 4</a></td>
 </tr>
 </table>
 
@@ -1324,7 +1324,7 @@ Higgsfield’ın platform demosu Blender’da bir Shinkansen modeli sunuyor ve 5
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102506945357979648/vid/avc1/1920x1440/pKPWeGfkqx5z0Hxd.mp4?tag=29"><img src="assets/media/2102506945357979648.jpg" alt="Blender’da Shinkansen modeli — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102506945357979648/vid/avc1/1920x1440/pKPWeGfkqx5z0Hxd.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102506945357979648-18aefe0aa10e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102506945357979648-69b1530a1d51.jpg" alt="Blender’da Shinkansen modeli — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102506945357979648-18aefe0aa10e.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1341,8 +1341,8 @@ Yazar, bir girdi görüntüsünü tek geçişte 3D’ye dönüştürüyor; renkl
 
 <table>
 <tr>
-<td><a href="https://x.com/izutorishima/status/2102456991109230759"><img src="assets/media/2102456615215792128.jpg" alt="Görüntüden düşük poligonlu 3D’ye — Kaynak eki 1" width="420"></a><br><a href="https://x.com/izutorishima/status/2102456991109230759">Kaynak eki 1</a></td>
-<td><a href="https://x.com/izutorishima/status/2102456991109230759"><img src="assets/media/2102456711672217600.jpg" alt="Görüntüden düşük poligonlu 3D’ye — Kaynak eki 2" width="420"></a><br><a href="https://x.com/izutorishima/status/2102456991109230759">Kaynak eki 2</a></td>
+<td><a href="https://x.com/izutorishima/status/2102456991109230759"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102456615215792128-fa0fb4fa6b1f.jpg" alt="Görüntüden düşük poligonlu 3D’ye — Kaynak eki 1" width="420"></a><br><a href="https://x.com/izutorishima/status/2102456991109230759">Kaynak eki 1</a></td>
+<td><a href="https://x.com/izutorishima/status/2102456991109230759"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102456711672217600-d18c9e6318c9.jpg" alt="Görüntüden düşük poligonlu 3D’ye — Kaynak eki 2" width="420"></a><br><a href="https://x.com/izutorishima/status/2102456991109230759">Kaynak eki 2</a></td>
 </tr>
 </table>
 
@@ -1359,7 +1359,7 @@ Type: Demo | Date: 2026-09-22
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478453639421952/vid/avc1/1966x1080/pxlt3gYx7N7PQdxD.mp4?tag=29"><img src="assets/media/2102478453639421952.jpg" alt="Tripo P2, JEF ve MCP ile karakter iş akışı — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478453639421952/vid/avc1/1966x1080/pxlt3gYx7N7PQdxD.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478453639421952-ff6f0ccc7aa6.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478453639421952-a27c2c1df97c.jpg" alt="Tripo P2, JEF ve MCP ile karakter iş akışı — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478453639421952-ff6f0ccc7aa6.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1376,7 +1376,7 @@ Higgsfield’ın platform demosu, tek ev fotoğrafını ve kat planlarını bir 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102498661171429376/vid/avc1/1600x1280/seuoIgoK393CRt-K.mp4?tag=29"><img src="assets/media/2102498661171429376.jpg" alt="Ev fotoğrafları ve planlardan 3D’ye — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102498661171429376/vid/avc1/1600x1280/seuoIgoK393CRt-K.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102498661171429376-ad35cd7efec1.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102498661171429376-c71a747b8fcb.jpg" alt="Ev fotoğrafları ve planlardan 3D’ye — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102498661171429376-ad35cd7efec1.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1393,7 +1393,7 @@ Yazar, bir şişede gemi üretim testinin sonucunu gösteriyor.
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102456712338841601/vid/avc1/1920x1080/Mqtjs0t7WsA_el7k.mp4?tag=29"><img src="assets/media/2102456712338841601.jpg" alt="Şişede gemi üretim testi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102456712338841601/vid/avc1/1920x1080/Mqtjs0t7WsA_el7k.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102456712338841601-7e39c98f235d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102456712338841601-fae0f4a2d8a6.jpg" alt="Şişede gemi üretim testi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102456712338841601-7e39c98f235d.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1410,7 +1410,7 @@ Yazar, aynı istem ve Max çaba düzeyinde DeLorean, saat kulesi ve yıldırım 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102502715033313280/vid/avc1/1920x1080/c2cjexCnCmSQm-yJ.mp4?tag=29"><img src="assets/media/2102502715033313280.jpg" alt="DeLorean, saat kulesi ve yıldırım — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102502715033313280/vid/avc1/1920x1080/c2cjexCnCmSQm-yJ.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502715033313280-ced59818dd9d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102502715033313280-9d983b889b77.jpg" alt="DeLorean, saat kulesi ve yıldırım — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502715033313280-ced59818dd9d.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1427,7 +1427,7 @@ Yazar, bir yapının dört aşamada gelişimini göstermek için Three.js ve TSL
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102503194777759744/vid/avc1/1920x1272/t8cX-iwpsjQXi2oC.mp4?tag=29"><img src="assets/media/2102503194777759744.jpg" alt="Çizimden tamamlanmış eve dört aşama — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102503194777759744/vid/avc1/1920x1272/t8cX-iwpsjQXi2oC.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102503194777759744-6ae55324db7d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102503194777759744-3e063e2ae74c.jpg" alt="Çizimden tamamlanmış eve dört aşama — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102503194777759744-6ae55324db7d.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1444,7 +1444,7 @@ AI/ML API’nin platform tanıtımı 3D çıktıları karşılaştırıyor; Opus
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102515321844232193/vid/avc1/1874x1364/STEuP1iOH7NVNKYR.mp4?tag=29"><img src="assets/media/2102515321844232193.jpg" alt="3D sonuçları ve bildirilen maliyet karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102515321844232193/vid/avc1/1874x1364/STEuP1iOH7NVNKYR.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102515321844232193-ec4313ede390.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102515321844232193-70cba8867b45.jpg" alt="3D sonuçları ve bildirilen maliyet karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102515321844232193-ec4313ede390.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1463,7 +1463,7 @@ Higgsfield’ın platform demosu, bir tabloyu farklı açılardan görülebilen 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102513304363245568/vid/avc1/1920x1080/32m28m3tVmuYDyYa.mp4?tag=29"><img src="assets/media/2102513304363245568.jpg" alt="Tablodan keşfedilebilir sahneye — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102513304363245568/vid/avc1/1920x1080/32m28m3tVmuYDyYa.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513304363245568-0d513bbc63df.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102513304363245568-b0744aa7760b.jpg" alt="Tablodan keşfedilebilir sahneye — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513304363245568-0d513bbc63df.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1480,7 +1480,7 @@ Higgsfield’ın platform demosu, farklı düzenleri 3D olarak denemek için bir
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102510447375380480/vid/avc1/1920x1080/r_KkI2cXkrStcbZG.mp4?tag=29"><img src="assets/media/2102510447375380480.jpg" alt="3D mobilya yerleşim simülatörü — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102510447375380480/vid/avc1/1920x1080/r_KkI2cXkrStcbZG.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102510447375380480-0665f3213016.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102510447375380480-41e761bac960.jpg" alt="3D mobilya yerleşim simülatörü — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102510447375380480-0665f3213016.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1497,7 +1497,7 @@ Higgsfield’ın platform demosu, karakalem çizimi çizgi dokularını koruyara
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102519117756641280/vid/avc1/1080x1080/fHf50hAmOIOh3Csf.mp4?tag=29"><img src="assets/media/2102519117756641280.jpg" alt="Karakalem çizimden 3D’ye — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102519117756641280/vid/avc1/1080x1080/fHf50hAmOIOh3Csf.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102519117756641280-18c6b6ba94c1.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102519117756641280-6b365764621c.jpg" alt="Karakalem çizimden 3D’ye — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102519117756641280-18c6b6ba94c1.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1514,7 +1514,7 @@ Yazar, Akdeniz liman kasabasında tarayıcı üzerinden çok oyunculu bir gezint
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102474431834861568/vid/avc1/1894x996/PeiaAtcPEK-ztlms.mp4?tag=29"><img src="assets/media/2102474431834861568.jpg" alt="Çok oyunculu Akdeniz limanı gezintisi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102474431834861568/vid/avc1/1894x996/PeiaAtcPEK-ztlms.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474431834861568-987310b45055.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102474431834861568-9e43e6c8b3ad.jpg" alt="Çok oyunculu Akdeniz limanı gezintisi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474431834861568-987310b45055.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1531,7 +1531,7 @@ Yazar, tek geçişte yapılmış bir 3D oyun kumandası bildiriyor ve modelden p
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102505788438638592/vid/avc1/1920x1080/KQ4HsCHWj7vOKXdU.mp4?tag=29"><img src="assets/media/2102505788438638592.jpg" alt="3D oyun kumandası demosu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102505788438638592/vid/avc1/1920x1080/KQ4HsCHWj7vOKXdU.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102505788438638592-8ebd82136860.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102505788438638592-ab5bfce8f36d.jpg" alt="3D oyun kumandası demosu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102505788438638592-8ebd82136860.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1548,8 +1548,8 @@ Yazar Opus 5.5 ile GPT-6 Astra’yı karşılaştırıyor; medya önizlemesinde 
 
 <table>
 <tr>
-<td><a href="https://x.com/notjazii/status/2102499296512025026"><img src="assets/media/2102497478377631744.jpg" alt="Minecraft tarzı tapınak bahçesi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/notjazii/status/2102499296512025026">Kaynak eki 1</a></td>
-<td><a href="https://x.com/notjazii/status/2102499296512025026"><img src="assets/media/2102497493460377600.jpg" alt="Minecraft tarzı tapınak bahçesi — Kaynak eki 2" width="420"></a><br><a href="https://x.com/notjazii/status/2102499296512025026">Kaynak eki 2</a></td>
+<td><a href="https://x.com/notjazii/status/2102499296512025026"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102497478377631744-6e93c1781592.jpg" alt="Minecraft tarzı tapınak bahçesi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/notjazii/status/2102499296512025026">Kaynak eki 1</a></td>
+<td><a href="https://x.com/notjazii/status/2102499296512025026"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102497493460377600-27e29e58efb9.jpg" alt="Minecraft tarzı tapınak bahçesi — Kaynak eki 2" width="420"></a><br><a href="https://x.com/notjazii/status/2102499296512025026">Kaynak eki 2</a></td>
 </tr>
 </table>
 
@@ -1566,7 +1566,7 @@ Higgsfield’ın platform demosu Blender’da ahtapot modelleme ve animasyon gö
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102526840716115968/vid/avc1/1920x1440/zrQ_fyK4adTJQLrn.mp4?tag=29"><img src="assets/media/2102526840716115968.jpg" alt="Blender’da ahtapot modelleme ve animasyon — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102526840716115968/vid/avc1/1920x1440/zrQ_fyK4adTJQLrn.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102526840716115968-df2c3e2ee349.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102526840716115968-111bc6890ac2.jpg" alt="Blender’da ahtapot modelleme ve animasyon — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102526840716115968-df2c3e2ee349.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1583,7 +1583,7 @@ Yazar, aynı New York sahnesi görevinde High çaba düzeyindeki Opus 5.5 ile Op
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102456980002492416/vid/avc1/1280x1264/YftIx9f6m4YFCTa5.mp4?tag=29"><img src="assets/media/2102456980002492416.jpg" alt="Aynı istemle New York karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102456980002492416/vid/avc1/1280x1264/YftIx9f6m4YFCTa5.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102456980002492416-f9a2d732c87d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102456980002492416-7c945f6bbd8a.jpg" alt="Aynı istemle New York karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102456980002492416-f9a2d732c87d.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1600,7 +1600,7 @@ Yazar, Disney Soaring’den esinlenen; Alpler, kutup ışıkları, piramitler, �
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102518351289622528/vid/avc1/1920x1080/P8S3nlCVnsFVI0vs.mp4?tag=16"><img src="assets/media/2102518351289622528.jpg" alt="Farklı manzaralar üzerinde seyir uçuşu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102518351289622528/vid/avc1/1920x1080/P8S3nlCVnsFVI0vs.mp4?tag=16">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102518351289622528-e9f5f82a52b5.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102518351289622528-93a5a0ecf8b6.jpg" alt="Farklı manzaralar üzerinde seyir uçuşu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102518351289622528-e9f5f82a52b5.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1617,7 +1617,7 @@ Yazar, voksel tarzında bir Claude karakteri ve animasyonunu gösteriyor.
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102511211120050176/vid/avc1/1920x1080/UUUe7w_J2OYfiPoO.mp4?tag=29"><img src="assets/media/2102511211120050176.jpg" alt="Voksel tarzı Claude animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102511211120050176/vid/avc1/1920x1080/UUUe7w_J2OYfiPoO.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102511211120050176-f70ef317190f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102511211120050176-5af2eea59b4a.jpg" alt="Voksel tarzı Claude animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102511211120050176-f70ef317190f.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1634,7 +1634,7 @@ Yazar, voksel tarzı bisikletli pelikan sahnesini Fable ve Astra ile karşılaş
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102453086815977473/vid/avc1/1920x1080/wupTL8Gxhx3utDGe.mp4?tag=29"><img src="assets/media/2102453086815977473.jpg" alt="Fable ve Astra ile karşılaştırılan voksel pelikan — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102453086815977473/vid/avc1/1920x1080/wupTL8Gxhx3utDGe.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453086815977473-edaa6d456bc7.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102453086815977473-edf197365f8c.jpg" alt="Fable ve Astra ile karşılaştırılan voksel pelikan — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453086815977473-edaa6d456bc7.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1651,7 +1651,7 @@ Medya önizlemesinde, aynı görev için bir yarış arabası modeli GPT-6 Sol�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478330444537856/vid/avc1/1080x1124/eWLVlkoMKO-TcX0A.mp4?tag=29"><img src="assets/media/2102478330444537856.jpg" alt="GPT-6 Sol ile karşılaştırılan yarış arabası modeli — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478330444537856/vid/avc1/1080x1124/eWLVlkoMKO-TcX0A.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478330444537856-9c6c30da2bb8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478330444537856-77532ae29bfd.jpg" alt="GPT-6 Sol ile karşılaştırılan yarış arabası modeli — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478330444537856-9c6c30da2bb8.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1668,7 +1668,7 @@ Yazar, GPU hızlandırması kullanan ve tek geçişte yapılmış bir Three.js k
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102497141625077760/vid/avc1/1720x1080/rlUQfawdxn-0LaNB.mp4?tag=29"><img src="assets/media/2102497141625077760.jpg" alt="GPU hızlandırmalı kedi tüyü simülasyonu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102497141625077760/vid/avc1/1720x1080/rlUQfawdxn-0LaNB.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102497141625077760-b8ea7fefbba4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102497141625077760-13e441db599e.jpg" alt="GPU hızlandırmalı kedi tüyü simülasyonu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102497141625077760-b8ea7fefbba4.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1685,7 +1685,7 @@ Yazar, Minecraft voksel yapıları için Opus 5.5 ve GPT-6 Astra’yı öznel ol
 
 <table>
 <tr>
-<td><a href="https://x.com/Angaisb_/status/2102493141668643084"><img src="assets/media/2102492962525421568.jpg" alt="Minecraft voksel yapı karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102493141668643084">Kaynak eki 1</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102493141668643084"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102492962525421568-c209b9fef82e.jpg" alt="Minecraft voksel yapı karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102493141668643084">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -1702,7 +1702,7 @@ Yazar, bir roket gemisi görevini Opus 5.5 Medium, Grok 4.7 xhigh ve Astra Mediu
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102449320985563136/vid/avc1/1920x1080/ZZO0I4KgdOZWir2-.mp4?tag=29"><img src="assets/media/2102449320985563136.jpg" alt="Üç modelli roket gemisi testi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102449320985563136/vid/avc1/1920x1080/ZZO0I4KgdOZWir2-.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449320985563136-e852390fbf43.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102449320985563136-e9fa6dd1e06d.jpg" alt="Üç modelli roket gemisi testi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449320985563136-e852390fbf43.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1719,7 +1719,7 @@ Yazar, Opus 5.5 ve Opus 5’in Three.js kodlama sonuçlarını karşılaştırı
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102471601002315776/vid/avc1/1972x1080/8OCjJwPyEIRAOUcj.mp4?tag=29"><img src="assets/media/2102471601002315776.jpg" alt="Opus 5 ile Three.js karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102471601002315776/vid/avc1/1972x1080/8OCjJwPyEIRAOUcj.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102471601002315776-e4676d22f2f8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102471601002315776-b8be2b846862.jpg" alt="Opus 5 ile Three.js karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102471601002315776-e4676d22f2f8.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1736,7 +1736,7 @@ Yazar; lunapark, hayalet kasaba ve nükleer santral hakkında tek dosyalı Three
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102527016691990528/vid/avc1/1920x1080/WeNBWMBq_Z_sV9vi.mp4?tag=29"><img src="assets/media/2102527016691990528.jpg" alt="Three.js kıyamet kısa filmleri — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102527016691990528/vid/avc1/1920x1080/WeNBWMBq_Z_sV9vi.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102527016691990528-e47c04568a38.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102527016691990528-34c45139c67d.jpg" alt="Three.js kıyamet kısa filmleri — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102527016691990528-e47c04568a38.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1757,7 +1757,7 @@ Yazar, tek istemden JavaScript ile sentezlenen bas müziğini gösteriyor.
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102504223527346176/vid/avc1/1426x1080/nuY1-hmqdxLHqig8.mp4?tag=29"><img src="assets/media/2102504223527346176.jpg" alt="JavaScript’te sentezlenen bas müziği — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102504223527346176/vid/avc1/1426x1080/nuY1-hmqdxLHqig8.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102504223527346176-b49c0bbfa41c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102504223527346176-d336e3f6d68a.jpg" alt="JavaScript’te sentezlenen bas müziği — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102504223527346176-b49c0bbfa41c.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1774,7 +1774,7 @@ Yazar, on adet dört partili koral kesitinde ses yürütme hatası tespitini tes
 
 <table>
 <tr>
-<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="assets/media/2102450889969807360.png" alt="Bildirilen kusursuz müzik hatası puanı — Kaynak eki 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Kaynak eki 1</a></td>
+<td><a href="https://x.com/aug5thmusic/status/2102451262260412453"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102450889969807360-ef8a4c459cdb.png" alt="Bildirilen kusursuz müzik hatası puanı — Kaynak eki 1" width="420"></a><br><a href="https://x.com/aug5thmusic/status/2102451262260412453">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -1791,7 +1791,7 @@ Yazar, gönderi metninde ortaya çıkan sesleri belirtmeden bir ses efekti üret
 
 <table>
 <tr>
-<td><a href="https://x.com/yugen_matuni/status/2102529143128916052"><img src="assets/media/2102528972081000448.jpg" alt="Ses efekti üretim iş akışı — Kaynak eki 1" width="420"></a><br><a href="https://x.com/yugen_matuni/status/2102529143128916052">Kaynak eki 1</a></td>
+<td><a href="https://x.com/yugen_matuni/status/2102529143128916052"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102528972081000448-9855cd290c23.jpg" alt="Ses efekti üretim iş akışı — Kaynak eki 1" width="420"></a><br><a href="https://x.com/yugen_matuni/status/2102529143128916052">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -1812,8 +1812,8 @@ Yazar, Opus 5.5 ile GPT-6 Sol’u karşılaştırıyor; medya önizlemesinde Poc
 
 <table>
 <tr>
-<td><a href="https://x.com/Angaisb_/status/2102476249671082365"><img src="assets/media/2102475949145006080.jpg" alt="Pocket Color el konsolu grafikleri karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102476249671082365">Kaynak eki 1</a></td>
-<td><a href="https://x.com/Angaisb_/status/2102476249671082365"><img src="assets/media/2102476048852041728.jpg" alt="Pocket Color el konsolu grafikleri karşılaştırması — Kaynak eki 2" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102476249671082365">Kaynak eki 2</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102476249671082365"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102475949145006080-a20358b59166.jpg" alt="Pocket Color el konsolu grafikleri karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102476249671082365">Kaynak eki 1</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102476249671082365"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102476048852041728-7322754058fc.jpg" alt="Pocket Color el konsolu grafikleri karşılaştırması — Kaynak eki 2" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102476249671082365">Kaynak eki 2</a></td>
 </tr>
 </table>
 
@@ -1830,7 +1830,7 @@ Yazar, tek geçişte 18 dakika ve 31 saniyede üretildiğini bildirdiği bir Swe
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102471444336611328/vid/avc1/1080x1080/Gq062pYx-yV3Tde7.mp4?tag=29"><img src="assets/media/2102471444336611328.jpg" alt="18m 31s süren Sweet Tooth animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102471444336611328/vid/avc1/1080x1080/Gq062pYx-yV3Tde7.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102471444336611328-ae380abfa790.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102471444336611328-68e87f01ac31.jpg" alt="18m 31s süren Sweet Tooth animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102471444336611328-ae380abfa790.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1847,7 +1847,7 @@ Raporun video örnek kontrolü Claude ve AGI temalı bir çizgi film saptıyor, 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102514085137154048/vid/avc1/1280x720/k7-vfCveNwGQnk1v.mp4?tag=14"><img src="assets/media/2102514085137154048.jpg" alt="Claude ve AGI temalı çizgi film — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102514085137154048/vid/avc1/1280x720/k7-vfCveNwGQnk1v.mp4?tag=14">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102514085137154048-a191b116e9dc.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102514085137154048-8ea48aa0a169.jpg" alt="Claude ve AGI temalı çizgi film — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102514085137154048-a191b116e9dc.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1864,7 +1864,7 @@ Yazar, bütünüyle kodla yapılmış bir piksel büyücü animasyonu gösteriyo
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102476231740399616/vid/avc1/1080x890/8wOPIn__IAkbl9ho.mp4?tag=29"><img src="assets/media/2102476231740399616.jpg" alt="Kodla yapılan piksel büyücü animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102476231740399616/vid/avc1/1080x890/8wOPIn__IAkbl9ho.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476231740399616-5d7eaa2266da.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102476231740399616-75fb363f4125.jpg" alt="Kodla yapılan piksel büyücü animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102476231740399616-5d7eaa2266da.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1881,7 +1881,7 @@ Yazar, kareleri Opus 5.5 tarafından JavaScript’te çizilmiş bir animasyon g�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102457077390299136/vid/avc1/1280x720/0GdMBFz95r0KPjMG.mp4?tag=14"><img src="assets/media/2102457077390299136.jpg" alt="Kare kare JavaScript animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102457077390299136/vid/avc1/1280x720/0GdMBFz95r0KPjMG.mp4?tag=14">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457077390299136-c314c14b219e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102457077390299136-5a380013be65.jpg" alt="Kare kare JavaScript animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457077390299136-c314c14b219e.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1898,7 +1898,7 @@ Yazar, Nintendo Switch SVG’si oluşturmak ve Gemini 4 Pro ile karşılaştırm
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102451356917276672/vid/avc1/1920x1080/opEdMmhd6w5w7QAk.mp4?tag=29"><img src="assets/media/2102451356917276672.jpg" alt="Nintendo Switch SVG animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102451356917276672/vid/avc1/1920x1080/opEdMmhd6w5w7QAk.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451356917276672-fceeb9f3f482.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102451356917276672-0b6035883a24.jpg" alt="Nintendo Switch SVG animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451356917276672-fceeb9f3f482.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1915,7 +1915,7 @@ Yazar, modelin zor problemleri çözmesinin nasıl görünebileceğini hayal ede
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478162211098624/vid/avc1/2560x1440/ULtHTYX5psqpaEXw.mp4?tag=29"><img src="assets/media/2102478162211098624.jpg" alt="Problem çözmenin kodla yapılmış animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478162211098624/vid/avc1/2560x1440/ULtHTYX5psqpaEXw.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478162211098624-b1cf0af1bb97.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478162211098624-85d2e9aa3b86.jpg" alt="Problem çözmenin kodla yapılmış animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478162211098624-b1cf0af1bb97.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1932,7 +1932,7 @@ Gönderi, ön tekerleği kaldırma gibi hareketleri vurgulayan, bisiklete binen 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102447519674585088/vid/avc1/1280x720/a443IPw1hdNfSqS6.mp4?tag=29"><img src="assets/media/2102447519674585088.jpg" alt="Paylaşılan bisikletli pelikan döngüsü — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102447519674585088/vid/avc1/1280x720/a443IPw1hdNfSqS6.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102447519674585088-d2b41dfd4c83.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102447519674585088-7e5d2fa5ee88.jpg" alt="Paylaşılan bisikletli pelikan döngüsü — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102447519674585088-d2b41dfd4c83.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1949,8 +1949,8 @@ BridgeMind, aynı PS5 kumandası SVG isteminde Opus 5.5 ile GPT-6 Sol’u ayrın
 
 <table>
 <tr>
-<td><a href="https://x.com/bridgemindai/status/2102484711389966509"><img src="assets/media/2102483972462645248.jpg" alt="PS5 kumandası SVG karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://x.com/bridgemindai/status/2102484711389966509">Kaynak eki 1</a></td>
-<td><a href="https://x.com/bridgemindai/status/2102484711389966509"><img src="assets/media/2102483976820535296.jpg" alt="PS5 kumandası SVG karşılaştırması — Kaynak eki 2" width="420"></a><br><a href="https://x.com/bridgemindai/status/2102484711389966509">Kaynak eki 2</a></td>
+<td><a href="https://x.com/bridgemindai/status/2102484711389966509"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102483972462645248-2052ea716f8e.jpg" alt="PS5 kumandası SVG karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://x.com/bridgemindai/status/2102484711389966509">Kaynak eki 1</a></td>
+<td><a href="https://x.com/bridgemindai/status/2102484711389966509"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102483976820535296-75059c262e54.jpg" alt="PS5 kumandası SVG karşılaştırması — Kaynak eki 2" width="420"></a><br><a href="https://x.com/bridgemindai/status/2102484711389966509">Kaynak eki 2</a></td>
 </tr>
 </table>
 
@@ -1967,7 +1967,7 @@ Yazar aynı Devin çalışma ortamı, istem ve en yüksek akıl yürütme ayarla
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102488109971808257/vid/avc1/2520x1080/l6D9gSC-gLs1C6nD.mp4?tag=29"><img src="assets/media/2102488109971808257.jpg" alt="Devin’de su ve parçacık görselleri — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488109971808257/vid/avc1/2520x1080/l6D9gSC-gLs1C6nD.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102488109971808257-3ae5c53d6ce3.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102488109971808257-efaad1370661.jpg" alt="Devin’de su ve parçacık görselleri — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102488109971808257-3ae5c53d6ce3.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -1984,7 +1984,7 @@ Yazar, tek denemede 14 dakika 48 saniyede yapıldığını bildirdiği Oktoberfe
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102493087381487616/vid/avc1/1920x1080/dMwClUvawHddh2E2.mp4?tag=29"><img src="assets/media/2102493087381487616.jpg" alt="Oktoberfest animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102493087381487616/vid/avc1/1920x1080/dMwClUvawHddh2E2.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102493087381487616-3aa3714b9b52.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102493087381487616-a962e740b5ee.jpg" alt="Oktoberfest animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102493087381487616-3aa3714b9b52.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2001,7 +2001,7 @@ Yazar, bütünüyle JavaScript’te oluşturulduğu bildirilen müzik ve hareket
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102480439512539136/vid/avc1/1978x1080/ZRgMTxPF2khbJMCd.mp4?tag=29"><img src="assets/media/2102480439512539136.jpg" alt="JavaScript’te yazılan müzik ve görseller — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102480439512539136/vid/avc1/1978x1080/ZRgMTxPF2khbJMCd.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102480439512539136-031caab75f51.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102480439512539136-ed09218bd4a9.jpg" alt="JavaScript’te yazılan müzik ve görseller — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102480439512539136-031caab75f51.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2018,7 +2018,7 @@ Yazar, stilize bir etkileşimli animasyon gösteriyor ve haricî varlık, MCP ve
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102501285840986112/vid/avc1/2560x1440/KNGdkncQUsYij81R.mp4?tag=29"><img src="assets/media/2102501285840986112.jpg" alt="Yalnızca JavaScript kullanan etkileşimli animasyon — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102501285840986112/vid/avc1/2560x1440/KNGdkncQUsYij81R.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102501285840986112-6fba73025abe.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102501285840986112-01211c9dfd9b.jpg" alt="Yalnızca JavaScript kullanan etkileşimli animasyon — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102501285840986112-6fba73025abe.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2035,7 +2035,7 @@ Yazar, AIML API kullanarak Opus 5.5, GPT-6 Astra ve Opus 5 arasında aynı istem
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102464017474420737/vid/avc1/1080x1920/qRNa8HcyewqSs2zH.mp4?tag=29"><img src="assets/media/2102464017474420737.jpg" alt="Üç modelli animasyon karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102464017474420737/vid/avc1/1080x1920/qRNa8HcyewqSs2zH.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464017474420737-0905c0e3730d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102464017474420737-93e2fa1ce782.jpg" alt="Üç modelli animasyon karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464017474420737-0905c0e3730d.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2052,7 +2052,7 @@ Yazar, Claude Code’da tek denemede Xbox logosu dahil 334 satır SVG kullanarak
 
 <table>
 <tr>
-<td><a href="https://x.com/marmaduke091/status/2102453079836622940"><img src="assets/media/2102452368553947136.jpg" alt="334 SVG satırında Xbox kumandası — Kaynak eki 1" width="420"></a><br><a href="https://x.com/marmaduke091/status/2102453079836622940">Kaynak eki 1</a></td>
+<td><a href="https://x.com/marmaduke091/status/2102453079836622940"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102452368553947136-3739975a8c2b.jpg" alt="334 SVG satırında Xbox kumandası — Kaynak eki 1" width="420"></a><br><a href="https://x.com/marmaduke091/status/2102453079836622940">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -2069,7 +2069,7 @@ Higgsfield, Opus 5.5’in TouchDesigner’da referanslardan efektlerini yeniden 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102454552201252864/vid/avc1/1440x1080/Oq9kWrdMjMJzv9ZV.mp4?tag=29"><img src="assets/media/2102454552201252864.jpg" alt="TouchDesigner’da yeniden oluşturulan referans efektleri — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102454552201252864/vid/avc1/1440x1080/Oq9kWrdMjMJzv9ZV.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102454552201252864-65753b430197.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102454552201252864-e81cf7400b32.jpg" alt="TouchDesigner’da yeniden oluşturulan referans efektleri — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102454552201252864-65753b430197.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2086,7 +2086,7 @@ Yazar, bir Game Boy görsel görevi için Opus 5.5’in çıktısını gösteriy
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102452953382526976/vid/avc1/2560x1440/oie__f-0w5_JJKX6.mp4?tag=29"><img src="assets/media/2102452953382526976.jpg" alt="Game Boy görsel testi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102452953382526976/vid/avc1/2560x1440/oie__f-0w5_JJKX6.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452953382526976-3e81d47639ac.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102452953382526976-320fef79c304.jpg" alt="Game Boy görsel testi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452953382526976-3e81d47639ac.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2103,7 +2103,7 @@ Yazar, Opus 5.5 ve JavaScript ile yapılmış bir animasyon paylaşıyor. Gönde
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102437792425070592/vid/avc1/1080x1080/nwtcZBGstdeV9nO_.mp4?tag=29"><img src="assets/media/2102437792425070592.jpg" alt="JavaScript animasyon gösterimi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102437792425070592/vid/avc1/1080x1080/nwtcZBGstdeV9nO_.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102437792425070592-264fb1338eb8.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102437792425070592-a3e755ff7366.jpg" alt="JavaScript animasyon gösterimi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102437792425070592-264fb1338eb8.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2122,7 +2122,7 @@ CoAnimator’ın geliştiricisi, Opus 5.5 ile birkaç istemde yapılmış animas
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102496943482286080/vid/avc1/1920x1080/gcnHTMNfXRqMH5wy.mp4?tag=29"><img src="assets/media/2102496943482286080.jpg" alt="CoAnimator’da animasyon ve ses — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102496943482286080/vid/avc1/1920x1080/gcnHTMNfXRqMH5wy.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102496943482286080-711fe6558b4f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102496943482286080-e34b3acc50ec.jpg" alt="CoAnimator’da animasyon ve ses — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102496943482286080-711fe6558b4f.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2139,7 +2139,7 @@ HyperFrames/HeyGen ekibinden biri, Opus 5.5 ve HyperFrames ile yapılmış 3D ka
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102493076757581824/vid/avc1/1440x1080/UkSCNUOeVyj1wQtD.mp4?tag=29"><img src="assets/media/2102493076757581824.jpg" alt="HyperFrames’te 3D kamera ve metin efektleri — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102493076757581824/vid/avc1/1440x1080/UkSCNUOeVyj1wQtD.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102493076757581824-cbeb65185064.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102493076757581824-d1ee3e9a61be.jpg" alt="HyperFrames’te 3D kamera ve metin efektleri — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102493076757581824-cbeb65185064.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2156,7 +2156,7 @@ Yazar, beş dakikadan kısa sürede üretildiğini bildirdiği bir piksel animas
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102513096682336256/vid/avc1/1920x1080/mxQynDez08ynbTQy.mp4?tag=29"><img src="assets/media/2102513096682336256.jpg" alt="Beş dakikadan kısa sürede piksel animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102513096682336256/vid/avc1/1920x1080/mxQynDez08ynbTQy.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513096682336256-9699b7fb695f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102513096682336256-e3bc64c44418.jpg" alt="Beş dakikadan kısa sürede piksel animasyonu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513096682336256-9699b7fb695f.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2173,12 +2173,12 @@ Yazar bir kumanda SVG’si gösteriyor ancak modelin bir DualShock PNG’si geti
 
 <table>
 <tr>
-<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="assets/media/2102474519168368640.jpg" alt="PNG varlığı kullanan kumanda SVG’si — Kaynak eki 1" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Kaynak eki 1</a></td>
-<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="assets/media/2102474519168290816.jpg" alt="PNG varlığı kullanan kumanda SVG’si — Kaynak eki 2" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Kaynak eki 2</a></td>
+<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474519168368640-263f1846e7ed.jpg" alt="PNG varlığı kullanan kumanda SVG’si — Kaynak eki 1" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Kaynak eki 1</a></td>
+<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474519168290816-04bcb7e2dbc8.jpg" alt="PNG varlığı kullanan kumanda SVG’si — Kaynak eki 2" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Kaynak eki 2</a></td>
 </tr>
 <tr>
-<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="assets/media/2102474519063449600.jpg" alt="PNG varlığı kullanan kumanda SVG’si — Kaynak eki 3" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Kaynak eki 3</a></td>
-<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="assets/media/2102474519151566848.jpg" alt="PNG varlığı kullanan kumanda SVG’si — Kaynak eki 4" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Kaynak eki 4</a></td>
+<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474519063449600-db6f3682d506.jpg" alt="PNG varlığı kullanan kumanda SVG’si — Kaynak eki 3" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Kaynak eki 3</a></td>
+<td><a href="https://x.com/hysteresis_x/status/2102474525262643208"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474519151566848-ba7bc83ebd9e.jpg" alt="PNG varlığı kullanan kumanda SVG’si — Kaynak eki 4" width="420"></a><br><a href="https://x.com/hysteresis_x/status/2102474525262643208">Kaynak eki 4</a></td>
 </tr>
 </table>
 
@@ -2195,7 +2195,7 @@ Higgsfield, bir referanstan yeniden oluşturulan ChronoVolume efektini sergiliyo
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102508274126077952/vid/avc1/1440x1080/WjLhj_tjguPEOgdc.mp4?tag=29"><img src="assets/media/2102508274126077952.jpg" alt="ChronoVolume efektini yeniden oluşturmak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102508274126077952/vid/avc1/1440x1080/WjLhj_tjguPEOgdc.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508274126077952-257fe5e10faf.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102508274126077952-a4cf668d79b5.jpg" alt="ChronoVolume efektini yeniden oluşturmak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508274126077952-257fe5e10faf.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2212,8 +2212,8 @@ Yazar, maksimum akıl yürütme çabasıyla aynı “A beautiful fountain” ist
 
 <table>
 <tr>
-<td><a href="https://x.com/Angaisb_/status/2102509807802716649"><img src="assets/media/2102509732317495296.jpg" alt="Aynı istemden bir fıskiye — Kaynak eki 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102509807802716649">Kaynak eki 1</a></td>
-<td><a href="https://x.com/Angaisb_/status/2102509807802716649"><img src="assets/media/2102509758758490113.jpg" alt="Aynı istemden bir fıskiye — Kaynak eki 2" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102509807802716649">Kaynak eki 2</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102509807802716649"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102509732317495296-d0215c776c0f.jpg" alt="Aynı istemden bir fıskiye — Kaynak eki 1" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102509807802716649">Kaynak eki 1</a></td>
+<td><a href="https://x.com/Angaisb_/status/2102509807802716649"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102509758758490113-a6052d4441ae.jpg" alt="Aynı istemden bir fıskiye — Kaynak eki 2" width="420"></a><br><a href="https://x.com/Angaisb_/status/2102509807802716649">Kaynak eki 2</a></td>
 </tr>
 </table>
 
@@ -2230,7 +2230,7 @@ Yazar, Opus 5.5’ten Mona Lisa’yı SVG ile çizmesini istiyor ve karşılaşt
 
 <table>
 <tr>
-<td><a href="https://x.com/diegocabezas01/status/2102463433731903630"><img src="assets/media/2102463391097049088.jpg" alt="Mona Lisa’yı SVG ile çizmek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/diegocabezas01/status/2102463433731903630">Kaynak eki 1</a></td>
+<td><a href="https://x.com/diegocabezas01/status/2102463433731903630"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102463391097049088-f03897c34218.jpg" alt="Mona Lisa’yı SVG ile çizmek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/diegocabezas01/status/2102463433731903630">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -2247,7 +2247,7 @@ Yazar, bir SVG görevinde Opus 5.5, GPT-6 Sol ve Luna’yı karşılaştırıyor
 
 <table>
 <tr>
-<td><a href="https://x.com/notjazii/status/2102469004271173877"><img src="assets/media/2102468991013052416.jpg" alt="Sol ve Luna ile SVG karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://x.com/notjazii/status/2102469004271173877">Kaynak eki 1</a></td>
+<td><a href="https://x.com/notjazii/status/2102469004271173877"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468991013052416-7891e04498d5.jpg" alt="Sol ve Luna ile SVG karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://x.com/notjazii/status/2102469004271173877">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -2264,7 +2264,7 @@ Yazar Paint’te patronunun portresini istemiş, ancak model fareyle çizmek yer
 
 <table>
 <tr>
-<td><a href="https://x.com/matiass/status/2102474745845260663"><img src="assets/media/2102474315266478081.jpg" alt="Paint’te betikle fotoğraf çizmek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/matiass/status/2102474745845260663">Kaynak eki 1</a></td>
+<td><a href="https://x.com/matiass/status/2102474745845260663"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102474315266478081-b28a478a377d.jpg" alt="Paint’te betikle fotoğraf çizmek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/matiass/status/2102474745845260663">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -2281,7 +2281,7 @@ Claude olmanın nasıl hissettirdiğini çizmesi istendiğinde Opus 5.5, bunalan
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102484064368459776/vid/avc1/1080x1350/mvxYEPFm2mYe6x9g.mp4?tag=29"><img src="assets/media/2102484064368459776.jpg" alt="Küçük bir güneş olarak hayal edilen Claude — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102484064368459776/vid/avc1/1080x1350/mvxYEPFm2mYe6x9g.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484064368459776-84570d4fa542.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102484064368459776-762f9a497ca1.jpg" alt="Küçük bir güneş olarak hayal edilen Claude — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484064368459776-84570d4fa542.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2298,7 +2298,7 @@ Yazar, gönderide ayrıntılı istemi veya üretim adımlarını vermeden Opus 5
 
 <table>
 <tr>
-<td><a href="https://x.com/alexgetmancom/status/2102451293419970767"><img src="assets/media/2102451001743556608.jpg" alt="Pelikan çizim testi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/alexgetmancom/status/2102451293419970767">Kaynak eki 1</a></td>
+<td><a href="https://x.com/alexgetmancom/status/2102451293419970767"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102451001743556608-2e5d19bf8978.jpg" alt="Pelikan çizim testi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/alexgetmancom/status/2102451293419970767">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -2315,7 +2315,7 @@ Yazar, Opus 5.5 ve GPT-6 Astra’nın piksel sahnelerini karşılaştırıyor; h
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102521319891902465/vid/avc1/1440x1440/498lOSHSsdi1ZQWa.mp4?tag=29"><img src="assets/media/2102521319891902465.jpg" alt="Piksel sanatta fıskiyeler ve yarasa gözleri — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102521319891902465/vid/avc1/1440x1440/498lOSHSsdi1ZQWa.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102521319891902465-675854f35964.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102521319891902465-14186af457af.jpg" alt="Piksel sanatta fıskiyeler ve yarasa gözleri — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102521319891902465-675854f35964.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2332,12 +2332,12 @@ Yazar, gönderide araçları veya eksiksiz üretim iş akışını belirtmeden O
 
 <table>
 <tr>
-<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="assets/media/2102468933852987392.jpg" alt="San Francisco tasviri — Kaynak eki 1" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Kaynak eki 1</a></td>
-<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="assets/media/2102468933857247232.jpg" alt="San Francisco tasviri — Kaynak eki 2" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Kaynak eki 2</a></td>
+<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468933852987392-50138bb6d4b1.jpg" alt="San Francisco tasviri — Kaynak eki 1" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Kaynak eki 1</a></td>
+<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468933857247232-384ae7a7a821.jpg" alt="San Francisco tasviri — Kaynak eki 2" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Kaynak eki 2</a></td>
 </tr>
 <tr>
-<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="assets/media/2102468933853040640.jpg" alt="San Francisco tasviri — Kaynak eki 3" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Kaynak eki 3</a></td>
-<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="assets/media/2102468933857275904.jpg" alt="San Francisco tasviri — Kaynak eki 4" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Kaynak eki 4</a></td>
+<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468933853040640-c2ae35671c85.jpg" alt="San Francisco tasviri — Kaynak eki 3" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Kaynak eki 3</a></td>
+<td><a href="https://x.com/Tim_Hua_/status/2102468957492092988"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102468933857275904-6034d9616b1d.jpg" alt="San Francisco tasviri — Kaynak eki 4" width="420"></a><br><a href="https://x.com/Tim_Hua_/status/2102468957492092988">Kaynak eki 4</a></td>
 </tr>
 </table>
 
@@ -2354,7 +2354,7 @@ Yazar, Opus 5.5 ve Grok 4.7’nin bisikletli pelikan animasyonlarını karşıla
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102448528585027584/vid/avc1/1920x1080/DbWdeQtKg_iM4I6g.mp4?tag=29"><img src="assets/media/2102448528585027584.jpg" alt="Grok 4.7 ile karşılaştırılan bisikletli pelikan — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102448528585027584/vid/avc1/1920x1080/DbWdeQtKg_iM4I6g.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448528585027584-9fb0efb620af.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102448528585027584-0d95e52c5245.jpg" alt="Grok 4.7 ile karşılaştırılan bisikletli pelikan — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102448528585027584-9fb0efb620af.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2371,7 +2371,7 @@ Platformla bağlantılı bir yazar, “some subtle art” istemiyle yapılmış 
 
 <table>
 <tr>
-<td><a href="https://x.com/felixrieseberg/status/2102450683069014053"><img src="assets/media/2102450516685148160.jpg" alt="“İncelikli sanat” isteminden sanat üreticisi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/felixrieseberg/status/2102450683069014053">Kaynak eki 1</a></td>
+<td><a href="https://x.com/felixrieseberg/status/2102450683069014053"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102450516685148160-66bdd38a067f.jpg" alt="“İncelikli sanat” isteminden sanat üreticisi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/felixrieseberg/status/2102450683069014053">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -2388,7 +2388,7 @@ Yazar, gönderide eksiksiz üretim iş akışı sunmadan Opus 5.5 ile yeniden ya
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102518834376646657/vid/avc1/1920x1080/jwrTaybpDvFZzH2e.mp4?tag=29"><img src="assets/media/2102518834376646657.jpg" alt="John Wick’ten esinlenen yeniden yapım — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102518834376646657/vid/avc1/1920x1080/jwrTaybpDvFZzH2e.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102518834376646657-30d4a7e06ac7.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102518834376646657-8d7fad65e82a.jpg" alt="John Wick’ten esinlenen yeniden yapım — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102518834376646657-30d4a7e06ac7.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2433,7 +2433,7 @@ Platformla bağlantılı bir yazar, Max aboneliği ve yinelemeli tasarım-eleşt
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102477300990357504/vid/avc1/2544x1440/ezh0f1hyTASXR8MP.mp4?tag=29"><img src="assets/media/2102477300990357504.jpg" alt="Kişisel siteyi yinelemelerle geliştirmek ve fragmanını yapmak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102477300990357504/vid/avc1/2544x1440/ezh0f1hyTASXR8MP.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102477300990357504-a6658da0da40.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102477300990357504-67b682ed0af3.jpg" alt="Kişisel siteyi yinelemelerle geliştirmek ve fragmanını yapmak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102477300990357504-a6658da0da40.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2450,7 +2450,7 @@ Medya önizlemesinde mineral kataloğu tarzında bir web sayfası görülüyor. 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102474090955337728/vid/avc1/1920x1080/fsU_iKeBZJ80xn-k.mp4?tag=29"><img src="assets/media/2102474090955337728.jpg" alt="Sekiz referanstan mineral kataloğu sitesi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102474090955337728/vid/avc1/1920x1080/fsU_iKeBZJ80xn-k.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474090955337728-b9c2c018e6de.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102474090955337728-f3a13cb21ecc.jpg" alt="Sekiz referanstan mineral kataloğu sitesi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102474090955337728-b9c2c018e6de.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2467,7 +2467,7 @@ Yazar, henüz kaba durumdaki mevcut bir uygulamayı yeniden tasarlamak için Opu
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102464950794964992/vid/avc1/1620x1080/yResf3p2DfeNEkw1.mp4?tag=29"><img src="assets/media/2102464950794964992.jpg" alt="Mevcut uygulamayı aynı hedefle yeniden tasarlamak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102464950794964992/vid/avc1/1620x1080/yResf3p2DfeNEkw1.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464950794964992-c128a01b3941.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102464950794964992-8b59dd4536aa.jpg" alt="Mevcut uygulamayı aynı hedefle yeniden tasarlamak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464950794964992-c128a01b3941.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2484,7 +2484,7 @@ Yazar altı ön yüz görsel testi sunuyor, bunları Fable 5.1’e yakın buluyo
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478654282539009/vid/avc1/1920x1080/kuBYTlYfr4AmdeFf.mp4?tag=29"><img src="assets/media/2102478654282539009.jpg" alt="Takılan yanardağ denemeleriyle ön yüz testleri — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478654282539009/vid/avc1/1920x1080/kuBYTlYfr4AmdeFf.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478654282539009-8e8fa6ce9e05.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478654282539009-6e3eed32566b.jpg" alt="Takılan yanardağ denemeleriyle ön yüz testleri — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478654282539009-8e8fa6ce9e05.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2501,7 +2501,7 @@ Medya önizlemesi bağlantılı notlar için bir web sitesi gösteriyor; yazar t
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102492187921461248/vid/avc1/1724x1080/_NqeeUvnhh9umkaX.mp4?tag=29"><img src="assets/media/2102492187921461248.jpg" alt="Tasarım skill’i olmadan bağlantılı notlar arayüzü — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102492187921461248/vid/avc1/1724x1080/_NqeeUvnhh9umkaX.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492187921461248-0afbc7be7c49.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102492187921461248-26a14e895e5c.jpg" alt="Tasarım skill’i olmadan bağlantılı notlar arayüzü — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492187921461248-0afbc7be7c49.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2518,7 +2518,7 @@ Yazar, önceki gün Grok 4.7’yi test etmekte kullandığı istemin aynısıyla
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102452884184985600/vid/avc1/1342x642/w1K5MGEb-6RXb0AP.mp4?tag=29"><img src="assets/media/2102452884184985600.jpg" alt="Grok 4.7 ile karşılaştırılan tek denemelik arayüz — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102452884184985600/vid/avc1/1342x642/w1K5MGEb-6RXb0AP.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452884184985600-95fbfa7a59ad.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102452884184985600-97b3043c1423.jpg" alt="Grok 4.7 ile karşılaştırılan tek denemelik arayüz — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102452884184985600-95fbfa7a59ad.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2535,7 +2535,7 @@ Yazar, zor bir haftanın ardından Opus 5.5’ten stres azaltma uygulaması iste
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102492618080862208/vid/avc1/1180x2148/-sNEDlWTuxHCzcfW.mp4?tag=29"><img src="assets/media/2102492618080862208.jpg" alt="23 dakikada stres azaltma uygulaması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102492618080862208/vid/avc1/1180x2148/-sNEDlWTuxHCzcfW.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492618080862208-2705e743d4ad.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102492618080862208-fd2210846e2d.jpg" alt="23 dakikada stres azaltma uygulaması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102492618080862208-2705e743d4ad.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2552,7 +2552,7 @@ Medya önizlemesinde bulutlar ve hava durumu etrafında kurulmuş bir Stratus a�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102450880029270016/vid/avc1/1914x1008/FcVRUSW6L-hSRCzj.mp4?tag=29"><img src="assets/media/2102450880029270016.jpg" alt="Stratus hava durumu temalı açılış sayfası — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102450880029270016/vid/avc1/1914x1008/FcVRUSW6L-hSRCzj.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450880029270016-8585b3c21b8f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102450880029270016-519a0ad0fe89.jpg" alt="Stratus hava durumu temalı açılış sayfası — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102450880029270016-8585b3c21b8f.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2569,7 +2569,7 @@ Yazar, Opus 5.5’i ters CAPTCHA deneyimine dönüştürüyor ve soru-cevap etki
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102478762767966208/vid/avc1/1920x1014/PPj5_DsN5KMOYPOg.mp4?tag=29"><img src="assets/media/2102478762767966208.jpg" alt="Etkileşimli ters CAPTCHA — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102478762767966208/vid/avc1/1920x1014/PPj5_DsN5KMOYPOg.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478762767966208-6e477870f60d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478762767966208-5480453a8f7f.jpg" alt="Etkileşimli ters CAPTCHA — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478762767966208-6e477870f60d.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2586,7 +2586,7 @@ Yazar, Claude üzerinden kontrol edilen kişisel bir etkileşim tasarımı arac�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102481797837959168/vid/avc1/1962x1080/zjb0diBt84FMOCyh.mp4?tag=29"><img src="assets/media/2102481797837959168.jpg" alt="Figma içe aktarımlarıyla kişisel etkileşim aracı — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102481797837959168/vid/avc1/1962x1080/zjb0diBt84FMOCyh.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102481797837959168-c9c7f427e5eb.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102481797837959168-1e1d20a38ddb.jpg" alt="Figma içe aktarımlarıyla kişisel etkileşim aracı — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102481797837959168-c9c7f427e5eb.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2603,7 +2603,7 @@ Yazar, nehri yerel token işlemeyi yansıtan, birden fazla MLX API ağ geçidini
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102484562265649152/vid/avc1/1440x1080/sDJnj_e-5jWf5deA.mp4?tag=29"><img src="assets/media/2102484562265649152.jpg" alt="Yerel modelleri izlemek için PonteMLX — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102484562265649152/vid/avc1/1440x1080/sDJnj_e-5jWf5deA.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484562265649152-59a65a1b442d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102484562265649152-61f3f5f6052f.jpg" alt="Yerel modelleri izlemek için PonteMLX — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484562265649152-59a65a1b442d.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2620,7 +2620,7 @@ Ek önizlemesinde, yazarın ürün tasarımını tartışmak için kullandığı
 
 <table>
 <tr>
-<td><a href="https://x.com/maybepratikk/status/2102466291651285048"><img src="assets/media/2102466179403251712.jpg" alt="Lojistik planlama panosu önizlemesi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/maybepratikk/status/2102466291651285048">Kaynak eki 1</a></td>
+<td><a href="https://x.com/maybepratikk/status/2102466291651285048"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102466179403251712-af5ba107a536.jpg" alt="Lojistik planlama panosu önizlemesi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/maybepratikk/status/2102466291651285048">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -2637,7 +2637,7 @@ Yazar, Higgsfield’da aynı tanım üzerinden Opus 5.5 ile GPT-6 Sol’u karş�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102483951554326529/vid/avc1/1080x1080/n9TFDfJ9CF_oWydJ.mp4?tag=29"><img src="assets/media/2102483951554326529.jpg" alt="WebGL yaratıcı stüdyo sitesi karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102483951554326529/vid/avc1/1080x1080/n9TFDfJ9CF_oWydJ.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483951554326529-75cec63c3fd7.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102483951554326529-02b37efdacc9.jpg" alt="WebGL yaratıcı stüdyo sitesi karşılaştırması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102483951554326529-75cec63c3fd7.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2654,7 +2654,7 @@ Ekran görüntüsü izometrik simge bileşenlerini sunan bir arayüz gösteriyor
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102454121718841345/vid/avc1/1536x1080/XnDAxOmZ0zZALnyT.mp4?tag=29"><img src="assets/media/2102454121718841345.jpg" alt="İzometrik simge bileşenleri arayüzü — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102454121718841345/vid/avc1/1536x1080/XnDAxOmZ0zZALnyT.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102454121718841345-54b5dc0e6075.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102454121718841345-621bda684e5b.jpg" alt="İzometrik simge bileşenleri arayüzü — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102454121718841345-54b5dc0e6075.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2671,8 +2671,8 @@ Medya önizlemesinde Opus 5.5’e atfedilen, el konsolu tarzında bir oyun seçm
 
 <table>
 <tr>
-<td><a href="https://x.com/lucaxyzz/status/2102461657742184599"><img src="assets/media/2102461483259166720.jpg" alt="El konsolu tarzı oyun seçme sayfası — Kaynak eki 1" width="420"></a><br><a href="https://x.com/lucaxyzz/status/2102461657742184599">Kaynak eki 1</a></td>
-<td><a href="https://x.com/lucaxyzz/status/2102461657742184599"><img src="assets/media/2102461629518790656.jpg" alt="El konsolu tarzı oyun seçme sayfası — Kaynak eki 2" width="420"></a><br><a href="https://x.com/lucaxyzz/status/2102461657742184599">Kaynak eki 2</a></td>
+<td><a href="https://x.com/lucaxyzz/status/2102461657742184599"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102461483259166720-dcb6b094b13d.jpg" alt="El konsolu tarzı oyun seçme sayfası — Kaynak eki 1" width="420"></a><br><a href="https://x.com/lucaxyzz/status/2102461657742184599">Kaynak eki 1</a></td>
+<td><a href="https://x.com/lucaxyzz/status/2102461657742184599"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102461629518790656-5dd8b49141f4.jpg" alt="El konsolu tarzı oyun seçme sayfası — Kaynak eki 2" width="420"></a><br><a href="https://x.com/lucaxyzz/status/2102461657742184599">Kaynak eki 2</a></td>
 </tr>
 </table>
 
@@ -2689,7 +2689,7 @@ Yazar, Opus 5.5 ile tek denemede üretildiğini bildirdiği görüntüden vektö
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102461494135001088/vid/avc1/1728x1080/0tIldR5gYAfmAtxd.mp4?tag=29"><img src="assets/media/2102461494135001088.jpg" alt="Tek denemelik görüntüden vektöre aracı — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102461494135001088/vid/avc1/1728x1080/0tIldR5gYAfmAtxd.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461494135001088-220c914e20c3.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102461494135001088-9d2de05d7ce1.jpg" alt="Tek denemelik görüntüden vektöre aracı — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102461494135001088-220c914e20c3.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2706,7 +2706,7 @@ Yazar, aynı istemle üretilen açılış sayfaları galerisine Claude Opus 5.5,
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102520323765886976/vid/avc1/1920x1080/VJhYV-dTg3srTtAD.mp4?tag=29"><img src="assets/media/2102520323765886976.jpg" alt="Ortak istemle açılış sayfası karşılaştırmaları — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102520323765886976/vid/avc1/1920x1080/VJhYV-dTg3srTtAD.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102520323765886976-e34f0b367d25.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102520323765886976-7bc6a6fd403b.jpg" alt="Ortak istemle açılış sayfası karşılaştırmaları — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102520323765886976-e34f0b367d25.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2723,7 +2723,7 @@ Yazar, Opus 5.5 ve AppLlama MCP ile tek denemede yeniden tasarlandığını bild
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102444702700277760/vid/avc1/1440x1080/aDOvO9CEMeaqR6P6.mp4?tag=29"><img src="assets/media/2102444702700277760.jpg" alt="AppLlama MCP ile mevcut uygulamayı yeniden tasarlamak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102444702700277760/vid/avc1/1440x1080/aDOvO9CEMeaqR6P6.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102444702700277760-d48572ee0e0c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102444702700277760-b4642f91b349.jpg" alt="AppLlama MCP ile mevcut uygulamayı yeniden tasarlamak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102444702700277760-d48572ee0e0c.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2762,7 +2762,7 @@ Next.js, Opus 5.5 için Sol ve Fable 5.1 ile eşit olan %97 başarı oranını v
 
 <table>
 <tr>
-<td><a href="https://x.com/nextjs/status/2102516295715741912"><img src="assets/media/2102516292175699968.jpg" alt="Next.js başarı oranı ve ortalama maliyet — Kaynak eki 1" width="420"></a><br><a href="https://x.com/nextjs/status/2102516295715741912">Kaynak eki 1</a></td>
+<td><a href="https://x.com/nextjs/status/2102516295715741912"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102516292175699968-87547b839f2f.jpg" alt="Next.js başarı oranı ve ortalama maliyet — Kaynak eki 1" width="420"></a><br><a href="https://x.com/nextjs/status/2102516295715741912">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -2785,7 +2785,7 @@ Every’nin kendi testinde Opus’a etkinlik akış planı üretmesi için on da
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102495426385735680/vid/avc1/1080x1080/9L_EhW2wJzGhRpZb.mp4?tag=16"><img src="assets/media/2102495426385735680.jpg" alt="On dakikalık görevde ana teslimatın kaçırılması — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102495426385735680/vid/avc1/1080x1080/9L_EhW2wJzGhRpZb.mp4?tag=16">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102495426385735680-e23b76543395.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102495426385735680-a56e687728ef.jpg" alt="On dakikalık görevde ana teslimatın kaçırılması — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102495426385735680-e23b76543395.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2802,7 +2802,7 @@ Platform yazarı, 40 anahtar kelime için sıralanan 347 sayfa okuduğunu, ele a
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102467411047763968/vid/avc1/1920x1080/InJdRf0w3jiN_Q6i.mp4?tag=29"><img src="assets/media/2102467411047763968.jpg" alt="347 sıralanan sayfada SEO boşluklarını bulmak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102467411047763968/vid/avc1/1920x1080/InJdRf0w3jiN_Q6i.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102467411047763968-e821b0c77a6c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102467411047763968-8060f44896b5.jpg" alt="347 sıralanan sayfada SEO boşluklarını bulmak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102467411047763968-e821b0c77a6c.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2819,7 +2819,7 @@ Yazar, Opus 5.5’ten Black Friday hazırlığı için Trendtrack MCP üzerinden
 
 <table>
 <tr>
-<td><a href="https://x.com/powl_d/status/2102508882459586748"><img src="assets/media/2102508763538472961.jpg" alt="Trendtrack MCP üzerinden Black Friday analizi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/powl_d/status/2102508882459586748">Kaynak eki 1</a></td>
+<td><a href="https://x.com/powl_d/status/2102508882459586748"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102508763538472961-2a37ef4f2c64.jpg" alt="Trendtrack MCP üzerinden Black Friday analizi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/powl_d/status/2102508882459586748">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -2836,7 +2836,7 @@ alphaXiv, arXiv makalelerini şekiller, temel içgörüler ve açıklamalar içe
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102464303865692160/vid/avc1/1920x1080/2k7r15kiseysNXtI.mp4?tag=29"><img src="assets/media/2102464303865692160.jpg" alt="alphaXiv’de kanıt bağlantılı makale blogları — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102464303865692160/vid/avc1/1920x1080/2k7r15kiseysNXtI.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464303865692160-b21931bec340.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102464303865692160-59afb65c0c51.jpg" alt="alphaXiv’de kanıt bağlantılı makale blogları — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102464303865692160-b21931bec340.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2853,7 +2853,7 @@ SafeForge, risk özetleme döngüsündeki Opus 5.5 testlerini sergiliyor ve bunu
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102511392284921856/vid/avc1/1920x1080/cB3HoPVJXOBUyRyc.mp4?tag=29"><img src="assets/media/2102511392284921856.jpg" alt="SafeForge’un risk özetleme döngüsünü test etmek — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102511392284921856/vid/avc1/1920x1080/cB3HoPVJXOBUyRyc.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102511392284921856-5faca0cc6f69.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102511392284921856-1e633eee9cfa.jpg" alt="SafeForge’un risk özetleme döngüsünü test etmek — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102511392284921856-5faca0cc6f69.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2870,8 +2870,8 @@ Yazar, Opus 5.5’ten mevcut kıyaslama grafiğindeki GPT-5.6 değerlerini GPT-6
 
 <table>
 <tr>
-<td><a href="https://x.com/MLBear2/status/2102518758611058807"><img src="assets/media/2102518741309562881.jpg" alt="Kıyaslama grafiğindeki model verilerini güncellemek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/MLBear2/status/2102518758611058807">Kaynak eki 1</a></td>
-<td><a href="https://x.com/MLBear2/status/2102518758611058807"><img src="assets/media/2102518741234057216.jpg" alt="Kıyaslama grafiğindeki model verilerini güncellemek — Kaynak eki 2" width="420"></a><br><a href="https://x.com/MLBear2/status/2102518758611058807">Kaynak eki 2</a></td>
+<td><a href="https://x.com/MLBear2/status/2102518758611058807"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102518741309562881-37ec04ac6824.jpg" alt="Kıyaslama grafiğindeki model verilerini güncellemek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/MLBear2/status/2102518758611058807">Kaynak eki 1</a></td>
+<td><a href="https://x.com/MLBear2/status/2102518758611058807"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102518741234057216-5396dbf48e6a.jpg" alt="Kıyaslama grafiğindeki model verilerini güncellemek — Kaynak eki 2" width="420"></a><br><a href="https://x.com/MLBear2/status/2102518758611058807">Kaynak eki 2</a></td>
 </tr>
 </table>
 
@@ -2888,8 +2888,8 @@ Yazar, aynı talimatlarla Opus 5 ve Opus 5.5’te bir gösterge oluşturuyor, ik
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/tweet_video/HS2AWprbYAA2fZM.mp4"><img src="assets/media/2102477727685369856.jpg" alt="Sürümler arasında gösterge oluşturmayı karşılaştırmak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/tweet_video/HS2AWprbYAA2fZM.mp4">Kaynak videoyu oynat 1</a></td>
-<td><a href="https://video.twimg.com/tweet_video/HS2A31iaQAAoTSo.mp4"><img src="assets/media/2102478297804455936.jpg" alt="Sürümler arasında gösterge oluşturmayı karşılaştırmak — Kaynak eki 2" width="420"></a><br><a href="https://video.twimg.com/tweet_video/HS2A31iaQAAoTSo.mp4">Kaynak videoyu oynat 2</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102477727685369856-0a12e4ca4f59.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102477727685369856-e1d52de30f45.jpg" alt="Sürümler arasında gösterge oluşturmayı karşılaştırmak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102477727685369856-0a12e4ca4f59.mp4">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478297804455936-f494527729af.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102478297804455936-41afec4bef68.jpg" alt="Sürümler arasında gösterge oluşturmayı karşılaştırmak — Kaynak eki 2" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102478297804455936-f494527729af.mp4">Kaynak videoyu oynat 2</a></td>
 </tr>
 </table>
 
@@ -2906,7 +2906,7 @@ GojiberryAI, web sitesi URL’sinden iletişim başlatma iş akışını göster
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102484142977912832/vid/avc1/1920x1080/nx4U1bH4pHeHSJPL.mp4?tag=29"><img src="assets/media/2102484142977912832.jpg" alt="Web sitesi URL’sinden satış iletişimi iş akışı — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102484142977912832/vid/avc1/1920x1080/nx4U1bH4pHeHSJPL.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484142977912832-8d3c875b8a2c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102484142977912832-78ae60e3150f.jpg" alt="Web sitesi URL’sinden satış iletişimi iş akışı — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484142977912832-8d3c875b8a2c.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2923,7 +2923,7 @@ Ramp erken erişimi ve Accounting Bench üzerinde yaptığı çalışmayı açı
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102451438685147136/vid/avc1/1920x1080/L_8bTlIp6I26lNOA.mp4?tag=29"><img src="assets/media/2102451438685147136.jpg" alt="Ramp’in muhasebe görevi değerlendirmesi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102451438685147136/vid/avc1/1920x1080/L_8bTlIp6I26lNOA.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451438685147136-d7f9fc977848.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102451438685147136-8ba0b4483e31.jpg" alt="Ramp’in muhasebe görevi değerlendirmesi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102451438685147136-d7f9fc977848.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2944,7 +2944,7 @@ Eklenti yazarı; Opus 5.5, Fable 5.1, GPT-6 Sol ve Luna’yı iş birliği yapan
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102513660312576000/vid/avc1/1920x1080/5tx7z_kvB7V8VB1G.mp4?tag=29"><img src="assets/media/2102513660312576000.jpg" alt="fable-advisor ile çok modelli ekip — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102513660312576000/vid/avc1/1920x1080/5tx7z_kvB7V8VB1G.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513660312576000-bc5f7f9a556d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102513660312576000-72bcb10d231f.jpg" alt="fable-advisor ile çok modelli ekip — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102513660312576000-bc5f7f9a556d.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -2961,7 +2961,7 @@ ntm aracının yazarı, Opus 5’ten devir istemi yazmasını istediğini, ardı
 
 <table>
 <tr>
-<td><a href="https://x.com/doodlestein/status/2102486504627175458"><img src="assets/media/2102486491125415936.jpg" alt="ntm’de görev devri ve çalışan değişimi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/doodlestein/status/2102486504627175458">Kaynak eki 1</a></td>
+<td><a href="https://x.com/doodlestein/status/2102486504627175458"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102486491125415936-c45c4bc95597.jpg" alt="ntm’de görev devri ve çalışan değişimi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/doodlestein/status/2102486504627175458">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3000,7 +3000,7 @@ T3 Code ekibi uygulama güncellemesi gerekmediğini söylüyor ve model listesin
 
 <table>
 <tr>
-<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="assets/media/2102465677584109568.png" alt="T3 Code model önbelleğini yenilemek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Kaynak eki 1</a></td>
+<td><a href="https://x.com/jullerino/status/2102465804906467769"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102465677584109568-eb852b8b6c0e.png" alt="T3 Code model önbelleğini yenilemek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/jullerino/status/2102465804906467769">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3017,7 +3017,7 @@ Altı adımlı eğitim; yinelenen düzeltmeleri ve hataları bulmak, mevcut kodu
 
 <table>
 <tr>
-<td><a href="https://x.com/shannholmberg/status/2102481940742115352"><img src="assets/media/2102481936803565568.jpg" alt="Proje dosyalarını ve ajan oturum geçmişini incelemek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/shannholmberg/status/2102481940742115352">Kaynak eki 1</a></td>
+<td><a href="https://x.com/shannholmberg/status/2102481940742115352"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102481936803565568-d1d132d1581c.jpg" alt="Proje dosyalarını ve ajan oturum geçmişini incelemek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/shannholmberg/status/2102481940742115352">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3034,7 +3034,7 @@ Yazar, birden fazla ajanın tek ajana benzer sonuçlara daha hızlı ulaştığ�
 
 <table>
 <tr>
-<td><a href="https://x.com/jyangballin/status/2102481432136528139"><img src="assets/media/2102481302985568257.jpg" alt="ProgramBench’te çok ajanlı hız — Kaynak eki 1" width="420"></a><br><a href="https://x.com/jyangballin/status/2102481432136528139">Kaynak eki 1</a></td>
+<td><a href="https://x.com/jyangballin/status/2102481432136528139"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102481302985568257-f611e07df913.jpg" alt="ProgramBench’te çok ajanlı hız — Kaynak eki 1" width="420"></a><br><a href="https://x.com/jyangballin/status/2102481432136528139">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3051,7 +3051,7 @@ Bir ProgramBench katkıcısı, kıyaslama üzerinde koordinasyon kuran 100 ajan�
 
 <table>
 <tr>
-<td><a href="https://x.com/18jeffreyma/status/2102454667167047973"><img src="assets/media/2102453307587637248.jpg" alt="100 ajanlı ProgramBench değerlendirmesi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/18jeffreyma/status/2102454667167047973">Kaynak eki 1</a></td>
+<td><a href="https://x.com/18jeffreyma/status/2102454667167047973"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102453307587637248-5ca530584072.jpg" alt="100 ajanlı ProgramBench değerlendirmesi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/18jeffreyma/status/2102454667167047973">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3072,7 +3072,7 @@ Higgsfield aynı sokak videosunda Opus 5.5 ve GPT-6 Astra’yı karşılaştır�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102509920876994560/vid/avc1/1080x1214/AxevMDaSTO83n2J1.mp4?tag=29"><img src="assets/media/2102509920876994560.jpg" alt="Aynı sokak görüntülerinde etiket takibi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102509920876994560/vid/avc1/1080x1214/AxevMDaSTO83n2J1.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102509920876994560-c4d4049d9448.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102509920876994560-30b2693eb0de.jpg" alt="Aynı sokak görüntülerinde etiket takibi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102509920876994560-c4d4049d9448.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3089,7 +3089,7 @@ Bir Roboflow yöneticisi Opus 5.5, Sol ve Luna için Playground nesne tespit son
 
 <table>
 <tr>
-<td><a href="https://x.com/skalskip92/status/2102513518603804956"><img src="assets/media/2102513266056429568.jpg" alt="Roboflow nesne tespit değerlendirmeleri — Kaynak eki 1" width="420"></a><br><a href="https://x.com/skalskip92/status/2102513518603804956">Kaynak eki 1</a></td>
+<td><a href="https://x.com/skalskip92/status/2102513518603804956"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102513266056429568-d84d5330546b.jpg" alt="Roboflow nesne tespit değerlendirmeleri — Kaynak eki 1" width="420"></a><br><a href="https://x.com/skalskip92/status/2102513518603804956">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3110,7 +3110,7 @@ Medeo, GPT-6 Sol ve Opus 5.5’in Seedance 2.5’i yönlendirmesiyle yapılan vi
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102462545898651648/vid/avc1/1920x1080/jolN96b6AOkt5meq.mp4?tag=29"><img src="assets/media/2102462545898651648.jpg" alt="Medeo’da Seedance 2.5 iş akışlarını karşılaştırmak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102462545898651648/vid/avc1/1920x1080/jolN96b6AOkt5meq.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462545898651648-91263391e40c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102462545898651648-62d6ff20dd48.jpg" alt="Medeo’da Seedance 2.5 iş akışlarını karşılaştırmak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462545898651648-91263391e40c.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3127,7 +3127,7 @@ Platformla bağlantılı bir yazar, tek istemle kil animasyonu yapmak için clau
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102457816820916224/vid/avc1/1612x1080/pdOJXL6ne_LOROg3.mp4?tag=29"><img src="assets/media/2102457816820916224.jpg" alt="Claude’da Blender ile kil animasyonu yapmak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102457816820916224/vid/avc1/1612x1080/pdOJXL6ne_LOROg3.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457816820916224-64d3e87b71c4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102457816820916224-772c7489aa79.jpg" alt="Claude’da Blender ile kil animasyonu yapmak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457816820916224-64d3e87b71c4.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3144,7 +3144,7 @@ Tesseract ekibi, lansman videosunu yeniden oluşturmak ve maliyetleri karşıla�
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102502084847214593/vid/avc1/1080x1350/AhutbNmQCpo4GAVF.mp4?tag=29"><img src="assets/media/2102502084847214593.jpg" alt="Tesseract’ta lansman videosu yeniden yapımlarını karşılaştırmak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102502084847214593/vid/avc1/1080x1350/AhutbNmQCpo4GAVF.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502084847214593-974ba4da3a76.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102502084847214593-1860585aa16c.jpg" alt="Tesseract’ta lansman videosu yeniden yapımlarını karşılaştırmak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502084847214593-974ba4da3a76.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3161,7 +3161,7 @@ DocJev’in yazarı, Opus 5.5 ile yapılmış ürün tanıtım videosunu sergili
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102479606909636608/vid/avc1/1920x1080/5gQCdFvu4lD6i8Jc.mp4?tag=29"><img src="assets/media/2102479606909636608.jpg" alt="DocJev için tanıtım videosu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102479606909636608/vid/avc1/1920x1080/5gQCdFvu4lD6i8Jc.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479606909636608-28689bd75506.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102479606909636608-488349d9bd72.jpg" alt="DocJev için tanıtım videosu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102479606909636608-28689bd75506.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3178,7 +3178,7 @@ Yazar, Opus 5.5’ten Claude model gelişiminin tarihini oluşturmasını istiyo
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102463260083814400/vid/avc1/1920x1080/pg3IA2gaSf3rm2K4.mp4?tag=29"><img src="assets/media/2102463260083814400.jpg" alt="Özel skill ile Claude model tarihi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102463260083814400/vid/avc1/1920x1080/pg3IA2gaSf3rm2K4.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102463260083814400-fc2cedfa7a8b.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102463260083814400-b0382b94c973.jpg" alt="Özel skill ile Claude model tarihi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102463260083814400-fc2cedfa7a8b.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3195,7 +3195,7 @@ Medeo, Opus 5.5 ve GPT-6 Astra kullanılarak yapılan origami kaplan videoların
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102453529268916224/vid/avc1/1080x1920/uyyJj1GtKe23qKp7.mp4?tag=29"><img src="assets/media/2102453529268916224.jpg" alt="Medeo’da origami kaplan videoları — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102453529268916224/vid/avc1/1080x1920/uyyJj1GtKe23qKp7.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453529268916224-6fc4b9c76f82.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102453529268916224-85b35323ddd5.jpg" alt="Medeo’da origami kaplan videoları — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102453529268916224-6fc4b9c76f82.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3212,7 +3212,7 @@ BridgeMind, Opus 5.5 ve Remotion ile yapılmış kapüşonlu sweatshirt lansman 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102462683245395968/vid/avc1/1920x1080/t7Y-1-9qzNJG68xK.mp4?tag=29"><img src="assets/media/2102462683245395968.jpg" alt="Remotion ile BridgeMind kapüşonlu tanıtımı — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102462683245395968/vid/avc1/1920x1080/t7Y-1-9qzNJG68xK.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462683245395968-ae153807b90e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102462683245395968-63b2b3622915.jpg" alt="Remotion ile BridgeMind kapüşonlu tanıtımı — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462683245395968-ae153807b90e.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3229,7 +3229,7 @@ Higgsfield reklam videosu üretimini karşılaştırıyor; Opus 5.5 için 60 dak
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102462871104077824/vid/avc1/1440x1080/hm7aglnaoiLS8wmr.mp4?tag=29"><img src="assets/media/2102462871104077824.jpg" alt="Higgsfield reklamı için süre ve maliyet — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102462871104077824/vid/avc1/1440x1080/hm7aglnaoiLS8wmr.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462871104077824-7915acd655c9.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102462871104077824-ab0fcf1c98f4.jpg" alt="Higgsfield reklamı için süre ve maliyet — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102462871104077824-7915acd655c9.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3246,7 +3246,7 @@ Yazar orijinal duyuru gönderisini sağlıyor ve Opus 5.5’ten JavaScript ile l
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102457146210496512/vid/avc1/1920x1080/NQpCnFwIPnJ2aS_D.mp4?tag=29"><img src="assets/media/2102457146210496512.jpg" alt="Duyuru gönderisinden kodlanan lansman videosu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102457146210496512/vid/avc1/1920x1080/NQpCnFwIPnJ2aS_D.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457146210496512-980b604f1f60.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102457146210496512-2ba13dacf7c5.jpg" alt="Duyuru gönderisinden kodlanan lansman videosu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102457146210496512-980b604f1f60.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3263,7 +3263,7 @@ Gönderi, dünyayı Claude’un gözünden görmeye ilişkin stop-motion animasy
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102435379810885632/vid/avc1/1920x1080/UI5hS2e010VQ1Mz-.mp4?tag=29"><img src="assets/media/2102435379810885632.jpg" alt="Claude’un gözünden paylaşılan stop-motion görünüm — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102435379810885632/vid/avc1/1920x1080/UI5hS2e010VQ1Mz-.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102435379810885632-410e386a9641.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102435379810885632-24bea12ee74b.jpg" alt="Claude’un gözünden paylaşılan stop-motion görünüm — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102435379810885632-410e386a9641.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3282,7 +3282,7 @@ Yazar, videoyu iki saniyeden 17 ve ardından 22 saniyeye uzatan üç sürümü g
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102484213086011392/vid/avc1/1280x720/Aex4aiDf_9SMKio-.mp4?tag=29"><img src="assets/media/2102484213086011392.jpg" alt="Müzikli videoyu iki saniyeden 22 saniyeye geliştirmek — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102484213086011392/vid/avc1/1280x720/Aex4aiDf_9SMKio-.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484213086011392-4cc335e03531.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102484213086011392-b80e1beaa31b.jpg" alt="Müzikli videoyu iki saniyeden 22 saniyeye geliştirmek — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102484213086011392-4cc335e03531.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3299,7 +3299,7 @@ Higgsfield, Opus 5.5’in yapay zekâyla üretilen videodaki render hatalarını
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102494820774363136/vid/avc1/1440x1080/jFAAPDTN7AKgd7Nw.mp4?tag=29"><img src="assets/media/2102494820774363136.jpg" alt="Photoshop ve Fusion ile video bozulmalarını düzeltmek — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102494820774363136/vid/avc1/1440x1080/jFAAPDTN7AKgd7Nw.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102494820774363136-155a5d1f59fa.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102494820774363136-eb585cfcb51a.jpg" alt="Photoshop ve Fusion ile video bozulmalarını düzeltmek — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102494820774363136-155a5d1f59fa.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3316,7 +3316,7 @@ JetBrains, bir ekip üyesinin Opus 5.5’e HeyGen’in HyperFrames skill’lerin
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102459599177805825/vid/avc1/2560x1440/GuU5uKX8BRoP6VNe.mp4?tag=29"><img src="assets/media/2102459599177805825.jpg" alt="Web sitesinden Kotlin tanıtımına — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102459599177805825/vid/avc1/2560x1440/GuU5uKX8BRoP6VNe.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102459599177805825-9c235c3bf079.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102459599177805825-41f2bff7779a.jpg" alt="Web sitesinden Kotlin tanıtımına — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102459599177805825-9c235c3bf079.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3333,8 +3333,8 @@ Yazar, kayıt hataları içeren ham görüntülerle bir referans örneği sağl�
 
 <table>
 <tr>
-<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="assets/media/2102488059660906496.png" alt="Ham görüntüleri kişisel stile göre düzenlemek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Kaynak eki 1</a></td>
-<td><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29"><img src="assets/media/2102488072772296704.jpg" alt="Ham görüntüleri kişisel stile göre düzenlemek — Kaynak eki 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102488072772296704/vid/avc1/1080x1920/IexL67HU9NRTtw9v.mp4?tag=29">Kaynak videoyu oynat 2</a></td>
+<td><a href="https://x.com/gabrielbuzziv/status/2102488620326420707"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102488059660906496-cee463d3c26e.png" alt="Ham görüntüleri kişisel stile göre düzenlemek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/gabrielbuzziv/status/2102488620326420707">Kaynak eki 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102488072772296704-74246a4216f6.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102488072772296704-50a81776676b.jpg" alt="Ham görüntüleri kişisel stile göre düzenlemek — Kaynak eki 2" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102488072772296704-74246a4216f6.mp4">Kaynak videoyu oynat 2</a></td>
 </tr>
 </table>
 
@@ -3351,7 +3351,7 @@ Yazar kendi Coinacademy makalesini girdi olarak kullanıyor ve Opus 5.5 ile iki 
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102500233066475520/vid/avc1/1920x1080/d_2ppJAb99CGBKqx.mp4?tag=29"><img src="assets/media/2102500233066475520.jpg" alt="Coinacademy makalesini FLOP Labs videosuna dönüştürmek — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102500233066475520/vid/avc1/1920x1080/d_2ppJAb99CGBKqx.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500233066475520-e3ba38b2fa5f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102500233066475520-c420607b92ab.jpg" alt="Coinacademy makalesini FLOP Labs videosuna dönüştürmek — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102500233066475520-e3ba38b2fa5f.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3368,8 +3368,8 @@ Yazar, gönderide istemi, betikleri veya üretim araç zincirini belirtmeden GPT
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102475075358179329/vid/avc1/768x1120/pkoQyt8wniSAoYu0.mp4?tag=29"><img src="assets/media/2102475075358179329.jpg" alt="GPT-6 Sol ile karşılaştırılan video çıktıları — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102475075358179329/vid/avc1/768x1120/pkoQyt8wniSAoYu0.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
-<td><a href="https://video.twimg.com/amplify_video/2102475125475975170/vid/avc1/768x1152/ENQGTaDMF6hIc--N.mp4?tag=29"><img src="assets/media/2102475125475975170.jpg" alt="GPT-6 Sol ile karşılaştırılan video çıktıları — Kaynak eki 2" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102475125475975170/vid/avc1/768x1152/ENQGTaDMF6hIc--N.mp4?tag=29">Kaynak videoyu oynat 2</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475075358179329-f63ccdb689c0.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102475075358179329-0561fc006437.jpg" alt="GPT-6 Sol ile karşılaştırılan video çıktıları — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475075358179329-f63ccdb689c0.mp4">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475125475975170-c2f54648f784.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102475125475975170-a68957ae14b9.jpg" alt="GPT-6 Sol ile karşılaştırılan video çıktıları — Kaynak eki 2" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102475125475975170-c2f54648f784.mp4">Kaynak videoyu oynat 2</a></td>
 </tr>
 </table>
 
@@ -3386,7 +3386,7 @@ Yazar, Opus 5.5’ten kod yoluyla serai için tanıtım videosu oluşturmasını
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102502065096290305/vid/avc1/1920x1080/yGFbK0Ul1CDLkqtk.mp4?tag=29"><img src="assets/media/2102502065096290305.jpg" alt="serai için kodla yapılan tanıtım videosu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102502065096290305/vid/avc1/1920x1080/yGFbK0Ul1CDLkqtk.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502065096290305-e04aae88144c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102502065096290305-77f143547120.jpg" alt="serai için kodla yapılan tanıtım videosu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102502065096290305-e04aae88144c.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3403,7 +3403,7 @@ Yazar, Opus 5.5’ten Cowork’te kendisi hakkında açıklama videosu yapmasın
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102460508414832640/vid/avc1/1920x1080/oOGZ-HTehBvBYBaW.mp4?tag=29"><img src="assets/media/2102460508414832640.jpg" alt="Cowork’te yapılan Opus 5.5 açıklama videosu — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102460508414832640/vid/avc1/1920x1080/oOGZ-HTehBvBYBaW.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102460508414832640-d9b553d7eb26.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102460508414832640-43c560fa4b09.jpg" alt="Cowork’te yapılan Opus 5.5 açıklama videosu — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102460508414832640-d9b553d7eb26.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3420,7 +3420,7 @@ Yazar, render araç zincirini belirtmeden öne çıkan videoyu Opus 5.5’in ken
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102508473728589825/vid/avc1/1920x1080/-u02ZkO-xuxRe79O.mp4?tag=29"><img src="assets/media/2102508473728589825.jpg" alt="Video gösterimi ve planlanan fal birleşimi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102508473728589825/vid/avc1/1920x1080/-u02ZkO-xuxRe79O.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508473728589825-502fe9b6c571.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102508473728589825-11a14d6243dd.jpg" alt="Video gösterimi ve planlanan fal birleşimi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102508473728589825-502fe9b6c571.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3437,7 +3437,7 @@ Yazar, Opus 5.5’i AI UGC klasörlerine yönlendiriyor ve video kurgulamak içi
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102463160775290880/vid/avc1/1080x1920/5zz0WuDBJNU2hELw.mp4?tag=29"><img src="assets/media/2102463160775290880.jpg" alt="Hareketli metinle UGC klasörlerini düzenlemek — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102463160775290880/vid/avc1/1080x1920/5zz0WuDBJNU2hELw.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102463160775290880-186a49fe81cd.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102463160775290880-26d19e54fa86.jpg" alt="Hareketli metinle UGC klasörlerini düzenlemek — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102463160775290880-186a49fe81cd.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3454,7 +3454,7 @@ Yazar, Arapçayı desteklemeyen oyun motorlarında Arapça metin hakkında eğit
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102505852598902784/vid/avc1/1984x1080/Q9rUVdGaQJ5GaP7m.mp4?tag=29"><img src="assets/media/2102505852598902784.jpg" alt="Oyun motorlarında Arapça metin eğitimi — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102505852598902784/vid/avc1/1984x1080/Q9rUVdGaQJ5GaP7m.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102505852598902784-29111f3124b9.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102505852598902784-2a3b3b2c46d6.jpg" alt="Oyun motorlarında Arapça metin eğitimi — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102505852598902784-29111f3124b9.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3471,7 +3471,7 @@ Yazar, kaybolan bir şemsiyenin kurbağayı, salyangozu ve yavrularıyla bir ör
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102449035827355648/vid/avc1/1080x1080/t1oAbV8kqDBq6GUJ.mp4?tag=29"><img src="assets/media/2102449035827355648.jpg" alt="Kodlanmış müzikli mürekkep yıkama şemsiye öyküsü — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102449035827355648/vid/avc1/1080x1080/t1oAbV8kqDBq6GUJ.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449035827355648-1fdb10ecf807.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102449035827355648-a72dce1ca470.jpg" alt="Kodlanmış müzikli mürekkep yıkama şemsiye öyküsü — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449035827355648-1fdb10ecf807.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3492,7 +3492,7 @@ Yazar, iki depoya yerleştirilmiş 105 hata içinden Max çaba düzeyinde düzel
 
 <table>
 <tr>
-<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="assets/media/2102479170957611008.png" alt="İki depoya yerleştirilmiş 105 hatayı düzeltmek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Kaynak eki 1</a></td>
+<td><a href="https://x.com/PawelHuryn/status/2102479269335101504"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102479170957611008-193efebaeeb1.png" alt="İki depoya yerleştirilmiş 105 hatayı düzeltmek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/PawelHuryn/status/2102479269335101504">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3509,7 +3509,7 @@ Yazar, Opus 5.5’in tek denemede bir CS2 hile programı ürettiğini iddia ediy
 
 <table>
 <tr>
-<td><a href="https://x.com/SingulCore/status/2102460555642446155"><img src="assets/media/2102460283251994624.jpg" alt="CS2 hile programı üretildiği iddiası — Kaynak eki 1" width="420"></a><br><a href="https://x.com/SingulCore/status/2102460555642446155">Kaynak eki 1</a></td>
+<td><a href="https://x.com/SingulCore/status/2102460555642446155"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102460283251994624-d5b45811ea4a.jpg" alt="CS2 hile programı üretildiği iddiası — Kaynak eki 1" width="420"></a><br><a href="https://x.com/SingulCore/status/2102460555642446155">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3526,7 +3526,7 @@ Yazar, ardışık circuit_eval kontrol noktalarında Opus 5.5’i Medium çaba d
 
 <table>
 <tr>
-<td><a href="https://x.com/dexhorthy/status/2102473233195028772"><img src="assets/media/2102472512449675264.jpg" alt="Süren circuit_eval kontrol noktası testi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/dexhorthy/status/2102473233195028772">Kaynak eki 1</a></td>
+<td><a href="https://x.com/dexhorthy/status/2102473233195028772"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102472512449675264-02d6c9f7f63c.jpg" alt="Süren circuit_eval kontrol noktası testi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/dexhorthy/status/2102473233195028772">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3598,7 +3598,7 @@ Ekran görüntüsü, yetkisiz güvenlik talebinin Opus 5.5’in siber korumasın
 
 <table>
 <tr>
-<td><a href="https://x.com/mehulmpt/status/2102475388211679520"><img src="assets/media/2102475338391732224.jpg" alt="Korumanın tetiklediği yedek modele geçişten sonra ret — Kaynak eki 1" width="420"></a><br><a href="https://x.com/mehulmpt/status/2102475388211679520">Kaynak eki 1</a></td>
+<td><a href="https://x.com/mehulmpt/status/2102475388211679520"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102475338391732224-0d902a7c79ce.jpg" alt="Korumanın tetiklediği yedek modele geçişten sonra ret — Kaynak eki 1" width="420"></a><br><a href="https://x.com/mehulmpt/status/2102475388211679520">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3615,7 +3615,7 @@ Irregular, çok aşamalı siber kıyaslamasının on görevlik alt kümesinde Op
 
 <table>
 <tr>
-<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="assets/media/2102452264283611137.png" alt="On görevlik CyScenarioBench alt kümesi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Kaynak eki 1</a></td>
+<td><a href="https://x.com/Irregular/status/2102452778216169632"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102452264283611137-aa88ade2111f.png" alt="On görevlik CyScenarioBench alt kümesi — Kaynak eki 1" width="420"></a><br><a href="https://x.com/Irregular/status/2102452778216169632">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3636,8 +3636,8 @@ Yazar, bir opsiyon kavramını açıklayan ekran görüntüleriyle Opus 5 ve Opu
 
 <table>
 <tr>
-<td><a href="https://x.com/theojaffee/status/2102454423041818786"><img src="assets/media/2102454276652249088.jpg" alt="Opsiyon kavramı açıklamalarını karşılaştırmak — Kaynak eki 1" width="420"></a><br><a href="https://x.com/theojaffee/status/2102454423041818786">Kaynak eki 1</a></td>
-<td><a href="https://x.com/theojaffee/status/2102454423041818786"><img src="assets/media/2102454347389124608.jpg" alt="Opsiyon kavramı açıklamalarını karşılaştırmak — Kaynak eki 2" width="420"></a><br><a href="https://x.com/theojaffee/status/2102454423041818786">Kaynak eki 2</a></td>
+<td><a href="https://x.com/theojaffee/status/2102454423041818786"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102454276652249088-d2b939995ebf.jpg" alt="Opsiyon kavramı açıklamalarını karşılaştırmak — Kaynak eki 1" width="420"></a><br><a href="https://x.com/theojaffee/status/2102454423041818786">Kaynak eki 1</a></td>
+<td><a href="https://x.com/theojaffee/status/2102454423041818786"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102454347389124608-0c98f22f6ed1.jpg" alt="Opsiyon kavramı açıklamalarını karşılaştırmak — Kaynak eki 2" width="420"></a><br><a href="https://x.com/theojaffee/status/2102454423041818786">Kaynak eki 2</a></td>
 </tr>
 </table>
 
@@ -3654,7 +3654,7 @@ Ekran görüntüsü, yazarın Opus 5.5’e atfettiği, orman ve nehir çevresind
 
 <table>
 <tr>
-<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="assets/media/2102467233276665856.png" alt="Orman ve nehir çevresinde geçen öykü kesiti — Kaynak eki 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Kaynak eki 1</a></td>
+<td><a href="https://x.com/tessera_antra/status/2102471715607724264"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102467233276665856-11d4a0817246.png" alt="Orman ve nehir çevresinde geçen öykü kesiti — Kaynak eki 1" width="420"></a><br><a href="https://x.com/tessera_antra/status/2102471715607724264">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3697,7 +3697,7 @@ Vals AI, on Opus 5.5 ajanının 15 saat içinde C-HD’yi ürettiği kendi deney
 
 <table>
 <tr>
-<td><a href="https://x.com/ValsAI/status/2102470503328010349"><img src="assets/media/2102469744129720320.jpg" alt="En kısa yol algoritmasını araştıran on ajan — Kaynak eki 1" width="420"></a><br><a href="https://x.com/ValsAI/status/2102470503328010349">Kaynak eki 1</a></td>
+<td><a href="https://x.com/ValsAI/status/2102470503328010349"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102469744129720320-81c0a1f36a42.jpg" alt="En kısa yol algoritmasını araştıran on ajan — Kaynak eki 1" width="420"></a><br><a href="https://x.com/ValsAI/status/2102470503328010349">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3716,7 +3716,7 @@ tscircuit ile bağlantılı bir yazar, tscircuit ile Bluetooth hoparlör yapmaya
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102465433534353408/vid/avc1/1920x1080/I6L8hU0QOvvrpm6f.mp4?tag=29"><img src="assets/media/2102465433534353408.jpg" alt="tscircuit’te Bluetooth hoparlör devreleri — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102465433534353408/vid/avc1/1920x1080/I6L8hU0QOvvrpm6f.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102465433534353408-3e8d2deb7070.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102465433534353408-8e51c42a8160.jpg" alt="tscircuit’te Bluetooth hoparlör devreleri — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102465433534353408-3e8d2deb7070.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3733,8 +3733,8 @@ Yazar, Opus 5.5 ile sekiz dakikalık, Grok 4.7 ile 20 dakikalık devre şeması 
 
 <table>
 <tr>
-<td><a href="https://x.com/i2cjak/status/2102457079965323296"><img src="assets/media/2102456569476583425.jpg" alt="Devre şeması görevinin süresini ölçmek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/i2cjak/status/2102457079965323296">Kaynak eki 1</a></td>
-<td><a href="https://x.com/i2cjak/status/2102457079965323296"><img src="assets/media/2102456685293895680.jpg" alt="Devre şeması görevinin süresini ölçmek — Kaynak eki 2" width="420"></a><br><a href="https://x.com/i2cjak/status/2102457079965323296">Kaynak eki 2</a></td>
+<td><a href="https://x.com/i2cjak/status/2102457079965323296"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102456569476583425-ee267d0e315d.jpg" alt="Devre şeması görevinin süresini ölçmek — Kaynak eki 1" width="420"></a><br><a href="https://x.com/i2cjak/status/2102457079965323296">Kaynak eki 1</a></td>
+<td><a href="https://x.com/i2cjak/status/2102457079965323296"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102456685293895680-fffa2e2b1716.jpg" alt="Devre şeması görevinin süresini ölçmek — Kaynak eki 2" width="420"></a><br><a href="https://x.com/i2cjak/status/2102457079965323296">Kaynak eki 2</a></td>
 </tr>
 </table>
 
@@ -3751,7 +3751,7 @@ ARC Prize, ARC-AGI-2’de görev başına $0.41 ile %93.3 ve ARC-AGI-1’de $0.1
 
 <table>
 <tr>
-<td><a href="https://x.com/arcprize/status/2102512140405866568"><img src="assets/media/2102512138401062912.jpg" alt="ARC-AGI puanları ve görev başına maliyet — Kaynak eki 1" width="420"></a><br><a href="https://x.com/arcprize/status/2102512140405866568">Kaynak eki 1</a></td>
+<td><a href="https://x.com/arcprize/status/2102512140405866568"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/media/2102512138401062912-ae5c29ac126c.jpg" alt="ARC-AGI puanları ve görev başına maliyet — Kaynak eki 1" width="420"></a><br><a href="https://x.com/arcprize/status/2102512140405866568">Kaynak eki 1</a></td>
 </tr>
 </table>
 
@@ -3783,7 +3783,7 @@ Higgsfield, her iki modelden Paintbrush’ta yalnızca siyah çizgiler ve fare-k
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102449124222353408/vid/avc1/1920x1080/0cpuhTnY1SpS1WQM.mp4?tag=29"><img src="assets/media/2102449124222353408.jpg" alt="Paintbrush’ta fareyle Mona Lisa çizmek — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102449124222353408/vid/avc1/1920x1080/0cpuhTnY1SpS1WQM.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449124222353408-baeb1ae932ad.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102449124222353408-286867985aa5.jpg" alt="Paintbrush’ta fareyle Mona Lisa çizmek — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102449124222353408-baeb1ae932ad.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 
@@ -3800,7 +3800,7 @@ Yazar, her iki modelden Paint’te portre çizmesini ve Magnific MCP ile hareket
 
 <table>
 <tr>
-<td><a href="https://video.twimg.com/amplify_video/2102473647055044609/vid/avc1/1748x1080/LbfM6pvYm6ncoW9N.mp4?tag=29"><img src="assets/media/2102473647055044609.jpg" alt="Modellerin Paint’te nasıl çizdiğini karşılaştırmak — Kaynak eki 1" width="420"></a><br><a href="https://video.twimg.com/amplify_video/2102473647055044609/vid/avc1/1748x1080/LbfM6pvYm6ncoW9N.mp4?tag=29">Kaynak videoyu oynat 1</a></td>
+<td><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102473647055044609-5fec4b8982d2.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/assets/video-posters/2102473647055044609-ff074eb7b479.jpg" alt="Modellerin Paint’te nasıl çizdiğini karşılaştırmak — Kaynak eki 1" width="420"></a><br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/videos/2102473647055044609-5fec4b8982d2.mp4">Kaynak videoyu oynat 1</a></td>
 </tr>
 </table>
 

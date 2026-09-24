@@ -4,7 +4,7 @@
 
 `data/use-cases.json` owns the 208 selected case identities, source URLs, publishers, source publication dates, categories, evidence types, supporting references and complete source attachment slots. `data/locales/en.json` owns the English editorial text: a single takeaway sentence followed by source-grounded notes. The other ten files in `data/locales/` contain reviewed translations. `data/localization-review-index.json` binds each review to the English and localized file hashes and all 208 case IDs. `data/use-cases.md` is the generated English inventory. Scripts render those authored texts; they do not translate prose.
 
-`data/curation-decisions.json` accounts for all 221 supplied entries: 208 selected, nine duplicate works or follow-ups merged, four held for insufficient evidence. The original intake number remains on every case. `data/source-fidelity-manifest.json` binds the immutable source hashes and expected media denominator. `data/media-manifest.json` records preview hashes. Full original source snapshots and review evidence stay in ignored `.codex/production/` directories.
+`data/curation-decisions.json` accounts for all 221 supplied entries: 208 selected, nine duplicate works or follow-ups merged, four held for insufficient evidence. The original intake number remains on every case. `data/source-fidelity-manifest.json` binds the immutable source hashes and expected media denominator. `data/media-manifest.json` records original preview hashes. `data/r2-media.json` owns verified R2 object URLs, SHA256, MIME types and readback evidence for display/playback assets; source CDN URLs remain provenance only. Full original source snapshots and review evidence stay in ignored `.codex/production/` directories.
 
 ## Public artifact boundary
 
@@ -26,7 +26,7 @@ Each case has exactly one bold takeaway sentence, followed by normal source-cont
 6. Use language-specific semantic review for all ten translations; retain model/tool names, numeric facts, source identities and evidence limits
 7. Regenerate all README files, check structure/data/media equality, and inspect the actual rendered Markdown
 8. Run the relevant template, source, localization, link and portable checks; preserve failed runs and their fixes in local evidence
-9. Commit only intended repository files; push or public uploads are separate owner-controlled actions
+9. Commit only intended repository files; Git push and R2 media hosting have independent authorization boundaries; a no-push instruction does not waive R2 hosting
 
 ## Build and validate
 
@@ -39,18 +39,20 @@ For the English phase, use `python3 scripts/build.py --locale en`. The full vali
 
 `python3 scripts/fetch_previews.py` restores missing preview images from recorded source URLs. An optional `--proxy http://127.0.0.1:PORT` uses a caller-selected proxy. It never uploads or publishes media.
 
-## Local preparation versus publication
+## R2 hosting and Git publication
 
-The current repository is prepared locally at the owner's request. README images are local assets and videos link to source playback URLs. Local-stage handoff results are deliberately ineligible for publication promotion. The agent's default publication verifier retains its R2 requirements.
+All README display media and video playback are hosted on the configured R2 bucket, including case images, extracted video posters, language covers and badges. `scripts/build.py` requires verified R2 mappings and never falls back to a source CDN or local media URL. The original source URLs, authors and unmodified source-preview hashes are retained for provenance.
 
-Before remote publication, migrate public media to the approved R2 namespace, verify playable videos and GitHub-rendered images, recheck source links and current access, record required runtime evidence or a specific owner-approved waiver, then verify the public repository and metadata. See [publication checklist](publication-checklist.md). Local checks alone do not prove publication readiness.
+The videos are copied without transcoding. Each public video uses an extracted poster and an inline, seekable MP4 URL. Verification includes source ffprobe metadata, upload Content-MD5, object length/MIME/SHA metadata, public beginning/end range byte equality and one real browser playback sample. Images are read back in full and compared byte-for-byte.
+
+Git remains local until the owner requests publication. R2 hosting is completed independently of Git push. GitHub-rendered/camo verification, live metadata/star checks and any required model API runtime evidence remain separate publication steps. See [publication checklist](publication-checklist.md).
 
 ## Cover assets
 
-README covers use `images/en.png`, `images/zh.png`, `images/zh-tw.png` and the corresponding filenames for the other locales. Their editable SVG sources live in `assets/banners/`; `data/banner-manifest.json` binds each PNG to its source hash. Normal builds need only Python's standard library and use the committed PNG files.
+The local cover sources are `images/en.png`, `images/zh.png`, `images/zh-tw.png` and the corresponding filenames for the other locales; README files render their verified R2 URLs. Their editable SVG sources live in `assets/banners/`; `data/banner-manifest.json` binds each PNG to its source hash. Normal builds need only Python's standard library and use the committed PNG files.
 
 When changing cover text or the case count, install the optional dependencies in an isolated environment with `python3 -m pip install -r requirements-render.txt`, ensure native Cairo and the SVG-declared fonts are available, then run `python3 scripts/render_banners.py` and inspect the PNGs. The current cover render used Microsoft YaHei, Hiragino Sans GB, Hiragino Sans and Apple SD Gothic Neo for CJK labels, and Arial for Latin/Cyrillic labels. Do not commit a missing-glyph render.
 
 ## Multi-video preservation
 
-Cases 153 and 181 each contain two distinct source videos. The local renderer preserves both poster/playback pairs. For the publication handoff, use one `r2_media_items` entry per original attachment, with its `source_media_id`, kind, R2 poster and R2 playback URL; a single scalar video URL cannot represent those cases. The shared verifier rejects a missing second playback URL.
+Cases 153 and 181 each contain two distinct source videos. The renderer preserves both R2 poster/playback pairs. The handoff uses one `r2_media_items` entry per original attachment, with its `source_media_id`, kind, R2 poster and R2 playback URL; a single scalar video URL cannot represent those cases. The shared verifier rejects a missing second playback URL.

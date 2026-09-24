@@ -21,8 +21,13 @@ def main():
     check([c['public_number'] for c in cases]==list(range(1,n+1)),'case numbering differs')
     check(len({c['source_url'] for c in cases})==n,'duplicate source')
     check(sum(bool(c['media']) for c in cases)==manifest['cases_with_source_media'],'media case denominator differs')
-    expected=[m['local_preview'] for c in cases for m in c['media']]
+    hosted=load('data/r2-media.json');base=hosted['public_base_url']+'/'+hosted['prefix']+'/'
+    expected=[m['r2_preview_url'] for c in cases for m in c['media']]
     check(len(expected)==len(set(expected))==manifest['expected_public_visual_count']==len(media),'media denominator differs')
+    for record in hosted['assets'].values():
+        check(record['verified'] and record['url'].startswith(base),f'unverified or wrong-scope R2 asset {record["logical_path"]}')
+        if not record['logical_path'].startswith('videos/'):
+            check((ROOT/record['logical_path']).is_file() and sha(ROOT/record['logical_path'])==record['sha256'],f'R2/local bytes differ {record["logical_path"]}')
     for c in cases:
         datetime.date.fromisoformat(c['date']);check(len(c['title'].split())<=10,f'case {c["public_number"]}: title exceeds ten words')
         check(c['source_media_count']==c['expected_public_visual_count']==len(c['media']),f'case {c["public_number"]}: media mismatch')
@@ -33,6 +38,11 @@ def main():
             check(record.get('url')==m['poster_url'],f'preview origin differs {m["id"]}')
             check(p.suffix.lower() in {'jpeg':{'.jpg','.jpeg'},'png':{'.png'},'webp':{'.webp'}}.get(record.get('magic'),set()),f'media extension/content mismatch {m["id"]}')
             check(m['source_url']==(m['video_url'] if m['kind']=='video' else m['poster_url']),f'source media URL differs {m["id"]}')
+            check(m['r2_preview_url'].startswith(base),f'non-R2 preview {m["id"]}')
+            expected_preview=m['local_video_poster'] if m['kind']=='video' else m['local_preview']
+            check(m['r2_preview_url']==hosted['assets'][expected_preview]['url'],f'R2 preview mapping differs {m["id"]}')
+            if m['kind']=='video':check(m['r2_video_url']==hosted['assets']['videos/'+m['id']+'.mp4']['url'],f'R2 video mapping differs {m["id"]}')
+            if m['kind']=='video':check(m['r2_video_url'].startswith(base),f'non-R2 playback {m["id"]}')
     actual=sorted(p.name for p in ROOT.glob('README*.md'));check(actual==sorted(mdfile(l) for l in LANGS),'README language set must be exactly 11')
     banners=load('data/banner-manifest.json');check({b['locale'] for b in banners}==set(LANGS),'cover language set')
     for banner in banners:
@@ -70,7 +80,10 @@ def main():
         for section in ['overview','quick-start','related-repositories','acknowledge']:
             check(f'](#{section})' in menu and f'id="{section}"' in text,f'{lang}: section navigation {section}')
         cover='images/'+({'zh-CN':'zh','zh-TW':'zh-tw'}.get(lang,lang))+'.png'
-        check(f'src="{cover}"' in text[:text.find('## ')],f'{lang}: template cover path')
+        check(f'src="{hosted["assets"][cover]["url"]}"' in text[:text.find('## ')],f'{lang}: template cover path')
+        check('video.twimg.com' not in text and 'pbs.twimg.com' not in text,f'{lang}: source CDN remains in README')
+        displays=re.findall(r'<img[^>]+src="([^"]+)"',text)+re.findall(r'!\[[^\]]*\]\(([^)]+)\)',text)
+        check(all(u.startswith(base) for u in displays),f'{lang}: non-R2 display media')
         rendered=[]
         for i,(c,h) in enumerate(zip(cases,headings)):
             number=c['public_number'];ed=lc.get(number,{})
@@ -81,9 +94,9 @@ def main():
             check(block[h.end()-h.start():].lstrip().startswith(f'**{ed.get("takeaway", "")}**'),f'{lang}: case {number} first takeaway')
             for note in paragraphs(ed.get('body_notes','')):check(bool(note) and note in block,f'{lang}: case {number} source notes')
             check(f'Type: {c["type"]} | Date: {c["date"]}\n\n---' in block,f'{lang}: case {number} metadata/separator')
-            ims=re.findall(r'<img src="(assets/media/[^\"]+)"',block);check(ims==[m['local_preview'] for m in c['media']],f'{lang}: case {number} media order/set');rendered+=ims
+            ims=re.findall(r'<img src="([^\"]+)"',block);check(ims==[m['r2_preview_url'] for m in c['media']],f'{lang}: case {number} media order/set');rendered+=ims
             for m in c['media']:
-                if m['kind']=='video':check(html.escape(m['video_url']) in block,f'{lang}: case {number} playback URL')
+                if m['kind']=='video':check(html.escape(m['r2_video_url']) in block,f'{lang}: case {number} playback URL')
             for s in c['supporting_sources']:check(s['source_url'] in block,f'{lang}: case {number} merged source')
             if lang!='en':
                 check(ed.get('title')!=source_copy[number]['title'],f'{lang}: case {number} unchanged English title')
@@ -112,7 +125,7 @@ def main():
     check(not (ROOT/'preview').exists(),'unsolicited standalone website remains')
     for f in ['LICENSE','NOTICE.md','CONTRIBUTING.md','CODE_OF_CONDUCT.md','SECURITY.md','.github/PULL_REQUEST_TEMPLATE.md','docs/maintenance.md','docs/update-log.md']:
         check((ROOT/f).is_file() and (ROOT/f).stat().st_size>30,f'missing baseline {f}')
-    result={'status':'passed' if not errors else 'failed','scope':'GitHub README/data/local media and 11-language content checks; not remote publication','cases':n,'readmes':len(stats),'expected_media':len(expected),'locales':stats,'errors':errors}
+    result={'status':'passed' if not errors else 'failed','scope':'GitHub README/data/R2 media and 11-language content checks; not Git publication','cases':n,'readmes':len(stats),'expected_media':len(expected),'locales':stats,'errors':errors}
     print(json.dumps(result,ensure_ascii=False,indent=2));return bool(errors)
 
 if __name__=='__main__':sys.exit(main())
