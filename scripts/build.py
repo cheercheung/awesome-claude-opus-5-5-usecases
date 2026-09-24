@@ -29,7 +29,7 @@ def main():
         record=hosted['assets'][path]
         if not record['verified'] or not record['url'].startswith(hosted['public_base_url']+'/'+hosted['prefix']+'/'):
             raise ValueError('Missing verified R2 asset: '+path)
-        if hashlib.sha256((ROOT/path).read_bytes()).hexdigest()!=record['sha256']:
+        if (ROOT/path).exists() and hashlib.sha256((ROOT/path).read_bytes()).hexdigest()!=record['sha256']:
             raise ValueError('R2 asset differs from local file: '+path)
         return record['url']
     def badge(url):return asset(hosted['badge_sources'][url])

@@ -26,3 +26,7 @@ The public registry is [data/r2-media.json](../data/r2-media.json). Detailed upl
 ## Owner-provided banner replacement
 
 After the initial migration above, one additional verified PNG replaced the displayed cover in all 11 README locales. The original 1983×793, 2,614,726-byte image is preserved unchanged at `images/banner.png`; its SHA-256 is `563d0ffbe0397f0ef5d53df033a0bb772864ab004882d556801b3c46873470b9`. S3 HEAD metadata and full public HTTP 200 byte readback passed. Previous generated covers remain archived; the active banner is selected by `data/banner-manifest.json`.
+
+## Repository cache cleanup
+
+The active registry now contains 537 objects after retiring the 22 unused generated cover objects from its index. No remote objects were deleted. Image/poster/badge copies are optional ignored local caches; the owner banner original remains committed. Offline validation checks source-to-R2 hashes and recorded verification evidence, plus any cached bytes present. It does not establish fresh public availability.

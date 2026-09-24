@@ -23,3 +23,7 @@ Migrated all 154 videos, extracted posters, original images, covers and badges t
 ## 2026-09-24 — Owner-provided banner
 
 Replaced the generated top covers across all 11 README locales with the owner-provided cat-and-watermelon artwork. The original PNG is preserved unchanged as `images/banner.png` and hosted on R2 with full public byte readback. The generator reads the banner manifest and no longer regenerates the previous artwork. Git remains local and unpushed.
+
+## 2026-09-24 — Remove redundant media copies from Git
+
+Moved 407 redundant cache/retired files (42,130,330 bytes) into ignored local archival evidence. Kept the owner-provided banner original, all case/localization/source records and current R2 mappings. Builds now work without optional `assets/` caches; present cache files still require matching hashes. Retired the previous cover renderer and dependencies. No R2 objects or Git history were deleted.

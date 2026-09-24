@@ -26,14 +26,17 @@ def main():
     check(len(expected)==len(set(expected))==manifest['expected_public_visual_count']==len(media),'media denominator differs')
     for record in hosted['assets'].values():
         check(record['verified'] and record['url'].startswith(base),f'unverified or wrong-scope R2 asset {record["logical_path"]}')
-        if not record['logical_path'].startswith('videos/'):
-            check((ROOT/record['logical_path']).is_file() and sha(ROOT/record['logical_path'])==record['sha256'],f'R2/local bytes differ {record["logical_path"]}')
+        check(bool(re.fullmatch(r'[0-9a-f]{64}',record['sha256'])) and record['bytes']>0 and bool(record['verification']),f'missing R2 integrity evidence {record["logical_path"]}')
+        cached=ROOT/record['logical_path']
+        if cached.exists():
+            check(cached.is_file() and sha(cached)==record['sha256'],f'R2/local bytes differ {record["logical_path"]}')
     for c in cases:
         datetime.date.fromisoformat(c['date']);check(len(c['title'].split())<=10,f'case {c["public_number"]}: title exceeds ten words')
         check(c['source_media_count']==c['expected_public_visual_count']==len(c['media']),f'case {c["public_number"]}: media mismatch')
         for m in c['media']:
             p=ROOT/m['local_preview'];record=mm.get(m['id'],{})
-            check(p.is_file(),f'missing media {p.name}')
+            check(record.get('sha256')==m.get('local_sha256')==hosted['assets'][m['local_preview']]['sha256'],f'source/R2 hash mapping differs {m["id"]}')
+            check(m['r2_source_preview_url']==hosted['assets'][m['local_preview']]['url'],f'source preview R2 mapping differs {m["id"]}')
             if p.is_file():check(sha(p)==record.get('sha256')==m.get('local_sha256'),f'media bytes changed {p.name}')
             check(record.get('url')==m['poster_url'],f'preview origin differs {m["id"]}')
             check(p.suffix.lower() in {'jpeg':{'.jpg','.jpeg'},'png':{'.png'},'webp':{'.webp'}}.get(record.get('magic'),set()),f'media extension/content mismatch {m["id"]}')
@@ -125,7 +128,7 @@ def main():
     check(not (ROOT/'preview').exists(),'unsolicited standalone website remains')
     for f in ['LICENSE','NOTICE.md','CONTRIBUTING.md','CODE_OF_CONDUCT.md','SECURITY.md','.github/PULL_REQUEST_TEMPLATE.md','docs/maintenance.md','docs/update-log.md']:
         check((ROOT/f).is_file() and (ROOT/f).stat().st_size>30,f'missing baseline {f}')
-    result={'status':'passed' if not errors else 'failed','scope':'GitHub README/data/R2 media and 11-language content checks; not Git publication','cases':n,'readmes':len(stats),'expected_media':len(expected),'locales':stats,'errors':errors}
+    result={'status':'passed' if not errors else 'failed','scope':'GitHub README/data/R2 media and 11-language content checks; not Git publication','cases':n,'readmes':len(stats),'expected_media':len(expected),'r2_registry_assets':len(hosted['assets']),'cached_assets_checked':sum((ROOT/p).is_file() for p in hosted['assets']),'network_checked':False,'locales':stats,'errors':errors}
     print(json.dumps(result,ensure_ascii=False,indent=2));return bool(errors)
 
 if __name__=='__main__':sys.exit(main())

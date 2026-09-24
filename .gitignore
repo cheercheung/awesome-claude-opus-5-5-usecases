@@ -5,3 +5,6 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+# R2 media copies are optional local caches
+/assets/

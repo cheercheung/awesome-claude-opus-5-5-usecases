@@ -1,21 +1,43 @@
 #!/usr/bin/env python3
-"""Cache original source poster/image bytes. Never uploads or publishes anything."""
-import argparse,concurrent.futures,json,hashlib,subprocess
+"""Restore optional source previews from verified R2 records without changing evidence."""
+import argparse, concurrent.futures, hashlib, json, subprocess
 from pathlib import Path
-R=Path(__file__).resolve().parents[1]
-p=argparse.ArgumentParser();p.add_argument('--proxy');a=p.parse_args()
-d=json.loads((R/'data/use-cases.json').read_text());ms=[m for c in d['items'] for m in c['media']]
+R = Path(__file__).resolve().parents[1]
+p = argparse.ArgumentParser()
+p.add_argument('--proxy')
+p.add_argument('--id', help='Restore only this source media ID')
+a = p.parse_args()
+data = json.loads((R/'data/use-cases.json').read_text())
+registry = json.loads((R/'data/r2-media.json').read_text())
+media = [m for c in data['items'] for m in c['media'] if not a.id or m['id'] == a.id]
+if not media:
+    p.error('No matching source media')
+
 def fetch(m):
- target=R/m['local_preview'];temp=target.with_suffix('.tmp');u=m['poster_url'];status='cached'
- if not target.exists():
-  cmd=['curl','--fail','--location','--silent','--show-error','--retry','2','--connect-timeout','12','--max-time','55',u,'--output',str(temp)]
-  if a.proxy:cmd[1:1]=['--proxy',a.proxy]
-  r=subprocess.run(cmd,text=True,capture_output=True)
-  if r.returncode:return {'id':m['id'],'url':u,'status':'failed','error':r.stderr[-220:]}
-  temp.replace(target);status='downloaded'
- b=target.read_bytes();magic='jpeg' if b[:3]==b'\xff\xd8\xff' else 'png' if b[:8]==b'\x89PNG\r\n\x1a\n' else 'webp' if b[:4]==b'RIFF' and b[8:12]==b'WEBP' else 'unknown'
- if magic!='unknown' and target.suffix.lower() not in {'jpeg':{'.jpg','.jpeg'},'png':{'.png'},'webp':{'.webp'}}[magic]:status='mismatched-extension'
- return {'id':m['id'],'url':u,'path':m['local_preview'],'bytes':len(b),'sha256':hashlib.sha256(b).hexdigest(),'magic':magic,'status':status if magic!='unknown' else 'invalid-image'}
-with concurrent.futures.ThreadPoolExecutor(max_workers=8) as ex:rows=list(ex.map(fetch,ms))
-(R/'data/media-manifest.json').write_text(json.dumps(rows,indent=2)+'\n');bad=[r for r in rows if r['status'] in ['failed','invalid-image','mismatched-extension']]
-print(json.dumps({'expected':len(ms),'checked':len(rows),'failures':len(bad),'bytes':sum(r.get('bytes',0) for r in rows),'errors':bad[:5]}));raise SystemExit(bool(bad))
+    target = R/m['local_preview']
+    record = registry['assets'][m['local_preview']]
+    expected = m['local_sha256']
+    if not record['verified'] or record['sha256'] != expected or record['url'] != m['r2_source_preview_url']:
+        return {'id': m['id'], 'status': 'failed', 'error': 'R2/source integrity mismatch'}
+    if target.exists():
+        valid = hashlib.sha256(target.read_bytes()).hexdigest() == expected
+        return {'id': m['id'], 'status': 'cached' if valid else 'failed'}
+    target.parent.mkdir(parents=True, exist_ok=True)
+    temp = target.with_suffix(target.suffix+'.partial')
+    cmd = ['curl', '--fail', '--location', '--silent', '--show-error', '--retry', '2', '--connect-timeout', '12', '--max-time', '90', record['url'], '--output', str(temp)]
+    if a.proxy:
+        cmd[1:1] = ['--proxy', a.proxy]
+    try:
+        result = subprocess.run(cmd, capture_output=True)
+        if result.returncode or hashlib.sha256(temp.read_bytes()).hexdigest() != expected:
+            return {'id': m['id'], 'status': 'failed', 'error': 'R2 download/checksum failed'}
+        temp.replace(target)
+        return {'id': m['id'], 'status': 'downloaded'}
+    finally:
+        temp.unlink(missing_ok=True)
+
+with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+    rows = list(pool.map(fetch, media))
+failed = [r for r in rows if r['status'] == 'failed']
+print(json.dumps({'expected': len(media), 'checked': len(rows), 'failures': len(failed), 'errors': failed}))
+raise SystemExit(bool(failed))

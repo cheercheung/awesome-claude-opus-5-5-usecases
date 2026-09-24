@@ -8,7 +8,7 @@
 
 ## Public artifact boundary
 
-README files, reviewed data, local assets, generators, validators and community/maintenance files belong to the repository. Source exports, candidate handoff packages, API responses, review logs and run reports are local working evidence and stay under ignored `.codex/`. Never commit credentials or private exports.
+README files, reviewed data, the owner-provided banner original, generators, validators and community/maintenance files belong to the repository. R2-hosted image, poster and badge copies are optional ignored caches under `assets/`; they are not committed. Source exports, candidate handoff packages, API responses, review logs and run reports are local working evidence and stay under ignored `.codex/`. Never commit credentials or private exports.
 
 ## Case format
 
@@ -35,9 +35,9 @@ python3 scripts/build.py
 python3 scripts/validate.py
 ```
 
-For the English phase, use `python3 scripts/build.py --locale en`. The full validator requires exactly 11 README files and checks all reviewed data, takeaways, notes, retention of source numeric literals, sources, metadata, anchors, Menu links, local media hashes and UTM slots. GitHub Actions runs the same deterministic build and validation after a future authorized push. Semantic review records separately cover numerical meaning, conditions and evidence limits; literal checks alone are not proof of translation quality. The repository needs no web server or frontend application.
+For the English phase, use `python3 scripts/build.py --locale en`. The full validator requires exactly 11 README files and checks all reviewed data, takeaways, notes, retention of source numeric literals, sources, metadata, anchors, Menu links, R2/source hash mappings, any present local cache hashes and UTM slots. GitHub Actions runs the same deterministic build and validation after a future authorized push. Semantic review records separately cover numerical meaning, conditions and evidence limits; literal checks alone are not proof of translation quality. The repository needs no web server or frontend application.
 
-`python3 scripts/fetch_previews.py` restores missing preview images from recorded source URLs. An optional `--proxy http://127.0.0.1:PORT` uses a caller-selected proxy. It never uploads or publishes media.
+`python3 scripts/fetch_previews.py` optionally restores original source-preview bytes from verified R2 URLs into ignored `assets/media/`. Add `--id MEDIA_ID` for one image or `--proxy http://127.0.0.1:PORT` for a caller-selected proxy. Downloads must match the recorded SHA-256; the script never rewrites the source manifest. Normal builds and offline validation do not require this cache. Offline validation checks recorded upload/readback evidence; it does not claim current network availability.
 
 ## R2 hosting and Git publication
 
@@ -47,11 +47,11 @@ The videos are copied without transcoding. Each public video uses an extracted p
 
 Git remains local until the owner requests publication. R2 hosting is completed independently of Git push. GitHub-rendered/camo verification, live metadata/star checks and any required model API runtime evidence remain separate publication steps. See [publication checklist](publication-checklist.md).
 
-## Cover assets
+## Banner and retired assets
 
-The local cover sources are `images/en.png`, `images/zh.png`, `images/zh-tw.png` and the corresponding filenames for the other locales; README files render their verified R2 URLs. Their editable SVG sources live in `assets/banners/`; `data/banner-manifest.json` binds each PNG to its source hash. Normal builds need only Python's standard library and use the committed PNG files.
+`data/banner-manifest.json` maps every README locale to the unchanged owner-provided `images/banner.png`. Its verified R2 URL is rendered in the README, while the original PNG remains in Git for future editing. The build requires only Python's standard library.
 
-When changing cover text or the case count, install the optional dependencies in an isolated environment with `python3 -m pip install -r requirements-render.txt`, ensure native Cairo and the SVG-declared fonts are available, then run `python3 scripts/render_banners.py` and inspect the PNGs. The current cover render used Microsoft YaHei, Hiragino Sans GB, Hiragino Sans and Apple SD Gothic Neo for CJK labels, and Arial for Latin/Cyrillic labels. Do not commit a missing-glyph render.
+Old generated SVG/PNG covers, their label data, renderer and optional rendering requirements were retired. Local copies and the previous R2 records are archived under ignored `.codex/cleanup/20260924-r2-cache/`; no R2 objects were deleted. The active R2 registry excludes those retired covers. Case origins, attachment counts, source hashes and R2 media evidence remain committed.
 
 ## Multi-video preservation
 
@@ -59,4 +59,4 @@ Cases 153 and 181 each contain two distinct source videos. The renderer preserve
 
 ### Owner-provided banner
 
-`data/banner-manifest.json` selects the verified R2 asset for each README locale. All locales currently use the unchanged owner-provided `images/banner.png`. Previous generated covers remain archived locally and in the R2 registry; they are not used in the README. Update the manifest and upload/verify the replacement before rebuilding.
+`data/banner-manifest.json` selects the verified R2 asset for each README locale. All locales currently use the unchanged owner-provided `images/banner.png`. Previous generated covers remain archived in local evidence and R2 storage; they are absent from the active registry and README. Update the manifest and upload/verify the replacement before rebuilding.
