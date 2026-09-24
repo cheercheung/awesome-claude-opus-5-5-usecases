@@ -27,3 +27,7 @@ Replaced the generated top covers across all 11 README locales with the owner-pr
 ## 2026-09-24 — Remove redundant media copies from Git
 
 Moved 407 redundant cache/retired files (42,130,330 bytes) into ignored local archival evidence. Kept the owner-provided banner original, all case/localization/source records and current R2 mappings. Builds now work without optional `assets/` caches; present cache files still require matching hashes. Retired the previous cover renderer and dependencies. No R2 objects or Git history were deleted.
+
+## 2026-09-24 — Personal GitHub publication
+
+The owner authorized publication under `cheercheung`, rather than an organization. Created the public repository, pushed the main branch and applied the description, homepage and topics. The initial published content commit was `24b86b4fd62888ccc974792336233c4bb2fce209`. Full pipeline/API acceptance remains distinct from Git publication.

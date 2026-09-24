@@ -1,6 +1,6 @@
-# Contract status — local preparation
+# Contract status
 
-This repository was prepared locally at the owner's request. No GitHub remote was created or pushed.
+Initially prepared locally, this repository was published to the owner's personal GitHub account on 2026-09-24: [https://github.com/cheercheung/awesome-claude-opus-5-5-usecases](https://github.com/cheercheung/awesome-claude-opus-5-5-usecases).
 
 | Area | Current result |
 |---|---|
@@ -12,8 +12,8 @@ This repository was prepared locally at the owner's request. No GitHub remote wa
 | Media | 215 R2 source-image/extracted-poster slots, 154 R2 videos, one owner-provided R2 PNG banner shared across 11 locales and 13 R2 badges |
 | Local verification | Shared R2 handoff, full usecase/localization gates, data equality, local Markdown rendering, link audit and clean-copy checks passed |
 | HN source links | Twenty source/profile identities checked through the official API; prior web rate limits remain recorded |
-| Publication | Not performed; the default publication gate remains blocked / draft |
+| Git publication | Personal public repository created; main branch pushed; full contract acceptance remains separate |
 
-R2 hosting and origin readback are complete. Paid API runtime evidence, remote Git metadata, GitHub rendering/camo checks and push/readback remain unexecuted. R2 upload success does not imply GitHub publication. See the [R2 media verification](r2-media-verification.md) and [publication checklist](publication-checklist.md).
+R2 hosting and origin readback are complete. Description, homepage and topics were applied and the initial push succeeded. Paid API runtime evidence and full public rendering/camo acceptance remain unverified. Git publication does not establish full pipeline acceptance. See the [R2 media verification](r2-media-verification.md) and [publication checklist](publication-checklist.md).
 
 The original failed checks and correction history are retained in the maintainer's local run evidence. Shared verifier implementation fixes were tested separately; acceptance contract text was not weakened. A pre-existing framework delivery-test issue involving ignored sample repositories is recorded separately from this repository's passing checks.

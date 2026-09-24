@@ -5,10 +5,10 @@
   "media_policy": "all-source-media",
   "video_playback_policy": "r2-playable",
   "localization_fallback": "block",
-  "scope": "R2 hosting explicitly requested; Git repository remains local and is not pushed",
+  "scope": "R2 media hosted; owner authorized publication to personal GitHub account cheercheung",
   "localization_policy": "11-language",
   "media_hosting_policy": "R2-hosted",
-  "public_actions": "r2-media-upload-only",
+  "public_actions": "r2-media-upload-and-personal-github-publication",
   "repository_slug": "awesome-claude-opus-5-5-usecases",
   "banner_policy": "Owner-provided original artwork shared across all README locales"
 }

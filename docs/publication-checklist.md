@@ -1,6 +1,6 @@
 # Publication checklist
 
-The owner requested local preparation without a remote push. R2 media hosting has now been completed; the remaining Git/API publication actions have not been executed or passed.
+The initial local-only scope was superseded by the owner's instruction to publish to their personal account on 2026-09-24. The public repository is `cheercheung/awesome-claude-opus-5-5-usecases`; the initial push and About metadata update succeeded. This checklist tracks remaining full-pipeline acceptance separately.
 
 - Verify the current model/agent access route and record the required real API result or an explicitly approved waiver; never infer a credit budget
 - [x] Upload the complete media inventory to the locked R2 bucket/prefix, including localized covers, case images, posters, badges and playable videos
@@ -8,7 +8,7 @@ The owner requested local preparation without a remote push. R2 media hosting ha
 - [x] Pass the shared handoff verifier in its default R2/publication stage before README regeneration
 - Recheck human-facing source pages, including Hacker News pages previously limited; their source identities and content have alternate official API evidence
 - Verify every README/docs link, image, badge, anchor, relative path and UTM slot with current evidence
-- Create/configure a GitHub remote only after authorization; apply the prepared About description, bare homepage URL and topics
+- [x] Create the authorized personal GitHub repository and push main; apply the prepared About description, bare homepage URL and topics
 - Read the live star count before deciding whether to show Star History
 - Verify the rendered GitHub README and full expected image/camo set after an authorized push
 - Record exact commit, branch, remote equality, readback and completion-gate result

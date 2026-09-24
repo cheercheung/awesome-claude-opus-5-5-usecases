@@ -45,7 +45,7 @@ All README display media and video playback are hosted on the configured R2 buck
 
 The videos are copied without transcoding. Each public video uses an extracted poster and an inline, seekable MP4 URL. Verification includes source ffprobe metadata, upload Content-MD5, object length/MIME/SHA metadata, public beginning/end range byte equality and one real browser playback sample. Images are read back in full and compared byte-for-byte.
 
-Git remains local until the owner requests publication. R2 hosting is completed independently of Git push. GitHub-rendered/camo verification, live metadata/star checks and any required model API runtime evidence remain separate publication steps. See [publication checklist](publication-checklist.md).
+The owner authorized publication to `cheercheung/awesome-claude-opus-5-5-usecases` on 2026-09-24. R2 hosting is maintained independently of Git push. GitHub-rendered/camo verification, live metadata/star checks and any required model API runtime evidence remain separate publication steps. See [publication checklist](publication-checklist.md).
 
 ## Banner and retired assets
 
