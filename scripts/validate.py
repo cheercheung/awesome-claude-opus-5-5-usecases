@@ -79,7 +79,7 @@ def main():
         check(f'| {labels["case"]} | {labels["category"]} | {what} | {labels["type"]} |' in menu,f'{lang}: Menu columns')
         for section in ['overview','quick-start','related-repositories','acknowledge']:
             check(f'](#{section})' in menu and f'id="{section}"' in text,f'{lang}: section navigation {section}')
-        cover='images/'+({'zh-CN':'zh','zh-TW':'zh-tw'}.get(lang,lang))+'.png'
+        cover=next(b['path'] for b in banners if b['locale']==lang)
         check(f'src="{hosted["assets"][cover]["url"]}"' in text[:text.find('## ')],f'{lang}: template cover path')
         check('video.twimg.com' not in text and 'pbs.twimg.com' not in text,f'{lang}: source CDN remains in README')
         displays=re.findall(r'<img[^>]+src="([^"]+)"',text)+re.findall(r'!\[[^\]]*\]\(([^)]+)\)',text)

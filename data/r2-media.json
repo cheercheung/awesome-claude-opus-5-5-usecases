@@ -13011,6 +13011,26 @@
       ],
       "put_content_md5": "3JVnGPyGWY1bsZMZUshv6w==",
       "logical_path": "assets/video-posters/2102465433534353408.jpg"
+    },
+    "images/banner.png": {
+      "key": "github-repo-media/awesome-claude-opus-5-5-usecases/20260924/images/banner-563d0ffbe039.png",
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/images/banner-563d0ffbe039.png",
+      "sha256": "563d0ffbe0397f0ef5d53df033a0bb772864ab004882d556801b3c46873470b9",
+      "bytes": 2614726,
+      "content_type": "image/png",
+      "content_disposition": "inline",
+      "kind": "owner-provided-banner",
+      "verified": true,
+      "verification": [
+        {
+          "http_status": 200,
+          "range": null,
+          "bytes": 2614726,
+          "content_type": "image/png"
+        }
+      ],
+      "put_content_md5": "RMwmZpM/TczheZfB+TGoPQ==",
+      "logical_path": "images/banner.png"
     }
   },
   "badge_sources": {

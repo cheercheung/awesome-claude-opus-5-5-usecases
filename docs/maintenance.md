@@ -56,3 +56,7 @@ When changing cover text or the case count, install the optional dependencies in
 ## Multi-video preservation
 
 Cases 153 and 181 each contain two distinct source videos. The renderer preserves both R2 poster/playback pairs. The handoff uses one `r2_media_items` entry per original attachment, with its `source_media_id`, kind, R2 poster and R2 playback URL; a single scalar video URL cannot represent those cases. The shared verifier rejects a missing second playback URL.
+
+### Owner-provided banner
+
+`data/banner-manifest.json` selects the verified R2 asset for each README locale. All locales currently use the unchanged owner-provided `images/banner.png`. Previous generated covers remain archived locally and in the R2 registry; they are not used in the README. Update the manifest and upload/verify the replacement before rebuilding.

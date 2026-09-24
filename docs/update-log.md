@@ -19,3 +19,7 @@ Six source PNG images were renamed from incorrect .jpg cache filenames to .png w
 ## 2026-09-24 — R2 hosting correction
 
 Migrated all 154 videos, extracted posters, original images, covers and badges to the configured R2 namespace. README display/playback now requires verified R2 URLs with no source-CDN fallback. Source URLs and attribution remain unchanged as provenance. R2 upload/readback and default handoff verification are complete; Git was not pushed.
+
+## 2026-09-24 — Owner-provided banner
+
+Replaced the generated top covers across all 11 README locales with the owner-provided cat-and-watermelon artwork. The original PNG is preserved unchanged as `images/banner.png` and hosted on R2 with full public byte readback. The generator reads the banner manifest and no longer regenerates the previous artwork. Git remains local and unpushed.

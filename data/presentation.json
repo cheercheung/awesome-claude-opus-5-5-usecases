@@ -9,5 +9,6 @@
   "localization_policy": "11-language",
   "media_hosting_policy": "R2-hosted",
   "public_actions": "r2-media-upload-only",
-  "repository_slug": "awesome-claude-opus-5-5-usecases"
+  "repository_slug": "awesome-claude-opus-5-5-usecases",
+  "banner_policy": "Owner-provided original artwork shared across all README locales"
 }

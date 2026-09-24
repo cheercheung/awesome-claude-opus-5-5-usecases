@@ -22,3 +22,7 @@ One R2 video was additionally decoded and played in a browser: media ID `2102467
 All 11 README files use verified R2 URLs for displayed images and video playback. Raw source URLs remain in the provenance data. The generator rejects source-CDN fallback and local asset/hash mismatches. Clean-copy build and validation, the shared R2 handoff, usecase and localization checks passed.
 
 The public registry is [data/r2-media.json](../data/r2-media.json). Detailed upload/readback evidence is retained locally under `.codex/production/20260924-r2/`. GitHub rendering/camo checks and paid model API calls were not performed; these media checks do not establish GitHub publication.
+
+## Owner-provided banner replacement
+
+After the initial migration above, one additional verified PNG replaced the displayed cover in all 11 README locales. The original 1983×793, 2,614,726-byte image is preserved unchanged at `images/banner.png`; its SHA-256 is `563d0ffbe0397f0ef5d53df033a0bb772864ab004882d556801b3c46873470b9`. S3 HEAD metadata and full public HTTP 200 byte readback passed. Previous generated covers remain archived; the active banner is selected by `data/banner-manifest.json`.

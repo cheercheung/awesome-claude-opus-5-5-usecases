@@ -9,7 +9,7 @@ This repository was prepared locally at the owner's request. No GitHub remote wa
 | Languages | English plus ten complete translations, with case-by-case semantic review |
 | Case presentation | One bold takeaway, factual source notes, original publisher/source, source date and evidence type |
 | Navigation | Template Menu columns, section navigation, contiguous case anchors and category links |
-| Media | 215 R2 source-image/extracted-poster slots, 154 R2 videos, 11 R2 PNG covers and 13 R2 badges |
+| Media | 215 R2 source-image/extracted-poster slots, 154 R2 videos, one owner-provided R2 PNG banner shared across 11 locales and 13 R2 badges |
 | Local verification | Shared R2 handoff, full usecase/localization gates, data equality, local Markdown rendering, link audit and clean-copy checks passed |
 | HN source links | Twenty source/profile identities checked through the official API; prior web rate limits remain recorded |
 | Publication | Not performed; the default publication gate remains blocked / draft |

@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://evolink.ai/claude-opus-5-5?utm_source=github&amp;utm_medium=banner&amp;utm_campaign=awesome-claude-opus-5-5-usecases&amp;utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/images/de-e7737d645956.png" alt="Anwendungsfälle für Claude Opus 5.5" width="760"></a>
+<a href="https://evolink.ai/claude-opus-5-5?utm_source=github&amp;utm_medium=banner&amp;utm_campaign=awesome-claude-opus-5-5-usecases&amp;utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-claude-opus-5-5-usecases/20260924/images/banner-563d0ffbe039.png" alt="Anwendungsfälle für Claude Opus 5.5" width="760"></a>
 
 # Anwendungsfälle für Claude Opus 5.5
 Quellenbelegte Arbeitsabläufe, Demos, Vergleiche und Grenzen

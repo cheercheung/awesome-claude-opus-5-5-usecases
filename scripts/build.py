@@ -24,6 +24,7 @@ def main():
     parser=argparse.ArgumentParser();parser.add_argument('--locale',choices=[x[0] for x in LANGS]);args=parser.parse_args()
     data=read_json(ROOT/'data/use-cases.json');cases=data['items']
     hosted=read_json(ROOT/'data/r2-media.json')
+    banners={item['locale']:item for item in read_json(ROOT/'data/banner-manifest.json')}
     def asset(path):
         record=hosted['assets'][path]
         if not record['verified'] or not record['url'].startswith(hosted['public_base_url']+'/'+hosted['prefix']+'/'):
@@ -41,10 +42,9 @@ def main():
     badges='\n'.join(f'[![{name}]({badge("https://img.shields.io/badge/"+quote(name,safe="")+"-"+color)})]({filename(lang)})' for lang,name,color in LANGS)
     selected=[args.locale] if args.locale else [x[0] for x in LANGS]
     for lang in selected:
-        source=read_json(ROOT/f'data/locales/{lang}.json');labels=source['labels'];cover_label=read_json(ROOT/'data/cover-labels.json')[lang];cover_font={'zh-CN':'Microsoft YaHei','zh-TW':'Hiragino Sans GB','ja':'Hiragino Sans','ko':'Apple SD Gothic Neo'}.get(lang,'Arial');what=read_json(ROOT/'data/menu-labels.json')[lang];copy={c['public_number']:c for c in source['items']}
+        source=read_json(ROOT/f'data/locales/{lang}.json');labels=source['labels'];what=read_json(ROOT/'data/menu-labels.json')[lang];copy={c['public_number']:c for c in source['items']}
         if set(copy)!=set(range(1,len(cases)+1)):raise ValueError(f'{lang}: incomplete editorial case set')
-        cover='images/'+({'zh-CN':'zh','zh-TW':'zh-tw'}.get(lang,lang))+'.png';vector=f'assets/banners/{lang}.svg';(ROOT/'assets/banners').mkdir(exist_ok=True);(ROOT/'images').mkdir(exist_ok=True)
-        (ROOT/vector).write_text(f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1520 460" role="img"><title>{html.escape(labels['title'])}</title><rect width="1520" height="460" rx="24" fill="#173f46"/><circle cx="1390" cy="100" r="290" fill="#24565a"/><circle cx="1320" cy="220" r="170" fill="none" stroke="#a5c8b6" stroke-width="2"/><text x="88" y="100" fill="#b7d5c3" font-family="Arial,sans-serif" font-size="28" letter-spacing="5">EVOLINK</text><text x="82" y="245" fill="#fff9ed" font-family="Arial,sans-serif" font-size="94" font-weight="700">Claude Opus 5.5</text><text x="88" y="360" fill="#c8dad1" font-family="{cover_font}" font-size="42">{len(cases)} · {html.escape(cover_label)}</text></svg>\n''')
+        cover=banners[lang]['path']
         out=['<div align="center">',f'<a href="{html.escape(urls["banner"])}"><img src="{asset(cover)}" alt="{html.escape(labels["title"])}" width="760"></a>','',f'# {labels["title"]}',labels['subtitle'],'',f'[![License: CC BY 4.0]({badge("https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg")})](LICENSE)',f'[![EvoLink]({badge("https://img.shields.io/badge/EvoLink-173f46")})]({urls["badge"]})','',badges,'','</div>','',f'## 🍌 {labels["intro"]}','',f'**{labels["introtext"]}**','',f'[{labels["cta"]}]({urls["introduction"]})','','<a id="overview"></a>',f'## 📊 {labels["overview"]}','',labels['overviewtext'],'']
         out+=['- '+s for s in labels['overviewbullets']]
         out+=['',f'> [!NOTE]\n> {labels["note"]}','','<a id="quick-start"></a>',f'## ⚡ {labels["quick"]}','']
