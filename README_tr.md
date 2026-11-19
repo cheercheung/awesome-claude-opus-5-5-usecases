@@ -43,8 +43,8 @@ Yaratıcı çalışma, geliştirme, araştırma ve değerlendirmeyi kapsayan **2
 ## ⚡ Hızlı Başlangıç
 
 1. [Güncel erişimi ve yetenekleri kontrol etmek için model sayfasını açın](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_link)
-2. [EvoLink panosunda API anahtarı oluşturun](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=api_key)
-3. [Model sayfasındaki modele özgü API rehberini veya ajan talimatlarını izleyin](https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api?utm_source=github&utm_medium=docs&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=first_run)
+2. [EvoLink panosunda API anahtarı oluşturun (model sayfası üzerinden)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_for_api_key)
+3. [Model sayfasındaki modele özgü API rehberini veya ajan talimatlarını izleyin (model sayfası üzerinden)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_for_docs)
 
 ## 📑 Menü
 

@@ -43,8 +43,8 @@
 ## ⚡ Быстрый старт
 
 1. [Откройте страницу модели, чтобы проверить текущий доступ и возможности](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_link)
-2. [Создайте API-ключ в панели EvoLink](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=api_key)
-3. [Следуйте указанному на странице модели специализированному руководству API или инструкциям для агентов](https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api?utm_source=github&utm_medium=docs&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=first_run)
+2. [Создайте API-ключ в панели EvoLink (со страницы модели)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_for_api_key)
+3. [Следуйте указанному на странице модели специализированному руководству API или инструкциям для агентов (со страницы модели)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_for_docs)
 
 ## 📑 Содержание
 

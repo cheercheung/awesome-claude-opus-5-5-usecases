@@ -43,8 +43,8 @@ Quellenbelegte Arbeitsabläufe, Demos, Vergleiche und Grenzen
 ## ⚡ Schnellstart
 
 1. [Die Modellseite öffnen, um den aktuellen Zugang und die Fähigkeiten zu prüfen](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_link)
-2. [Einen API-Schlüssel im EvoLink-Dashboard erstellen](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=api_key)
-3. [Dem verlinkten modellspezifischen API-Leitfaden oder den Agent-Anweisungen auf der Modellseite folgen](https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api?utm_source=github&utm_medium=docs&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=first_run)
+2. [Einen API-Schlüssel im EvoLink-Dashboard erstellen (über die Modellseite)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_for_api_key)
+3. [Dem verlinkten modellspezifischen API-Leitfaden oder den Agent-Anweisungen auf der Modellseite folgen (über die Modellseite)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_for_docs)
 
 ## 📑 Inhaltsverzeichnis
 

@@ -43,8 +43,8 @@
 ## ⚡ 快速開始
 
 1. [開啟模型頁面，確認目前可用性與能力](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_link)
-2. [在 EvoLink 控制台建立 API 金鑰](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=api_key)
-3. [依模型頁面連結的專用 API 指南或 agent 使用說明操作](https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api?utm_source=github&utm_medium=docs&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=first_run)
+2. [在 EvoLink 控制台建立 API 金鑰 (從模型詳情頁進入)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_for_api_key)
+3. [依模型頁面連結的專用 API 指南或 agent 使用說明操作 (從模型詳情頁進入)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_for_docs)
 
 ## 📑 目錄
 

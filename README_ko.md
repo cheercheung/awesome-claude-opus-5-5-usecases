@@ -43,8 +43,8 @@
 ## ⚡ 빠른 시작
 
 1. [모델 페이지에서 현재 이용 가능 여부와 기능을 확인하세요](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_link)
-2. [EvoLink 대시보드에서 API 키를 만드세요](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=api_key)
-3. [모델 페이지에 연결된 해당 모델의 API 가이드 또는 에이전트 지침을 따르세요](https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api?utm_source=github&utm_medium=docs&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=first_run)
+2. [EvoLink 대시보드에서 API 키를 만드세요 (모델 페이지에서)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_for_api_key)
+3. [모델 페이지에 연결된 해당 모델의 API 가이드 또는 에이전트 지침을 따르세요 (모델 페이지에서)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_for_docs)
 
 ## 📑 목차
 

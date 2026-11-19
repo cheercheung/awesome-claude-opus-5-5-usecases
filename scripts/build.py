@@ -10,9 +10,20 @@ from urllib.parse import urlencode,quote
 ROOT=Path(__file__).resolve().parents[1]
 LANGS=[('en','English','111111'),('es','Español','ffb703'),('pt','Português','2a9d8f'),('ja','日本語','52b788'),('ko','한국어','4ea8de'),('de','Deutsch','f4a261'),('fr','Français','e76f51'),('tr','Türkçe','d62828'),('zh-TW','繁體中文','8338ec'),('zh-CN','简体中文','ef476f'),('ru','Русский','577590')]
 MODEL='https://evolink.ai/claude-opus-5-5'
-DOCS='https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api'
-KEYS='https://evolink.ai/dashboard/keys'
-SLOTS={'banner':(MODEL,'banner','readme_banner'),'badge':(MODEL,'badge','top_badge'),'introduction':(MODEL,'readme','introduction_cta'),'model':(MODEL,'quickstart','model_link'),'keys':(KEYS,'quickstart','api_key'),'docs':(DOCS,'docs','first_run'),'footer':(MODEL,'footer','footer_cta')}
+VIA_MODEL_PAGE = {
+    'en': 'via the model page',
+    'es': 'desde la página del modelo',
+    'pt': 'pela página do modelo',
+    'ja': 'モデルページから',
+    'ko': '모델 페이지에서',
+    'de': 'über die Modellseite',
+    'fr': 'depuis la page du modèle',
+    'tr': 'model sayfası üzerinden',
+    'zh-TW': '從模型詳情頁進入',
+    'zh-CN': '从模型详情页进入',
+    'ru': 'со страницы модели',
+}
+SLOTS={'banner':(MODEL,'banner','readme_banner'),'badge':(MODEL,'badge','top_badge'),'introduction':(MODEL,'readme','introduction_cta'),'model':(MODEL,'quickstart','model_link'),'keys':(MODEL,'quickstart','model_for_api_key'),'docs':(MODEL,'quickstart','model_for_docs'),'footer':(MODEL,'footer','footer_cta')}
 
 def read_json(path):return json.loads(path.read_text())
 def filename(lang):return 'README.md' if lang=='en' else f'README_{lang}.md'
@@ -48,7 +59,10 @@ def main():
         out=['<div align="center">',f'<a href="{html.escape(urls["banner"])}"><img src="{asset(cover)}" alt="{html.escape(labels["title"])}" width="760"></a>','',f'# {labels["title"]}',labels['subtitle'],'',f'[![License: CC BY 4.0]({badge("https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg")})](LICENSE)',f'[![EvoLink]({badge("https://img.shields.io/badge/EvoLink-173f46")})]({urls["badge"]})','',badges,'','</div>','',f'## 🍌 {labels["intro"]}','',f'**{labels["introtext"]}**','',f'[{labels["cta"]}]({urls["introduction"]})','','<a id="overview"></a>',f'## 📊 {labels["overview"]}','',labels['overviewtext'],'']
         out+=['- '+s for s in labels['overviewbullets']]
         out+=['',f'> [!NOTE]\n> {labels["note"]}','','<a id="quick-start"></a>',f'## ⚡ {labels["quick"]}','']
-        out += [f'{i}. [{text}]({urls[slot]})' for i,(text,slot) in enumerate(zip(labels['steps'],['model','keys','docs']),1)]
+        model, key, docs = labels['steps']
+        steps = (('model', model), ('keys', f'{key} ({VIA_MODEL_PAGE[lang]})'),
+                 ('docs', f'{docs} ({VIA_MODEL_PAGE[lang]})'))
+        out += [f'{i}. [{text}]({urls[slot]})' for i, (slot, text) in enumerate(steps, 1)]
         out+=['',f'## 📑 {labels["menu"]}','',f'| [{labels["overview"]}](#overview) | [{labels["quick"]}](#quick-start) | [{labels["related"]}](#related-repositories) | [{labels["ack"]}](#acknowledge) |','|---|---|---|---|','',f'| {labels["case"]} | {labels["category"]} | {what} | {labels["type"]} |','|---|---|---|---|']
         for c in cases:
             n=c['public_number'];out.append(f'| [{labels["case_label"]} {n}: {escape(copy[n]["title"])}](#case-{n}) | [{labels["categories"][c["category"]]}](#category-{c["category"]}) | {escape(copy[n]["takeaway"])} | {c["type"]} |')
