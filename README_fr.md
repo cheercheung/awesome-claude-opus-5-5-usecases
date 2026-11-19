@@ -43,8 +43,8 @@ Méthodes, démonstrations, comparaisons et limites documentées par leurs sourc
 ## ⚡ Prise en main
 
 1. [Ouvrir la page du modèle pour vérifier les conditions d’accès et les capacités actuelles](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_link)
-2. [Créer une clé API dans le tableau de bord EvoLink](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=api_key)
-3. [Suivre le guide API propre au modèle ou les instructions pour agents accessibles depuis sa page](https://evolink.ai/docs/en/api-manual/language-series/claude/claude-messages-api?utm_source=github&utm_medium=docs&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=first_run)
+2. [Créer une clé API dans le tableau de bord EvoLink (depuis la page du modèle)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_for_api_key)
+3. [Suivre le guide API propre au modèle ou les instructions pour agents accessibles depuis sa page (depuis la page du modèle)](https://evolink.ai/claude-opus-5-5?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-claude-opus-5-5-usecases&utm_content=model_for_docs)
 
 ## 📑 Sommaire
 

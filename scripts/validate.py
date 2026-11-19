@@ -4,7 +4,7 @@ import collections,datetime,hashlib,html,json,re,sys,urllib.parse
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 LANGS=['en','es','pt','ja','ko','de','fr','tr','zh-TW','zh-CN','ru']
-SLOTS={'banner':('banner','readme_banner'),'badge':('badge','top_badge'),'introduction':('readme','introduction_cta'),'model':('quickstart','model_link'),'keys':('quickstart','api_key'),'docs':('docs','first_run'),'footer':('footer','footer_cta')}
+SLOTS={'banner':('banner','readme_banner'),'badge':('badge','top_badge'),'introduction':('readme','introduction_cta'),'model':('quickstart','model_link'),'keys':('quickstart','model_for_api_key'),'docs':('quickstart','model_for_docs'),'footer':('footer','footer_cta')}
 errors=[]
 def check(ok,message):
     if not ok:errors.append(message)
@@ -123,7 +123,9 @@ def main():
             else:check((ROOT/u.split('#')[0]).is_file(),f'{lang}: missing local path {u}')
         stats[lang]={'cases':len(headings),'visuals':len(rendered)}
     for entry in load('data/utm-matrix.json'):
-        q=urllib.parse.parse_qs(urllib.parse.urlparse(entry['url']).query);medium,content=SLOTS[entry['placement']]
+        landing=urllib.parse.urlparse(entry['url'])
+        check(landing.scheme == 'https' and landing.hostname == 'evolink.ai' and landing.path == '/claude-opus-5-5', f"model destination differs {entry['placement']}")
+        q=urllib.parse.parse_qs(landing.query);medium,content=SLOTS[entry['placement']]
         check(q=={'utm_source':['github'],'utm_medium':[medium],'utm_campaign':[json.loads((ROOT/'data/presentation.json').read_text())['repository_slug']],'utm_content':[content]},f'UTM slot differs {entry["placement"]}')
     check(not (ROOT/'preview').exists(),'unsolicited standalone website remains')
     for f in ['LICENSE','NOTICE.md','CONTRIBUTING.md','CODE_OF_CONDUCT.md','SECURITY.md','.github/PULL_REQUEST_TEMPLATE.md','docs/maintenance.md','docs/update-log.md']:
